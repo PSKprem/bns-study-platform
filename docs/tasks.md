@@ -65,7 +65,7 @@ Goal: prove the whole workflow on one small chapter. Definition of Done = `requi
 - [x] Responsive pass (mobile layout for tabs, mind map, cards)
 - [x] Accessibility pass (keyboard nav, aria labels, contrast, text scaling)
 - [x] Performance check (per-chapter JSON, route code-splitting, lean bundle)
-- [ ] Add a lightweight test setup (Vitest) for non-trivial logic (search, MCQ scoring)
+- [x] Add a lightweight test setup (Vitest) for non-trivial logic (search, MCQ scoring) *(19 tests: loaders, search, data integrity; runs in CI before deploy)*
 
 ### 1F. Ship & verify — *requirements §7*
 

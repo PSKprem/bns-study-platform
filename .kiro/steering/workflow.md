@@ -20,8 +20,9 @@ Definition of Done).
 ## Verification (before saying "done")
 
 1. Run `cd web && npm run build` — it must succeed (TypeScript + Vite).
-2. For UI changes, sanity-check in `npm run dev`.
-3. Cite the actual result (build output / command result), not an assumption.
+2. Run `npm run test:run` — all Vitest tests must pass (loaders, search, data integrity).
+3. For UI changes, sanity-check in `npm run dev`.
+4. Cite the actual result (build output / command result), not an assumption.
 
 ## Content workflow
 
