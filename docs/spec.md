@@ -80,6 +80,7 @@ Content lives in `data/` as typed JSON. These schemas are the contract the UI re
   "keyPoints": [
     { "point": "Main point", "subPoints": ["sub A", "sub B"] }
   ],
+  "fastRevision": ["Short must-know point 1", "Short must-know point 2"],
   "mindMap": "markdown or node-tree used to render the clickable mind map",
   "lastVerified": "2026-09-28"
 }
@@ -135,19 +136,24 @@ Rendered in **Learn mode** (answer hidden, optional typing, reveal) and **Read m
   "relatedSections": ["s-4"]
 }
 ```
-Searchable in English or Hindi → satisfies FR-7.
+Searchable in English or Hindi → satisfies FR-7. A **global** dictionary shows all terms;
+a **per-chapter** dictionary shows only terms whose `relatedSections` fall in that chapter
+(derived at runtime, so it scales as content grows) → satisfies FR-7.5.
 
-### 3.5 Flashcard
+### 3.5 Practice MCQ
 
 ```jsonc
 {
-  "id": "fc-ch02-1",
+  "id": "mcq-ch02-1",
   "chapterId": "ch-02",
-  "front": "Prompt / question.",
-  "back": "Answer."
+  "question": "Multiple-choice question.",
+  "options": ["Option A", "Option B", "Option C", "Option D"],
+  "correctIndex": 2,
+  "explanation": "Why the correct option is correct."
 }
 ```
-Progress (known/not-known, next-review) stored in `localStorage` → satisfies FR-8.
+Rendered as an interactive quiz with instant feedback, running score, and a result
+summary → satisfies FR-8. *(MCQs replaced the originally-planned flashcards after review.)*
 
 ---
 
@@ -155,33 +161,37 @@ Progress (known/not-known, next-review) stored in `localStorage` → satisfies F
 
 | Route | Page | Requirements served |
 |---|---|---|
-| `/` | **Home / Course Map** — all chapters, structure | FR-1 |
-| `/chapter/:id` | **Chapter page** — tabs: Mind Map · Summary · Key Points · Exam Q&A · Sections | FR-2,3,4,5,6 |
-| `/section/:id` | **Section detail** — bare Act + fact fields + verification badge | FR-6, CR-1/2 |
-| `/dictionary` | **Dictionary** — searchable, bilingual | FR-7 |
-| `/flashcards/:chapterId?` | **Flashcards** — review with known/not-known | FR-8 |
+| `/` | **Home / Course Map** — hero + all chapters | FR-1 |
+| `/chapter/:id` | **Chapter page** — tabs: Mind Map · Summary · Key Points · Fast Revision · Practice (MCQ) · Exam Q&A · Sections · Dictionary. Supports `?tab=` deep-link | FR-2,3,4,4a,5,6,7.5,8,10.4 |
+| `/section/:id` | **Section detail** — bare Act + fact fields + verification badge + "Back to sections" | FR-6, CR-1/2, FR-10.3 |
+| `/dictionary` | **Global Dictionary** — searchable, bilingual, all terms | FR-7 |
 | `/search` | **Search results** — grouped by type | FR-9 |
 
-Global layout: header (logo, search, dictionary, nav), main content, footer
+*(The originally-planned `/flashcards` route was removed; MCQ practice lives inside the
+chapter as a tab.)*
+
+Global layout: header (logo, dictionary, search, nav), main content, footer
 ("last verified", disclaimer). Consistent across pages → FR-10.
 
-**Student learning flow** (baked into the chapter page tab order):
-`Mind Map → Summary → Key Points → Exam Q&A → Sections` — i.e. *see structure →
-understand → self-test → go deep*, matching the learning-first principles (§3 of requirements).
+**Student learning flow** (reflected in the chapter tab order):
+`Mind Map → Summary → Key Points → Fast Revision → Practice (MCQ) → Exam Q&A → Sections →
+Dictionary` — i.e. *see structure → understand → revise → self-test → go deep → look up*,
+matching the learning-first principles (§3 of requirements).
 
 ---
 
 ## 5. Component Breakdown
 
-- `Layout` (header/footer/nav) · `SearchBar`
-- `ChapterCard`, `CourseMap`
-- `ChapterTabs` → `MindMap`, `ChapterSummary`, `KeyPoints`, `ExamQA`, `SectionList`
-- `MindMap` (clickable, via Markmap/React Flow)
+- `Layout` (header/footer/nav)
+- `Home` (hero + chapter cards)
+- `ChapterPage` (tabbed) → `MindMap`, summary, key points, fast revision, `MCQQuiz`,
+  `ExamQA`, section list, chapter `TermList`
+- `MindMap` (clickable, via Markmap; auto-fit + "Fit to screen")
+- `MCQQuiz` (options, instant feedback, score, result summary)
 - `ExamQA` with `mode: 'learn' | 'read'` toggle; `QACard` (reveal logic + optional input)
-- `SectionDetail` with `VerificationBadge` and `TermLink`
-- `Dictionary` → `TermCard` (EN/HI)
-- `Flashcards` → `Flashcard` (flip + known/not-known), spaced-repetition helper
-- `SearchResults` (grouped)
+- `SectionPage` with `VerificationBadge`, term links, and "Back to sections"
+- `TermList` (bilingual EN/HI, searchable) — shared by global Dictionary and chapter Dictionary tab
+- `SearchPage` (grouped results)
 
 ---
 
@@ -189,28 +199,28 @@ understand → self-test → go deep*, matching the learning-first principles (�
 
 ```
 bns-study-platform/
-├── docs/                  # ideas, requirements, spec (this file)
-├── data/                  # JSON content (chapters, sections, qa, dictionary, flashcards)
+├── docs/                  # ideas, requirements, spec (this file), architecture, tasks
+├── data/                  # JSON content (imported by the app via the @data alias)
 │   ├── chapters/ch-02.json
-│   ├── sections/ch-02/*.json
+│   ├── sections/ch-02.json
 │   ├── qa/ch-02.json
-│   ├── flashcards/ch-02.json
+│   ├── mcqs/ch-02.json
 │   └── dictionary.json
 ├── content/               # (optional) source drafts before they become JSON
 └── web/                   # the React + Vite app
     ├── index.html
     ├── package.json
-    ├── vite.config.ts
-    ├── tailwind.config.js
+    ├── vite.config.ts     # base path, @data alias, Tailwind, SPA 404 fallback
     └── src/
-        ├── main.tsx, App.tsx, routes.tsx
-        ├── components/    # shared UI
-        ├── pages/         # route pages
-        ├── features/      # mindmap, examqa, dictionary, flashcards, search
+        ├── main.tsx, App.tsx, routes.tsx   # routes lazy-loaded (code-split)
+        ├── components/    # Layout, VerificationBadge, TermList
+        ├── pages/         # Home, ChapterPage, SectionPage, DictionaryPage, SearchPage
+        ├── features/      # MindMap, ExamQA, MCQQuiz
         ├── types/         # TypeScript schemas (mirror §3)
-        └── lib/           # data loading, search, localStorage
+        └── lib/           # content (loaders), search (Fuse.js)
 ```
 
+Tailwind is configured via the `@tailwindcss/vite` plugin (no separate `tailwind.config.js`).
 Content in `data/` is imported by the app at build time. The book PDF stays out (CR-4).
 
 ---
