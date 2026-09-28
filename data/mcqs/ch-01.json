@@ -71,5 +71,65 @@
     ],
     "correctIndex": 1,
     "explanation": "Section 1(6) states nothing in the Sanhita affects laws punishing mutiny and desertion of the armed forces, or any special or local law."
+  },
+  {
+    "id": "mcq-ch01-7",
+    "chapterId": "ch-01",
+    "question": "Under Section 2, up to what age is a person a \"child\"?",
+    "options": ["Below 12 years", "Below 16 years", "Below 18 years", "Below 21 years"],
+    "correctIndex": 2,
+    "explanation": "Section 2 defines \"child\" as any person below the age of eighteen years."
+  },
+  {
+    "id": "mcq-ch01-8",
+    "chapterId": "ch-01",
+    "question": "\"Dishonestly\" under Section 2 means doing an act with the intention of causing—",
+    "options": [
+      "Any harm to reputation",
+      "Wrongful gain to one person or wrongful loss to another",
+      "Physical injury only",
+      "A breach of contract"
+    ],
+    "correctIndex": 1,
+    "explanation": "\"Dishonestly\" means doing an act with the intention of causing wrongful gain to one person or wrongful loss to another person."
+  },
+  {
+    "id": "mcq-ch01-9",
+    "chapterId": "ch-01",
+    "question": "Under Section 2, a thing is done in \"good faith\" only if it is done—",
+    "options": [
+      "Honestly, even if carelessly",
+      "With due care and attention",
+      "With the consent of another",
+      "In the presence of a witness"
+    ],
+    "correctIndex": 1,
+    "explanation": "Nothing is said to be done or believed in \"good faith\" which is done or believed without due care and attention. Mere honesty is not enough — reasonable care is required."
+  },
+  {
+    "id": "mcq-ch01-10",
+    "chapterId": "ch-01",
+    "question": "Under Section 2, \"movable property\" includes property of every description EXCEPT—",
+    "options": [
+      "Money and vehicles",
+      "Land and things attached to the earth",
+      "Animals",
+      "Documents"
+    ],
+    "correctIndex": 1,
+    "explanation": "\"Movable property\" includes property of every description except land and things attached to the earth or permanently fastened to anything attached to the earth."
+  },
+  {
+    "id": "mcq-ch01-11",
+    "chapterId": "ch-01",
+    "question": "Under Section 2, \"person\"—",
+    "options": [
+      "Means only a natural living human being",
+      "Includes any company or association or body of persons, incorporated or not",
+      "Means only Indian citizens",
+      "Excludes companies"
+    ],
+    "correctIndex": 1,
+    "explanation": "\"Person\" includes any company or association or body of persons, whether incorporated or not."
   }
 ]

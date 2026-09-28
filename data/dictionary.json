@@ -145,5 +145,145 @@
     "meaningEn": "The pronoun 'he' and its derivatives are used of any person, whether male, female or transgender.",
     "meaningHi": "लिंग — सर्वनाम 'वह' और उसके व्युत्पन्न किसी भी व्यक्ति के लिए प्रयुक्त होते हैं, चाहे वह पुरुष, स्त्री या ट्रांसजेंडर हो।",
     "relatedSections": ["s-2", "s-3"]
+  },
+  {
+    "id": "act",
+    "term": "Act",
+    "meaningEn": "\"Act\" includes a series of acts as well as a single act.",
+    "meaningHi": "कार्य — इसमें एकल कार्य के साथ-साथ कार्यों की एक श्रृंखला भी शामिल है।",
+    "relatedSections": ["s-2"]
+  },
+  {
+    "id": "omission",
+    "term": "Omission",
+    "meaningEn": "\"Omission\" means a single omission as well as a series of omissions.",
+    "meaningHi": "लोप — इसका अर्थ एकल लोप के साथ-साथ लोपों की एक श्रृंखला भी है।",
+    "relatedSections": ["s-2"]
+  },
+  {
+    "id": "animal",
+    "term": "Animal",
+    "meaningEn": "\"Animal\" means any living creature other than a human being.",
+    "meaningHi": "जीव-जंतु — मनुष्य के अतिरिक्त कोई भी जीवित प्राणी।",
+    "relatedSections": ["s-2"]
+  },
+  {
+    "id": "child",
+    "term": "Child",
+    "meaningEn": "\"Child\" means any person below the age of eighteen years.",
+    "meaningHi": "बालक — अठारह वर्ष से कम आयु का कोई भी व्यक्ति।",
+    "relatedSections": ["s-2"]
+  },
+  {
+    "id": "counterfeit",
+    "term": "Counterfeit",
+    "meaningEn": "A person 'counterfeits' who causes one thing to resemble another, intending by that resemblance to practise deception, or knowing it likely that deception will result. The imitation need not be exact.",
+    "meaningHi": "कूटकरण (नकली बनाना) — वह व्यक्ति 'कूटकरण' करता है जो एक वस्तु को दूसरी जैसी बना देता है, ताकि उस समानता से धोखा दिया जा सके या यह जानते हुए कि धोखा होने की संभावना है। नकल हूबहू होना आवश्यक नहीं है।",
+    "relatedSections": ["s-2"]
+  },
+  {
+    "id": "court",
+    "term": "Court",
+    "meaningEn": "\"Court\" means a Judge empowered by law to act judicially alone, or a body of Judges empowered to act judicially as a body, when acting judicially.",
+    "meaningHi": "न्यायालय — ऐसा न्यायाधीश जो विधि द्वारा अकेले न्यायिक रूप से कार्य करने को सशक्त हो, या न्यायाधीशों का ऐसा निकाय जो सामूहिक रूप से न्यायिक कार्य करने को सशक्त हो, जब वह न्यायिक रूप से कार्य कर रहा हो।",
+    "relatedSections": ["s-2"]
+  },
+  {
+    "id": "death",
+    "term": "Death",
+    "meaningEn": "\"Death\" means the death of a human being unless the contrary appears from the context.",
+    "meaningHi": "मृत्यु — जब तक संदर्भ से विपरीत प्रकट न हो, इसका अर्थ किसी मनुष्य की मृत्यु है।",
+    "relatedSections": ["s-2"]
+  },
+  {
+    "id": "injury",
+    "term": "Injury",
+    "meaningEn": "\"Injury\" means any harm whatever illegally caused to any person in body, mind, reputation or property.",
+    "meaningHi": "क्षति — किसी व्यक्ति को उसके शरीर, मन, प्रतिष्ठा या संपत्ति में अवैध रूप से पहुँचाई गई कोई भी हानि।",
+    "relatedSections": ["s-2"]
+  },
+  {
+    "id": "judge",
+    "term": "Judge",
+    "meaningEn": "\"Judge\" means a person officially designated as a Judge, and includes a person empowered by law to give a definitive judgment in a legal proceeding, alone or as a member of a body.",
+    "meaningHi": "न्यायाधीश — ऐसा व्यक्ति जो आधिकारिक रूप से न्यायाधीश नामित हो, और इसमें वह व्यक्ति भी शामिल है जो किसी विधिक कार्यवाही में, अकेले या किसी निकाय के सदस्य के रूप में, निश्चयात्मक निर्णय देने को विधि द्वारा सशक्त हो।",
+    "relatedSections": ["s-2"]
+  },
+  {
+    "id": "life",
+    "term": "Life",
+    "meaningEn": "\"Life\" means the life of a human being, unless the contrary appears from the context.",
+    "meaningHi": "जीवन — जब तक संदर्भ से विपरीत प्रकट न हो, इसका अर्थ किसी मनुष्य का जीवन है।",
+    "relatedSections": ["s-2"]
+  },
+  {
+    "id": "person",
+    "term": "Person",
+    "meaningEn": "\"Person\" includes any company or association or body of persons, whether incorporated or not.",
+    "meaningHi": "व्यक्ति — इसमें कोई भी कंपनी, संगम या व्यक्तियों का निकाय शामिल है, चाहे वह निगमित हो या नहीं।",
+    "relatedSections": ["s-2"]
+  },
+  {
+    "id": "public",
+    "term": "Public",
+    "meaningEn": "\"Public\" includes any class of the public or any community.",
+    "meaningHi": "लोक (जनता) — इसमें जनता का कोई भी वर्ग या कोई भी समुदाय शामिल है।",
+    "relatedSections": ["s-2"]
+  },
+  {
+    "id": "reason-to-believe",
+    "term": "Reason to believe",
+    "meaningEn": "A person has 'reason to believe' a thing if he has sufficient cause to believe it, but not otherwise.",
+    "meaningHi": "विश्वास करने का कारण — किसी व्यक्ति को किसी बात पर 'विश्वास करने का कारण' तब है जब उसके पास उसे मानने का पर्याप्त कारण हो, अन्यथा नहीं।",
+    "relatedSections": ["s-2"]
+  },
+  {
+    "id": "illegal",
+    "term": "Illegal / legally bound to do",
+    "meaningEn": "\"Illegal\" applies to everything which is an offence, prohibited by law, or furnishes ground for a civil action; a person is 'legally bound to do' whatever it is illegal in him to omit.",
+    "meaningHi": "अवैध / विधितः करने के लिए आबद्ध — 'अवैध' प्रत्येक ऐसी बात पर लागू है जो अपराध हो, विधि द्वारा प्रतिषिद्ध हो, या दीवानी वाद का आधार दे; कोई व्यक्ति उस बात को 'विधितः करने के लिए आबद्ध' है जिसका लोप करना उसके लिए अवैध हो।",
+    "relatedSections": ["s-2"]
+  },
+  {
+    "id": "valuable-security",
+    "term": "Valuable security",
+    "meaningEn": "A document which creates, extends, transfers, restricts, extinguishes or releases a legal right, or by which a person acknowledges a legal liability or that he has not a certain legal right.",
+    "meaningHi": "मूल्यवान प्रतिभूति — ऐसा दस्तावेज़ जो किसी विधिक अधिकार का सृजन, विस्तार, अंतरण, निर्बंधन, विलोपन या मोचन करता हो, या जिसके द्वारा कोई व्यक्ति यह स्वीकार करे कि वह विधिक दायित्व के अधीन है या उसे कोई विधिक अधिकार प्राप्त नहीं है।",
+    "relatedSections": ["s-2"]
+  },
+  {
+    "id": "vessel",
+    "term": "Vessel",
+    "meaningEn": "\"Vessel\" means anything made for the conveyance by water of human beings or of property.",
+    "meaningHi": "जलयान — जल के द्वारा मनुष्यों या संपत्ति के परिवहन के लिए बनी कोई भी वस्तु।",
+    "relatedSections": ["s-2"]
+  },
+  {
+    "id": "voluntarily",
+    "term": "Voluntarily",
+    "meaningEn": "A person causes an effect 'voluntarily' when he causes it by means by which he intended to cause it, or by means which, at the time, he knew or had reason to believe were likely to cause it.",
+    "meaningHi": "स्वेच्छया — कोई व्यक्ति किसी परिणाम को 'स्वेच्छया' तब कारित करता है जब वह उसे ऐसे साधनों से कारित करे जिनसे उसका आशय उसे कारित करने का था, या ऐसे साधनों से जिनके बारे में उस समय वह जानता था या विश्वास करने का कारण रखता था कि उनसे वह परिणाम होने की संभावना है।",
+    "relatedSections": ["s-2"]
+  },
+  {
+    "id": "wrongful-gain",
+    "term": "Wrongful gain",
+    "meaningEn": "Gain by unlawful means of property to which the person gaining is not legally entitled.",
+    "meaningHi": "अनुचित अभिलाभ — अवैध साधनों से ऐसी संपत्ति का लाभ जिसका अभिलाभ पाने वाला व्यक्ति विधितः हकदार नहीं है।",
+    "relatedSections": ["s-2"]
+  },
+  {
+    "id": "wrongful-loss",
+    "term": "Wrongful loss",
+    "meaningEn": "The loss by unlawful means of property to which the person losing it is legally entitled.",
+    "meaningHi": "अनुचित हानि — अवैध साधनों से ऐसी संपत्ति की हानि जिसका खोने वाला व्यक्ति विधितः हकदार है।",
+    "relatedSections": ["s-2"]
+  },
+  {
+    "id": "government",
+    "term": "Government",
+    "meaningEn": "\"Government\" means the Central Government or a State Government.",
+    "meaningHi": "सरकार — इसका अर्थ केंद्र सरकार या राज्य सरकार है।",
+    "relatedSections": ["s-2"]
   }
 ]

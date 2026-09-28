@@ -34,21 +34,22 @@
     "chapterId": "ch-01",
     "number": "2",
     "title": "Definitions",
-    "bareActText": "In this Sanhita, unless the context otherwise requires, various terms used throughout the code are defined — including (among many others) \"act,\" \"animal,\" \"child\" (a person below the age of eighteen years), \"counterfeit,\" \"court,\" \"death,\" \"dishonestly,\" \"document,\" \"fraudulently,\" \"gender,\" \"good faith,\" \"Government,\" \"illegal\" and \"legally bound to do,\" \"injury,\" \"judge,\" \"life,\" \"movable property,\" \"public servant,\" \"reason to believe,\" \"vessel,\" \"voluntarily,\" \"wrongful gain\" and \"wrongful loss.\" (This is a long definitions clause; each defined term carries its own precise meaning. See the individual dictionary entries and the official Act for the exact wording of each definition.)",
-    "plainMeaning": "Section 2 is the code's dictionary. It fixes the exact meaning of the key words used everywhere else, so that terms like 'dishonestly', 'document' or 'public servant' mean the same thing in every chapter. Because it is really a glossary, the platform surfaces these terms through its Dictionary feature.",
+    "bareActText": "In this Sanhita, unless the context otherwise requires, the following key terms are defined (40 clauses in all): \"act\" and \"omission\" (each including a single instance or a series); \"animal\"; \"child\" (a person below eighteen years); \"counterfeit\"; \"Court\"; \"death\"; \"dishonestly\"; \"document\"; \"fraudulently\"; \"gender\" (the pronoun 'he' applies to male, female or transgender); \"good faith\"; \"Government\"; \"harbour\"; \"injury\"; \"illegal\" and \"legally bound to do\"; \"Judge\"; \"life\"; \"local law\"; \"man\"; \"mental illness\"; \"month\" and \"year\" (Gregorian calendar); \"movable property\"; \"number\" (singular includes plural and vice versa); \"oath\"; \"offence\"; \"person\" (includes a company or association, incorporated or not); \"public\"; \"public servant\"; \"reason to believe\"; \"special law\"; \"valuable security\"; \"vessel\"; \"voluntarily\"; \"will\"; \"woman\"; \"wrongful gain\" and \"wrongful loss\" (and \"gaining/losing wrongfully\"). Words not defined here but defined in the Information Technology Act, 2000 or the BNSS, 2023 carry the meanings assigned there.",
+    "plainMeaning": "Section 2 is the code's dictionary — 40 clauses fixing the exact meaning of the key words used everywhere else, so that terms like 'dishonestly', 'document' or 'public servant' mean the same thing in every chapter. Because it is really a glossary, the platform surfaces these terms through its Dictionary feature — see the chapter's Dictionary tab.",
     "ingredients": [
-      "Defines key terms used throughout the Sanhita",
+      "Defines 40 key terms used throughout the Sanhita",
       "Definitions apply 'unless the context otherwise requires'",
-      "The defined meanings carry across all chapters"
+      "The defined meanings carry across all chapters",
+      "Undefined terms take meanings from the IT Act, 2000 or the BNSS, 2023"
     ],
     "punishment": "Not applicable — this is a definitions clause, not an offence.",
     "classification": null,
     "ipcReference": {
       "section": "IPC Chapter I (ss.6-52A)",
-      "changeNote": "Corresponds to the general definitions of the IPC, consolidated and updated (e.g. adding 'gender' inclusively and modern terms)."
+      "changeNote": "Corresponds to the general definitions of the IPC, consolidated and updated (e.g. adding 'gender' inclusively, 'child', and modern cross-references to the IT Act and BNSS)."
     },
     "illustrations": [],
-    "termRefs": ["dishonestly", "fraudulently", "good-faith", "document", "public-servant", "movable-property", "gender"],
+    "termRefs": ["act", "omission", "animal", "child", "counterfeit", "court", "death", "dishonestly", "document", "fraudulently", "gender", "good-faith", "government", "injury", "illegal", "judge", "life", "movable-property", "person", "public", "public-servant", "reason-to-believe", "valuable-security", "vessel", "voluntarily", "wrongful-gain", "wrongful-loss"],
     "verification": {
       "status": "verified",
       "source": "BNS 2023, s.2 — section title and role confirmed against the official Gazette table of contents (NCRB/India Code). Individual definitions summarised; exact wording per the official Act."
@@ -60,11 +61,13 @@
     "chapterId": "ch-01",
     "number": "3",
     "title": "General explanations",
-    "bareActText": "This section contains general explanations that apply throughout the Sanhita. Among them: words importing the masculine gender are taken to include any gender; words in the singular include the plural, and the plural the singular, where the context permits; and the general rules on criminal responsibility of children — nothing is an offence which is done by a child under seven years of age, and nothing is an offence done by a child above seven years of age and under twelve years of age who has not attained sufficient maturity of understanding to judge the nature and consequences of his conduct on that occasion. (Summarised; see the official Act for the full set of general explanations.)",
-    "plainMeaning": "Section 3 gives the reading rules for the whole code. It tells you how to interpret gender and number in the text, and sets the age of criminal responsibility: a child under seven can never commit an offence, and a child between seven and twelve is not liable if they were too immature to understand what they were doing.",
+    "bareActText": "Section 3 sets out general explanations that apply throughout the Sanhita. Among them: (a) throughout the code, every definition, penal provision and illustration is to be understood subject to the exceptions in the 'General Exceptions' chapter, even though those exceptions are not repeated; (b) an illustration to a section helps explain it but does not limit its scope; (c) the rules on gender and number apply — the pronoun 'he' and its derivatives apply to any person of any gender, and (unless the context otherwise requires) the singular includes the plural and the plural the singular; (d) where several persons act together in furtherance of a common intention, each is liable as if the act were done by him alone; and (e) the rules on the criminal responsibility of children — nothing is an offence which is done by a child under seven years of age, and nothing is an offence done by a child above seven and under twelve years of age who has not attained sufficient maturity of understanding to judge the nature and consequences of his conduct on that occasion. (Summarised from the general explanations; see the official Act for the full wording.)",
+    "plainMeaning": "Section 3 gives the reading rules for the whole code. It tells you that the general exceptions always apply even when not repeated; that illustrations explain but do not limit a section; how to read gender and number; that people acting on a common intention are each fully liable; and it sets the age of criminal responsibility — a child under seven can never commit an offence, and a child between seven and twelve is not liable if too immature to understand the act.",
     "ingredients": [
-      "General interpretive rules applying throughout the Sanhita",
-      "Masculine-gender words include any gender; singular/plural read interchangeably where context permits",
+      "General exceptions apply throughout, even where not repeated in a section",
+      "Illustrations explain a provision but do not limit its scope",
+      "Gender: 'he' and derivatives apply to any gender; number: singular includes plural and vice versa",
+      "Common intention: each person acting together is liable as for his own act",
       "Child under 7: nothing done is an offence",
       "Child 7-12 of immature understanding: not liable"
     ],
@@ -72,10 +75,10 @@
     "classification": null,
     "ipcReference": {
       "section": "IPC ss.6-33, 82-83 (in part)",
-      "changeNote": "Consolidates general explanations and the infancy rules previously spread across the IPC."
+      "changeNote": "Consolidates the general explanations and the infancy rules previously spread across the IPC."
     },
     "illustrations": [],
-    "termRefs": ["good-faith"],
+    "termRefs": ["good-faith", "gender"],
     "verification": {
       "status": "verified",
       "source": "BNS 2023, s.3 — section title confirmed against the official Gazette table of contents (NCRB/India Code); infancy rule cross-checked via PRS India text. Full set of explanations summarised; see the official Act for exact wording."

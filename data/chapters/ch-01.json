@@ -36,21 +36,28 @@
       ]
     },
     {
-      "point": "Section 2 — Definitions",
+      "point": "Section 2 — Definitions (a 40-clause glossary)",
       "subPoints": [
-        "A glossary of key terms used throughout the code",
-        "Defines words like act, dishonestly, fraudulently, document, good faith, public servant, movable property, gender",
-        "These definitions apply across every chapter — treat them as a dictionary",
-        "Surfaced in the platform through the Dictionary feature"
+        "Fixes the meaning of key terms used throughout the code",
+        "'child' = a person below eighteen years of age",
+        "'dishonestly' = intending wrongful gain to one or wrongful loss to another",
+        "'fraudulently' = doing a thing with intent to defraud",
+        "'good faith' = done with due care and attention (not mere honesty)",
+        "'movable property' = all property except land and things attached to the earth",
+        "'person' includes a company or association, incorporated or not",
+        "'gender': the pronoun 'he' applies to male, female or transgender",
+        "Undefined terms take meanings from the IT Act, 2000 or the BNSS, 2023"
       ]
     },
     {
       "point": "Section 3 — General explanations",
       "subPoints": [
-        "Interpretive rules that apply throughout the Sanhita",
-        "Words importing the masculine gender apply to any gender; singular includes plural and vice versa (as provided)",
-        "Age of criminal responsibility: nothing is an offence done by a child under seven years of age",
-        "A child above seven and under twelve of immature understanding is not liable"
+        "The General Exceptions apply throughout, even where a section does not repeat them",
+        "An illustration explains a section but does not limit its scope",
+        "Gender: 'he' applies to any gender; Number: singular includes plural and vice versa",
+        "Common intention: each person acting together is liable as for his own act",
+        "Age of criminal responsibility: nothing done by a child under 7 is an offence",
+        "A child above 7 and under 12 of immature understanding is not liable"
       ]
     }
   ],
@@ -68,8 +75,20 @@
     "s.1 — savings clause: does not affect army/navy/air-force mutiny-desertion laws or special/local laws.",
     "s.2 — Definitions: a glossary of key terms used across the whole code.",
     "s.2 — includes act, dishonestly, fraudulently, document, good faith, public servant, movable property, gender, etc.",
+    "s.2 — 'child' means a person below 18 years of age.",
+    "s.2 — 'dishonestly' = intent to cause wrongful gain to one or wrongful loss to another.",
+    "s.2 — 'fraudulently' = doing a thing with intent to defraud.",
+    "s.2 — 'good faith' = done with due care and attention (not mere honesty).",
+    "s.2 — 'movable property' = all property except land and things attached to the earth.",
+    "s.2 — 'person' includes a company/association, incorporated or not.",
+    "s.2 — 'voluntarily' covers effects intended or known to be likely.",
+    "s.2 — 'wrongful gain' = gain of property one is not legally entitled to; 'wrongful loss' = loss of property one is entitled to.",
+    "s.2 — 'reason to believe' = sufficient cause to believe a thing.",
+    "s.2 — undefined terms take meanings from the IT Act, 2000 or the BNSS, 2023.",
     "s.2 definitions apply throughout the Sanhita, not just one chapter.",
     "s.3 — General explanations: interpretive rules applying throughout the code.",
+    "s.3 — General Exceptions apply throughout, even where a section does not repeat them.",
+    "s.3 — an illustration explains a section but does not limit its scope.",
     "s.3 — words importing the masculine gender apply to any gender.",
     "s.3 — age of criminal responsibility: nothing done by a child under 7 is an offence.",
     "s.3 — a child above 7 and under 12 of immature understanding is not liable.",

@@ -33,5 +33,26 @@
     "question": "What new dimension of extraterritorial application does BNS Section 1 add compared to the earlier law?",
     "modelAnswer": "BNS Section 1 expressly extends the code to any person, in any place beyond India, who commits an offence targeting a computer resource located in India. This explicitly brings cross-border cybercrime affecting Indian systems within the reach of the Sanhita — a modernisation reflecting contemporary crime that the older provisions did not spell out as clearly.",
     "difficulty": "medium"
+  },
+  {
+    "id": "qa-ch01-6",
+    "chapterId": "ch-01",
+    "question": "Distinguish between 'dishonestly' and 'fraudulently' as defined in Section 2 of the BNS.",
+    "modelAnswer": "Under Section 2, a person acts 'dishonestly' when he does an act with the intention of causing wrongful gain to one person or wrongful loss to another — the focus is on wrongful gain or loss of property. A person acts 'fraudulently' if he does a thing with intent to defraud, i.e. with deceit coupled with an intention to cause injury; it need not involve gain or loss of property. In short, 'dishonestly' centres on wrongful gain/loss, while 'fraudulently' centres on deceit and intent to defraud.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "qa-ch01-7",
+    "chapterId": "ch-01",
+    "question": "What is the meaning of 'good faith' under Section 2, and why is it significant?",
+    "modelAnswer": "Under Section 2, nothing is said to be done or believed in 'good faith' which is done or believed without due care and attention. Its significance lies in the standard it sets: honesty alone is not enough — a person must act with reasonable care and attention. This definition matters across the code because many defences and exceptions depend on whether the accused acted in good faith.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "qa-ch01-8",
+    "chapterId": "ch-01",
+    "question": "Explain the general explanations in Section 3 regarding illustrations and the general exceptions.",
+    "modelAnswer": "Section 3 explains that the 'General Exceptions' apply throughout the Sanhita even where a particular penal provision does not repeat them — so every offence must be read subject to those exceptions. It also clarifies that an illustration attached to a section is meant to help explain the provision but does not limit or exhaust its scope. These rules ensure the code is read consistently and that exceptions and explanatory illustrations operate uniformly across all chapters.",
+    "difficulty": "hard"
   }
 ]
