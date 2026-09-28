@@ -26,8 +26,9 @@ deployed. Building further chapters is now mostly content work, reusing the same
 [requirements](docs/requirements.md) · [spec](docs/spec.md) ·
 [architecture](docs/architecture.md) · [tasks](docs/tasks.md)
 
-> Note: Chapter II statute facts are currently marked **unverified** (shown with an amber
-> badge) pending cross-check against the official BNS 2023 Gazette.
+> Chapter II statute facts have been **verified** against the official BNS 2023 text
+> (India Code, cross-checked via PRS India, Drishti Judiciary, and Testbook) and carry a
+> green verification badge with source and date.
 
 ---
 

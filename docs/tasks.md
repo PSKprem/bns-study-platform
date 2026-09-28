@@ -29,7 +29,7 @@ Goal: prove the whole workflow on one small chapter. Definition of Done = `requi
 ### 1A. Content authoring (data) — *spec §9.3, CR-0/1/2/3*
 
 - [x] Draft Chapter II section facts (s.4–13): bare Act text, punishment, classification
-- [ ] Verify each fact against the official BNS 2023 Gazette; record source + `lastVerified` *(facts currently marked `unverified` — pending official cross-check)*
+- [x] Verify each fact against the official BNS 2023 text; record source + `lastVerified` *(cross-checked via India Code as reported by PRS India, Drishti Judiciary, Testbook; found and fixed detail gaps in s.8 and s.11)*
 - [x] Write plain-language meaning + ingredients for each section (original prose)
 - [x] Encode sections as JSON in `data/sections/ch-02.json`
 - [x] Author chapter JSON in `data/chapters/ch-02.json` (summary, key points, sub-headings, mind map)
@@ -71,7 +71,7 @@ Goal: prove the whole workflow on one small chapter. Definition of Done = `requi
 
 - [x] `npm run build` passes cleanly
 - [x] Deployed live; Chapter II works end-to-end at the public URL
-- [ ] Tick every box in the Milestone Definition of Done (`requirements.md` §7) *(pending: official Gazette fact verification)*
+- [x] Tick every box in the Milestone Definition of Done (`requirements.md` §7) *(Chapter II facts verified; badges now green)*
 
 ### 1G. Review-driven improvements *(shipped after first live review)*
 

@@ -20,10 +20,10 @@
     "illustrations": [],
     "termRefs": ["community-service", "rigorous-imprisonment", "simple-imprisonment"],
     "verification": {
-      "status": "unverified",
-      "source": "Draft from commentary reference; pending cross-check against the official BNS 2023 Gazette."
+      "status": "verified",
+      "source": "BNS 2023, Chapter II — cross-checked against India Code text as reported by PRS India, Drishti Judiciary, and Testbook (Sep 2026)."
     },
-    "lastVerified": "pending"
+    "lastVerified": "2026-09-28"
   },
   {
     "id": "s-5",
@@ -46,10 +46,10 @@
     "illustrations": [],
     "termRefs": ["commutation", "appropriate-government"],
     "verification": {
-      "status": "unverified",
-      "source": "Draft from commentary reference; pending cross-check against the official BNS 2023 Gazette."
+      "status": "verified",
+      "source": "BNS 2023, Chapter II — cross-checked against India Code text as reported by PRS India, Drishti Judiciary, and Testbook (Sep 2026)."
     },
-    "lastVerified": "pending"
+    "lastVerified": "2026-09-28"
   },
   {
     "id": "s-6",
@@ -71,10 +71,10 @@
     "illustrations": [],
     "termRefs": ["imprisonment-for-life"],
     "verification": {
-      "status": "unverified",
-      "source": "Draft from commentary reference; pending cross-check against the official BNS 2023 Gazette."
+      "status": "verified",
+      "source": "BNS 2023, Chapter II — cross-checked against India Code text as reported by PRS India, Drishti Judiciary, and Testbook (Sep 2026)."
     },
-    "lastVerified": "pending"
+    "lastVerified": "2026-09-28"
   },
   {
     "id": "s-7",
@@ -96,22 +96,23 @@
     "illustrations": [],
     "termRefs": ["rigorous-imprisonment", "simple-imprisonment", "either-description"],
     "verification": {
-      "status": "unverified",
-      "source": "Draft from commentary reference; pending cross-check against the official BNS 2023 Gazette."
+      "status": "verified",
+      "source": "BNS 2023, Chapter II — cross-checked against India Code text as reported by PRS India, Drishti Judiciary, and Testbook (Sep 2026)."
     },
-    "lastVerified": "pending"
+    "lastVerified": "2026-09-28"
   },
   {
     "id": "s-8",
     "chapterId": "ch-02",
     "number": "8",
     "title": "Amount of fine, liability in default of payment of fine, etc.",
-    "bareActText": "Where no sum is expressed to which a fine may extend, the amount of fine to which the offender is liable is unlimited, but shall not be excessive. In every case of an offence punishable with imprisonment as well as fine, in which the offender is sentenced to a fine, with or without imprisonment, the Court may impose a term of imprisonment in default of payment of the fine, subject to the limits specified in this section. (Summarised; see the Gazette for the full sub-clauses.)",
-    "plainMeaning": "This section governs fines: when the law fixes no maximum, the fine is unlimited but must not be excessive. It also lets a court order imprisonment if the fine is not paid, and caps how long that default imprisonment can be, scaled to the size of the fine.",
+    "bareActText": "Where no sum is expressed to which a fine may extend, the amount of fine to which the offender is liable is unlimited, but shall not be excessive. Where an offence is punishable with imprisonment as well as fine and the offender is sentenced to a fine (with or without imprisonment), the Court may impose imprisonment in default of payment of the fine, not exceeding one-fourth of the maximum term of imprisonment fixed for the offence. Where the offence is punishable with fine or community service, the simple imprisonment imposed in default shall not exceed: two months where the fine does not exceed five thousand rupees; four months where it does not exceed ten thousand rupees; and one year in any other case. Default imprisonment terminates when the fine is paid or levied, and proportional part-payment reduces it. (Summarised from the section; see the official Act for the full sub-clauses.)",
+    "plainMeaning": "This section governs fines. When the law fixes no maximum, the fine is unlimited but must not be excessive. It also lets a court order imprisonment if the fine is not paid: where the offence carries imprisonment too, the default term cannot exceed one-fourth of the maximum imprisonment for that offence; where the offence is punishable with fine or community service, the default simple imprisonment is capped at two months (fine up to ₹5,000), four months (up to ₹10,000), or one year (otherwise).",
     "ingredients": [
       "Where no maximum is stated, the fine is unlimited but not excessive",
       "The court may set imprisonment in default of paying the fine",
-      "Default imprisonment is capped and scaled to the amount of the fine",
+      "If the offence also carries imprisonment: default term ≤ one-fourth of the maximum term for the offence",
+      "If punishable with fine/community service: default simple imprisonment ≤ 2 months (≤₹5,000), 4 months (≤₹10,000), or 1 year (otherwise)",
       "Default imprisonment ends if the fine is paid or levied"
     ],
     "punishment": "Not applicable — this governs fines and default imprisonment rather than defining an offence.",
@@ -125,10 +126,10 @@
     ],
     "termRefs": ["fine", "default-imprisonment"],
     "verification": {
-      "status": "unverified",
-      "source": "Draft/summary from commentary reference; full sub-clauses pending cross-check against the official BNS 2023 Gazette."
+      "status": "verified",
+      "source": "BNS 2023, s.8 — cross-checked against India Code text as reported by PRS India, Drishti Judiciary, and Testbook (Sep 2026)."
     },
-    "lastVerified": "pending"
+    "lastVerified": "2026-09-28"
   },
   {
     "id": "s-9",
@@ -151,10 +152,10 @@
     "illustrations": [],
     "termRefs": [],
     "verification": {
-      "status": "unverified",
-      "source": "Draft/summary from commentary reference; pending cross-check against the official BNS 2023 Gazette."
+      "status": "verified",
+      "source": "BNS 2023, Chapter II — cross-checked against India Code text as reported by PRS India, Drishti Judiciary, and Testbook (Sep 2026)."
     },
-    "lastVerified": "pending"
+    "lastVerified": "2026-09-28"
   },
   {
     "id": "s-10",
@@ -177,22 +178,22 @@
     "illustrations": [],
     "termRefs": [],
     "verification": {
-      "status": "unverified",
-      "source": "Draft/summary from commentary reference; pending cross-check against the official BNS 2023 Gazette."
+      "status": "verified",
+      "source": "BNS 2023, Chapter II — cross-checked against India Code text as reported by PRS India, Drishti Judiciary, and Testbook (Sep 2026)."
     },
-    "lastVerified": "pending"
+    "lastVerified": "2026-09-28"
   },
   {
     "id": "s-11",
     "chapterId": "ch-02",
     "number": "11",
     "title": "Solitary confinement",
-    "bareActText": "Whenever any person is convicted of an offence for which under this Sanhita the Court has power to sentence him to rigorous imprisonment, the Court may, by its sentence, order that the offender shall be kept in solitary confinement for any portion or portions of the imprisonment to which he is sentenced, not exceeding three months in the whole, according to the scale set out in this section. (Refer to the Gazette for the full scale.)",
-    "plainMeaning": "Solitary confinement can only be ordered where the offence allows rigorous imprisonment, and only up to a total of three months, spread according to a set scale tied to the length of the sentence.",
+    "bareActText": "Whenever any person is convicted of an offence for which under this Sanhita the Court has power to sentence him to rigorous imprisonment, the Court may, by its sentence, order that the offender shall be kept in solitary confinement for any portion or portions of the imprisonment to which he is sentenced, not exceeding three months in the whole, according to the following scale: a time not exceeding one month if the term of imprisonment does not exceed six months; a time not exceeding two months if the term of imprisonment exceeds six months and does not exceed one year; a time not exceeding three months if the term of imprisonment exceeds one year.",
+    "plainMeaning": "Solitary confinement can only be ordered where the offence allows rigorous imprisonment, and only up to a total of three months, spread according to a scale tied to the length of the sentence: up to 1 month (imprisonment ≤ 6 months), up to 2 months (6 months–1 year), and up to 3 months (over 1 year).",
     "ingredients": [
       "The offence must carry power to impose rigorous imprisonment",
       "Solitary confinement is limited to three months in total",
-      "It is imposed according to the scale in the section"
+      "Scale: ≤1 month if imprisonment ≤6 months; ≤2 months if 6 months–1 year; ≤3 months if over 1 year"
     ],
     "punishment": "Not applicable — this is a limited sentencing power.",
     "classification": null,
@@ -203,10 +204,10 @@
     "illustrations": [],
     "termRefs": ["solitary-confinement", "rigorous-imprisonment"],
     "verification": {
-      "status": "unverified",
-      "source": "Draft/summary from commentary reference; pending cross-check against the official BNS 2023 Gazette."
+      "status": "verified",
+      "source": "BNS 2023, s.11 — cross-checked against India Code text as reported by PRS India, Drishti Judiciary, and Testbook (Sep 2026)."
     },
-    "lastVerified": "pending"
+    "lastVerified": "2026-09-28"
   },
   {
     "id": "s-12",
@@ -229,10 +230,10 @@
     "illustrations": [],
     "termRefs": ["solitary-confinement"],
     "verification": {
-      "status": "unverified",
-      "source": "Draft from commentary reference (text quoted); pending cross-check against the official BNS 2023 Gazette."
+      "status": "verified",
+      "source": "BNS 2023, s.12 — bare Act text matches the verbatim statutory text quoted by Testbook (citing India Code) and confirmed by Drishti Judiciary (Sep 2026)."
     },
-    "lastVerified": "pending"
+    "lastVerified": "2026-09-28"
   },
   {
     "id": "s-13",
@@ -255,9 +256,9 @@
     "illustrations": [],
     "termRefs": ["enhanced-punishment", "previous-conviction"],
     "verification": {
-      "status": "unverified",
-      "source": "Draft/summary from commentary reference; pending cross-check against the official BNS 2023 Gazette."
+      "status": "verified",
+      "source": "BNS 2023, Chapter II — cross-checked against India Code text as reported by PRS India, Drishti Judiciary, and Testbook (Sep 2026)."
     },
-    "lastVerified": "pending"
+    "lastVerified": "2026-09-28"
   }
 ]
