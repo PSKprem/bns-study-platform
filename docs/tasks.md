@@ -47,7 +47,7 @@ Goal: prove the whole workflow on one small chapter. Definition of Done = `requi
 
 - [x] Home / Course Map: list chapters (Chapter II live) — *FR-1*
 - [x] Fix page `<title>` / basic metadata (currently default "web")
-- [x] Chapter page shell with tabs (Mind Map · Summary · Key Points · Exam Q&A · Sections) — *FR-2–6*
+- [x] Chapter page shell with tabs (Mind Map · Summary · Key Points · Fast Revision · Practice MCQ · Exam Q&A · Sections · Dictionary) — *FR-2–8*
 
 ### 1D. Features — *spec §9.6–9.11*
 
@@ -57,7 +57,7 @@ Goal: prove the whole workflow on one small chapter. Definition of Done = `requi
 - [x] Exam Q&A: Learn mode (reveal) + Read mode toggle — *FR-5*
 - [x] Section detail page + VerificationBadge + term links — *FR-6, CR-2*
 - [x] Dictionary page (bilingual, searchable EN/HI) — *FR-7*
-- [x] Flashcards with known/not-known + localStorage progress — *FR-8*
+- [x] Practice MCQs with instant feedback + score *(replaced flashcards after review)* — *FR-8*
 - [x] Search across chapters/sections/terms/Q&A (Fuse.js) — *FR-9*
 
 ### 1E. Quality & polish — *NFR-1/2/5*
@@ -65,13 +65,24 @@ Goal: prove the whole workflow on one small chapter. Definition of Done = `requi
 - [x] Responsive pass (mobile layout for tabs, mind map, cards)
 - [x] Accessibility pass (keyboard nav, aria labels, contrast, text scaling)
 - [x] Performance check (per-chapter JSON, route code-splitting, lean bundle)
-- [ ] Add a lightweight test setup (Vitest) for non-trivial logic (search, spaced repetition)
+- [ ] Add a lightweight test setup (Vitest) for non-trivial logic (search, MCQ scoring)
 
 ### 1F. Ship & verify — *requirements §7*
 
 - [x] `npm run build` passes cleanly
-- [ ] Deployed live; confirm Chapter II works end-to-end on the public URL *(deploy in progress)*
-- [ ] Tick every box in the Milestone Definition of Done (`requirements.md` §7)
+- [x] Deployed live; Chapter II works end-to-end at the public URL
+- [ ] Tick every box in the Milestone Definition of Done (`requirements.md` §7) *(pending: official Gazette fact verification)*
+
+### 1G. Review-driven improvements *(shipped after first live review)*
+
+- [x] Expanded chapter summary (multi-paragraph)
+- [x] Enriched key points (more content + sub-points)
+- [x] Fast Revision tab — 20–50 must-know one-liners — *FR-4a*
+- [x] Practice MCQ tab replaces flashcards — *FR-8*
+- [x] Per-chapter dictionary tab (chapter-relevant terms) + shared `TermList` — *FR-7.5*
+- [x] "Back to sections" navigation + `?tab=` deep-linking — *FR-10.3/10.4*
+- [x] Mind map auto-fit (bigger box, fit-to-screen, re-fit on resize) — *FR-2*
+- [x] UI polish (hero, gradient headers, pill tabs, elevated cards)
 
 ---
 
