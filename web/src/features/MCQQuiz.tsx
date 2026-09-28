@@ -1,14 +1,25 @@
 import { useState } from "react";
 import type { MCQ } from "../types/content";
+import { recordMcqScore } from "../lib/progress";
+import { useProgress } from "../lib/useProgress";
 
 // MCQ practice: active testing (the strongest learning method). The student
 // picks an option and gets instant right/wrong feedback plus an explanation.
-export default function MCQQuiz({ items }: { items: MCQ[] }) {
+// The best score per chapter is kept on-device.
+export default function MCQQuiz({
+  items,
+  chapterId,
+}: {
+  items: MCQ[];
+  chapterId: string;
+}) {
   const [index, setIndex] = useState(0);
   const [selected, setSelected] = useState<number | null>(null);
   const [score, setScore] = useState(0);
   const [answered, setAnswered] = useState(0);
   const [finished, setFinished] = useState(false);
+  const [newBest, setNewBest] = useState(false);
+  const best = useProgress().mcqBest[chapterId];
 
   if (items.length === 0) {
     return <p className="text-slate-500">No practice questions yet.</p>;
@@ -26,6 +37,7 @@ export default function MCQQuiz({ items }: { items: MCQ[] }) {
 
   function nextQuestion() {
     if (isLast) {
+      setNewBest(recordMcqScore(chapterId, score, items.length));
       setFinished(true);
       return;
     }
@@ -39,6 +51,7 @@ export default function MCQQuiz({ items }: { items: MCQ[] }) {
     setScore(0);
     setAnswered(0);
     setFinished(false);
+    setNewBest(false);
   }
 
   if (finished) {
@@ -50,6 +63,11 @@ export default function MCQQuiz({ items }: { items: MCQ[] }) {
           {score} / {items.length}
         </p>
         <p className="mt-1 text-slate-500 dark:text-slate-400">{pct}% correct</p>
+        <p className="mt-2 text-sm text-slate-600 dark:text-slate-300" role="status">
+          {newBest
+            ? "New best score for this chapter!"
+            : best && `Your best: ${best.score} / ${best.total}`}
+        </p>
         <button
           onClick={restart}
           className="mt-6 rounded-lg bg-indigo-600 px-5 py-2 text-sm font-semibold text-white shadow-sm transition hover:bg-indigo-700"

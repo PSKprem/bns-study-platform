@@ -12,3 +12,15 @@ createRoot(document.getElementById('root')!).render(
     <App />
   </StrictMode>,
 )
+
+// Offline support: the service worker is generated at build time
+// (scripts/site-pages.ts), so it is only registered in production.
+if (import.meta.env.PROD && 'serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker
+      .register(`${import.meta.env.BASE_URL}sw.js`)
+      .catch(() => {
+        // Offline support is an enhancement; the site works without it.
+      })
+  })
+}

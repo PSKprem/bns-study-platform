@@ -4,42 +4,57 @@
 
 import type {
   Chapter,
+  CourseChapter,
   Section,
   ExamQA,
   MCQ,
   DictionaryTerm,
 } from "../types/content";
 
-import ch01 from "@data/chapters/ch-01.json";
-import ch02 from "@data/chapters/ch-02.json";
-import sectionsCh01 from "@data/sections/ch-01.json";
-import sectionsCh02 from "@data/sections/ch-02.json";
-import qaCh01 from "@data/qa/ch-01.json";
-import qaCh02 from "@data/qa/ch-02.json";
-import mcqsCh01 from "@data/mcqs/ch-01.json";
-import mcqsCh02 from "@data/mcqs/ch-02.json";
 import dictionaryJson from "@data/dictionary.json";
+import courseOutlineJson from "@data/course-outline.json";
 
-// Registries keyed by chapter id. Adding a chapter = add its JSON + one entry
-// here; no other code changes (content is data, not code).
-const chapters: Chapter[] = [ch01 as Chapter, ch02 as Chapter];
+// Chapters register themselves: every file matching data/chapters/ch-XX.json
+// (and its sections/qa/mcqs siblings) is picked up at build time. Adding a
+// chapter is therefore JSON only — no code change (docs/adding-a-chapter.md).
+type Json<T> = Record<string, T>;
+const chapterFiles = import.meta.glob<Chapter>("@data/chapters/*.json", {
+  eager: true,
+  import: "default",
+});
+const sectionFiles = import.meta.glob<Section[]>("@data/sections/*.json", {
+  eager: true,
+  import: "default",
+});
+const qaFiles = import.meta.glob<ExamQA[]>("@data/qa/*.json", {
+  eager: true,
+  import: "default",
+});
+const mcqFiles = import.meta.glob<MCQ[]>("@data/mcqs/*.json", {
+  eager: true,
+  import: "default",
+});
 
-const sectionsByChapter: Record<string, Section[]> = {
-  "ch-01": sectionsCh01 as Section[],
-  "ch-02": sectionsCh02 as Section[],
-};
+/** "…/data/sections/ch-02.json" → "ch-02" */
+function idFromPath(path: string): string {
+  return path.slice(path.lastIndexOf("/") + 1).replace(/\.json$/, "");
+}
 
-const qaByChapter: Record<string, ExamQA[]> = {
-  "ch-01": qaCh01 as ExamQA[],
-  "ch-02": qaCh02 as ExamQA[],
-};
+function byChapterId<T>(files: Json<T>): Record<string, T> {
+  const out: Record<string, T> = {};
+  for (const [path, data] of Object.entries(files)) out[idFromPath(path)] = data;
+  return out;
+}
 
-const mcqsByChapter: Record<string, MCQ[]> = {
-  "ch-01": mcqsCh01 as MCQ[],
-  "ch-02": mcqsCh02 as MCQ[],
-};
+const chapters: Chapter[] = Object.values(chapterFiles).sort((a, b) =>
+  a.id.localeCompare(b.id),
+);
+const sectionsByChapter = byChapterId(sectionFiles);
+const qaByChapter = byChapterId(qaFiles);
+const mcqsByChapter = byChapterId(mcqFiles);
 
 const dictionary: DictionaryTerm[] = dictionaryJson as DictionaryTerm[];
+const courseOutline: CourseChapter[] = courseOutlineJson as CourseChapter[];
 
 export function getChapters(): Chapter[] {
   return chapters;
@@ -47,6 +62,14 @@ export function getChapters(): Chapter[] {
 
 export function getChapter(id: string): Chapter | undefined {
   return chapters.find((c) => c.id === id);
+}
+
+/** All 20 BNS chapters from the Gazette, each marked available or not yet. */
+export function getCourseOutline(): (CourseChapter & { available: boolean })[] {
+  return courseOutline.map((c) => ({
+    ...c,
+    available: chapters.some((ch) => ch.id === c.id),
+  }));
 }
 
 export function getSections(chapterId: string): Section[] {

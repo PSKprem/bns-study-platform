@@ -1,71 +1,28 @@
-import { lazy, Suspense } from "react";
 import { createBrowserRouter } from "react-router-dom";
 import Layout from "./components/Layout";
+import RouteLoading from "./components/RouteLoading";
 import Home from "./pages/Home";
 
-// Route-level code splitting: each page becomes its own chunk, keeping the
-// initial load small (tech-performance rules).
-const ChapterPage = lazy(() => import("./pages/ChapterPage"));
-const SectionPage = lazy(() => import("./pages/SectionPage"));
-const DictionaryPage = lazy(() => import("./pages/DictionaryPage"));
-const SearchPage = lazy(() => import("./pages/SearchPage"));
-const Placeholder = lazy(() => import("./pages/Placeholder"));
-
-function Lazy({ children }: { children: React.ReactNode }) {
-  return (
-    <Suspense fallback={<p className="text-sm text-slate-500">Loading…</p>}>
-      {children}
-    </Suspense>
-  );
-}
+// Route-level code splitting via React Router's `lazy`: each page is its own
+// chunk, loaded only when the route is visited (tech-performance rules).
+const page = (load: () => Promise<{ default: React.ComponentType }>) => async () => ({
+  Component: (await load()).default,
+});
 
 export const router = createBrowserRouter(
   [
     {
       path: "/",
-      element: <Layout />,
+      Component: Layout,
+      HydrateFallback: RouteLoading,
       children: [
-        { index: true, element: <Home /> },
-        {
-          path: "chapter/:id",
-          element: (
-            <Lazy>
-              <ChapterPage />
-            </Lazy>
-          ),
-        },
-        {
-          path: "section/:id",
-          element: (
-            <Lazy>
-              <SectionPage />
-            </Lazy>
-          ),
-        },
-        {
-          path: "dictionary",
-          element: (
-            <Lazy>
-              <DictionaryPage />
-            </Lazy>
-          ),
-        },
-        {
-          path: "search",
-          element: (
-            <Lazy>
-              <SearchPage />
-            </Lazy>
-          ),
-        },
-        {
-          path: "*",
-          element: (
-            <Lazy>
-              <Placeholder title="Page not found" />
-            </Lazy>
-          ),
-        },
+        { index: true, Component: Home },
+        { path: "chapter/:id", lazy: page(() => import("./pages/ChapterPage")) },
+        { path: "section/:id", lazy: page(() => import("./pages/SectionPage")) },
+        { path: "dictionary", lazy: page(() => import("./pages/DictionaryPage")) },
+        { path: "search", lazy: page(() => import("./pages/SearchPage")) },
+        { path: "about", lazy: page(() => import("./pages/AboutPage")) },
+        { path: "*", lazy: page(() => import("./pages/NotFound")) },
       ],
     },
   ],

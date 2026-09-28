@@ -1,0 +1,33 @@
+name: Report a content error
+description: Something on the site is wrong, unclear, or doesn't match the official Act.
+title: "[Content] "
+labels: ["content"]
+body:
+  - type: input
+    id: page
+    attributes:
+      label: Page
+      description: Filled in automatically when you use the "Report it" link on the site.
+      placeholder: /section/s-8
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What kind of problem?
+      options:
+        - Bare Act text doesn't match the official Gazette
+        - Wrong fact (punishment, section number, IPC mapping, etc.)
+        - Explanation, example or answer is wrong or unclear
+        - Hindi translation issue
+        - Typo or formatting
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: What's wrong, and what should it say?
+      description: If you have a source (Gazette page, section number), please include it.
+    validations:
+      required: true

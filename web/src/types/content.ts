@@ -27,6 +27,14 @@ export interface Chapter {
   lastVerified: string;
 }
 
+/** One entry in the full 20-chapter course outline (data/course-outline.json). */
+export interface CourseChapter {
+  id: string;
+  number: string;
+  title: string;
+  sectionRange: string;
+}
+
 export type VerificationStatus = "verified" | "unverified";
 
 export interface Verification {

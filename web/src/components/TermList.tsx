@@ -1,14 +1,18 @@
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import type { DictionaryTerm } from "../types/content";
+import { termAnchorId } from "../lib/routes";
 
 // Reusable bilingual term list with optional search. Shared by the global
-// Dictionary page and the per-chapter Dictionary tab.
+// Dictionary page and the per-chapter Dictionary tab. When `highlightId` is set
+// (from a ?term= deep link), that term is scrolled into view and highlighted.
 export default function TermList({
   terms,
   searchable = true,
+  highlightId,
 }: {
   terms: DictionaryTerm[];
   searchable?: boolean;
+  highlightId?: string;
 }) {
   const [query, setQuery] = useState("");
 
@@ -22,6 +26,14 @@ export default function TermList({
         t.meaningHi.includes(query.trim()),
     );
   }, [query, terms]);
+
+  useEffect(() => {
+    if (!highlightId) return;
+    const el = document.getElementById(termAnchorId(highlightId));
+    if (!el) return;
+    el.scrollIntoView({ block: "center" });
+    el.focus({ preventScroll: true });
+  }, [highlightId]);
 
   return (
     <div>
@@ -37,22 +49,32 @@ export default function TermList({
       )}
 
       <ul className="mt-4 grid gap-3 sm:grid-cols-2">
-        {filtered.map((t) => (
-          <li
-            key={t.id}
-            className="rounded-2xl border border-slate-200 bg-white p-4 shadow-sm dark:border-slate-800 dark:bg-slate-900"
-          >
-            <h3 className="font-semibold text-slate-900 dark:text-slate-100">{t.term}</h3>
-            <p className="mt-1 text-sm text-slate-700 dark:text-slate-300">
-              <span className="font-medium text-indigo-500 dark:text-indigo-400">EN </span>
-              {t.meaningEn}
-            </p>
-            <p className="mt-1 text-sm text-slate-700 dark:text-slate-300">
-              <span className="font-medium text-indigo-500 dark:text-indigo-400">HI </span>
-              {t.meaningHi}
-            </p>
-          </li>
-        ))}
+        {filtered.map((t) => {
+          const highlighted = t.id === highlightId;
+          return (
+            <li
+              key={t.id}
+              id={termAnchorId(t.id)}
+              tabIndex={highlighted ? -1 : undefined}
+              aria-current={highlighted ? "true" : undefined}
+              className={`scroll-mt-24 rounded-2xl border bg-white p-4 shadow-sm outline-none dark:bg-slate-900 ${
+                highlighted
+                  ? "border-indigo-400 ring-2 ring-indigo-300 dark:border-indigo-500 dark:ring-indigo-700"
+                  : "border-slate-200 dark:border-slate-800"
+              }`}
+            >
+              <h3 className="font-semibold text-slate-900 dark:text-slate-100">{t.term}</h3>
+              <p className="mt-1 text-sm text-slate-700 dark:text-slate-300">
+                <span className="font-medium text-indigo-600 dark:text-indigo-400">EN </span>
+                {t.meaningEn}
+              </p>
+              <p className="mt-1 text-sm text-slate-700 dark:text-slate-300" lang="hi">
+                <span className="font-medium text-indigo-600 dark:text-indigo-400" lang="en">HI </span>
+                {t.meaningHi}
+              </p>
+            </li>
+          );
+        })}
         {filtered.length === 0 && (
           <li className="text-slate-500 dark:text-slate-400">No matching terms.</li>
         )}
