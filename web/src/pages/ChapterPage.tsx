@@ -1,8 +1,15 @@
 import { lazy, Suspense, useState } from "react";
 import { Link, useParams, useSearchParams } from "react-router-dom";
-import { getChapter, getMCQs, getQA, getSections } from "../lib/content";
+import {
+  getChapter,
+  getChapterTerms,
+  getMCQs,
+  getQA,
+  getSections,
+} from "../lib/content";
 import ExamQA from "../features/ExamQA";
 import MCQQuiz from "../features/MCQQuiz";
+import TermList from "../components/TermList";
 
 // MindMap pulls in markmap + d3 (heavy); lazy-load so it code-splits out of
 // the initial bundle and only loads when the Mind Map tab is opened.
@@ -16,6 +23,7 @@ const TABS = [
   "Practice (MCQ)",
   "Exam Q&A",
   "Sections",
+  "Dictionary",
 ] as const;
 type Tab = (typeof TABS)[number];
 
@@ -47,6 +55,7 @@ export default function ChapterPage() {
   const sections = getSections(chapter.id);
   const qa = getQA(chapter.id);
   const mcqs = getMCQs(chapter.id);
+  const terms = getChapterTerms(chapter.id);
 
   return (
     <div>
@@ -183,6 +192,25 @@ export default function ChapterPage() {
               </li>
             ))}
           </ul>
+        )}
+        {tab === "Dictionary" && (
+          <div className="max-w-3xl">
+            <div className="mb-4 rounded-xl bg-indigo-50 p-3 text-sm text-indigo-800 ring-1 ring-indigo-200">
+              📖 Terms relevant to this chapter, in English and Hindi. For all
+              terms across the book, see the{" "}
+              <Link to="/dictionary" className="font-semibold underline">
+                full Dictionary
+              </Link>
+              .
+            </div>
+            {terms.length > 0 ? (
+              <TermList terms={terms} />
+            ) : (
+              <p className="text-slate-500">
+                No dictionary terms linked to this chapter yet.
+              </p>
+            )}
+          </div>
         )}
       </div>
     </div>

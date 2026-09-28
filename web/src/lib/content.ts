@@ -69,3 +69,13 @@ export function getDictionary(): DictionaryTerm[] {
 export function getTerm(id: string): DictionaryTerm | undefined {
   return dictionary.find((t) => t.id === id);
 }
+
+// Terms relevant to a chapter: any dictionary term linked to a section that
+// belongs to this chapter. Derived from data (relatedSections) so it scales
+// automatically as chapters and terms are added — no manual duplication.
+export function getChapterTerms(chapterId: string): DictionaryTerm[] {
+  const sectionIds = new Set(getSections(chapterId).map((s) => s.id));
+  return dictionary.filter((t) =>
+    t.relatedSections.some((sid) => sectionIds.has(sid)),
+  );
+}
