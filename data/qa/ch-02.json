@@ -3,42 +3,42 @@
     "id": "qa-ch02-1",
     "chapterId": "ch-02",
     "question": "List the kinds of punishment provided under Section 4 of the BNS. What is the notable addition compared to the IPC?",
-    "modelAnswer": "Section 4 provides: (a) death; (b) imprisonment for life; (c) imprisonment, which is rigorous (with hard labour) or simple; (d) forfeiture of property; (e) fine; and (f) community service. The notable addition is community service, which is recognised as a punishment for the first time and did not appear as a listed punishment under the IPC.",
+    "modelAnswer": "Section 4 provides: (a) death; (b) imprisonment for life; (c) imprisonment, which is of two descriptions — rigorous (with hard labour) or simple; (d) forfeiture of property; (e) fine; and (f) community service. The notable addition is community service, which is recognised as a punishment for the first time and did not appear in the IPC's list. It can be imposed only where a particular offence provides for it — for example, under the proviso to s.303(2) a first-time offender who steals property worth less than ₹5,000 and returns it is punished with community service.",
     "difficulty": "basic"
   },
   {
     "id": "qa-ch02-2",
     "chapterId": "ch-02",
-    "question": "What is commutation of sentence under Section 5, and whose consent is required?",
-    "modelAnswer": "Commutation is the replacement of a punishment with a different, usually lesser, one. Under Section 5, the appropriate Government may commute any punishment to any other punishment, following the procedure in Section 474 of the BNSS. Importantly, the offender's consent is not required.",
-    "difficulty": "basic"
+    "question": "What is commutation of sentence under Section 5, who is the 'appropriate Government', and whose consent is required?",
+    "modelAnswer": "Commutation is the replacement of one punishment with another. Under Section 5, the appropriate Government may commute any punishment under the Sanhita to any other punishment, in accordance with Section 474 of the BNSS, and the offender's consent is not required. The Explanation defines the appropriate Government: (a) the Central Government where the sentence is a sentence of death, or is for an offence against a law on a matter to which the executive power of the Union extends; and (b) the Government of the State within which the offender is sentenced, where the sentence (whether of death or not) is for an offence against a law on a matter to which the executive power of the State extends.",
+    "difficulty": "medium"
   },
   {
     "id": "qa-ch02-3",
     "chapterId": "ch-02",
     "question": "For the purpose of calculating fractions of terms of punishment, how is imprisonment for life reckoned?",
-    "modelAnswer": "Under Section 6, when calculating fractions of terms of punishment, imprisonment for life is reckoned as equivalent to imprisonment for twenty years.",
+    "modelAnswer": "Under Section 6, in calculating fractions of terms of punishment, imprisonment for life is reckoned as equivalent to imprisonment for twenty years, unless otherwise provided. The words 'unless otherwise provided' are new in the BNS. The rule is only for calculation — for example, where a provision allows one-half of a punishment of life imprisonment, the maximum works out to ten years — and it does not reduce an actual life sentence to twenty years.",
     "difficulty": "basic"
   },
   {
     "id": "qa-ch02-4",
     "chapterId": "ch-02",
     "question": "Explain the limits on solitary confinement under Sections 11 and 12.",
-    "modelAnswer": "Solitary confinement can only be ordered where the offence carries power to impose rigorous imprisonment, and the total must not exceed three months (Section 11). In execution (Section 12), it can never exceed fourteen days at a time, with intervals between periods at least as long as the periods themselves. Where the imprisonment awarded exceeds three months, solitary confinement must not exceed seven days in any one month, again with equal intervals. These limits reflect the recognised harm that prolonged solitary confinement causes.",
+    "modelAnswer": "Under Section 11, solitary confinement can be ordered only where the court has power to sentence the offender to rigorous imprisonment, and only for a portion of the sentence not exceeding three months in the whole, on this scale: up to one month if the imprisonment does not exceed six months; up to two months if it exceeds six months but not one year; and up to three months if it exceeds one year. Section 12 governs execution: solitary confinement can never exceed fourteen days at a time, with intervals between periods at least as long as the periods themselves; and where the imprisonment awarded exceeds three months, it must not exceed seven days in any one month, again with equal intervals. These limits reflect the recognised harm of prolonged isolation.",
     "difficulty": "medium"
   },
   {
     "id": "qa-ch02-5",
     "chapterId": "ch-02",
     "question": "When can a court impose imprisonment in default of payment of a fine, and how is its length limited (Section 8)?",
-    "modelAnswer": "Where an offender is sentenced to a fine, the court may order a term of imprisonment to take effect if the fine is not paid. The length of this default imprisonment is capped and scaled to the amount of the fine. Where no maximum fine is stated by law, the fine is unlimited but must not be excessive. The default imprisonment ends if the fine is paid or levied, and paying a proportional part shortens it correspondingly.",
-    "difficulty": "medium"
+    "modelAnswer": "Where no maximum fine is stated, the fine is unlimited but must not be excessive (s.8(1)). Whenever an offender is sentenced to a fine, the court may direct that in default of payment he shall suffer imprisonment for a certain term, in excess of any other imprisonment (s.8(2)). If the offence is punishable with imprisonment as well as fine, the default term cannot exceed one-fourth of the maximum imprisonment fixed for the offence (s.8(3)), and it may be of any description allowed for the offence (s.8(4)). If the offence is punishable with fine or community service, the default imprisonment must be simple and cannot exceed two months where the fine is up to ₹5,000, four months where it is up to ₹10,000, and one year in any other case (s.8(5)). Default imprisonment ends when the fine is paid or levied, and a proportional part-payment ends it early (s.8(6)). An unpaid fine may be levied within six years of sentence, or longer if the offender is liable to imprisonment for more than six years, and the offender's death does not free property liable for his debts (s.8(7)).",
+    "difficulty": "hard"
   },
   {
     "id": "qa-ch02-6",
     "chapterId": "ch-02",
     "question": "What is the effect of a previous conviction under Section 13 (enhanced punishment)?",
-    "modelAnswer": "Under Section 13, a person previously convicted of a qualifying serious offence under the specified chapters, who is again convicted of a like offence, may be subjected to enhanced punishment for the repeat offence — up to imprisonment for life, or imprisonment of either description up to ten years. The prior conviction is what triggers the heavier sentence.",
+    "modelAnswer": "Section 13 applies where a person, having been convicted by a Court in India of an offence under Chapter X (coins, currency-notes, bank-notes and Government stamps) or Chapter XVII (offences against property) punishable with imprisonment of either description for three years or more, is again guilty of an offence under either of those Chapters punishable with like imprisonment for the like term. For every such subsequent offence he is liable to imprisonment for life, or to imprisonment of either description for up to ten years. The enhancement does not apply to repeat offences under other chapters.",
     "difficulty": "medium"
   }
 ]

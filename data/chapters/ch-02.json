@@ -21,17 +21,17 @@
       "sectionIds": ["s-9", "s-10", "s-11", "s-12", "s-13"]
     }
   ],
-  "summary": "Chapter II of the Bharatiya Nyaya Sanhita, 2023 lays down the punishments a court may impose and the rules that control how those punishments operate. It is important to understand what this chapter is and is not: it does not create offences or tell you which acts are crimes — that work is done across the later chapters of the code. Instead, Chapter II supplies the sentencing toolkit that every one of those later chapters draws upon. When a section elsewhere says an offender \"shall be punished with imprisonment\" or \"with fine,\" it is the definitions and rules in this chapter that give those words precise meaning.\n\nSection 4 opens the chapter by listing the kinds of punishment: death; imprisonment for life; imprisonment (which is of two descriptions — rigorous, meaning with hard labour, and simple); forfeiture of property; fine; and community service. The inclusion of community service is the headline reform of this chapter, because it is recognised as a punishment in its own right for the first time, reflecting a shift towards reformative and less purely punitive sentencing for minor offences.\n\nThe remaining sections are a set of operating rules. Section 5 preserves the power of the appropriate Government to commute (replace) a punishment with a different one, without needing the offender's consent, following the procedure set out in the Bharatiya Nagarik Suraksha Sanhita. Section 6 fixes a crucial interpretive rule: whenever a fraction of a term has to be calculated, imprisonment for life is treated as twenty years — a rule that matters constantly when other provisions speak of \"half\" or \"one-third\" of a sentence. Section 7 gives the court discretion, where imprisonment may be of either description, to make it wholly rigorous, wholly simple, or partly each. Section 8 governs fines: where no maximum is fixed the fine is unlimited but must not be excessive, and the court may order imprisonment in default of payment, subject to caps that scale with the size of the fine.\n\nSections 9 and 10 deal with overlapping and uncertain offences — limiting punishment where one act is made up of several offences, and directing that where it is doubtful which of several offences a person committed, the lowest punishment applies. Sections 11 and 12 tightly control solitary confinement: it can only be ordered where the offence carries rigorous imprisonment, is capped at three months in total, and can never exceed fourteen days at a stretch, with equal intervals in between and a monthly cap for longer sentences — limits that reflect a clear recognition of the serious psychological harm that isolation causes. Finally, Section 13 allows enhanced punishment for certain repeat offenders, so that a prior conviction for a serious offence can lead to a heavier sentence — up to life or up to ten years — for a later like offence. Mastering this chapter gives a student the vocabulary and the rules of sentencing that underpin the entire code.",
+  "summary": "Chapter II of the Bharatiya Nyaya Sanhita, 2023 lays down the punishments a court may impose and the rules that control how those punishments operate. It is important to understand what this chapter is and is not: it does not create offences or tell you which acts are crimes — that work is done across the later chapters of the code. Instead, Chapter II supplies the sentencing toolkit that every one of those later chapters draws upon. When a section elsewhere says an offender \"shall be punished with imprisonment\" or \"with fine,\" it is the definitions and rules in this chapter that give those words precise meaning.\n\nSection 4 opens the chapter by listing the kinds of punishment: death; imprisonment for life; imprisonment (which is of two descriptions — rigorous, meaning with hard labour, and simple); forfeiture of property; fine; and community service. The inclusion of community service is the headline reform of this chapter, because it is recognised as a punishment in its own right for the first time, reflecting a shift towards reformative and less purely punitive sentencing for minor offences.\n\nThe remaining sections are a set of operating rules. Section 5 preserves the power of the appropriate Government to commute (replace) a punishment with a different one, without needing the offender's consent, following the procedure set out in the Bharatiya Nagarik Suraksha Sanhita. Section 6 fixes a crucial interpretive rule: whenever a fraction of a term has to be calculated, imprisonment for life is treated as twenty years — a rule that matters constantly when other provisions speak of \"half\" or \"one-third\" of a sentence. Section 7 gives the court discretion, where imprisonment may be of either description, to make it wholly rigorous, wholly simple, or partly each. Section 8 governs fines: where no maximum is fixed the fine is unlimited but must not be excessive, and the court may order imprisonment in default of payment, subject to caps that scale with the size of the fine.\n\nSections 9 and 10 deal with overlapping and uncertain offences — limiting punishment where one act is made up of several offences, and directing that where it is doubtful which of several offences a person committed, the lowest punishment applies. Sections 11 and 12 tightly control solitary confinement: it can only be ordered where the court has power to impose rigorous imprisonment, is capped at three months in total on a sliding scale tied to the length of the sentence, and can never exceed fourteen days at a stretch, with equal intervals in between and a monthly cap of seven days for sentences over three months — limits that reflect a clear recognition of the serious psychological harm that isolation causes. Finally, Section 13 allows enhanced punishment for certain repeat offenders: a person already convicted by an Indian court of an offence under Chapter X (coins, currency and stamps) or Chapter XVII (offences against property) carrying three years or more, who commits another such offence, can be sentenced to imprisonment for life or up to ten years. Mastering this chapter gives a student the vocabulary and the rules of sentencing that underpin the entire code.",
   "keyPoints": [
     {
       "point": "Section 4 — Kinds of punishment (the core list)",
       "subPoints": [
         "Death — the most severe punishment, reserved for the gravest offences",
-        "Imprisonment for life — imprisonment for the remainder of natural life",
+        "Imprisonment for life",
         "Imprisonment — rigorous (with hard labour) or simple (without)",
         "Forfeiture of property — loss of specified property to the State",
         "Fine — a monetary penalty",
-        "Community service — newly recognised in BNS; unpaid work for the community's benefit"
+        "Community service — newly recognised in BNS; only where an offence provides for it (e.g. ss.202, 209, 303(2), 355, 356(2))"
       ]
     },
     {
@@ -40,15 +40,16 @@
         "The appropriate Government may commute any punishment to any other punishment",
         "The offender's consent is NOT required",
         "It follows the procedure in s.474 of the BNSS",
-        "Commutation means substituting a lighter punishment for a heavier one"
+        "Central Government: death sentences, and offences under laws on Union matters",
+        "State Government (where sentenced): offences under laws on State matters"
       ]
     },
     {
       "point": "Section 6 — Fractions of terms of punishment",
       "subPoints": [
         "When calculating a fraction of a term, life imprisonment counts as twenty years",
-        "This is only a rule of calculation — it does not shorten actual life imprisonment",
-        "Frequently applied when other sections refer to a part of a sentence"
+        "Applies 'unless otherwise provided' (words new in BNS)",
+        "Only a rule of calculation — it does not shorten actual life imprisonment"
       ]
     },
     {
@@ -63,63 +64,71 @@
       "point": "Section 8 — Fine and imprisonment in default",
       "subPoints": [
         "Where no maximum is fixed, the fine is unlimited but must not be excessive",
-        "The court may impose imprisonment if the fine is not paid (default imprisonment)",
-        "Default imprisonment is capped and scaled to the amount of the fine",
-        "It ends if the fine is paid or levied; part-payment reduces it proportionally"
+        "The court may order imprisonment if the fine is not paid, on top of any other sentence",
+        "Offence with imprisonment and fine: default term ≤ one-fourth of the maximum imprisonment",
+        "Fine or community service offences: simple imprisonment ≤ 2 months (≤ ₹5,000), 4 months (≤ ₹10,000), 1 year otherwise",
+        "Ends when the fine is paid or levied; part-payment shortens it proportionally",
+        "Unpaid fine can be levied within six years (longer if the prison term is longer), even from the estate after death"
       ]
     },
     {
       "point": "Sections 9 & 10 — Overlapping and doubtful offences",
       "subPoints": [
-        "s.9 — where one act is made of several offences, punish for only one unless expressly provided",
+        "s.9(1) — an offence made up of parts that are offences: punish for only one, unless expressly provided",
+        "s.9(2) — one act within several definitions, or several acts combining into a different offence: no heavier punishment than for any one of them",
         "s.10 — where it is doubtful which of several offences was committed, apply the lowest punishment"
       ]
     },
     {
       "point": "Sections 11 & 12 — Solitary confinement and its limits",
       "subPoints": [
-        "s.11 — only where the offence carries rigorous imprisonment; total capped at three months",
+        "s.11 — only where the court can impose rigorous imprisonment; total capped at three months",
+        "s.11 scale — ≤1 month (term ≤6 months), ≤2 months (6 months–1 year), ≤3 months (over 1 year)",
         "s.12 — never more than 14 days at a time, with intervals at least as long",
-        "s.12 — for sentences over three months, at most 7 days of solitary confinement per month",
-        "The strict limits reflect the psychological harm of prolonged isolation"
+        "s.12 — for sentences over three months, at most 7 days of solitary confinement in any one month"
       ]
     },
     {
       "point": "Section 13 — Enhanced punishment after previous conviction",
       "subPoints": [
-        "A prior conviction for a qualifying serious offence can trigger a heavier sentence",
-        "For a later like offence: up to imprisonment for life, or up to ten years",
-        "Targets repeat/habitual offenders"
+        "Previous conviction by a Court in India under Chapter X or Chapter XVII, punishable with 3 years or more",
+        "A later offence under either Chapter with like imprisonment for the like term",
+        "Enhanced punishment: imprisonment for life, or up to ten years of either description",
+        "Chapter X covers coins, currency and stamps; Chapter XVII covers offences against property"
       ]
     }
   ],
   "fastRevision": [
     "Chapter II is about HOW punishment works, not which acts are crimes.",
     "s.4 lists 6 kinds of punishment: death, life imprisonment, imprisonment, forfeiture of property, fine, community service.",
-    "Community service is the NEW punishment introduced by BNS.",
+    "Community service is the NEW punishment introduced by BNS — only for offences that provide for it.",
     "Imprisonment is of two descriptions: rigorous (hard labour) and simple.",
     "s.5 — Government can commute a punishment without the offender's consent.",
     "Commutation follows s.474 BNSS.",
-    "s.6 — for calculating fractions of terms, life imprisonment = 20 years.",
+    "s.5 Explanation — Central Govt for death sentences and Union matters; State Govt (where sentenced) for State matters.",
+    "s.6 — for calculating fractions of terms, life imprisonment = 20 years, unless otherwise provided.",
     "s.6 does not reduce actual life imprisonment — it is only a calculation rule.",
     "s.7 — court may make 'either description' imprisonment wholly rigorous, wholly simple, or partly each.",
-    "s.8 — if no maximum fine is fixed, fine is unlimited but must not be excessive.",
-    "s.8 — court may order imprisonment in default of paying the fine.",
-    "Default imprisonment is capped and scaled to the fine amount.",
-    "Default imprisonment ends when the fine is paid or levied.",
+    "s.8(1) — if no maximum fine is fixed, fine is unlimited but must not be excessive.",
+    "s.8(2) — court may order imprisonment in default of paying the fine.",
+    "s.8(3) — offence with imprisonment and fine: default term ≤ one-fourth of maximum imprisonment.",
+    "s.8(5) — fine/community service offences: default simple imprisonment ≤ 2 months (≤ ₹5,000), 4 months (≤ ₹10,000), 1 year otherwise.",
+    "s.8(6) — default imprisonment ends when the fine is paid or levied.",
+    "s.8(7) — unpaid fine can be levied within 6 years, even from the estate after death.",
     "s.9 — one act made of several offences = punished for only one, unless expressly provided.",
     "s.10 — if doubtful which offence, punish for the one with the lowest punishment.",
-    "s.11 — solitary confinement only where offence carries rigorous imprisonment.",
+    "s.11 — solitary confinement only where the court can impose rigorous imprisonment.",
     "s.11 — total solitary confinement capped at 3 months.",
     "s.12 — solitary confinement never more than 14 days at a time.",
     "s.12 — intervals between solitary confinement must be at least as long as the periods.",
     "s.12 — for imprisonment over 3 months: max 7 days of solitary confinement in any one month.",
-    "s.13 — enhanced punishment for repeat offenders after a previous conviction.",
+    "s.13 — enhanced punishment for repeat offenders after a previous conviction by a Court in India.",
+    "s.13 — applies only to Chapter X (coins/currency/stamps) and Chapter XVII (property) offences of 3 years or more.",
     "s.13 — repeat like offence can mean up to life or up to 10 years.",
     "IPC mapping: s.4≈53, s.5≈54-55, s.6≈57, s.7≈60, s.8≈63-70, s.9≈71, s.10≈72, s.11≈73, s.12≈74, s.13≈75.",
     "Death and life imprisonment are the two most severe punishments listed.",
     "Forfeiture of property means specified property passes to the State as punishment."
   ],
-  "mindMap": "# Ch. II — Of Punishments\n## Kinds of punishment (s.4)\n- Death\n- Imprisonment for life\n- Imprisonment\n  - Rigorous (hard labour)\n  - Simple\n- Forfeiture of property\n- Fine\n- Community service (NEW)\n## Commutation (s.5)\n- Death → any other punishment\n- Life → lesser term\n- No consent needed\n## Terms & fines\n- Fraction of a term: life = 20 yrs (s.6)\n- Either-description imprisonment (s.7)\n- Fine & default imprisonment (s.8)\n## Overlapping offences\n- Made of several offences (s.9)\n- Doubtful which offence (s.10)\n## Solitary confinement\n- Only with rigorous imprisonment (s.11)\n- Total max 3 months (s.11)\n- Max 14 days at a time (s.12)\n- Max 7 days/month if > 3 months (s.12)\n## Repeat offenders\n- Enhanced punishment (s.13)\n- Up to life or 10 years",
+  "mindMap": "# Ch. II — Of Punishments\n## Kinds of punishment (s.4)\n- Death\n- Imprisonment for life\n- Imprisonment\n  - Rigorous (hard labour)\n  - Simple\n- Forfeiture of property\n- Fine\n- Community service (NEW)\n## Commutation (s.5)\n- Any punishment → any other punishment\n- No consent needed\n- Procedure: s.474 BNSS\n- Central Govt: death / Union matters\n- State Govt: State matters\n## Terms & fines\n- Fraction of a term: life = 20 yrs, unless otherwise provided (s.6)\n- Either-description imprisonment (s.7)\n- Fine & default imprisonment (s.8)\n  - Default ≤ 1/4 of max term\n  - Fine-only: 2 / 4 / 12 months\n  - Levy within 6 years\n## Overlapping offences\n- Made of several offences (s.9)\n- Doubtful which offence (s.10)\n## Solitary confinement\n- Only where rigorous imprisonment possible (s.11)\n- Total max 3 months (s.11)\n- Max 14 days at a time (s.12)\n- Max 7 days/month if > 3 months (s.12)\n## Repeat offenders (s.13)\n- Previous conviction: Ch. X or XVII, 3+ yrs\n- Up to life or 10 years",
   "lastVerified": "2026-09-28"
 }

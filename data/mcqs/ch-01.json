@@ -28,10 +28,15 @@
   {
     "id": "mcq-ch01-3",
     "chapterId": "ch-01",
-    "question": "Under the general explanations, a child below what age can never commit an offence?",
-    "options": ["Under six years", "Under seven years", "Under ten years", "Under twelve years"],
+    "question": "Under Section 3(3), property in the possession of a person's spouse, clerk or servant, on account of that person, is treated as—",
+    "options": [
+      "Abandoned property",
+      "In the possession of that person",
+      "Jointly owned by both",
+      "In the possession of the State"
+    ],
     "correctIndex": 1,
-    "explanation": "Nothing is an offence which is done by a child under seven years of age. A child aged 7-12 has only qualified immunity depending on maturity of understanding."
+    "explanation": "Section 3(3): when property is in the possession of a person's spouse, clerk or servant, on account of that person, it is in that person's possession within the meaning of the Sanhita. A temporary or one-off clerk or servant also counts."
   },
   {
     "id": "mcq-ch01-4",

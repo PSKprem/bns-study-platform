@@ -21,7 +21,7 @@
       "sectionIds": ["s-3"]
     }
   ],
-  "summary": "Chapter I is the foundation of the Bharatiya Nyaya Sanhita, 2023. It does not create offences; instead it sets up how the whole code is named, when and where it applies, what its key words mean, and the general rules for interpreting it.\n\nSection 1 gives the Act its short title (\"Bharatiya Nyaya Sanhita, 2023\"), lets the Central Government bring it into force by notification (allowing different dates for different provisions), and fixes its reach. Every person is liable to punishment under the Sanhita for offences committed within India (territorial application). It also extends beyond India (extraterritorial application) to offences by any citizen of India anywhere in the world, by any person on a ship or aircraft registered in India wherever it may be, and — importantly and newly — to any person anywhere who targets a computer resource located in India. A savings clause preserves special and local laws and laws punishing mutiny/desertion in the armed forces.\n\nSection 2 is effectively a glossary: it defines the key terms used throughout the code — words like \"act,\" \"dishonestly,\" \"fraudulently,\" \"document,\" \"good faith,\" \"public servant,\" \"movable property,\" \"gender,\" and many more. Because these definitions apply across every later chapter, they are best treated as a dictionary rather than a single section, and are surfaced through the platform's Dictionary feature.\n\nSection 3 sets out general explanations — the interpretive rules that apply throughout the Sanhita. These include how words importing the masculine gender or the singular number are to be read, and the rule on the age of criminal responsibility (nothing is an offence done by a child under seven; and a child above seven and under twelve is not liable if of immature understanding). Together, Sections 1–3 are the lens through which every other offence in the code is read.",
+  "summary": "Chapter I is the foundation of the Bharatiya Nyaya Sanhita, 2023. It does not create offences; instead it sets up how the whole code is named, when and where it applies, what its key words mean, and the general rules for reading it.\n\nSection 1 gives the Act its short title (\"Bharatiya Nyaya Sanhita, 2023\"), lets the Central Government bring it into force by notification (allowing different dates for different provisions), and fixes its reach. Every person is liable to punishment under the Sanhita for offences committed within India (territorial application). It also reaches beyond India (extraterritorial application) to offences by any citizen of India anywhere in the world, by any person on a ship or aircraft registered in India wherever it may be, and — newly — to any person anywhere who commits an offence targeting a computer resource located in India. A savings clause leaves laws on mutiny and desertion in the armed forces, and special and local laws, untouched.\n\nSection 2 is effectively a glossary of 39 clauses. It defines the key terms used throughout the code — words like \"act,\" \"child,\" \"dishonestly,\" \"fraudulently,\" \"document\" (which now expressly includes electronic and digital records), \"good faith,\" \"gender,\" \"number,\" \"public servant\" and \"movable property\" — and its last clause says that words not defined here take the meaning given in the Information Technology Act, 2000 or the Bharatiya Nagarik Suraksha Sanhita, 2023. Because these definitions apply across every later chapter, they are best studied as a dictionary.\n\nSection 3 sets out the general explanations — the reading rules for the whole code, in nine sub-sections. Every offence is to be read subject to the General Exceptions in Chapter III, even though those exceptions are not repeated in each section. An expression explained in one part means the same everywhere. Property held by a person's spouse, clerk or servant on that person's account counts as in that person's possession, and words referring to acts also cover illegal omissions. The rest of the section governs liability when several people are involved: common intention makes each person liable as if he acted alone; an offence can be committed partly by an act and partly by an omission; whoever intentionally does one of several acts that together make up an offence commits it; and people taking part in the same criminal act can still be guilty of different offences depending on their own state of mind.\n\nNote for exams: the age of criminal responsibility (a child under seven, and a child between seven and twelve of immature understanding) is not in Chapter I. It is in sections 20 and 21, among the General Exceptions in Chapter III.",
   "keyPoints": [
     {
       "point": "Section 1 — Short title, commencement and application",
@@ -36,28 +36,32 @@
       ]
     },
     {
-      "point": "Section 2 — Definitions (a 40-clause glossary)",
+      "point": "Section 2 — Definitions (a 39-clause glossary)",
       "subPoints": [
         "Fixes the meaning of key terms used throughout the code",
-        "'child' = a person below eighteen years of age",
-        "'dishonestly' = intending wrongful gain to one or wrongful loss to another",
-        "'fraudulently' = doing a thing with intent to defraud",
-        "'good faith' = done with due care and attention (not mere honesty)",
-        "'movable property' = all property except land and things attached to the earth",
-        "'person' includes a company or association, incorporated or not",
-        "'gender': the pronoun 'he' applies to male, female or transgender",
-        "Undefined terms take meanings from the IT Act, 2000 or the BNSS, 2023"
+        "'child' = a person below eighteen years of age (clause 3)",
+        "'dishonestly' = doing anything intending wrongful gain to one or wrongful loss to another (clause 7)",
+        "'document' now expressly includes electronic and digital records (clause 8)",
+        "'fraudulently' = doing anything with the intention to defraud, but not otherwise (clause 9)",
+        "'gender': the pronoun 'he' applies to male, female or transgender (clause 10)",
+        "'good faith' = done with due care and attention, not mere honesty (clause 11)",
+        "'number': singular includes plural and plural includes singular (clause 22)",
+        "'person' includes a company or association, incorporated or not (clause 26)",
+        "Undefined terms take meanings from the IT Act, 2000 or the BNSS, 2023 (clause 39)"
       ]
     },
     {
-      "point": "Section 3 — General explanations",
+      "point": "Section 3 — General explanations (nine sub-sections)",
       "subPoints": [
-        "The General Exceptions apply throughout, even where a section does not repeat them",
-        "An illustration explains a section but does not limit its scope",
-        "Gender: 'he' applies to any gender; Number: singular includes plural and vice versa",
-        "Common intention: each person acting together is liable as for his own act",
-        "Age of criminal responsibility: nothing done by a child under 7 is an offence",
-        "A child above 7 and under 12 of immature understanding is not liable"
+        "(1) Every offence is read subject to the General Exceptions, even though they are not repeated",
+        "(2) An expression explained in one part has the same meaning throughout",
+        "(3) Property held by a spouse, clerk or servant on your account is in your possession",
+        "(4) Words referring to acts also cover illegal omissions",
+        "(5) Common intention: each person is liable as if he did the act alone",
+        "(6) Joint act needing criminal knowledge/intention: each joiner with it is liable",
+        "(7) Causing an effect partly by act, partly by omission is the same offence",
+        "(8) Intentionally doing any one of several acts making up an offence = committing it",
+        "(9) People in the same criminal act may be guilty of different offences"
       ]
     }
   ],
@@ -73,28 +77,32 @@
     "s.1 — 'offence' (for extraterritorial reach) includes acts abroad that would be punishable if done in India.",
     "s.1 — Illustration: an Indian citizen who commits murder abroad can be tried in India.",
     "s.1 — savings clause: does not affect army/navy/air-force mutiny-desertion laws or special/local laws.",
-    "s.2 — Definitions: a glossary of key terms used across the whole code.",
-    "s.2 — includes act, dishonestly, fraudulently, document, good faith, public servant, movable property, gender, etc.",
-    "s.2 — 'child' means a person below 18 years of age.",
-    "s.2 — 'dishonestly' = intent to cause wrongful gain to one or wrongful loss to another.",
-    "s.2 — 'fraudulently' = doing a thing with intent to defraud.",
-    "s.2 — 'good faith' = done with due care and attention (not mere honesty).",
-    "s.2 — 'movable property' = all property except land and things attached to the earth.",
-    "s.2 — 'person' includes a company/association, incorporated or not.",
-    "s.2 — 'voluntarily' covers effects intended or known to be likely.",
-    "s.2 — 'wrongful gain' = gain of property one is not legally entitled to; 'wrongful loss' = loss of property one is entitled to.",
-    "s.2 — 'reason to believe' = sufficient cause to believe a thing.",
-    "s.2 — undefined terms take meanings from the IT Act, 2000 or the BNSS, 2023.",
-    "s.2 definitions apply throughout the Sanhita, not just one chapter.",
-    "s.3 — General explanations: interpretive rules applying throughout the code.",
-    "s.3 — General Exceptions apply throughout, even where a section does not repeat them.",
-    "s.3 — an illustration explains a section but does not limit its scope.",
-    "s.3 — words importing the masculine gender apply to any gender.",
-    "s.3 — age of criminal responsibility: nothing done by a child under 7 is an offence.",
-    "s.3 — a child above 7 and under 12 of immature understanding is not liable.",
-    "Chapter I corresponds broadly to the opening/preliminary provisions of the old IPC.",
+    "s.2 — Definitions: a 39-clause glossary used across the whole code.",
+    "s.2(3) — 'child' means a person below 18 years of age.",
+    "s.2(7) — 'dishonestly' = intent to cause wrongful gain to one or wrongful loss to another.",
+    "s.2(8) — 'document' includes electronic and digital records.",
+    "s.2(9) — 'fraudulently' = doing anything with the intention to defraud, but not otherwise.",
+    "s.2(10) — 'gender': 'he' is used of any person — male, female or transgender.",
+    "s.2(11) — 'good faith' = done with due care and attention (not mere honesty).",
+    "s.2(21) — 'movable property' = all property except land and things attached to the earth.",
+    "s.2(22) — 'number': singular includes plural, and plural includes singular.",
+    "s.2(26) — 'person' includes a company/association, incorporated or not.",
+    "s.2(33) — 'voluntarily' covers effects intended, or known/believed to be likely.",
+    "s.2(36)-(37) — 'wrongful gain' = gain of property one is not entitled to; 'wrongful loss' = loss of property one is entitled to.",
+    "s.2(29) — 'reason to believe' = sufficient cause to believe a thing.",
+    "s.2(39) — undefined terms take meanings from the IT Act, 2000 or the BNSS, 2023.",
+    "s.3 — General explanations: nine reading rules applying throughout the code.",
+    "s.3(1) — every offence is read subject to the General Exceptions, though not repeated.",
+    "s.3(2) — an expression explained anywhere means the same everywhere.",
+    "s.3(3) — property held by a spouse, clerk or servant on your account is in your possession.",
+    "s.3(4) — 'acts' include illegal omissions.",
+    "s.3(5) — common intention: each is liable as if he acted alone.",
+    "s.3(7) — an offence can be caused partly by act and partly by omission.",
+    "s.3(8) — doing one of several acts that make up an offence = committing it.",
+    "s.3(9) — people in the same act can be guilty of different offences.",
+    "Age of criminal responsibility is NOT in Chapter I — it is in ss.20-21 (General Exceptions).",
     "Understanding s.2 and s.3 helps you interpret every later offence correctly."
   ],
-  "mindMap": "# Ch. I — Preliminary\n## Title, commencement, application (s.1)\n- Short title: BNS, 2023\n- Central Govt notifies commencement\n- Territorial: offences within India\n- Extraterritorial\n  - Any citizen of India, anywhere\n  - Ship/aircraft registered in India\n  - Targeting a computer resource in India (new)\n- Savings: armed forces + special/local laws\n## Definitions (s.2)\n- Glossary of key terms\n- act, dishonestly, fraudulently\n- document, good faith\n- public servant, movable property, gender\n- Applies across the whole code\n## General explanations (s.3)\n- Interpretive rules\n- Gender / number reading\n- Age of criminal responsibility\n  - Under 7: no offence\n  - 7-12 & immature understanding: not liable",
+  "mindMap": "# Ch. I — Preliminary\n## Title, commencement, application (s.1)\n- Short title: BNS, 2023\n- Central Govt notifies commencement\n- Territorial: offences within India\n- Extraterritorial\n  - Any citizen of India, anywhere\n  - Ship/aircraft registered in India\n  - Targeting a computer resource in India (new)\n- Savings: armed forces + special/local laws\n## Definitions (s.2)\n- 39-clause glossary\n- act, child, dishonestly, fraudulently\n- document (incl. electronic records), good faith\n- gender, number, person, public servant\n- Undefined terms: IT Act / BNSS\n## General explanations (s.3)\n- Read subject to General Exceptions\n- Same meaning throughout\n- Possession via spouse/clerk/servant\n- Acts include illegal omissions\n- Group liability\n  - Common intention\n  - Joint criminal knowledge/intention\n  - Partly act, partly omission\n  - Co-operation by several acts\n  - Different offences, same act",
   "lastVerified": "2026-09-28"
 }

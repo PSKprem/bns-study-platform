@@ -23,9 +23,9 @@
   {
     "id": "qa-ch01-4",
     "chapterId": "ch-01",
-    "question": "State the rule on the criminal responsibility of children under the general explanations in Chapter I.",
-    "modelAnswer": "Nothing is an offence which is done by a child under seven years of age. Further, nothing is an offence done by a child above seven years of age and under twelve years of age who has not attained sufficient maturity of understanding to judge the nature and consequences of his conduct on that occasion. Thus, a child under seven has complete immunity, while a child between seven and twelve has qualified immunity depending on maturity.",
-    "difficulty": "medium"
+    "question": "Explain the rule of common intention and joint liability under Section 3 of the BNS, with the official illustrations.",
+    "modelAnswer": "Section 3(5) provides that when a criminal act is done by several persons in furtherance of the common intention of all, each of them is liable for that act as if he had done it alone. Section 3(6) extends this to acts that are criminal only because of a particular knowledge or intention: each person who joins in the act with that knowledge or intention is liable as if he had done it alone with it. Section 3(8) adds that when an offence is committed by several acts, whoever intentionally co-operates by doing any one of them commits the offence — for example, where A and B each give Z small doses of poison under an agreement to murder him, both are guilty of murder. Finally, Section 3(9) makes clear that people engaged in the same criminal act may be guilty of different offences: if A kills Z under grave provocation (culpable homicide not amounting to murder) while B, who was not provoked and intends to kill, assists him, B is guilty of murder and A only of culpable homicide. Note: the age of criminal responsibility is not part of Section 3 — it is in Sections 20 and 21 (General Exceptions).",
+    "difficulty": "hard"
   },
   {
     "id": "qa-ch01-5",
@@ -51,8 +51,8 @@
   {
     "id": "qa-ch01-8",
     "chapterId": "ch-01",
-    "question": "Explain the general explanations in Section 3 regarding illustrations and the general exceptions.",
-    "modelAnswer": "Section 3 explains that the 'General Exceptions' apply throughout the Sanhita even where a particular penal provision does not repeat them — so every offence must be read subject to those exceptions. It also clarifies that an illustration attached to a section is meant to help explain the provision but does not limit or exhaust its scope. These rules ensure the code is read consistently and that exceptions and explanatory illustrations operate uniformly across all chapters.",
+    "question": "Explain Section 3(1) to (4) of the BNS: reading offences subject to the General Exceptions, consistent meaning, possession, and omissions.",
+    "modelAnswer": "Section 3(1) says every definition of an offence, every penal provision and every illustration must be understood subject to the General Exceptions in Chapter III, even though those exceptions are not repeated. Its illustrations show this: offence definitions do not say a child under seven cannot commit them, yet the general exception for children still applies; and a police officer who arrests a murderer without warrant commits no wrongful confinement because he was bound by law to do so. Section 3(2) says an expression explained in any part of the Sanhita carries that meaning throughout. Section 3(3) treats property held by a person's spouse, clerk or servant on that person's account as being in that person's possession (including a temporary clerk or servant). Section 3(4) says words referring to acts also extend to illegal omissions, unless the context shows otherwise. Together these rules make the code read consistently across all chapters.",
     "difficulty": "hard"
   }
 ]
