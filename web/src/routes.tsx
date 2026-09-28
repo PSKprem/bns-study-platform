@@ -1,7 +1,24 @@
+import { lazy, Suspense } from "react";
 import { createBrowserRouter } from "react-router-dom";
 import Layout from "./components/Layout";
 import Home from "./pages/Home";
-import Placeholder from "./pages/Placeholder";
+
+// Route-level code splitting: each page becomes its own chunk, keeping the
+// initial load small (tech-performance rules).
+const ChapterPage = lazy(() => import("./pages/ChapterPage"));
+const SectionPage = lazy(() => import("./pages/SectionPage"));
+const DictionaryPage = lazy(() => import("./pages/DictionaryPage"));
+const FlashcardsPage = lazy(() => import("./pages/FlashcardsPage"));
+const SearchPage = lazy(() => import("./pages/SearchPage"));
+const Placeholder = lazy(() => import("./pages/Placeholder"));
+
+function Lazy({ children }: { children: React.ReactNode }) {
+  return (
+    <Suspense fallback={<p className="text-sm text-slate-500">Loading…</p>}>
+      {children}
+    </Suspense>
+  );
+}
 
 export const router = createBrowserRouter(
   [
@@ -10,12 +27,54 @@ export const router = createBrowserRouter(
       element: <Layout />,
       children: [
         { index: true, element: <Home /> },
-        { path: "chapter/:id", element: <Placeholder title="Chapter" /> },
-        { path: "section/:id", element: <Placeholder title="Section" /> },
-        { path: "dictionary", element: <Placeholder title="Dictionary" /> },
-        { path: "flashcards", element: <Placeholder title="Flashcards" /> },
-        { path: "search", element: <Placeholder title="Search" /> },
-        { path: "*", element: <Placeholder title="Page not found" /> },
+        {
+          path: "chapter/:id",
+          element: (
+            <Lazy>
+              <ChapterPage />
+            </Lazy>
+          ),
+        },
+        {
+          path: "section/:id",
+          element: (
+            <Lazy>
+              <SectionPage />
+            </Lazy>
+          ),
+        },
+        {
+          path: "dictionary",
+          element: (
+            <Lazy>
+              <DictionaryPage />
+            </Lazy>
+          ),
+        },
+        {
+          path: "flashcards",
+          element: (
+            <Lazy>
+              <FlashcardsPage />
+            </Lazy>
+          ),
+        },
+        {
+          path: "search",
+          element: (
+            <Lazy>
+              <SearchPage />
+            </Lazy>
+          ),
+        },
+        {
+          path: "*",
+          element: (
+            <Lazy>
+              <Placeholder title="Page not found" />
+            </Lazy>
+          ),
+        },
       ],
     },
   ],

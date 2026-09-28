@@ -1,0 +1,263 @@
+[
+  {
+    "id": "s-4",
+    "chapterId": "ch-02",
+    "number": "4",
+    "title": "Punishments",
+    "bareActText": "The punishments to which offenders are liable under the provisions of this Sanhita are— (a) Death; (b) Imprisonment for life; (c) Imprisonment, which is of two descriptions, namely:— (1) Rigorous, that is, with hard labour; (2) Simple; (d) Forfeiture of property; (e) Fine; (f) Community service.",
+    "plainMeaning": "This section is the menu of punishments a court can hand down under BNS. The headline change from the old law is that community service now appears as a recognised punishment in its own right.",
+    "ingredients": [
+      "Punishment must be one of the kinds listed in this section",
+      "Imprisonment is either rigorous (with hard labour) or simple",
+      "Community service is newly listed as a punishment"
+    ],
+    "punishment": "Not applicable — this section defines the kinds of punishment rather than an offence.",
+    "classification": null,
+    "ipcReference": {
+      "section": "53 IPC",
+      "changeNote": "Corresponds broadly to s.53 IPC; community service is newly added as a listed punishment."
+    },
+    "illustrations": [],
+    "termRefs": ["community-service", "rigorous-imprisonment", "simple-imprisonment"],
+    "verification": {
+      "status": "unverified",
+      "source": "Draft from commentary reference; pending cross-check against the official BNS 2023 Gazette."
+    },
+    "lastVerified": "pending"
+  },
+  {
+    "id": "s-5",
+    "chapterId": "ch-02",
+    "number": "5",
+    "title": "Commutation of sentence",
+    "bareActText": "The appropriate Government may, without the consent of the offender, commute any punishment under this Sanhita to any other punishment in accordance with section 474 of the Bharatiya Nagarik Suraksha Sanhita, 2023.",
+    "plainMeaning": "The Government can replace a punishment with a different (lesser) one without needing the offender's agreement, following the procedure in the BNSS. This is the power of commutation.",
+    "ingredients": [
+      "Power lies with the appropriate Government",
+      "No consent of the offender is required",
+      "Commutation follows the procedure in s.474 BNSS"
+    ],
+    "punishment": "Not applicable — this section confers a power to commute, not a punishment.",
+    "classification": null,
+    "ipcReference": {
+      "section": "54, 55 IPC",
+      "changeNote": "Consolidates the commutation powers previously in ss.54-55 IPC and links them to the BNSS procedure."
+    },
+    "illustrations": [],
+    "termRefs": ["commutation", "appropriate-government"],
+    "verification": {
+      "status": "unverified",
+      "source": "Draft from commentary reference; pending cross-check against the official BNS 2023 Gazette."
+    },
+    "lastVerified": "pending"
+  },
+  {
+    "id": "s-6",
+    "chapterId": "ch-02",
+    "number": "6",
+    "title": "Fractions of terms of punishment",
+    "bareActText": "In calculating fractions of terms of punishment, imprisonment for life shall be reckoned as equivalent to imprisonment for twenty years.",
+    "plainMeaning": "When a rule needs a fraction of a sentence to be worked out, life imprisonment is treated as twenty years for that calculation.",
+    "ingredients": [
+      "Applies when calculating a fraction of a term",
+      "Life imprisonment counts as twenty years for that purpose"
+    ],
+    "punishment": "Not applicable — this is a rule of calculation.",
+    "classification": null,
+    "ipcReference": {
+      "section": "57 IPC",
+      "changeNote": "Corresponds to s.57 IPC; retained without substantive change."
+    },
+    "illustrations": [],
+    "termRefs": ["imprisonment-for-life"],
+    "verification": {
+      "status": "unverified",
+      "source": "Draft from commentary reference; pending cross-check against the official BNS 2023 Gazette."
+    },
+    "lastVerified": "pending"
+  },
+  {
+    "id": "s-7",
+    "chapterId": "ch-02",
+    "number": "7",
+    "title": "Sentence may be (in certain cases of imprisonment) wholly or partly rigorous or simple",
+    "bareActText": "In every case in which an offender is punishable with imprisonment which may be of either description, it shall be competent to the Court which sentences such offender to direct in the sentence that such imprisonment shall be wholly rigorous, or that such imprisonment shall be wholly simple, or that any part of such imprisonment shall be rigorous and the rest simple.",
+    "plainMeaning": "Where an offence allows imprisonment 'of either description', the court chooses the mix: all rigorous, all simple, or partly each.",
+    "ingredients": [
+      "The offence must be punishable with imprisonment of either description",
+      "The court may direct the imprisonment to be wholly rigorous, wholly simple, or partly each"
+    ],
+    "punishment": "Not applicable — this is a sentencing power.",
+    "classification": null,
+    "ipcReference": {
+      "section": "60 IPC",
+      "changeNote": "Corresponds to s.60 IPC; retained without substantive change."
+    },
+    "illustrations": [],
+    "termRefs": ["rigorous-imprisonment", "simple-imprisonment", "either-description"],
+    "verification": {
+      "status": "unverified",
+      "source": "Draft from commentary reference; pending cross-check against the official BNS 2023 Gazette."
+    },
+    "lastVerified": "pending"
+  },
+  {
+    "id": "s-8",
+    "chapterId": "ch-02",
+    "number": "8",
+    "title": "Amount of fine, liability in default of payment of fine, etc.",
+    "bareActText": "Where no sum is expressed to which a fine may extend, the amount of fine to which the offender is liable is unlimited, but shall not be excessive. In every case of an offence punishable with imprisonment as well as fine, in which the offender is sentenced to a fine, with or without imprisonment, the Court may impose a term of imprisonment in default of payment of the fine, subject to the limits specified in this section. (Summarised; see the Gazette for the full sub-clauses.)",
+    "plainMeaning": "This section governs fines: when the law fixes no maximum, the fine is unlimited but must not be excessive. It also lets a court order imprisonment if the fine is not paid, and caps how long that default imprisonment can be, scaled to the size of the fine.",
+    "ingredients": [
+      "Where no maximum is stated, the fine is unlimited but not excessive",
+      "The court may set imprisonment in default of paying the fine",
+      "Default imprisonment is capped and scaled to the amount of the fine",
+      "Default imprisonment ends if the fine is paid or levied"
+    ],
+    "punishment": "Not applicable — this governs fines and default imprisonment rather than defining an offence.",
+    "classification": null,
+    "ipcReference": {
+      "section": "63-70 IPC",
+      "changeNote": "Consolidates ss.63-70 IPC into a single section on fines and default imprisonment."
+    },
+    "illustrations": [
+      "If a person is fined and given a default term, paying enough of the fine proportionally shortens or ends the default imprisonment."
+    ],
+    "termRefs": ["fine", "default-imprisonment"],
+    "verification": {
+      "status": "unverified",
+      "source": "Draft/summary from commentary reference; full sub-clauses pending cross-check against the official BNS 2023 Gazette."
+    },
+    "lastVerified": "pending"
+  },
+  {
+    "id": "s-9",
+    "chapterId": "ch-02",
+    "number": "9",
+    "title": "Limit of punishment of offence made up of several offences",
+    "bareActText": "Where anything which is an offence is made up of parts, any of which is itself an offence, the offender shall not be punished with the punishment of more than one of such his offences, unless it be so expressly provided. (Refer to the Gazette for the full text and related sub-rules on offences falling within several definitions or made up of several offences.)",
+    "plainMeaning": "If one act is really made up of several smaller offences, the offender is generally not punished separately for each part — only once — unless the law expressly says otherwise.",
+    "ingredients": [
+      "One offence is made up of parts that are themselves offences",
+      "Punishment is limited to one of those offences",
+      "Unless the law expressly provides for more"
+    ],
+    "punishment": "Not applicable — this limits punishment where offences overlap.",
+    "classification": null,
+    "ipcReference": {
+      "section": "71 IPC",
+      "changeNote": "Corresponds to s.71 IPC on the limit of punishment for compound offences."
+    },
+    "illustrations": [],
+    "termRefs": [],
+    "verification": {
+      "status": "unverified",
+      "source": "Draft/summary from commentary reference; pending cross-check against the official BNS 2023 Gazette."
+    },
+    "lastVerified": "pending"
+  },
+  {
+    "id": "s-10",
+    "chapterId": "ch-02",
+    "number": "10",
+    "title": "Punishment of person guilty of one of several offences, the judgment stating that it is doubtful of which",
+    "bareActText": "In all cases in which judgment is given that a person is guilty of one of several offences specified in the judgment, but that it is doubtful of which of these offences he is guilty, the offender shall be punished for the offence for which the lowest punishment is provided if the same punishment is not provided for all. (Refer to the Gazette for the full text.)",
+    "plainMeaning": "If a court is sure the person committed one of several listed offences but cannot say which, it punishes for the offence carrying the lowest punishment (where the punishments differ).",
+    "ingredients": [
+      "The person is guilty of one of several specified offences",
+      "It is doubtful which one",
+      "Punishment is for the offence with the lowest punishment, if they differ"
+    ],
+    "punishment": "Not applicable — this is a rule for uncertain findings.",
+    "classification": null,
+    "ipcReference": {
+      "section": "72 IPC",
+      "changeNote": "Corresponds to s.72 IPC."
+    },
+    "illustrations": [],
+    "termRefs": [],
+    "verification": {
+      "status": "unverified",
+      "source": "Draft/summary from commentary reference; pending cross-check against the official BNS 2023 Gazette."
+    },
+    "lastVerified": "pending"
+  },
+  {
+    "id": "s-11",
+    "chapterId": "ch-02",
+    "number": "11",
+    "title": "Solitary confinement",
+    "bareActText": "Whenever any person is convicted of an offence for which under this Sanhita the Court has power to sentence him to rigorous imprisonment, the Court may, by its sentence, order that the offender shall be kept in solitary confinement for any portion or portions of the imprisonment to which he is sentenced, not exceeding three months in the whole, according to the scale set out in this section. (Refer to the Gazette for the full scale.)",
+    "plainMeaning": "Solitary confinement can only be ordered where the offence allows rigorous imprisonment, and only up to a total of three months, spread according to a set scale tied to the length of the sentence.",
+    "ingredients": [
+      "The offence must carry power to impose rigorous imprisonment",
+      "Solitary confinement is limited to three months in total",
+      "It is imposed according to the scale in the section"
+    ],
+    "punishment": "Not applicable — this is a limited sentencing power.",
+    "classification": null,
+    "ipcReference": {
+      "section": "73 IPC",
+      "changeNote": "Corresponds to s.73 IPC."
+    },
+    "illustrations": [],
+    "termRefs": ["solitary-confinement", "rigorous-imprisonment"],
+    "verification": {
+      "status": "unverified",
+      "source": "Draft/summary from commentary reference; pending cross-check against the official BNS 2023 Gazette."
+    },
+    "lastVerified": "pending"
+  },
+  {
+    "id": "s-12",
+    "chapterId": "ch-02",
+    "number": "12",
+    "title": "Limit of solitary confinement",
+    "bareActText": "In executing a sentence of solitary confinement, such confinement shall in no case exceed fourteen days at a time, with intervals between the periods of solitary confinement of not less duration than such periods; and when the imprisonment awarded shall exceed three months, the solitary confinement shall not exceed seven days in any one month of the whole imprisonment awarded, with intervals between the periods of solitary confinement of not less duration than such periods.",
+    "plainMeaning": "Even when solitary confinement is ordered, it can never run more than 14 days at a stretch, and must be separated by gaps at least as long. For sentences over three months, it is capped at seven days in any single month.",
+    "ingredients": [
+      "Solitary confinement must not exceed 14 days at a time",
+      "Intervals between periods must be at least as long as the periods",
+      "For imprisonment over three months, no more than 7 days of solitary confinement in any one month"
+    ],
+    "punishment": "Not applicable — this caps how solitary confinement is executed.",
+    "classification": null,
+    "ipcReference": {
+      "section": "74 IPC",
+      "changeNote": "Corresponds to s.74 IPC; retained without change in language."
+    },
+    "illustrations": [],
+    "termRefs": ["solitary-confinement"],
+    "verification": {
+      "status": "unverified",
+      "source": "Draft from commentary reference (text quoted); pending cross-check against the official BNS 2023 Gazette."
+    },
+    "lastVerified": "pending"
+  },
+  {
+    "id": "s-13",
+    "chapterId": "ch-02",
+    "number": "13",
+    "title": "Enhanced punishment for certain offences after previous conviction",
+    "bareActText": "Whoever, having been convicted of an offence punishable under Chapter X or Chapter XVII of this Sanhita with imprisonment of either description for a term of three years or upwards, shall be guilty of any offence punishable under either of those Chapters with like imprisonment for the like term, shall be subject for every such subsequent offence to imprisonment for life, or to imprisonment of either description for a term which may extend to ten years. (Refer to the Gazette for the full text.)",
+    "plainMeaning": "A repeat offender who is convicted again of a serious offence under the specified chapters can face a heavier punishment — up to life imprisonment or up to ten years — because of the prior conviction.",
+    "ingredients": [
+      "A prior conviction under the specified chapters carrying 3 years or more",
+      "A later offence of the like kind under those chapters",
+      "Enhanced punishment: up to life, or up to ten years"
+    ],
+    "punishment": "Enhanced: imprisonment for life, or imprisonment of either description up to ten years, for the qualifying repeat offence.",
+    "classification": null,
+    "ipcReference": {
+      "section": "75 IPC",
+      "changeNote": "Corresponds to s.75 IPC on enhanced punishment after a previous conviction."
+    },
+    "illustrations": [],
+    "termRefs": ["enhanced-punishment", "previous-conviction"],
+    "verification": {
+      "status": "unverified",
+      "source": "Draft/summary from commentary reference; pending cross-check against the official BNS 2023 Gazette."
+    },
+    "lastVerified": "pending"
+  }
+]

@@ -1,4 +1,9 @@
+import { Link } from "react-router-dom";
+import { getChapters } from "../lib/content";
+
 export default function Home() {
+  const chapters = getChapters();
+
   return (
     <div>
       <h1 className="text-2xl font-bold text-slate-900">
@@ -12,10 +17,29 @@ export default function Home() {
 
       <section className="mt-8">
         <h2 className="text-lg font-semibold text-slate-800">Course Map</h2>
-        <p className="mt-1 text-sm text-slate-500">
-          Chapters will appear here. First milestone: Chapter II — Of
-          Punishments.
-        </p>
+        <ul className="mt-3 grid gap-3 sm:grid-cols-2">
+          {chapters.map((c) => (
+            <li key={c.id}>
+              <Link
+                to={`/chapter/${c.id}`}
+                className="block rounded-lg border border-slate-200 bg-white p-4 transition-colors hover:border-indigo-300 hover:bg-indigo-50/40"
+              >
+                <div className="flex items-baseline justify-between">
+                  <span className="text-sm font-semibold text-indigo-700">
+                    Chapter {c.number}
+                  </span>
+                  <span className="text-xs text-slate-400">
+                    s.{c.sectionRange}
+                  </span>
+                </div>
+                <h3 className="mt-1 font-semibold text-slate-900">{c.title}</h3>
+                <p className="mt-1 text-sm text-slate-600">
+                  {c.shortDescription}
+                </p>
+              </Link>
+            </li>
+          ))}
+        </ul>
       </section>
     </div>
   );

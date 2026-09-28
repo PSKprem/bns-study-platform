@@ -1,0 +1,86 @@
+[
+  {
+    "id": "community-service",
+    "term": "Community service",
+    "meaningEn": "Unpaid work a convicted person is ordered to do for the benefit of the community, newly recognised as a punishment under BNS.",
+    "meaningHi": "समुदाय सेवा — दोषी व्यक्ति को समाज के हित में करने के लिए दिया गया बिना वेतन का कार्य, जिसे BNS में पहली बार दंड के रूप में मान्यता दी गई है।",
+    "relatedSections": ["s-4"]
+  },
+  {
+    "id": "rigorous-imprisonment",
+    "term": "Rigorous imprisonment",
+    "meaningEn": "Imprisonment served with hard labour.",
+    "meaningHi": "कठोर कारावास — कठोर श्रम (मेहनत का काम) के साथ भोगा जाने वाला कारावास।",
+    "relatedSections": ["s-4", "s-7", "s-11"]
+  },
+  {
+    "id": "simple-imprisonment",
+    "term": "Simple imprisonment",
+    "meaningEn": "Imprisonment served without any requirement of hard labour.",
+    "meaningHi": "साधारण कारावास — बिना किसी कठोर श्रम के भोगा जाने वाला कारावास।",
+    "relatedSections": ["s-4", "s-7"]
+  },
+  {
+    "id": "either-description",
+    "term": "Imprisonment of either description",
+    "meaningEn": "A punishment provision that allows the imprisonment to be either rigorous or simple, at the court's direction.",
+    "meaningHi": "किसी भी प्रकार का कारावास — ऐसा प्रावधान जिसमें न्यायालय के निर्देश पर कारावास कठोर या साधारण, कोई भी हो सकता है।",
+    "relatedSections": ["s-7"]
+  },
+  {
+    "id": "imprisonment-for-life",
+    "term": "Imprisonment for life",
+    "meaningEn": "Imprisonment for the remainder of the convicted person's natural life; reckoned as twenty years only when calculating fractions of terms.",
+    "meaningHi": "आजीवन कारावास — दोषी के शेष प्राकृतिक जीवन तक का कारावास; केवल अवधि के अंश की गणना के लिए इसे बीस वर्ष माना जाता है।",
+    "relatedSections": ["s-4", "s-6"]
+  },
+  {
+    "id": "commutation",
+    "term": "Commutation",
+    "meaningEn": "Replacing a punishment with a different, usually lighter, one by order of the appropriate Government.",
+    "meaningHi": "दंड परिवर्तन (कम्युटेशन) — उपयुक्त सरकार के आदेश से किसी दंड को किसी अन्य, प्रायः हल्के, दंड से बदल देना।",
+    "relatedSections": ["s-5"]
+  },
+  {
+    "id": "appropriate-government",
+    "term": "Appropriate Government",
+    "meaningEn": "The Central or State Government that has authority over the matter, as defined by law.",
+    "meaningHi": "उपयुक्त सरकार — विधि द्वारा परिभाषित, उस विषय पर अधिकार रखने वाली केंद्र या राज्य सरकार।",
+    "relatedSections": ["s-5"]
+  },
+  {
+    "id": "fine",
+    "term": "Fine",
+    "meaningEn": "A sum of money a convicted person is ordered to pay as punishment; unlimited where no maximum is fixed, but not excessive.",
+    "meaningHi": "जुर्माना — दंड के रूप में दोषी व्यक्ति द्वारा देय धनराशि; जहाँ कोई अधिकतम सीमा तय नहीं है वहाँ असीमित, पर अत्यधिक नहीं।",
+    "relatedSections": ["s-8"]
+  },
+  {
+    "id": "default-imprisonment",
+    "term": "Imprisonment in default",
+    "meaningEn": "Imprisonment a court orders to take effect if a fine is not paid; its length is capped and scaled to the fine.",
+    "meaningHi": "व्यतिक्रम में कारावास — जुर्माना न चुकाने पर लागू होने वाला कारावास; इसकी अवधि सीमित होती है और जुर्माने के अनुपात में तय होती है।",
+    "relatedSections": ["s-8"]
+  },
+  {
+    "id": "solitary-confinement",
+    "term": "Solitary confinement",
+    "meaningEn": "Keeping a prisoner isolated from all others; under BNS it is tightly limited in duration and how it may be imposed.",
+    "meaningHi": "एकांत कारावास — कैदी को अन्य सभी से अलग रखना; BNS के अंतर्गत इसकी अवधि और लागू करने के तरीके पर कड़ी सीमाएँ हैं।",
+    "relatedSections": ["s-11", "s-12"]
+  },
+  {
+    "id": "enhanced-punishment",
+    "term": "Enhanced punishment",
+    "meaningEn": "A heavier punishment that may be imposed on a repeat offender because of a previous conviction.",
+    "meaningHi": "वर्धित दंड — पूर्व दोषसिद्धि के कारण किसी पुनरावृत्ति अपराधी पर लगाया जा सकने वाला भारी दंड।",
+    "relatedSections": ["s-13"]
+  },
+  {
+    "id": "previous-conviction",
+    "term": "Previous conviction",
+    "meaningEn": "An earlier conviction that can trigger a heavier sentence for a later, similar offence.",
+    "meaningHi": "पूर्व दोषसिद्धि — पहले हुई दोषसिद्धि जो बाद के समान अपराध के लिए भारी दंड का आधार बन सकती है।",
+    "relatedSections": ["s-13"]
+  }
+]

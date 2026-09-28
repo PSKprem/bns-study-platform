@@ -1,0 +1,69 @@
+{
+  "id": "ch-02",
+  "number": "II",
+  "title": "Of Punishments",
+  "sectionRange": "4-13",
+  "shortDescription": "The kinds of punishment BNS allows and the rules that govern how they are imposed.",
+  "subHeadings": [
+    {
+      "id": "kinds",
+      "label": "Kinds of punishment",
+      "sectionIds": ["s-4", "s-5", "s-6", "s-7"]
+    },
+    {
+      "id": "fine-and-default",
+      "label": "Fine and imprisonment in default",
+      "sectionIds": ["s-8"]
+    },
+    {
+      "id": "special-terms",
+      "label": "Special rules on terms",
+      "sectionIds": ["s-9", "s-10", "s-11", "s-12", "s-13"]
+    }
+  ],
+  "summary": "Chapter II sets out the punishments a court can impose under the Bharatiya Nyaya Sanhita and the mechanics that control them. It is not about which acts are crimes (that is the rest of the code) but about the toolkit of sentences and the rules for applying them. Section 4 lists the kinds of punishment, and notably adds community service as a recognised punishment for the first time. Later sections deal with how life imprisonment or the death sentence may be commuted, how a fraction of a term is calculated, when consecutive sentences apply, the rules and limits around solitary confinement, and the enhanced punishment that can follow a repeat conviction. Understanding this chapter gives a student the vocabulary of sentencing that every later offence chapter relies on.",
+  "keyPoints": [
+    {
+      "point": "Section 4 lists the kinds of punishment",
+      "subPoints": [
+        "Death",
+        "Imprisonment for life",
+        "Imprisonment (rigorous or simple)",
+        "Forfeiture of property",
+        "Fine",
+        "Community service (newly recognised in BNS)"
+      ]
+    },
+    {
+      "point": "Commutation lets the appropriate Government reduce a sentence",
+      "subPoints": [
+        "A death sentence may be commuted to any other punishment (s.5)",
+        "Life imprisonment may be commuted to a lesser term (s.5)"
+      ]
+    },
+    {
+      "point": "Rules that control how terms work",
+      "subPoints": [
+        "How a fraction of a term of punishment is calculated (s.6)",
+        "Where an offence is punishable with imprisonment of either description (s.7)",
+        "Fine amount, and imprisonment imposed in default of paying a fine (s.8)"
+      ]
+    },
+    {
+      "point": "Solitary confinement is tightly limited",
+      "subPoints": [
+        "Only where the offence allows rigorous imprisonment (s.10)",
+        "Limit on how much solitary confinement may be imposed (s.11)",
+        "It cannot exceed 14 days at a time, with equal intervals; capped per month for longer sentences (s.12)"
+      ]
+    },
+    {
+      "point": "Repeat offenders can face enhanced punishment",
+      "subPoints": [
+        "Enhanced punishment for certain repeat offences after a prior conviction (s.13)"
+      ]
+    }
+  ],
+  "mindMap": "# Ch. II — Of Punishments\n## Kinds of punishment (s.4)\n- Death\n- Imprisonment for life\n- Imprisonment (rigorous / simple)\n- Forfeiture of property\n- Fine\n- Community service (new)\n## Commutation (s.5)\n- Death → any other punishment\n- Life → lesser term\n## Terms & fines\n- Fraction of a term (s.6)\n- Either-description imprisonment (s.7)\n- Fine & default imprisonment (s.8)\n## Solitary confinement\n- When allowed (s.10)\n- Limit on amount (s.11)\n- Max 14 days at a time (s.12)\n## Repeat offenders\n- Enhanced punishment (s.13)",
+  "lastVerified": "pending"
+}
