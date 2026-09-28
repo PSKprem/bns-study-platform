@@ -1,0 +1,179 @@
+{
+  "id": "ch-03",
+  "number": "III",
+  "title": "General Exceptions",
+  "sectionRange": "14-44",
+  "shortDescription": "The defences: when an act that looks like an offence is not one — mistake, accident, necessity, childhood, unsoundness of mind, intoxication, consent, duress, and the right of private defence.",
+  "subHeadings": [
+    {
+      "id": "law-and-mistake",
+      "label": "Acts under law and mistake of fact",
+      "sectionIds": ["s-14", "s-15", "s-16", "s-17"]
+    },
+    {
+      "id": "accident-necessity",
+      "label": "Accident and necessity",
+      "sectionIds": ["s-18", "s-19"]
+    },
+    {
+      "id": "incapacity",
+      "label": "Childhood, unsoundness of mind and intoxication",
+      "sectionIds": ["s-20", "s-21", "s-22", "s-23", "s-24"]
+    },
+    {
+      "id": "consent",
+      "label": "Consent and acts for a person's benefit",
+      "sectionIds": ["s-25", "s-26", "s-27", "s-28", "s-29", "s-30"]
+    },
+    {
+      "id": "communication-duress-trifles",
+      "label": "Communication, duress and slight harm",
+      "sectionIds": ["s-31", "s-32", "s-33"]
+    },
+    {
+      "id": "private-defence-general",
+      "label": "Of right of private defence — general rules",
+      "sectionIds": ["s-34", "s-35", "s-36", "s-37"]
+    },
+    {
+      "id": "private-defence-body",
+      "label": "Of right of private defence — body",
+      "sectionIds": ["s-38", "s-39", "s-40"]
+    },
+    {
+      "id": "private-defence-property",
+      "label": "Of right of private defence — property and innocent persons",
+      "sectionIds": ["s-41", "s-42", "s-43", "s-44"]
+    }
+  ],
+  "summary": "Chapter III contains the General Exceptions — the defences of criminal law. Section 3(1) makes every offence in the Sanhita subject to them, even though they are not repeated in each offence. So whenever a set of facts seems to fit an offence, the next question is always: does a general exception apply?\n\nThe exceptions fall into two broad groups. Some make the act itself lawful or excusable, whoever does it: acts done by a person bound by law, or justified by law, including through a good-faith mistake of fact (ss.14 and 17); a Judge acting judicially and a person carrying out a court's order (ss.15-16); accident in doing a lawful act with proper care (s.18); necessity, where harm is risked in good faith to prevent greater harm (s.19); consent and acts done for a person's benefit (ss.25-31); and harm so slight that no ordinary person would complain (s.33). Others excuse the person because of his condition: a child under seven can never commit an offence (s.20); a child between seven and twelve is not liable if too immature to understand his act (s.21); a person of unsound mind who cannot know the nature of the act or that it is wrong (s.22); involuntary intoxication (s.23); and duress by threat of instant death, which never covers murder or offences against the State punishable with death (s.32). A mistake of law is never an excuse, and voluntary intoxication is not a defence: a drunk person is treated as having the knowledge he would have had if sober (s.24).\n\nConsent has careful limits. An adult (over eighteen) can consent to the risk of harm short of death or grievous hurt (s.25); anyone can consent to a risky act done in good faith for his own benefit, such as surgery, so long as death is not intended (s.26); and a guardian can consent for a child under twelve or a person of unsound mind (s.27). Consent given under fear or misconception, by a person who cannot understand what he is agreeing to, or by a child under twelve, is not valid consent (s.28). Consent never excuses acts that are offences regardless of harm, such as causing miscarriage (s.29). In an emergency, an act can be done for a person's benefit even without consent (s.30), and mere money benefit never counts as 'benefit'.\n\nThe second half of the chapter, under the Gazette's own heading 'Of right of private defence' (ss.34-44), is the most exam-tested part. Everyone may defend his own or another's body against any offence affecting the body, and property against theft, robbery, mischief or criminal trespass (s.35), even against an attacker who is himself not criminally liable, such as a child or a person of unsound mind (s.36). The right has limits: none against a public servant acting in good faith under colour of office unless death or grievous hurt is feared, none when there is time to go to the authorities, and never more harm than necessary (s.37). Defence of the body may extend to causing death only in the seven serious situations in s.38 — including fear of death or grievous hurt, rape, kidnapping and acid attack — and otherwise to any harm short of death (s.39). Defence of property may extend to causing death only against robbery, night-time house-breaking, mischief by fire or explosive on a dwelling, or theft, mischief or house-trespass that threatens death or grievous hurt (s.41), and otherwise to harm short of death (s.42). The right begins with a reasonable apprehension of danger and lasts as long as that danger does (ss.40 and 43), and in a deadly assault it extends to the unavoidable risk of harming an innocent person (s.44).",
+  "keyPoints": [
+    {
+      "point": "The General Exceptions apply to every offence (read with s.3(1))",
+      "subPoints": [
+        "They are defences: if one applies, the act is not an offence",
+        "They are not repeated in each offence, but always apply",
+        "Mistake of fact can excuse; mistake of law never does"
+      ]
+    },
+    {
+      "point": "Acts under law, and mistake of fact (ss.14-17)",
+      "subPoints": [
+        "s.14 — bound by law, or believes so in good faith by mistake of fact",
+        "s.15 — Judge acting judicially within powers he believes in good faith he has",
+        "s.16 — acts under a court's judgment or order while in force, even if the court lacked jurisdiction, if believed in good faith",
+        "s.17 — justified by law, or believes so in good faith by mistake of fact",
+        "s.14 = law requires the act; s.17 = law permits the act"
+      ]
+    },
+    {
+      "point": "Accident and necessity (ss.18-19)",
+      "subPoints": [
+        "s.18 — accident or misfortune while doing a lawful act, lawfully, with proper care; no criminal intent or knowledge",
+        "s.19 — risking harm without criminal intent, in good faith, to prevent other harm to person or property",
+        "s.19 — whether the danger was serious and imminent enough is a question of fact"
+      ]
+    },
+    {
+      "point": "Childhood, unsoundness of mind, intoxication (ss.20-24)",
+      "subPoints": [
+        "s.20 — child under 7: never an offence (absolute)",
+        "s.21 — child above 7 and under 12: not liable if immature on that occasion (qualified)",
+        "s.22 — unsoundness of mind making him incapable of knowing the act's nature, or that it is wrong or unlawful",
+        "s.23 — intoxication only if administered without his knowledge or against his will",
+        "s.24 — voluntary intoxication: treated as having the knowledge of a sober person"
+      ]
+    },
+    {
+      "point": "Consent (ss.25-30)",
+      "subPoints": [
+        "s.25 — person above 18 may consent to harm/risk not intended or known likely to cause death or grievous hurt",
+        "s.26 — consent to acts in good faith for one's benefit; death must not be intended",
+        "s.27 — guardian's consent for a child under 12 or person of unsound mind, with limits",
+        "s.28 — consent is invalid if given under fear or misconception (known to doer), by one who cannot understand, or by a child under 12",
+        "s.29 — consent never excuses acts that are offences independently of harm",
+        "s.30 — emergency acts for a person's benefit without consent; money benefit is not 'benefit'"
+      ]
+    },
+    {
+      "point": "Communication, duress and slight harm (ss.31-33)",
+      "subPoints": [
+        "s.31 — good-faith communication for the person's own benefit",
+        "s.32 — threats causing reasonable fear of instant death; not for murder or offences against the State punishable with death",
+        "s.32 — lost if the person placed himself in that situation voluntarily",
+        "s.33 — harm so slight no person of ordinary sense and temper would complain"
+      ]
+    },
+    {
+      "point": "Private defence — general rules (ss.34-37)",
+      "subPoints": [
+        "s.34 — nothing done in private defence is an offence",
+        "s.35 — body: own or anyone's, against any offence affecting the body",
+        "s.35 — property: own or anyone's, against theft, robbery, mischief, criminal trespass (and attempts)",
+        "s.36 — the right exists even against a child, a person of unsound mind, an intoxicated or mistaken person",
+        "s.37 — no right against a good-faith public servant unless death/grievous hurt feared; none if there is time to seek the authorities; never more harm than necessary"
+      ]
+    },
+    {
+      "point": "Private defence of body (ss.38-40)",
+      "subPoints": [
+        "s.38 — may extend to causing death in seven cases: fear of death; fear of grievous hurt; intent to rape; intent to gratify unnatural lust; intent to kidnap or abduct; wrongful confinement with no recourse to authorities; acid attack",
+        "s.39 — otherwise, any harm short of death",
+        "s.40 — starts with reasonable apprehension of danger; lasts while it continues"
+      ]
+    },
+    {
+      "point": "Private defence of property and innocent persons (ss.41-44)",
+      "subPoints": [
+        "s.41 — may extend to causing death against robbery; house-breaking after sunset and before sunrise; mischief by fire/explosive on a dwelling or storehouse; theft, mischief or house-trespass threatening death or grievous hurt",
+        "s.42 — other theft, mischief or criminal trespass: harm short of death",
+        "s.43 — duration differs for theft, robbery, trespass/mischief and night house-breaking",
+        "s.44 — in a deadly assault, may run the unavoidable risk of harming an innocent person"
+      ]
+    }
+  ],
+  "fastRevision": [
+    "Chapter III = General Exceptions (ss.14-44): the defences of criminal law.",
+    "s.3(1): every offence is read subject to the General Exceptions.",
+    "Mistake of fact in good faith can excuse (ss.14, 17); mistake of law never does.",
+    "s.14 — bound by law; s.17 — justified by law.",
+    "s.15 — Judge acting judicially is protected.",
+    "s.16 — acts under a court order in force are protected, even if the court lacked jurisdiction (good-faith belief).",
+    "s.18 — accident: lawful act, lawful manner, lawful means, proper care, no criminal intent.",
+    "s.19 — necessity: harm risked in good faith to prevent other harm; no criminal intention.",
+    "s.20 — child under 7: absolute immunity.",
+    "s.21 — child 7-12: immunity only if immature on that occasion.",
+    "s.22 — unsoundness of mind: incapable of knowing the act's nature, or that it is wrong or unlawful, at the time of the act.",
+    "s.23 — only involuntary intoxication is a defence.",
+    "s.24 — voluntary intoxication: knowledge of a sober person is presumed.",
+    "s.25 — consent valid only from a person above 18; no death/grievous hurt intended or known likely.",
+    "s.26 — consent to good-faith acts for one's own benefit (e.g. surgery); death must not be intended.",
+    "s.27 — guardian consents for a child under 12 or a person of unsound mind.",
+    "s.28 — consent invalid if given under fear, misconception, incapacity, or by a child under 12.",
+    "s.29 — consent is no defence to offences independent of harm (e.g. miscarriage).",
+    "s.30 — good-faith act for benefit without consent in an emergency.",
+    "Mere pecuniary (money) benefit is not 'benefit' for ss.26, 27 and 30.",
+    "s.31 — good-faith communication for the person's own benefit (e.g. doctor's grave diagnosis).",
+    "s.32 — duress: fear of instant death; excludes murder and offences against the State punishable with death.",
+    "s.32 — no duress defence if you voluntarily joined the gang.",
+    "s.33 — trifles: harm too slight for an ordinary person to complain.",
+    "s.34 — nothing done in private defence is an offence.",
+    "s.35 — defend any person's body; any person's property against theft, robbery, mischief, criminal trespass.",
+    "s.36 — private defence exists even against a child, insane, drunk or mistaken attacker.",
+    "s.37 — no private defence against a good-faith public servant unless death/grievous hurt is feared.",
+    "s.37 — no private defence where there is time to seek public authorities.",
+    "s.37(2) — never more harm than necessary for defence.",
+    "s.38 — body: death may be caused in 7 cases (death, grievous hurt, rape, unnatural lust, kidnapping/abduction, wrongful confinement, acid).",
+    "s.39 — other attacks on body: harm short of death only.",
+    "s.40 — body: starts with reasonable apprehension; lasts while it continues.",
+    "s.41 — property: death may be caused against robbery, night house-breaking, mischief by fire or explosive on a dwelling, or theft/mischief/house-trespass threatening death or grievous hurt.",
+    "s.42 — other theft, mischief, criminal trespass: harm short of death only.",
+    "s.43 — theft: until the thief escapes with the property, help is obtained, or the property is recovered.",
+    "s.43 — robbery: while hurt/restraint is caused or its instant fear lasts.",
+    "s.44 — deadly assault: may risk harm to an innocent person.",
+    "IPC mapping: BNS ss.14-44 = IPC ss.76-106 (BNS number minus 62).",
+    "Burden: the accused must prove the circumstances bringing his case within a General Exception (s.108 BSA, 2023); until then the court presumes they are absent."
+  ],
+  "mindMap": "# Ch. III — General Exceptions\n## Acts under law & mistake (ss.14-17)\n- Bound by law (s.14)\n- Judge acting judicially (s.15)\n- Court order (s.16)\n- Justified by law (s.17)\n- Mistake of fact excuses; mistake of law does not\n## Accident & necessity\n- Accident, lawful act, proper care (s.18)\n- Necessity, prevent other harm (s.19)\n## Incapacity\n- Child under 7 (s.20)\n- Child 7-12, immature (s.21)\n- Unsoundness of mind (s.22)\n- Involuntary intoxication (s.23)\n- Voluntary intoxication: knowledge presumed (s.24)\n## Consent\n- Adult above 18, short of death/GH (s.25)\n- For own benefit, death not intended (s.26)\n- Guardian for child <12 / unsound mind (s.27)\n- Invalid consent (s.28)\n- Offences independent of harm (s.29)\n- Emergency, no consent (s.30)\n## Communication, duress, trifles\n- Good-faith communication (s.31)\n- Threat of instant death (s.32)\n  - Not murder / State offences with death\n- Slight harm (s.33)\n## Private defence (ss.34-44)\n- General\n  - Not an offence (s.34)\n  - Body and property (s.35)\n  - Against insane / child etc. (s.36)\n  - Limits (s.37)\n- Body\n  - Death allowed: 7 cases (s.38)\n  - Otherwise harm short of death (s.39)\n  - Start and duration (s.40)\n- Property\n  - Death allowed: 4 cases (s.41)\n  - Otherwise harm short of death (s.42)\n  - Start and duration (s.43)\n- Risk to innocent person (s.44)",
+  "lastVerified": "2026-09-28"
+}
