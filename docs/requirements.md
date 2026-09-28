@@ -90,6 +90,15 @@ Written as **user stories** + **acceptance criteria** (EARS style: "WHEN … THE
   structured outline (main points with nested sub-points).
 - FR-4.2 THE SYSTEM SHALL keep each point short and scannable.
 
+### 4.4a Fast Revision — per chapter *(added after review)*
+
+> **As a** student, **I want** a list of crisp must-know points, **so that** I can revise a
+> whole chapter quickly right before an exam.
+
+- FR-4a.1 WHEN a user opens a chapter, THE SYSTEM SHALL provide a "Fast Revision" list of
+  short (one–two line) must-know points for that chapter.
+- FR-4a.2 THE SYSTEM SHALL keep this list scannable and revision-oriented (typically 20–50 points).
+
 ### 4.5 Exam Q&A — per chapter (Learn mode + Read mode)
 
 > **As a** student, **I want** exam-style questions with model answers, in a self-test mode
@@ -118,29 +127,36 @@ Written as **user stories** + **acceptance criteria** (EARS style: "WHEN … THE
   (see §6).
 - FR-6.3 THE SYSTEM SHALL link difficult terms in a section to their Dictionary entry.
 
-### 4.7 Dictionary (bilingual: English + Hindi) — global
+### 4.7 Dictionary (bilingual: English + Hindi)
 
 > **As a** student, **I want** hard/legal terms explained simply in English and Hindi, **so
-> that** I can actually understand the material.
+> that** I can actually understand the material — both globally and within the chapter I'm reading.
 
-- FR-7.1 THE SYSTEM SHALL provide a searchable dictionary of difficult/legal terms.
+- FR-7.1 THE SYSTEM SHALL provide a searchable **global dictionary** of difficult/legal terms
+  spanning the whole book.
 - FR-7.2 WHEN a user opens a dictionary term, THE SYSTEM SHALL show its meaning in **both
   English and Hindi**.
 - FR-7.3 WHEN a user searches, THE SYSTEM SHALL match terms in either English or Hindi.
 - FR-7.4 THE SYSTEM SHALL allow linking to a term from within chapter/section content.
+- FR-7.5 WHEN a user is in a chapter, THE SYSTEM SHALL also provide a **per-chapter dictionary**
+  showing only the terms relevant to that chapter *(added after review)*. Chapter-relevant terms
+  are derived from the terms linked to that chapter's sections, so they scale automatically.
 
-### 4.8 Flashcards / Spaced Repetition — global (retention)
+### 4.8 Practice MCQs — per chapter (active testing)
 
-> **As a** student, **I want** flashcards that resurface over time, **so that** I retain what
-> I learn instead of forgetting after cramming.
+> **As a** student, **I want** multiple-choice practice questions with instant feedback, **so
+> that** I can actively test my understanding.
 
-- FR-8.1 THE SYSTEM SHALL provide flashcards (prompt on one side, answer on the other) for
-  chapter content.
-- FR-8.2 WHEN a user reviews a flashcard, THE SYSTEM SHALL let them mark it as known or
-  not-known.
-- FR-8.3 THE SYSTEM SHALL resurface not-known cards more frequently than known cards
-  (basic spaced repetition).
-- FR-8.4 THE SYSTEM SHALL persist a user's flashcard progress locally on their device.
+- FR-8.1 WHEN a user opens the Practice (MCQ) view for a chapter, THE SYSTEM SHALL present
+  multiple-choice questions relevant to that chapter.
+- FR-8.2 WHEN a user selects an option, THE SYSTEM SHALL immediately show whether it is
+  correct and display an explanation.
+- FR-8.3 THE SYSTEM SHALL track the score across the question set and show a result summary.
+- FR-8.4 THE SYSTEM SHALL allow restarting the quiz.
+
+*Note: MCQs replace the originally-planned flashcards/spaced-repetition feature, chosen after
+review because active multiple-choice testing paired with Fast Revision (FR-4a) better serves
+both self-testing and quick revision. Spaced-repetition flashcards may return in a later phase.*
 
 ### 4.9 Search — global
 
@@ -156,6 +172,10 @@ Written as **user stories** + **acceptance criteria** (EARS style: "WHEN … THE
 - FR-10.1 THE SYSTEM SHALL let a user move between chapters and back to the course map from
   any page.
 - FR-10.2 THE SYSTEM SHALL keep a clear, consistent layout across all pages.
+- FR-10.3 WHEN a user opens a section from a chapter, THE SYSTEM SHALL provide a clear
+  "Back to sections" action that returns them to that chapter's Sections view *(added after review)*.
+- FR-10.4 THE SYSTEM SHALL support deep-linking to a specific chapter view via a `?tab=` query
+  parameter *(added after review)*.
 
 ---
 
