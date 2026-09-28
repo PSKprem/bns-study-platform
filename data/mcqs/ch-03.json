@@ -1,0 +1,206 @@
+[
+  {
+    "id": "mcq-ch03-1",
+    "chapterId": "ch-03",
+    "question": "Under Sections 14 and 17 of the BNS, which kind of mistake can protect a person acting in good faith?",
+    "options": ["Mistake of law", "Mistake of fact", "Either mistake of law or of fact", "Neither"],
+    "correctIndex": 1,
+    "explanation": "Both sections protect a good-faith mistake of fact and expressly exclude a mistake of law, since everyone is presumed to know the law."
+  },
+  {
+    "id": "mcq-ch03-2",
+    "chapterId": "ch-03",
+    "question": "A child who is six years old takes another person's property. Under the BNS—",
+    "options": [
+      "He is liable if he understood the act was wrong",
+      "He has committed no offence, whatever his understanding",
+      "His parents are liable instead",
+      "He is liable to a reduced punishment"
+    ],
+    "correctIndex": 1,
+    "explanation": "Section 20: nothing is an offence which is done by a child under seven years of age. The immunity is absolute."
+  },
+  {
+    "id": "mcq-ch03-3",
+    "chapterId": "ch-03",
+    "question": "For a child above seven and under twelve, the defence under Section 21 depends on—",
+    "options": [
+      "The seriousness of the offence",
+      "Whether his parents consented",
+      "Whether he had sufficient maturity to judge the nature and consequences of his conduct on that occasion",
+      "Whether he has a previous conviction"
+    ],
+    "correctIndex": 2,
+    "explanation": "Section 21 gives only qualified immunity: the child is not liable if he had not attained sufficient maturity of understanding to judge the nature and consequences of his conduct on that occasion."
+  },
+  {
+    "id": "mcq-ch03-4",
+    "chapterId": "ch-03",
+    "question": "Intoxication is a complete defence under Section 23 only when—",
+    "options": [
+      "The accused was drunk for the first time",
+      "The intoxicant was administered without his knowledge or against his will, and made him incapable of knowing the nature of the act or that it was wrong",
+      "The offence was minor",
+      "The accused later apologised"
+    ],
+    "correctIndex": 1,
+    "explanation": "Only involuntary intoxication that causes such incapacity is a defence under s.23. For voluntary intoxication, s.24 treats the accused as having the knowledge of a sober person."
+  },
+  {
+    "id": "mcq-ch03-5",
+    "chapterId": "ch-03",
+    "question": "Under Section 25, consent to suffer harm (not intended or known likely to cause death or grievous hurt) is valid only from a person—",
+    "options": ["Above twelve years", "Above sixteen years", "Above eighteen years", "Of any age"],
+    "correctIndex": 2,
+    "explanation": "Section 25 applies to harm to 'any person, above eighteen years of age, who has given consent'."
+  },
+  {
+    "id": "mcq-ch03-6",
+    "chapterId": "ch-03",
+    "question": "A surgeon, with the patient's consent and in good faith for his benefit, performs an operation knowing it may cause death, but not intending death. The patient dies. The surgeon is protected by—",
+    "options": ["Section 18 (accident)", "Section 26", "Section 33 (slight harm)", "No section; he is liable"],
+    "correctIndex": 1,
+    "explanation": "Section 26 protects acts not intended to cause death, done in good faith for a person's benefit with his consent, even if known likely to cause death."
+  },
+  {
+    "id": "mcq-ch03-7",
+    "chapterId": "ch-03",
+    "question": "Which of these is NOT valid consent under Section 28?",
+    "options": [
+      "Consent by an adult who fully understands the risk",
+      "Consent given under fear of injury, which the doer knows",
+      "Implied consent to fair play in a sport between adults",
+      "Written consent to surgery by an adult patient"
+    ],
+    "correctIndex": 1,
+    "explanation": "Section 28(a): consent given under fear of injury or a misconception of fact is not valid if the doer knows, or has reason to believe, it was given because of that fear or misconception."
+  },
+  {
+    "id": "mcq-ch03-8",
+    "chapterId": "ch-03",
+    "question": "The defence of duress under Section 32 is NOT available for—",
+    "options": [
+      "Theft",
+      "Murder and offences against the State punishable with death",
+      "Criminal trespass",
+      "Mischief"
+    ],
+    "correctIndex": 1,
+    "explanation": "Section 32 opens: 'Except murder, and offences against the State punishable with death…'."
+  },
+  {
+    "id": "mcq-ch03-9",
+    "chapterId": "ch-03",
+    "question": "Under Section 32, the threat that excuses an act must reasonably cause apprehension of—",
+    "options": ["Loss of property", "Instant death to that person", "Hurt to a relative", "Loss of employment"],
+    "correctIndex": 1,
+    "explanation": "Duress requires threats that, at the time of doing the act, reasonably cause the apprehension that instant death to that person will otherwise be the consequence."
+  },
+  {
+    "id": "mcq-ch03-10",
+    "chapterId": "ch-03",
+    "question": "Which general exception covers harm so slight that no person of ordinary sense and temper would complain of it?",
+    "options": ["Section 19", "Section 31", "Section 33", "Section 34"],
+    "correctIndex": 2,
+    "explanation": "Section 33 (act causing slight harm) reflects the principle that the law does not concern itself with trifles."
+  },
+  {
+    "id": "mcq-ch03-11",
+    "chapterId": "ch-03",
+    "question": "Under Section 35, the right of private defence of property may be exercised against which offences?",
+    "options": [
+      "Any offence at all",
+      "Theft, robbery, mischief or criminal trespass, or attempts to commit them",
+      "Only robbery",
+      "Only offences committed at night"
+    ],
+    "correctIndex": 1,
+    "explanation": "Section 35(b): property may be defended against theft, robbery, mischief or criminal trespass, or an attempt to commit any of them."
+  },
+  {
+    "id": "mcq-ch03-12",
+    "chapterId": "ch-03",
+    "question": "A person of unsound mind attacks A with a knife. Under Section 36, A—",
+    "options": [
+      "Has no right of private defence, because the attacker commits no offence",
+      "Has the same right of private defence as if the attacker were sane",
+      "Must first inform the police",
+      "May only run away"
+    ],
+    "correctIndex": 1,
+    "explanation": "Section 36 gives the same right of private defence against an act that is not an offence only because of the doer's youth, unsoundness of mind, intoxication or misconception."
+  },
+  {
+    "id": "mcq-ch03-13",
+    "chapterId": "ch-03",
+    "question": "Under Section 37, there is no right of private defence—",
+    "options": [
+      "At night",
+      "Where there is time to have recourse to the protection of the public authorities",
+      "Against a stranger",
+      "When defending another person"
+    ],
+    "correctIndex": 1,
+    "explanation": "Section 37(1)(c): there is no right of private defence in cases in which there is time to have recourse to the protection of the public authorities."
+  },
+  {
+    "id": "mcq-ch03-14",
+    "chapterId": "ch-03",
+    "question": "Which of the following is listed in Section 38 as allowing the right of private defence of the body to extend to causing death?",
+    "options": [
+      "A slap during an argument",
+      "An act of throwing or attempting to throw acid that reasonably causes fear of grievous hurt",
+      "Verbal abuse",
+      "A threat to file a complaint"
+    ],
+    "correctIndex": 1,
+    "explanation": "Section 38(g) covers throwing or administering acid, or attempting it, where it may reasonably cause the apprehension of grievous hurt."
+  },
+  {
+    "id": "mcq-ch03-15",
+    "chapterId": "ch-03",
+    "question": "Under Section 41, the right of private defence of property extends to causing death against—",
+    "options": [
+      "Any theft in daylight",
+      "House-breaking after sunset and before sunrise",
+      "Any criminal trespass",
+      "Cheating"
+    ],
+    "correctIndex": 1,
+    "explanation": "Section 41(b) lists house-breaking after sunset and before sunrise. Ordinary theft or criminal trespass falls under s.42, which allows only harm short of death."
+  },
+  {
+    "id": "mcq-ch03-16",
+    "chapterId": "ch-03",
+    "question": "Under Section 43, the right of private defence of property against theft continues until—",
+    "options": [
+      "The owner feels safe",
+      "The offender has effected his retreat with the property, or public help is obtained, or the property is recovered",
+      "Twenty-four hours have passed",
+      "The offender is convicted"
+    ],
+    "correctIndex": 1,
+    "explanation": "Section 43(b) sets these three end-points for private defence against theft."
+  },
+  {
+    "id": "mcq-ch03-17",
+    "chapterId": "ch-03",
+    "question": "BNS Sections 14 to 44 correspond to which IPC sections?",
+    "options": ["Sections 76 to 106", "Sections 80 to 110", "Sections 53 to 75", "Sections 96 to 106 only"],
+    "correctIndex": 0,
+    "explanation": "The General Exceptions were IPC ss.76-106; each BNS section in Chapter III is the IPC number minus 62 (e.g. BNS s.34 = IPC s.96)."
+  },
+  {
+    "id": "mcq-ch03-18",
+    "chapterId": "ch-03",
+    "question": "Who bears the burden of proving that a case falls within a General Exception?",
+    "options": [
+      "The prosecution",
+      "The accused",
+      "The court",
+      "The victim"
+    ],
+    "correctIndex": 1,
+    "explanation": "Under s.108 of the Bharatiya Sakshya Adhiniyam, 2023, the burden of proving circumstances bringing the case within a General Exception is upon the accused, and the court presumes their absence."
+  }
+]

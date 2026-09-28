@@ -1,0 +1,72 @@
+[
+  {
+    "id": "qa-ch03-1",
+    "chapterId": "ch-03",
+    "question": "What are the General Exceptions, and how do they relate to the offences in the rest of the BNS?",
+    "modelAnswer": "The General Exceptions in Chapter III (ss.14-44) are the defences of criminal law: circumstances in which an act that would otherwise be an offence is not one. Section 3(1) provides that every definition of an offence, every penal provision and every illustration must be understood subject to these exceptions, even though they are not repeated in each section. They fall into two broad groups: acts that are justified or excusable in themselves (acts under law or court order, mistake of fact, accident, necessity, consent, acts for a person's benefit, good-faith communication, trifles and private defence), and conditions of the person that excuse him (childhood, unsoundness of mind, involuntary intoxication and duress). Under s.108 of the Bharatiya Sakshya Adhiniyam, 2023, the burden of proving the circumstances that bring a case within a General Exception is on the accused, and the court presumes their absence until he does.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "qa-ch03-2",
+    "chapterId": "ch-03",
+    "question": "Distinguish between Sections 14 and 17 of the BNS. Why is a mistake of law not a defence?",
+    "modelAnswer": "Both sections protect a person acting under the law, and both extend to a good-faith mistake of fact. Section 14 covers a person who is bound by law to do the act (the law requires it), or who believes in good faith, because of a mistake of fact, that he is so bound — for example, a soldier firing on a mob on his superior's lawful order, or a court officer who, after due enquiry, arrests the wrong man believing him to be the person named. Section 17 covers a person who is justified by law (the law permits the act), or who believes so through a good-faith mistake of fact — for example, a person who seizes someone he honestly believes is committing murder, even if that person turns out to have been acting in self-defence. Both sections expressly exclude a mistake of law, because everyone is presumed to know the law; allowing ignorance of the law as an excuse would make the law unenforceable.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "qa-ch03-3",
+    "chapterId": "ch-03",
+    "question": "Explain the criminal responsibility of children under the BNS.",
+    "modelAnswer": "Section 20 provides that nothing is an offence which is done by a child under seven years of age. This immunity is absolute: no enquiry into the child's understanding is made. Section 21 provides that nothing is an offence done by a child above seven and under twelve years of age who has not attained sufficient maturity of understanding to judge the nature and consequences of his conduct on that occasion. This immunity is qualified: the court must decide, on the facts of the particular act, whether the child had that maturity — conduct such as concealing the act or lying about it may show that he understood it was wrong. Section 28(c) adds that, unless the context shows otherwise, consent given by a child under twelve is not valid consent.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "qa-ch03-4",
+    "chapterId": "ch-03",
+    "question": "When is intoxication a defence under the BNS? Explain Sections 23 and 24.",
+    "modelAnswer": "Under Section 23, intoxication is a defence only if the thing that intoxicated the person was administered to him without his knowledge or against his will, and, because of it, he was at the time incapable of knowing the nature of the act, or that it was wrong or contrary to law. Voluntary intoxication is therefore not a defence. Section 24 deals with offences that require a particular knowledge or intent: a person who does the act while voluntarily intoxicated is treated as having the same knowledge he would have had if sober. The section presumes knowledge, not intention, so whether he actually had a particular intention is still decided on the evidence. The presumption does not apply where the intoxicant was administered without his knowledge or against his will.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "qa-ch03-5",
+    "chapterId": "ch-03",
+    "question": "Discuss consent as a general exception, including when consent is not valid (Sections 25 to 30).",
+    "modelAnswer": "Section 25: a person above eighteen may consent, expressly or impliedly, to suffer harm or to take the risk of harm; causing such harm is not an offence if the act was not intended, and not known to be likely, to cause death or grievous hurt — for example, fair play in a sporting fight. Section 26: an act done in good faith for a person's benefit with his consent is not an offence by reason of the harm, even if the doer knew it was likely to cause death, provided he did not intend death — the classic case is a consented surgical operation. Section 27: for a child under twelve or a person of unsound mind, the guardian or person in lawful charge may consent to acts done in good faith for that person's benefit, but the exception never covers intentionally causing death, and covers acts known likely to cause death, or grievous hurt, only when done to prevent death or grievous hurt or to cure a grievous disease. Section 28: consent is not valid if given under fear of injury or a misconception of fact that the doer knows or has reason to believe; if given by a person unable, through unsoundness of mind or intoxication, to understand its nature and consequence; or, unless the context shows otherwise, if given by a child under twelve. Section 29: consent under ss.25-27 does not excuse acts that are offences independently of the harm caused, such as causing miscarriage. Section 30: in an emergency where consent cannot be obtained and no guardian can be reached in time, a good-faith act for the person's benefit is protected even without consent, within limits. Under the Explanation to s.30, mere pecuniary benefit is not 'benefit' for ss.26, 27 and 30.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "qa-ch03-6",
+    "chapterId": "ch-03",
+    "question": "Explain the defence of duress under Section 32. To which offences does it not apply?",
+    "modelAnswer": "Section 32 protects a person who is compelled to do an act by threats which, at the time of doing it, reasonably cause him to fear that instant death to himself will otherwise follow. The defence is not available for murder or for offences against the State punishable with death. It is also lost if the person, of his own accord, or from a reasonable fear of harm short of instant death, placed himself in the situation that exposed him to the compulsion. Explanation 1: a person who voluntarily joins a gang of dacoits knowing their character, or joins because of a threat of being beaten, cannot claim duress for offences his associates compel him to commit. Explanation 2: a person seized by dacoits and forced by a threat of instant death to commit an offence — for example, a smith made to force open a door for them — is entitled to the defence.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "qa-ch03-7",
+    "chapterId": "ch-03",
+    "question": "What are the limits on the right of private defence under Section 37?",
+    "modelAnswer": "Section 37(1) sets out three situations where there is no right of private defence. (a) Against an act of a public servant acting in good faith under colour of his office, unless the act reasonably causes apprehension of death or grievous hurt, even if the act is not strictly justifiable by law. (b) The same applies to an act done by the direction of such a public servant. (c) Where there is time to have recourse to the protection of the public authorities. Section 37(2) adds that the right never extends to inflicting more harm than is necessary for the purpose of defence. Under the Explanations, a person loses the right against a public servant (or a person acting on his direction) only if he knows or has reason to believe that the person is a public servant, or is acting on such direction — and in the latter case, only if the person states his authority or produces written authority when demanded. These limits keep private defence a shield, not a licence for retaliation.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "qa-ch03-8",
+    "chapterId": "ch-03",
+    "question": "When does the right of private defence of the body extend to causing death? When does it begin and end?",
+    "modelAnswer": "Under Section 38, subject to the restrictions in s.37, the right of private defence of the body extends to voluntarily causing death or any other harm to the assailant if the offence is: (a) an assault reasonably causing apprehension of death; (b) an assault reasonably causing apprehension of grievous hurt; (c) an assault with intent to commit rape; (d) an assault with intent to gratify unnatural lust; (e) an assault with intent to kidnap or abduct; (f) an assault with intent to wrongfully confine a person in circumstances where he reasonably fears he cannot seek help from the public authorities for his release; or (g) throwing or administering acid, or attempting to, in circumstances reasonably causing apprehension of grievous hurt. If the offence is not one of these, s.39 limits the right to causing any harm other than death. Under s.40, the right begins as soon as a reasonable apprehension of danger to the body arises from an attempt or threat to commit the offence, even before the offence is committed, and it continues as long as that apprehension continues. Once the danger has passed, force used afterwards is revenge, not defence.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "qa-ch03-9",
+    "chapterId": "ch-03",
+    "question": "When does the right of private defence of property extend to causing death? For how long does it continue?",
+    "modelAnswer": "Under Section 41, subject to s.37, the right of private defence of property extends to voluntarily causing death or other harm to the wrong-doer only if the offence (or attempt) is: (a) robbery; (b) house-breaking after sunset and before sunrise; (c) mischief by fire or any explosive substance on a building, tent or vessel used as a human dwelling or as a place for the custody of property; or (d) theft, mischief or house-trespass in circumstances that reasonably cause apprehension of death or grievous hurt if the right is not exercised. For other theft, mischief or criminal trespass, s.42 allows any harm short of death. Under s.43, the right commences when a reasonable apprehension of danger to the property commences, and continues: against theft, until the offender has effected his retreat with the property, or the assistance of the public authorities is obtained, or the property is recovered; against robbery, as long as the offender causes or attempts to cause death, hurt or wrongful restraint, or the fear of instant death, hurt or personal restraint continues; against criminal trespass or mischief, as long as the offender continues in it; and against house-breaking after sunset and before sunrise, as long as the house-trespass begun by it continues.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "qa-ch03-10",
+    "chapterId": "ch-03",
+    "question": "Can the right of private defence be exercised against a person of unsound mind, and against a risk to innocent persons? Explain Sections 36 and 44.",
+    "modelAnswer": "Yes to both. Section 36 provides that where an act would otherwise be an offence but is not, because of the youth, immaturity, unsoundness of mind or intoxication of the doer, or because of his misconception, every person has the same right of private defence against it as if it were that offence. So a person attacked by someone of unsound mind, or by a person who mistakes him for a burglar, may defend himself fully. Section 44 provides that if, in exercising the right of private defence against an assault that reasonably causes apprehension of death, the defender cannot effectively defend himself without risk of harm to an innocent person, his right extends to running that risk — for example, a person attacked by a murderous mob who can only defend himself by firing, at the risk of hitting children mixed with the mob.",
+    "difficulty": "medium"
+  }
+]
