@@ -1,0 +1,65 @@
+[
+  {
+    "id": "qa-ch04-1",
+    "chapterId": "ch-04",
+    "question": "Define abetment under Section 45 of the BNS and explain its three modes.",
+    "modelAnswer": "Under Section 45, a person abets the doing of a thing who (a) instigates any person to do that thing; (b) engages with one or more other persons in a conspiracy for doing it, where an act or illegal omission takes place in pursuance of that conspiracy and in order to the doing of that thing; or (c) intentionally aids, by an act or illegal omission, the doing of that thing. Explanation 1 widens instigation: a person who, by wilful misrepresentation or wilful concealment of a material fact he is bound to disclose, voluntarily causes or procures (or attempts to) a thing to be done instigates it — for example, B falsely telling an officer holding a warrant that C is the wanted man Z. Explanation 2 defines aid: doing anything, before or at the time of the act, to facilitate it, and thereby facilitating it. Note the difference between abetment by conspiracy under s.45(b), which needs an act in pursuance, and criminal conspiracy under s.61, which (for an agreement to commit an offence) is complete on agreement.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "qa-ch04-2",
+    "chapterId": "ch-04",
+    "question": "Who is an abettor under Section 46? Explain the Explanations with examples.",
+    "modelAnswer": "Under Section 46, a person abets an offence who abets either the commission of an offence, or the commission of an act that would be an offence if done by a person capable by law of committing it with the same intention or knowledge as the abettor. Explanation 1: abetting an illegal omission can be an offence even though the abettor himself was not bound to do the act. Explanation 2: the act abetted need not be committed, nor the effect caused — if A instigates B to murder C and B refuses, A is still guilty of abetting murder. Explanation 3: the person abetted need not be capable of committing an offence, nor share any guilty intention — if A, intending Z's death, gets a child under seven to do an act that kills Z, A is liable as if the child had committed murder. Explanation 4: abetment of an abetment is an offence — if A instigates B to instigate C to murder Z, and C does so, A and B are both liable to the punishment for murder. Explanation 5: in abetment by conspiracy, the abettor need not concert with the person who commits the offence; it is enough that he engages in the conspiracy in pursuance of which it is committed.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "qa-ch04-3",
+    "chapterId": "ch-04",
+    "question": "Explain the territorial reach of abetment under Sections 47 and 48. Which is new in the BNS?",
+    "modelAnswer": "Section 47 provides that a person who, in India, abets the commission of any act outside India that would be an offence if committed in India abets an offence within the meaning of the Sanhita — for example, A in India instigating B, a foreigner in country X, to commit murder there. This corresponds to s.108A IPC. Section 48 is new in the BNS and covers the reverse situation: a person who, outside India, abets the commission of an act in India that would be an offence in India also abets an offence — for example, A in country X instigating B to commit murder in India. Together they ensure that crossing a border does not let an abettor escape liability.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "qa-ch04-4",
+    "chapterId": "ch-04",
+    "question": "How is an abettor punished when the act abetted is committed? Explain Sections 49 to 54.",
+    "modelAnswer": "Section 49: if the act abetted is committed in consequence of the abetment, and no express provision punishes that abetment, the abettor gets the punishment provided for the offence; an act is committed 'in consequence' if it follows the instigation, is done in pursuance of the conspiracy, or with the aid constituting the abetment. Section 50: if the person abetted acts with a different intention or knowledge, the abettor is punished for the offence that would have been committed with the abettor's own intention or knowledge. Section 51: if one act is abetted and a different act is done, the abettor is liable for it as if he had directly abetted it, provided it was a probable consequence of the abetment and was done under the influence of the instigation, with the aid, or in pursuance of the conspiracy — so a person who instigates burning a house is not liable for a theft committed there, which is not a probable consequence. Section 52: where that different act is in addition to the act abetted and is a distinct offence, the abettor is liable for each. Section 53: if the act causes a different effect from the one intended, the abettor is liable for it if he knew the act was likely to cause it. Section 54: an abettor who is present when the offence is committed is deemed to have committed it.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "qa-ch04-5",
+    "chapterId": "ch-04",
+    "question": "What is the punishment for abetment when the offence abetted is not committed? Explain Sections 55 to 57.",
+    "modelAnswer": "Section 55: abetment of an offence punishable with death or imprisonment for life, where the offence is not committed in consequence and no express provision applies, is punishable with imprisonment of either description up to seven years and fine; if an act for which the abettor is liable, and which causes hurt to any person, is done, the punishment rises to up to fourteen years and fine. It is non-bailable. Section 56: abetment of an offence punishable with imprisonment, where the offence is not committed, is punishable with up to one-fourth of the longest term provided for that offence, or its fine, or both; if the abettor or the person abetted is a public servant whose duty is to prevent that offence, the limit rises to one-half. Section 57: abetting the commission of an offence by the public generally, or by any number or class of persons exceeding ten, is punishable with up to seven years and fine — for example, putting up a placard instigating a sect of more than ten members to attack another sect's procession.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "qa-ch04-6",
+    "chapterId": "ch-04",
+    "question": "Explain the offences of concealing a design to commit an offence under Sections 58 to 60. What has the BNS added?",
+    "modelAnswer": "These sections punish a person who, intending to facilitate an offence or knowing it likely that he will facilitate it, voluntarily conceals the existence of a design to commit it, or makes a representation he knows to be false about that design. Section 58 (offence punishable with death or life imprisonment): up to seven years if the offence is committed (non-bailable); up to three years and fine if it is not (bailable). Section 59 (a public servant concealing a design to commit an offence it is his duty to prevent): up to one-half of the longest term, or fine, or both, if the offence is committed; up to ten years if the offence is punishable with death or life imprisonment; and up to one-fourth of the longest term, or fine, or both, if it is not committed. Section 60 (offence punishable with imprisonment): up to one-fourth of the longest term if committed, and one-eighth if not, or fine, or both. The BNS adds to ss.58 and 59 concealment 'by the use of encryption or any other information hiding tool', recognising that plans are now often hidden digitally.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "qa-ch04-7",
+    "chapterId": "ch-04",
+    "question": "Define criminal conspiracy under Section 61 of the BNS and explain its punishment. How does it differ from abetment by conspiracy?",
+    "modelAnswer": "Under Section 61(1), when two or more persons agree, with the common object, to do or cause to be done (a) an illegal act, or (b) an act which is not illegal by illegal means, the agreement is a criminal conspiracy. The proviso says that an agreement other than one to commit an offence is a criminal conspiracy only if some act besides the agreement is done by a party in pursuance of it; an agreement to commit an offence is complete on agreement alone. The Explanation adds that it does not matter whether the illegal act is the ultimate object or only incidental to it. Under s.61(2), a party to a conspiracy to commit an offence punishable with death, life imprisonment or rigorous imprisonment of two years or more is punished as if he had abetted that offence (unless a specific provision applies); a party to any other criminal conspiracy is punished with up to six months, or fine, or both — non-cognizable, bailable and triable by a Magistrate of the first class. Abetment by conspiracy under s.45(b) is different: it always requires an act or illegal omission in pursuance of the conspiracy, whereas criminal conspiracy to commit an offence is a separate offence complete on agreement. Section 61 combines ss.120A and 120B of the IPC.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "qa-ch04-8",
+    "chapterId": "ch-04",
+    "question": "Explain attempt under Section 62 of the BNS. Distinguish preparation from attempt.",
+    "modelAnswer": "Section 62 provides that whoever attempts to commit an offence punishable with imprisonment for life or imprisonment, or to cause it to be committed, and in such attempt does any act towards its commission, is punished — where no express provision exists for that attempt — with imprisonment of any description provided for the offence up to one-half of imprisonment for life or one-half of the longest term, or with the offence's fine, or both. An offence usually passes through four stages: intention, preparation, attempt and commission. Mere intention and preparation are generally not punishable; an attempt begins when the offender does an act towards the commission of the offence that goes beyond preparation. The official illustrations show that impossibility does not excuse an attempt: A who breaks open a box to steal jewels and finds it empty, or who puts his hand into Z's empty pocket, is still guilty of attempt. Section 62 corresponds to s.511 IPC, now moved into this chapter.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "qa-ch04-9",
+    "chapterId": "ch-04",
+    "question": "How are offences under Chapter IV classified (cognizable, bailable, court) under the BNSS?",
+    "modelAnswer": "Under the First Schedule of the BNSS, most abetment provisions take their classification from the offence abetted: for ss.49-54, 56, 57, 59(a) and 60(a), the offence is cognizable or non-cognizable, and bailable or non-bailable, according as the offence abetted is, and it is triable by the court that tries the offence abetted. There are fixed exceptions: s.55 (both limbs) is non-bailable; s.58(a) is non-bailable and s.58(b) bailable; s.59(b) is non-bailable and s.59(c) bailable; and s.60(b) is bailable — in each case cognizability and court still follow the offence abetted. For criminal conspiracy, s.61(2)(a) follows the offence that is the object of the conspiracy and is triable by the court that tries abetment of that offence, while s.61(2)(b) is non-cognizable, bailable and triable by a Magistrate of the first class. Attempt under s.62 follows the offence attempted. Under BNSS s.359(3), abetment of or attempt to commit a compoundable offence may be compounded in the same way.",
+    "difficulty": "hard"
+  }
+]

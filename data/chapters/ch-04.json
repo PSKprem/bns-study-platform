@@ -1,0 +1,126 @@
+{
+  "id": "ch-04",
+  "number": "IV",
+  "title": "Of Abetment, Criminal Conspiracy and Attempt",
+  "sectionRange": "45-62",
+  "shortDescription": "Liability before and around the main offence: helping or encouraging a crime (abetment), agreeing to commit one (criminal conspiracy), and trying but failing (attempt).",
+  "subHeadings": [
+    { "id": "abetment-meaning", "label": "Of abetment — what abetment is", "sectionIds": ["s-45", "s-46", "s-47", "s-48"] },
+    { "id": "abetment-liability", "label": "Of abetment — liability when the act is done", "sectionIds": ["s-49", "s-50", "s-51", "s-52", "s-53", "s-54"] },
+    { "id": "abetment-not-committed", "label": "Of abetment — when the offence is not committed", "sectionIds": ["s-55", "s-56", "s-57"] },
+    { "id": "concealing-design", "label": "Of abetment — concealing a design", "sectionIds": ["s-58", "s-59", "s-60"] },
+    { "id": "conspiracy", "label": "Of criminal conspiracy", "sectionIds": ["s-61"] },
+    { "id": "attempt", "label": "Of attempt", "sectionIds": ["s-62"] }
+  ],
+  "summary": "Chapter IV deals with liability that reaches beyond the person who actually commits an offence, or that arises before an offence is complete. The Gazette divides it into three parts: 'Of abetment' (ss.45-60), 'Of criminal conspiracy' (s.61) and 'Of attempt' (s.62).\n\nSection 45 defines abetment. A person abets a thing by instigating someone to do it, by joining a conspiracy to do it where some act or illegal omission then follows, or by intentionally aiding it. Section 46 makes abetment very wide: the abetted act need not actually be committed, and the person abetted need not be capable of committing an offence or share any guilty mind — so using a child or a person of unsound mind to commit a crime is still abetment. Abetting an abetment is also an offence. Sections 47 and 48 give abetment a cross-border reach: abetting from India an act abroad, and — newly in the BNS — abetting from abroad an act in India.\n\nSections 49 to 54 fix the abettor's punishment when the act is done. If the abetted act is committed in consequence of the abetment, the abettor gets the same punishment as for the offence (s.49). He is judged by his own intention if the person abetted acts with a different one (s.50); he is liable for a different act that was a probable consequence of the abetment (s.51), cumulatively where it is a distinct offence (s.52), and for a different effect he knew was likely (s.53). An abettor who is present when the offence is committed is treated as having committed it (s.54).\n\nSections 55 to 57 punish abetment even when the offence is not committed: up to seven years (or fourteen if hurt is caused) for abetting an offence punishable with death or life imprisonment; up to one-fourth of the longest term for other imprisonable offences, rising to one-half where a public servant whose duty is to prevent the offence is involved; and up to seven years for abetting an offence by the public or more than ten persons. Sections 58 to 60 punish concealing a design to commit an offence, and the BNS now expressly covers concealment by encryption or other information-hiding tools in ss.58 and 59.\n\nSection 61 defines criminal conspiracy as an agreement between two or more persons, with the common object, to do an illegal act or a legal act by illegal means. An agreement to commit an offence is complete in itself; any other agreement needs an overt act. A conspiracy to commit a serious offence is punished as abetment of that offence; any other conspiracy with up to six months, or fine, or both. Finally, s.62 punishes an attempt to commit an offence punishable with imprisonment, where no specific provision exists, with up to one-half of the maximum. The classification of these offences mostly follows the offence abetted, conspired or attempted, as set out in the First Schedule of the BNSS.",
+  "keyPoints": [
+    {
+      "point": "Section 45 — Three ways to abet",
+      "subPoints": [
+        "Instigation (including wilful misrepresentation or concealment of a material fact)",
+        "Engaging in a conspiracy + an act or illegal omission in pursuance of it",
+        "Intentional aid by act or illegal omission (facilitating before or at the time)"
+      ]
+    },
+    {
+      "point": "Section 46 — Abettor (very wide)",
+      "subPoints": [
+        "The act abetted need not be committed (Expl. 2)",
+        "The person abetted need not be capable of an offence or have a guilty mind (Expl. 3)",
+        "Abetment of an abetment is an offence (Expl. 4)",
+        "In conspiracy, the abettor need not deal with the actual offender (Expl. 5)"
+      ]
+    },
+    {
+      "point": "Sections 47-48 — Across borders",
+      "subPoints": [
+        "s.47 — abetting from India an act abroad that would be an offence in India",
+        "s.48 — NEW: abetting from abroad an act in India"
+      ]
+    },
+    {
+      "point": "Sections 49-54 — When the abetted act is done",
+      "subPoints": [
+        "s.49 — same punishment as the offence, if committed in consequence and no express provision",
+        "s.50 — abettor judged by his own intention or knowledge",
+        "s.51 — liable for a different act if it was a probable consequence",
+        "s.52 — cumulative punishment for a distinct additional offence",
+        "s.53 — liable for a different effect if he knew it was likely",
+        "s.54 — abettor present at the offence is deemed to have committed it"
+      ]
+    },
+    {
+      "point": "Sections 55-57 — When the offence is not committed",
+      "subPoints": [
+        "s.55 — offence punishable with death/life: up to 7 years + fine; up to 14 years if hurt is caused",
+        "s.56 — offence punishable with imprisonment: up to 1/4 of the longest term; 1/2 if a duty-bound public servant is involved",
+        "s.57 — abetting the public or more than ten persons: up to 7 years + fine"
+      ]
+    },
+    {
+      "point": "Sections 58-60 — Concealing a design",
+      "subPoints": [
+        "s.58 — offence punishable with death/life: 7 years if committed; 3 years + fine if not",
+        "s.59 — public servant with a duty to prevent: 1/2, 10 years, or 1/4 of the term",
+        "s.60 — offence punishable with imprisonment: 1/4 if committed; 1/8 if not",
+        "ss.58-59 now cover concealment by encryption or other information-hiding tools"
+      ]
+    },
+    {
+      "point": "Section 61 — Criminal conspiracy",
+      "subPoints": [
+        "Agreement of two or more persons, with the common object, to do an illegal act or a legal act by illegal means",
+        "Agreement to commit an offence is enough; any other agreement needs an overt act",
+        "Serious offence (death, life, RI 2+ years): punished as abetment of that offence",
+        "Any other conspiracy: up to 6 months, or fine, or both; non-cognizable, bailable"
+      ]
+    },
+    {
+      "point": "Section 62 — Attempt",
+      "subPoints": [
+        "Attempt + any act towards commission (beyond preparation)",
+        "Up to one-half of life imprisonment or of the longest term; or fine; or both",
+        "Applies only where no express provision punishes the attempt",
+        "Impossibility (e.g. an empty pocket) is no defence"
+      ]
+    }
+  ],
+  "fastRevision": [
+    "Chapter IV has three Gazette sub-headings: Of abetment (45-60), Of criminal conspiracy (61), Of attempt (62).",
+    "s.45 — abetment by instigation, conspiracy (+ act) or intentional aid.",
+    "Instigation includes wilful misrepresentation or wilful concealment of a material fact.",
+    "Aid = doing something before or at the time of the act to facilitate it.",
+    "s.46 — the abetted act need not be committed.",
+    "s.46 — the person abetted need not be capable of an offence (e.g. a child under 7).",
+    "s.46 — abetment of an abetment is an offence.",
+    "s.47 — abetting from India an act abroad.",
+    "s.48 — NEW in BNS: abetting from abroad an act in India.",
+    "s.49 — abetted act committed: same punishment as the offence.",
+    "s.50 — abettor judged by his own intention.",
+    "s.51 — liable for a different act only if a probable consequence.",
+    "s.52 — cumulative punishment for a distinct additional offence.",
+    "s.53 — liable for a different effect if he knew it was likely.",
+    "s.54 — abettor present = deemed to have committed the offence.",
+    "s.55 — abetting death/life offence, not committed: up to 7 years + fine.",
+    "s.55 — if hurt is caused: up to 14 years + fine; non-bailable.",
+    "s.56 — abetting imprisonable offence, not committed: up to 1/4 of the longest term.",
+    "s.56 — duty-bound public servant involved: up to 1/2 of the longest term.",
+    "s.57 — abetting the public or more than 10 persons: up to 7 years + fine.",
+    "s.58 — concealing design of death/life offence: 7 years if committed; 3 years + fine if not.",
+    "s.58(a) non-bailable; s.58(b) bailable.",
+    "s.59 — public servant concealing: 1/2 (committed), 10 years (death/life), 1/4 (not committed).",
+    "s.60 — concealing design of imprisonable offence: 1/4 if committed; 1/8 if not.",
+    "ss.58 and 59 now cover concealment by encryption or other information-hiding tools.",
+    "s.61 — conspiracy = agreement of 2+ persons to do an illegal act, or a legal act by illegal means.",
+    "s.61 — agreement to commit an offence needs no overt act; any other agreement does.",
+    "s.61(2)(a) — conspiracy to commit a serious offence is punished as abetment.",
+    "s.61(2)(b) — other conspiracy: up to 6 months, or fine, or both; non-cognizable, bailable, Magistrate first class.",
+    "s.62 — attempt: up to 1/2 of life or of the longest term; or fine; or both.",
+    "s.62 — preparation alone is not an attempt.",
+    "s.62 — impossibility is no defence (empty box, empty pocket).",
+    "Classification mostly follows the offence abetted, conspired or attempted (BNSS First Schedule).",
+    "IPC mapping: s.45-46 = IPC 107-108; s.47 = 108A; s.49-60 = 109-120; s.61 = 120A+120B; s.62 = 511."
+  ],
+  "mindMap": "# Ch. IV — Abetment, Conspiracy, Attempt\n## Of abetment (ss.45-60)\n- Meaning\n  - Instigation / conspiracy / aid (s.45)\n  - Abettor, very wide (s.46)\n  - From India, act abroad (s.47)\n  - From abroad, act in India — NEW (s.48)\n- Act done\n  - Same punishment (s.49)\n  - Different intention (s.50)\n  - Different act, probable consequence (s.51)\n  - Cumulative (s.52)\n  - Different effect (s.53)\n  - Abettor present (s.54)\n- Offence not committed\n  - Death/life: 7 yrs, 14 if hurt (s.55)\n  - Imprisonment: 1/4, public servant 1/2 (s.56)\n  - Public / >10 persons: 7 yrs (s.57)\n- Concealing a design\n  - Death/life: 7 / 3 yrs (s.58)\n  - Public servant: 1/2, 10 yrs, 1/4 (s.59)\n  - Imprisonment: 1/4 / 1/8 (s.60)\n  - Encryption covered (ss.58-59)\n## Of criminal conspiracy (s.61)\n- Agreement of 2+ persons\n- Illegal act, or legal act by illegal means\n- Overt act needed unless to commit an offence\n- Serious: as abetment\n- Other: 6 months / fine\n## Of attempt (s.62)\n- Act towards commission\n- Up to 1/2 of maximum\n- Impossibility no defence",
+  "lastVerified": "2026-09-28"
+}
