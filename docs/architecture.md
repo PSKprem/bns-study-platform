@@ -144,19 +144,19 @@ bns-study-platform/
 ├── docs/       # planning + design docs (ideas, requirements, spec, architecture)
 ├── data/       # ← CONTENT LAYER: verified JSON the app consumes
 │   ├── chapters/     one file per chapter
-│   ├── sections/     grouped per chapter (sections/ch-02/…)
+│   ├── sections/     one file per chapter (sections/ch-02.json)
 │   ├── qa/           exam Q&A per chapter
-│   ├── flashcards/   flashcards per chapter
+│   ├── mcqs/         practice MCQs per chapter
 │   └── dictionary.json   global bilingual terms
 ├── content/    # optional pre-JSON drafting area (not served)
 └── web/        # the application
     └── src/
         ├── types/       schema contracts (TS interfaces)
-        ├── lib/         data-access + search + localStorage (DATA-ACCESS LAYER)
-        ├── features/    self-contained feature modules (FEATURE LAYER)
-        ├── components/  shared presentational UI (UI LAYER)
+        ├── lib/         data-access + search (DATA-ACCESS LAYER)
+        ├── features/    self-contained feature modules (MindMap, ExamQA, MCQQuiz)
+        ├── components/  shared presentational UI (Layout, VerificationBadge, TermList)
         ├── pages/       route-level pages (UI LAYER)
-        └── routes.tsx   route table
+        └── routes.tsx   route table (pages lazy-loaded)
 ```
 
 Each `data/` sub-folder maps 1:1 to a schema in spec §3.
@@ -170,11 +170,12 @@ Three distinct kinds of state, deliberately kept separate:
 | Kind | Example | Where it lives | Writable? |
 |---|---|---|---|
 | **Static content** | chapter summary, section text | `data/*.json` (bundled) | No (read-only) |
-| **Ephemeral UI state** | active tab, Q&A reveal toggle, search query | React component state | Yes (in-memory) |
-| **Persisted user progress** | flashcard known/not-known, last review | `localStorage` | Yes (on device) |
+| **Ephemeral UI state** | active tab, Q&A reveal, MCQ score/progress, search query | React component state | Yes (in-memory) |
 
-No global state library is needed at this scale; React state + a thin `lib/progress.ts`
-wrapper over `localStorage` is sufficient. (Can revisit if complexity grows.)
+No global state library is needed at this scale; plain React state is sufficient.
+The MCQ quiz score is session-only (in-memory). A `localStorage`-backed progress layer
+(used originally for flashcards) can return when a persistent feature — e.g. spaced
+repetition or resume-progress — is reintroduced.
 
 ---
 
