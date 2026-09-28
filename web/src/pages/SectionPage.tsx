@@ -23,18 +23,18 @@ export default function SectionPage() {
   const backToSections = `/chapter/${section.chapterId}?tab=Sections`;
 
   return (
-    <div className="max-w-3xl">
+    <div className="max-w-3xl dark:text-slate-300">
       {/* Prominent back navigation */}
       <div className="flex items-center justify-between">
         <button
           onClick={() => navigate(backToSections)}
-          className="inline-flex items-center gap-1.5 rounded-lg bg-white px-3 py-1.5 text-sm font-medium text-slate-600 ring-1 ring-slate-200 transition hover:bg-slate-50 hover:text-indigo-600"
+          className="inline-flex items-center gap-1.5 rounded-lg bg-white px-3 py-1.5 text-sm font-medium text-slate-600 ring-1 ring-slate-200 transition hover:bg-slate-50 hover:text-indigo-600 dark:bg-slate-900 dark:text-slate-300 dark:ring-slate-700 dark:hover:bg-slate-800"
         >
           <span aria-hidden>←</span> Back to sections
         </button>
         <Link
           to="/"
-          className="text-sm text-slate-400 transition hover:text-indigo-600"
+          className="text-sm text-slate-400 transition hover:text-indigo-600 dark:text-slate-500"
         >
           Course Map
         </Link>
@@ -116,7 +116,7 @@ export default function SectionPage() {
                 <Link
                   key={ref}
                   to="/dictionary"
-                  className="rounded-full bg-indigo-50 px-3 py-1 text-sm text-indigo-700 transition hover:bg-indigo-100"
+                  className="rounded-full bg-indigo-50 px-3 py-1 text-sm text-indigo-700 transition hover:bg-indigo-100 dark:bg-indigo-950/50 dark:text-indigo-300 dark:hover:bg-indigo-900"
                 >
                   {term ? term.term : ref}
                 </Link>
@@ -148,7 +148,7 @@ function Field({
 }) {
   return (
     <section className="mt-5">
-      <h2 className="text-sm font-semibold uppercase tracking-wide text-slate-500">
+      <h2 className="text-sm font-semibold uppercase tracking-wide text-slate-500 dark:text-slate-400">
         {label}
       </h2>
       <div className="mt-1">{children}</div>

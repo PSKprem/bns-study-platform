@@ -43,14 +43,14 @@ export default function MindMap({ markdown }: { markdown: string }) {
   }
 
   return (
-    <div className="rounded-2xl border border-slate-200 bg-white shadow-sm">
-      <div className="flex items-center justify-between border-b border-slate-100 px-4 py-2">
-        <p className="text-xs text-slate-400">
+    <div className="rounded-2xl border border-slate-200 bg-white shadow-sm dark:border-slate-800 dark:bg-slate-900">
+      <div className="flex items-center justify-between border-b border-slate-100 px-4 py-2 dark:border-slate-800">
+        <p className="text-xs text-slate-400 dark:text-slate-500">
           Click a node to expand or collapse · drag to pan · scroll to zoom
         </p>
         <button
           onClick={refit}
-          className="rounded-md bg-slate-100 px-3 py-1 text-xs font-medium text-slate-600 transition hover:bg-slate-200"
+          className="rounded-md bg-slate-100 px-3 py-1 text-xs font-medium text-slate-600 transition hover:bg-slate-200 dark:bg-slate-800 dark:text-slate-300 dark:hover:bg-slate-700"
         >
           Fit to screen
         </button>

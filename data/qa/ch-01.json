@@ -1,0 +1,37 @@
+[
+  {
+    "id": "qa-ch01-1",
+    "chapterId": "ch-01",
+    "question": "Explain the territorial and extraterritorial application of the Bharatiya Nyaya Sanhita, 2023 under Section 1.",
+    "modelAnswer": "Under Section 1, the Sanhita applies territorially to every person for any act or omission contrary to its provisions committed within India. It also applies extraterritorially to: (a) any citizen of India committing an offence in any place beyond India; (b) any person on any ship or aircraft registered in India, wherever it may be; and (c) any person, anywhere, committing an offence targeting a computer resource located in India. The word 'offence' for this purpose includes any act done outside India which would be punishable if done in India. A savings clause preserves laws on mutiny/desertion in the armed forces and any special or local law.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "qa-ch01-2",
+    "chapterId": "ch-01",
+    "question": "When does the Bharatiya Nyaya Sanhita, 2023 come into force?",
+    "modelAnswer": "Under Section 1(2), the Sanhita comes into force on such date as the Central Government may appoint by notification in the Official Gazette, and different dates may be appointed for different provisions of the Sanhita.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "qa-ch01-3",
+    "chapterId": "ch-01",
+    "question": "What is the significance of Section 2 of the BNS?",
+    "modelAnswer": "Section 2 is the definitions clause. It fixes the precise meaning of the key terms used throughout the Sanhita — such as 'dishonestly', 'fraudulently', 'document', 'good faith', 'public servant' and 'movable property' — so that these words carry a consistent meaning across every chapter, unless the context otherwise requires. Because definitional questions are asked independently of any specific offence, these terms are best studied as a glossary.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "qa-ch01-4",
+    "chapterId": "ch-01",
+    "question": "State the rule on the criminal responsibility of children under the general explanations in Chapter I.",
+    "modelAnswer": "Nothing is an offence which is done by a child under seven years of age. Further, nothing is an offence done by a child above seven years of age and under twelve years of age who has not attained sufficient maturity of understanding to judge the nature and consequences of his conduct on that occasion. Thus, a child under seven has complete immunity, while a child between seven and twelve has qualified immunity depending on maturity.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "qa-ch01-5",
+    "chapterId": "ch-01",
+    "question": "What new dimension of extraterritorial application does BNS Section 1 add compared to the earlier law?",
+    "modelAnswer": "BNS Section 1 expressly extends the code to any person, in any place beyond India, who commits an offence targeting a computer resource located in India. This explicitly brings cross-border cybercrime affecting Indian systems within the reach of the Sanhita — a modernisation reflecting contemporary crime that the older provisions did not spell out as clearly.",
+    "difficulty": "medium"
+  }
+]

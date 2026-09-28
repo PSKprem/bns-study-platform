@@ -1,0 +1,81 @@
+{
+  "id": "ch-01",
+  "number": "I",
+  "title": "Preliminary",
+  "sectionRange": "1-3",
+  "shortDescription": "The opening chapter: the Sanhita's name, when and where it applies, its key definitions, and the general rules for reading it.",
+  "subHeadings": [
+    {
+      "id": "scope",
+      "label": "Title, commencement and application",
+      "sectionIds": ["s-1"]
+    },
+    {
+      "id": "definitions",
+      "label": "Definitions",
+      "sectionIds": ["s-2"]
+    },
+    {
+      "id": "explanations",
+      "label": "General explanations",
+      "sectionIds": ["s-3"]
+    }
+  ],
+  "summary": "Chapter I is the foundation of the Bharatiya Nyaya Sanhita, 2023. It does not create offences; instead it sets up how the whole code is named, when and where it applies, what its key words mean, and the general rules for interpreting it.\n\nSection 1 gives the Act its short title (\"Bharatiya Nyaya Sanhita, 2023\"), lets the Central Government bring it into force by notification (allowing different dates for different provisions), and fixes its reach. Every person is liable to punishment under the Sanhita for offences committed within India (territorial application). It also extends beyond India (extraterritorial application) to offences by any citizen of India anywhere in the world, by any person on a ship or aircraft registered in India wherever it may be, and — importantly and newly — to any person anywhere who targets a computer resource located in India. A savings clause preserves special and local laws and laws punishing mutiny/desertion in the armed forces.\n\nSection 2 is effectively a glossary: it defines the key terms used throughout the code — words like \"act,\" \"dishonestly,\" \"fraudulently,\" \"document,\" \"good faith,\" \"public servant,\" \"movable property,\" \"gender,\" and many more. Because these definitions apply across every later chapter, they are best treated as a dictionary rather than a single section, and are surfaced through the platform's Dictionary feature.\n\nSection 3 sets out general explanations — the interpretive rules that apply throughout the Sanhita. These include how words importing the masculine gender or the singular number are to be read, and the rule on the age of criminal responsibility (nothing is an offence done by a child under seven; and a child above seven and under twelve is not liable if of immature understanding). Together, Sections 1–3 are the lens through which every other offence in the code is read.",
+  "keyPoints": [
+    {
+      "point": "Section 1 — Short title, commencement and application",
+      "subPoints": [
+        "Short title: the Bharatiya Nyaya Sanhita, 2023",
+        "Comes into force on a date the Central Government notifies (different dates allowed for different provisions)",
+        "Territorial: every person is liable for offences committed within India",
+        "Extraterritorial: applies to offences by any citizen of India anywhere",
+        "Applies to offences by any person on a ship/aircraft registered in India, wherever it is",
+        "Applies to any person anywhere targeting a computer resource located in India (new)",
+        "Savings clause: does not affect army/navy/air-force mutiny-desertion laws or special/local laws"
+      ]
+    },
+    {
+      "point": "Section 2 — Definitions",
+      "subPoints": [
+        "A glossary of key terms used throughout the code",
+        "Defines words like act, dishonestly, fraudulently, document, good faith, public servant, movable property, gender",
+        "These definitions apply across every chapter — treat them as a dictionary",
+        "Surfaced in the platform through the Dictionary feature"
+      ]
+    },
+    {
+      "point": "Section 3 — General explanations",
+      "subPoints": [
+        "Interpretive rules that apply throughout the Sanhita",
+        "Words importing the masculine gender apply to any gender; singular includes plural and vice versa (as provided)",
+        "Age of criminal responsibility: nothing is an offence done by a child under seven years of age",
+        "A child above seven and under twelve of immature understanding is not liable"
+      ]
+    }
+  ],
+  "fastRevision": [
+    "Chapter I is 'Preliminary' — sets up the code; it does not create offences.",
+    "s.1 — short title: Bharatiya Nyaya Sanhita, 2023.",
+    "s.1 — comes into force on a date the Central Government notifies by Official Gazette.",
+    "s.1 — different dates may be appointed for different provisions.",
+    "s.1 — territorial: every person liable for offences committed within India.",
+    "s.1 — extraterritorial: applies to any citizen of India committing an offence anywhere beyond India.",
+    "s.1 — applies to any person on a ship or aircraft registered in India, wherever it may be.",
+    "s.1 — NEW: applies to anyone anywhere targeting a computer resource located in India.",
+    "s.1 — 'offence' (for extraterritorial reach) includes acts abroad that would be punishable if done in India.",
+    "s.1 — Illustration: an Indian citizen who commits murder abroad can be tried in India.",
+    "s.1 — savings clause: does not affect army/navy/air-force mutiny-desertion laws or special/local laws.",
+    "s.2 — Definitions: a glossary of key terms used across the whole code.",
+    "s.2 — includes act, dishonestly, fraudulently, document, good faith, public servant, movable property, gender, etc.",
+    "s.2 definitions apply throughout the Sanhita, not just one chapter.",
+    "s.3 — General explanations: interpretive rules applying throughout the code.",
+    "s.3 — words importing the masculine gender apply to any gender.",
+    "s.3 — age of criminal responsibility: nothing done by a child under 7 is an offence.",
+    "s.3 — a child above 7 and under 12 of immature understanding is not liable.",
+    "Chapter I corresponds broadly to the opening/preliminary provisions of the old IPC.",
+    "Understanding s.2 and s.3 helps you interpret every later offence correctly."
+  ],
+  "mindMap": "# Ch. I — Preliminary\n## Title, commencement, application (s.1)\n- Short title: BNS, 2023\n- Central Govt notifies commencement\n- Territorial: offences within India\n- Extraterritorial\n  - Any citizen of India, anywhere\n  - Ship/aircraft registered in India\n  - Targeting a computer resource in India (new)\n- Savings: armed forces + special/local laws\n## Definitions (s.2)\n- Glossary of key terms\n- act, dishonestly, fraudulently\n- document, good faith\n- public servant, movable property, gender\n- Applies across the whole code\n## General explanations (s.3)\n- Interpretive rules\n- Gender / number reading\n- Age of criminal responsibility\n  - Under 7: no offence\n  - 7-12 & immature understanding: not liable",
+  "lastVerified": "2026-09-28"
+}

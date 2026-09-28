@@ -1,0 +1,75 @@
+[
+  {
+    "id": "mcq-ch01-1",
+    "chapterId": "ch-01",
+    "question": "By what authority and instrument does the Bharatiya Nyaya Sanhita, 2023 come into force?",
+    "options": [
+      "By a resolution of Parliament",
+      "By notification of the Central Government in the Official Gazette",
+      "Automatically on the date of Presidential assent",
+      "By order of the Supreme Court"
+    ],
+    "correctIndex": 1,
+    "explanation": "Section 1(2): it comes into force on such date as the Central Government may, by notification in the Official Gazette, appoint — and different dates may be appointed for different provisions."
+  },
+  {
+    "id": "mcq-ch01-2",
+    "chapterId": "ch-01",
+    "question": "Which of the following is a NEW extraterritorial reach expressly stated in BNS Section 1?",
+    "options": [
+      "Offences by foreign diplomats in India",
+      "Offences targeting a computer resource located in India",
+      "Offences on the high seas by any nationality",
+      "Offences committed in neighbouring countries only"
+    ],
+    "correctIndex": 1,
+    "explanation": "Section 1(5)(c) applies the Sanhita to any person, anywhere beyond India, committing an offence targeting a computer resource located in India."
+  },
+  {
+    "id": "mcq-ch01-3",
+    "chapterId": "ch-01",
+    "question": "Under the general explanations, a child below what age can never commit an offence?",
+    "options": ["Under six years", "Under seven years", "Under ten years", "Under twelve years"],
+    "correctIndex": 1,
+    "explanation": "Nothing is an offence which is done by a child under seven years of age. A child aged 7-12 has only qualified immunity depending on maturity of understanding."
+  },
+  {
+    "id": "mcq-ch01-4",
+    "chapterId": "ch-01",
+    "question": "Section 2 of the BNS primarily contains—",
+    "options": [
+      "The list of punishments",
+      "The definitions of terms used in the Sanhita",
+      "The general exceptions",
+      "Offences against the State"
+    ],
+    "correctIndex": 1,
+    "explanation": "Section 2 is the definitions clause, fixing the meaning of terms used throughout the code."
+  },
+  {
+    "id": "mcq-ch01-5",
+    "chapterId": "ch-01",
+    "question": "The Sanhita applies to an offence committed by a person on a ship or aircraft registered in India—",
+    "options": [
+      "Only when it is within Indian territorial waters/airspace",
+      "Wherever it may be",
+      "Only if the person is an Indian citizen",
+      "Only during international voyages"
+    ],
+    "correctIndex": 1,
+    "explanation": "Section 1(5)(b) applies to any person on any ship or aircraft registered in India wherever it may be."
+  },
+  {
+    "id": "mcq-ch01-6",
+    "chapterId": "ch-01",
+    "question": "Which of the following does Section 1's savings clause preserve?",
+    "options": [
+      "Only the Constitution",
+      "Laws punishing mutiny/desertion in the armed forces, and special or local laws",
+      "Only tax laws",
+      "Nothing — it repeals all prior laws"
+    ],
+    "correctIndex": 1,
+    "explanation": "Section 1(6) states nothing in the Sanhita affects laws punishing mutiny and desertion of the armed forces, or any special or local law."
+  }
+]

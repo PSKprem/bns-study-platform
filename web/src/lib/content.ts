@@ -10,25 +10,32 @@ import type {
   DictionaryTerm,
 } from "../types/content";
 
+import ch01 from "@data/chapters/ch-01.json";
 import ch02 from "@data/chapters/ch-02.json";
+import sectionsCh01 from "@data/sections/ch-01.json";
 import sectionsCh02 from "@data/sections/ch-02.json";
+import qaCh01 from "@data/qa/ch-01.json";
 import qaCh02 from "@data/qa/ch-02.json";
+import mcqsCh01 from "@data/mcqs/ch-01.json";
 import mcqsCh02 from "@data/mcqs/ch-02.json";
 import dictionaryJson from "@data/dictionary.json";
 
 // Registries keyed by chapter id. Adding a chapter = add its JSON + one entry
 // here; no other code changes (content is data, not code).
-const chapters: Chapter[] = [ch02 as Chapter];
+const chapters: Chapter[] = [ch01 as Chapter, ch02 as Chapter];
 
 const sectionsByChapter: Record<string, Section[]> = {
+  "ch-01": sectionsCh01 as Section[],
   "ch-02": sectionsCh02 as Section[],
 };
 
 const qaByChapter: Record<string, ExamQA[]> = {
+  "ch-01": qaCh01 as ExamQA[],
   "ch-02": qaCh02 as ExamQA[],
 };
 
 const mcqsByChapter: Record<string, MCQ[]> = {
+  "ch-01": mcqsCh01 as MCQ[],
   "ch-02": mcqsCh02 as MCQ[],
 };
 

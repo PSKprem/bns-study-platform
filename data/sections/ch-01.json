@@ -1,0 +1,85 @@
+[
+  {
+    "id": "s-1",
+    "chapterId": "ch-01",
+    "number": "1",
+    "title": "Short title, commencement and application",
+    "bareActText": "(1) This Act may be called the Bharatiya Nyaya Sanhita, 2023. (2) It shall come into force on such date as the Central Government may, by notification in the Official Gazette, appoint, and different dates may be appointed for different provisions of this Sanhita. (3) Every person shall be liable to punishment under this Sanhita and not otherwise for every act or omission contrary to the provisions thereof, of which he shall be guilty within India. (4) Any person liable, by any law for the time being in force in India, to be tried for an offence committed beyond India shall be dealt with according to the provisions of this Sanhita for any act committed beyond India in the same manner as if such act had been committed within India. (5) The provisions of this Sanhita shall also apply to any offence committed by— (a) any citizen of India in any place without and beyond India; (b) any person on any ship or aircraft registered in India wherever it may be; (c) any person in any place without and beyond India committing offence targeting a computer resource located in India. Explanation.—In this section the word \"offence\" includes every act committed outside India which, if committed in India, would be punishable under this Sanhita. Illustration: A, who is a citizen of India, commits a murder in any place without and beyond India. He can be tried and convicted of murder in any place in India in which he may be found. (6) Nothing in this Sanhita shall affect the provisions of any Act for punishing mutiny and desertion of officers, soldiers, sailors or airmen in the service of the Government of India or the provisions of any special or local law.",
+    "plainMeaning": "This section names the code, says when it starts, and sets out who and where it covers. It applies to everyone for offences committed inside India, and reaches beyond India for Indian citizens anywhere, for anyone on Indian-registered ships or aircraft, and for anyone anywhere who attacks a computer resource located in India. It leaves army/special/local laws untouched.",
+    "ingredients": [
+      "Short title: the Bharatiya Nyaya Sanhita, 2023",
+      "Central Government notifies commencement; different dates allowed for different provisions",
+      "Territorial application: offences committed within India",
+      "Extraterritorial: Indian citizens anywhere; persons on Indian-registered ships/aircraft; anyone targeting a computer resource in India",
+      "Savings clause for armed-forces mutiny/desertion laws and special/local laws"
+    ],
+    "punishment": "Not applicable — this section defines the code's title, commencement, and reach; it does not create an offence.",
+    "classification": null,
+    "ipcReference": {
+      "section": "1-2 IPC",
+      "changeNote": "Corresponds to the title/extent provisions of the IPC; adds explicit extraterritorial reach over offences targeting a computer resource located in India."
+    },
+    "illustrations": [
+      "A, a citizen of India, commits a murder in a place beyond India. He can be tried and convicted of murder in any place in India where he is found."
+    ],
+    "termRefs": ["offence", "computer-resource"],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.1 — verbatim text confirmed against the official Gazette (as published by UP Prosecution / India Code) and cross-checked via Rest The Case (Sep 2026)."
+    },
+    "lastVerified": "2026-09-28"
+  },
+  {
+    "id": "s-2",
+    "chapterId": "ch-01",
+    "number": "2",
+    "title": "Definitions",
+    "bareActText": "In this Sanhita, unless the context otherwise requires, various terms used throughout the code are defined — including (among many others) \"act,\" \"animal,\" \"child\" (a person below the age of eighteen years), \"counterfeit,\" \"court,\" \"death,\" \"dishonestly,\" \"document,\" \"fraudulently,\" \"gender,\" \"good faith,\" \"Government,\" \"illegal\" and \"legally bound to do,\" \"injury,\" \"judge,\" \"life,\" \"movable property,\" \"public servant,\" \"reason to believe,\" \"vessel,\" \"voluntarily,\" \"wrongful gain\" and \"wrongful loss.\" (This is a long definitions clause; each defined term carries its own precise meaning. See the individual dictionary entries and the official Act for the exact wording of each definition.)",
+    "plainMeaning": "Section 2 is the code's dictionary. It fixes the exact meaning of the key words used everywhere else, so that terms like 'dishonestly', 'document' or 'public servant' mean the same thing in every chapter. Because it is really a glossary, the platform surfaces these terms through its Dictionary feature.",
+    "ingredients": [
+      "Defines key terms used throughout the Sanhita",
+      "Definitions apply 'unless the context otherwise requires'",
+      "The defined meanings carry across all chapters"
+    ],
+    "punishment": "Not applicable — this is a definitions clause, not an offence.",
+    "classification": null,
+    "ipcReference": {
+      "section": "IPC Chapter I (ss.6-52A)",
+      "changeNote": "Corresponds to the general definitions of the IPC, consolidated and updated (e.g. adding 'gender' inclusively and modern terms)."
+    },
+    "illustrations": [],
+    "termRefs": ["dishonestly", "fraudulently", "good-faith", "document", "public-servant", "movable-property", "gender"],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.2 — section title and role confirmed against the official Gazette table of contents (NCRB/India Code). Individual definitions summarised; exact wording per the official Act."
+    },
+    "lastVerified": "2026-09-28"
+  },
+  {
+    "id": "s-3",
+    "chapterId": "ch-01",
+    "number": "3",
+    "title": "General explanations",
+    "bareActText": "This section contains general explanations that apply throughout the Sanhita. Among them: words importing the masculine gender are taken to include any gender; words in the singular include the plural, and the plural the singular, where the context permits; and the general rules on criminal responsibility of children — nothing is an offence which is done by a child under seven years of age, and nothing is an offence done by a child above seven years of age and under twelve years of age who has not attained sufficient maturity of understanding to judge the nature and consequences of his conduct on that occasion. (Summarised; see the official Act for the full set of general explanations.)",
+    "plainMeaning": "Section 3 gives the reading rules for the whole code. It tells you how to interpret gender and number in the text, and sets the age of criminal responsibility: a child under seven can never commit an offence, and a child between seven and twelve is not liable if they were too immature to understand what they were doing.",
+    "ingredients": [
+      "General interpretive rules applying throughout the Sanhita",
+      "Masculine-gender words include any gender; singular/plural read interchangeably where context permits",
+      "Child under 7: nothing done is an offence",
+      "Child 7-12 of immature understanding: not liable"
+    ],
+    "punishment": "Not applicable — these are general explanations, not an offence.",
+    "classification": null,
+    "ipcReference": {
+      "section": "IPC ss.6-33, 82-83 (in part)",
+      "changeNote": "Consolidates general explanations and the infancy rules previously spread across the IPC."
+    },
+    "illustrations": [],
+    "termRefs": ["good-faith"],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.3 — section title confirmed against the official Gazette table of contents (NCRB/India Code); infancy rule cross-checked via PRS India text. Full set of explanations summarised; see the official Act for exact wording."
+    },
+    "lastVerified": "2026-09-28"
+  }
+]

@@ -15,8 +15,8 @@ export default function VerificationBadge({
     <div
       className={`rounded-md border p-3 text-xs ${
         verified
-          ? "border-green-200 bg-green-50 text-green-800"
-          : "border-amber-200 bg-amber-50 text-amber-800"
+          ? "border-green-200 bg-green-50 text-green-800 dark:border-green-900 dark:bg-green-950/40 dark:text-green-300"
+          : "border-amber-200 bg-amber-50 text-amber-800 dark:border-amber-900 dark:bg-amber-950/40 dark:text-amber-300"
       }`}
     >
       <p className="font-semibold">

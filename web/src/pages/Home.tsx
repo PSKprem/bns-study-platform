@@ -37,8 +37,8 @@ export default function Home() {
       </section>
 
       <section className="mt-10">
-        <h2 className="text-lg font-semibold text-slate-800">Course Map</h2>
-        <p className="mt-1 text-sm text-slate-500">
+        <h2 className="text-lg font-semibold text-slate-800 dark:text-slate-200">Course Map</h2>
+        <p className="mt-1 text-sm text-slate-500 dark:text-slate-400">
           Pick a chapter to start studying.
         </p>
         <ul className="mt-4 grid gap-4 sm:grid-cols-2">
@@ -46,23 +46,23 @@ export default function Home() {
             <li key={c.id}>
               <Link
                 to={`/chapter/${c.id}`}
-                className="group block h-full rounded-2xl border border-slate-200 bg-white p-5 shadow-sm transition hover:-translate-y-0.5 hover:border-indigo-300 hover:shadow-md"
+                className="group block h-full rounded-2xl border border-slate-200 bg-white p-5 shadow-sm transition hover:-translate-y-0.5 hover:border-indigo-300 hover:shadow-md dark:border-slate-800 dark:bg-slate-900 dark:hover:border-indigo-700"
               >
                 <div className="flex items-center justify-between">
                   <span className="flex h-10 w-10 items-center justify-center rounded-xl bg-gradient-to-br from-indigo-600 to-violet-600 font-bold text-white">
                     {c.number}
                   </span>
-                  <span className="rounded-full bg-slate-100 px-2 py-0.5 text-xs text-slate-500">
+                  <span className="rounded-full bg-slate-100 px-2 py-0.5 text-xs text-slate-500 dark:bg-slate-800 dark:text-slate-400">
                     s.{c.sectionRange}
                   </span>
                 </div>
-                <h3 className="mt-3 font-semibold text-slate-900 group-hover:text-indigo-700">
+                <h3 className="mt-3 font-semibold text-slate-900 group-hover:text-indigo-700 dark:text-slate-100 dark:group-hover:text-indigo-300">
                   {c.title}
                 </h3>
-                <p className="mt-1 text-sm text-slate-600">
+                <p className="mt-1 text-sm text-slate-600 dark:text-slate-400">
                   {c.shortDescription}
                 </p>
-                <span className="mt-3 inline-block text-sm font-medium text-indigo-600">
+                <span className="mt-3 inline-block text-sm font-medium text-indigo-600 dark:text-indigo-400">
                   Start studying →
                 </span>
               </Link>

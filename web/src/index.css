@@ -1,7 +1,14 @@
 @import "tailwindcss";
 
+/* Enable class-based dark mode: `dark:` variants apply when a parent has .dark */
+@custom-variant dark (&:where(.dark, .dark *));
+
 :root {
   color-scheme: light;
+}
+
+.dark {
+  color-scheme: dark;
 }
 
 html,

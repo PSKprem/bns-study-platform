@@ -92,7 +92,7 @@ export default function ChapterPage() {
             className={`rounded-full px-4 py-1.5 text-sm font-medium transition ${
               tab === t
                 ? "bg-indigo-600 text-white shadow-sm"
-                : "bg-white text-slate-600 ring-1 ring-slate-200 hover:bg-slate-50"
+                : "bg-white text-slate-600 ring-1 ring-slate-200 hover:bg-slate-50 dark:bg-slate-900 dark:text-slate-300 dark:ring-slate-700 dark:hover:bg-slate-800"
             }`}
           >
             {t}
@@ -112,7 +112,7 @@ export default function ChapterPage() {
         )}
 
         {tab === "Summary" && (
-          <article className="max-w-3xl space-y-4 rounded-2xl border border-slate-200 bg-white p-6 leading-relaxed text-slate-700 shadow-sm">
+          <article className="max-w-3xl space-y-4 rounded-2xl border border-slate-200 bg-white p-6 leading-relaxed text-slate-700 shadow-sm dark:border-slate-800 dark:bg-slate-900 dark:text-slate-300">
             {chapter.summary.split("\n\n").map((para, i) => (
               <p key={i}>{para}</p>
             ))}
@@ -124,16 +124,16 @@ export default function ChapterPage() {
             {chapter.keyPoints.map((kp, i) => (
               <li
                 key={i}
-                className="rounded-2xl border border-slate-200 bg-white p-4 shadow-sm"
+                className="rounded-2xl border border-slate-200 bg-white p-4 shadow-sm dark:border-slate-800 dark:bg-slate-900"
               >
-                <p className="flex items-start gap-2 font-semibold text-slate-900">
-                  <span className="mt-0.5 flex h-5 w-5 shrink-0 items-center justify-center rounded-full bg-indigo-100 text-xs text-indigo-700">
+                <p className="flex items-start gap-2 font-semibold text-slate-900 dark:text-slate-100">
+                  <span className="mt-0.5 flex h-5 w-5 shrink-0 items-center justify-center rounded-full bg-indigo-100 text-xs text-indigo-700 dark:bg-indigo-950 dark:text-indigo-300">
                     {i + 1}
                   </span>
                   {kp.point}
                 </p>
                 {kp.subPoints.length > 0 && (
-                  <ul className="mt-2 space-y-1 pl-7 text-sm text-slate-600">
+                  <ul className="mt-2 space-y-1 pl-7 text-sm text-slate-600 dark:text-slate-400">
                     {kp.subPoints.map((sp, j) => (
                       <li key={j} className="list-disc">
                         {sp}
@@ -148,16 +148,16 @@ export default function ChapterPage() {
 
         {tab === "Fast Revision" && (
           <div className="max-w-3xl">
-            <div className="mb-4 rounded-xl bg-amber-50 p-3 text-sm text-amber-800 ring-1 ring-amber-200">
+            <div className="mb-4 rounded-xl bg-amber-50 p-3 text-sm text-amber-800 ring-1 ring-amber-200 dark:bg-amber-950/40 dark:text-amber-200 dark:ring-amber-900">
               ⚡ Last-minute must-know points. Skim these right before the exam.
             </div>
             <ol className="grid gap-2 sm:grid-cols-2">
               {chapter.fastRevision.map((point, i) => (
                 <li
                   key={i}
-                  className="flex gap-2 rounded-xl border border-slate-200 bg-white p-3 text-sm text-slate-700 shadow-sm"
+                  className="flex gap-2 rounded-xl border border-slate-200 bg-white p-3 text-sm text-slate-700 shadow-sm dark:border-slate-800 dark:bg-slate-900 dark:text-slate-300"
                 >
-                  <span className="font-semibold text-indigo-600">{i + 1}.</span>
+                  <span className="font-semibold text-indigo-600 dark:text-indigo-400">{i + 1}.</span>
                   {point}
                 </li>
               ))}
@@ -175,16 +175,16 @@ export default function ChapterPage() {
               <li key={s.id}>
                 <Link
                   to={`/section/${s.id}`}
-                  className="flex items-center justify-between rounded-xl border border-slate-200 bg-white px-4 py-3 shadow-sm transition hover:border-indigo-300 hover:bg-indigo-50/40"
+                  className="flex items-center justify-between rounded-xl border border-slate-200 bg-white px-4 py-3 shadow-sm transition hover:border-indigo-300 hover:bg-indigo-50/40 dark:border-slate-800 dark:bg-slate-900 dark:hover:border-indigo-700 dark:hover:bg-slate-800"
                 >
                   <span>
-                    <span className="font-semibold text-indigo-700">
+                    <span className="font-semibold text-indigo-700 dark:text-indigo-300">
                       s.{s.number}
                     </span>{" "}
-                    <span className="text-slate-800">{s.title}</span>
+                    <span className="text-slate-800 dark:text-slate-200">{s.title}</span>
                   </span>
                   {s.verification.status === "unverified" && (
-                    <span className="shrink-0 rounded-full bg-amber-100 px-2 py-0.5 text-xs text-amber-800">
+                    <span className="shrink-0 rounded-full bg-amber-100 px-2 py-0.5 text-xs text-amber-800 dark:bg-amber-950/50 dark:text-amber-200">
                       unverified
                     </span>
                   )}
@@ -195,7 +195,7 @@ export default function ChapterPage() {
         )}
         {tab === "Dictionary" && (
           <div className="max-w-3xl">
-            <div className="mb-4 rounded-xl bg-indigo-50 p-3 text-sm text-indigo-800 ring-1 ring-indigo-200">
+            <div className="mb-4 rounded-xl bg-indigo-50 p-3 text-sm text-indigo-800 ring-1 ring-indigo-200 dark:bg-indigo-950/40 dark:text-indigo-200 dark:ring-indigo-900">
               📖 Terms relevant to this chapter, in English and Hindi. For all
               terms across the book, see the{" "}
               <Link to="/dictionary" className="font-semibold underline">
@@ -206,7 +206,7 @@ export default function ChapterPage() {
             {terms.length > 0 ? (
               <TermList terms={terms} />
             ) : (
-              <p className="text-slate-500">
+              <p className="text-slate-500 dark:text-slate-400">
                 No dictionary terms linked to this chapter yet.
               </p>
             )}

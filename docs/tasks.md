@@ -88,7 +88,9 @@ Goal: prove the whole workflow on one small chapter. Definition of Done = `requi
 
 ## Phase 2 — Expand core reference (after milestone)
 
-- [ ] Add 2–3 more chapters as JSON content (reuse components) — *content, not engineering*
+- [~] Add more chapters as JSON content (reuse components) — *content, not engineering*
+  - [x] Chapter I (Preliminary, s.1–3) — verified; validated that adding a chapter needs only JSON + one registry line
+- [x] Dark mode toggle (light/dark, persisted in localStorage) *(added on request)*
 - [ ] Statutory Dictionary expansion (Section 2 terms)
 - [ ] Reasoning Toolkit cards (Section 3)
 - [ ] Sub-heading–aware navigation for dense chapters

@@ -44,12 +44,12 @@ export default function MCQQuiz({ items }: { items: MCQ[] }) {
   if (finished) {
     const pct = Math.round((score / items.length) * 100);
     return (
-      <div className="rounded-2xl border border-slate-200 bg-white p-8 text-center shadow-sm">
-        <p className="text-sm font-medium text-slate-500">Quiz complete</p>
-        <p className="mt-2 text-4xl font-bold text-indigo-600">
+      <div className="rounded-2xl border border-slate-200 bg-white p-8 text-center shadow-sm dark:border-slate-800 dark:bg-slate-900">
+        <p className="text-sm font-medium text-slate-500 dark:text-slate-400">Quiz complete</p>
+        <p className="mt-2 text-4xl font-bold text-indigo-600 dark:text-indigo-400">
           {score} / {items.length}
         </p>
-        <p className="mt-1 text-slate-500">{pct}% correct</p>
+        <p className="mt-1 text-slate-500 dark:text-slate-400">{pct}% correct</p>
         <button
           onClick={restart}
           className="mt-6 rounded-lg bg-indigo-600 px-5 py-2 text-sm font-semibold text-white shadow-sm transition hover:bg-indigo-700"
@@ -62,26 +62,26 @@ export default function MCQQuiz({ items }: { items: MCQ[] }) {
 
   return (
     <div className="max-w-2xl">
-      <div className="mb-3 flex items-center justify-between text-sm text-slate-500">
+      <div className="mb-3 flex items-center justify-between text-sm text-slate-500 dark:text-slate-400">
         <span>
           Question {index + 1} of {items.length}
         </span>
         <span>
-          Score: <span className="font-semibold text-slate-700">{score}</span>
+          Score: <span className="font-semibold text-slate-700 dark:text-slate-200">{score}</span>
           {answered > 0 && ` / ${answered}`}
         </span>
       </div>
 
       {/* progress bar */}
-      <div className="mb-5 h-1.5 w-full overflow-hidden rounded-full bg-slate-100">
+      <div className="mb-5 h-1.5 w-full overflow-hidden rounded-full bg-slate-100 dark:bg-slate-800">
         <div
           className="h-full rounded-full bg-indigo-500 transition-all"
           style={{ width: `${((index + 1) / items.length) * 100}%` }}
         />
       </div>
 
-      <div className="rounded-2xl border border-slate-200 bg-white p-6 shadow-sm">
-        <p className="text-lg font-medium text-slate-900">{q.question}</p>
+      <div className="rounded-2xl border border-slate-200 bg-white p-6 shadow-sm dark:border-slate-800 dark:bg-slate-900">
+        <p className="text-lg font-medium text-slate-900 dark:text-slate-100">{q.question}</p>
 
         <div className="mt-4 space-y-2">
           {q.options.map((opt, i) => {
@@ -93,13 +93,13 @@ export default function MCQQuiz({ items }: { items: MCQ[] }) {
               "w-full rounded-xl border px-4 py-3 text-left text-sm transition ";
             if (!show) {
               cls +=
-                "border-slate-200 bg-white hover:border-indigo-300 hover:bg-indigo-50/50";
+                "border-slate-200 bg-white hover:border-indigo-300 hover:bg-indigo-50/50 dark:border-slate-700 dark:bg-slate-900 dark:text-slate-200 dark:hover:border-indigo-700 dark:hover:bg-slate-800";
             } else if (isCorrect) {
-              cls += "border-green-300 bg-green-50 text-green-800";
+              cls += "border-green-300 bg-green-50 text-green-800 dark:border-green-800 dark:bg-green-950/40 dark:text-green-300";
             } else if (isChosen) {
-              cls += "border-rose-300 bg-rose-50 text-rose-800";
+              cls += "border-rose-300 bg-rose-50 text-rose-800 dark:border-rose-800 dark:bg-rose-950/40 dark:text-rose-300";
             } else {
-              cls += "border-slate-200 bg-white text-slate-400";
+              cls += "border-slate-200 bg-white text-slate-400 dark:border-slate-800 dark:bg-slate-900 dark:text-slate-500";
             }
 
             return (
@@ -123,8 +123,8 @@ export default function MCQQuiz({ items }: { items: MCQ[] }) {
         </div>
 
         {selected !== null && (
-          <div className="mt-4 rounded-xl bg-slate-50 p-4 text-sm text-slate-700">
-            <p className="font-semibold text-slate-800">
+          <div className="mt-4 rounded-xl bg-slate-50 p-4 text-sm text-slate-700 dark:bg-slate-800 dark:text-slate-300">
+            <p className="font-semibold text-slate-800 dark:text-slate-100">
               {selected === q.correctIndex ? "Correct!" : "Not quite."}
             </p>
             <p className="mt-1">{q.explanation}</p>

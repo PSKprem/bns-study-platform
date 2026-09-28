@@ -32,7 +32,7 @@ export default function TermList({
           onChange={(e) => setQuery(e.target.value)}
           placeholder="Search a term (English or हिन्दी)…"
           aria-label="Search dictionary"
-          className="w-full max-w-md rounded-lg border border-slate-300 px-3 py-2 text-sm focus:border-indigo-400 focus:outline-none focus:ring-2 focus:ring-indigo-100"
+          className="w-full max-w-md rounded-lg border border-slate-300 px-3 py-2 text-sm focus:border-indigo-400 focus:outline-none focus:ring-2 focus:ring-indigo-100 dark:border-slate-700 dark:bg-slate-900 dark:text-slate-100 dark:focus:ring-indigo-900"
         />
       )}
 
@@ -40,21 +40,21 @@ export default function TermList({
         {filtered.map((t) => (
           <li
             key={t.id}
-            className="rounded-2xl border border-slate-200 bg-white p-4 shadow-sm"
+            className="rounded-2xl border border-slate-200 bg-white p-4 shadow-sm dark:border-slate-800 dark:bg-slate-900"
           >
-            <h3 className="font-semibold text-slate-900">{t.term}</h3>
-            <p className="mt-1 text-sm text-slate-700">
-              <span className="font-medium text-indigo-500">EN </span>
+            <h3 className="font-semibold text-slate-900 dark:text-slate-100">{t.term}</h3>
+            <p className="mt-1 text-sm text-slate-700 dark:text-slate-300">
+              <span className="font-medium text-indigo-500 dark:text-indigo-400">EN </span>
               {t.meaningEn}
             </p>
-            <p className="mt-1 text-sm text-slate-700">
-              <span className="font-medium text-indigo-500">HI </span>
+            <p className="mt-1 text-sm text-slate-700 dark:text-slate-300">
+              <span className="font-medium text-indigo-500 dark:text-indigo-400">HI </span>
               {t.meaningHi}
             </p>
           </li>
         ))}
         {filtered.length === 0 && (
-          <li className="text-slate-500">No matching terms.</li>
+          <li className="text-slate-500 dark:text-slate-400">No matching terms.</li>
         )}
       </ul>
     </div>

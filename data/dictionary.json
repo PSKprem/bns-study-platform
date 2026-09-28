@@ -82,5 +82,68 @@
     "meaningEn": "An earlier conviction that can trigger a heavier sentence for a later, similar offence.",
     "meaningHi": "पूर्व दोषसिद्धि — पहले हुई दोषसिद्धि जो बाद के समान अपराध के लिए भारी दंड का आधार बन सकती है।",
     "relatedSections": ["s-13"]
+  },
+  {
+    "id": "offence",
+    "term": "Offence",
+    "meaningEn": "An act or omission made punishable by law; for the Sanhita's extraterritorial reach it includes an act done outside India that would be punishable if done in India.",
+    "meaningHi": "अपराध — विधि द्वारा दंडनीय कार्य या लोप; संहिता के क्षेत्र-बाह्य प्रभाव के लिए इसमें भारत के बाहर किया गया ऐसा कार्य भी शामिल है जो भारत में किए जाने पर दंडनीय होता।",
+    "relatedSections": ["s-1"]
+  },
+  {
+    "id": "computer-resource",
+    "term": "Computer resource",
+    "meaningEn": "A computer, computer system, network, data, or database; the Sanhita reaches offences committed anywhere that target a computer resource located in India.",
+    "meaningHi": "कंप्यूटर संसाधन — कंप्यूटर, कंप्यूटर प्रणाली, नेटवर्क, डेटा या डेटाबेस; संहिता कहीं से भी किए गए ऐसे अपराधों तक पहुँचती है जो भारत में स्थित किसी कंप्यूटर संसाधन को निशाना बनाते हैं।",
+    "relatedSections": ["s-1"]
+  },
+  {
+    "id": "dishonestly",
+    "term": "Dishonestly",
+    "meaningEn": "Doing something with the intention of causing wrongful gain to one person or wrongful loss to another.",
+    "meaningHi": "बेईमानी से — किसी को अनुचित लाभ या किसी अन्य को अनुचित हानि पहुँचाने के आशय से कोई कार्य करना।",
+    "relatedSections": ["s-2"]
+  },
+  {
+    "id": "fraudulently",
+    "term": "Fraudulently",
+    "meaningEn": "Doing something with intent to defraud — i.e. with deceit and an intention to cause injury.",
+    "meaningHi": "कपटपूर्वक — छल के साथ और क्षति पहुँचाने के आशय से, अर्थात् धोखा देने के इरादे से कोई कार्य करना।",
+    "relatedSections": ["s-2"]
+  },
+  {
+    "id": "good-faith",
+    "term": "Good faith",
+    "meaningEn": "Something done or believed with due care and attention (not merely honestly, but with reasonable care).",
+    "meaningHi": "सद्भावपूर्वक (अच्छे विश्वास से) — उचित सावधानी और ध्यान के साथ किया या माना गया कार्य (केवल ईमानदारी से नहीं, बल्कि उचित सावधानी सहित)।",
+    "relatedSections": ["s-2", "s-3"]
+  },
+  {
+    "id": "document",
+    "term": "Document",
+    "meaningEn": "Any matter expressed or described on any substance by letters, figures or marks, intended to be used as evidence — including electronic records.",
+    "meaningHi": "दस्तावेज़ — किसी पदार्थ पर अक्षरों, अंकों या चिह्नों द्वारा व्यक्त या वर्णित कोई विषय, जिसे साक्ष्य के रूप में प्रयोग करने का आशय हो — इसमें इलेक्ट्रॉनिक अभिलेख भी शामिल हैं।",
+    "relatedSections": ["s-2"]
+  },
+  {
+    "id": "public-servant",
+    "term": "Public servant",
+    "meaningEn": "A person falling within any of the categories the Sanhita designates as holding public office or duty (e.g. judges, officers, and others in government service as defined).",
+    "meaningHi": "लोक सेवक — ऐसा व्यक्ति जो संहिता द्वारा लोक पद या कर्तव्य धारण करने वाली किसी श्रेणी में आता है (जैसे न्यायाधीश, अधिकारी और परिभाषा अनुसार सरकारी सेवा में अन्य व्यक्ति)।",
+    "relatedSections": ["s-2"]
+  },
+  {
+    "id": "movable-property",
+    "term": "Movable property",
+    "meaningEn": "Property of every description except land and things attached to the earth or permanently fastened to anything attached to the earth.",
+    "meaningHi": "चल संपत्ति — भूमि तथा पृथ्वी से जुड़ी या पृथ्वी से जुड़ी किसी वस्तु से स्थायी रूप से बँधी वस्तुओं को छोड़कर, हर प्रकार की संपत्ति।",
+    "relatedSections": ["s-2"]
+  },
+  {
+    "id": "gender",
+    "term": "Gender",
+    "meaningEn": "The pronoun 'he' and its derivatives are used of any person, whether male, female or transgender.",
+    "meaningHi": "लिंग — सर्वनाम 'वह' और उसके व्युत्पन्न किसी भी व्यक्ति के लिए प्रयुक्त होते हैं, चाहे वह पुरुष, स्त्री या ट्रांसजेंडर हो।",
+    "relatedSections": ["s-2", "s-3"]
   }
 ]
