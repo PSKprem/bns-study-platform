@@ -8,9 +8,26 @@ The goal: make the knowledge law students need to learn BNS available in one pla
 
 ## Status
 
-🌱 **Early stage — planning complete, build not yet started.**
+🚀 **Live — first chapter shipped.** Chapter II ("Of Punishments") is built end-to-end and
+deployed. Building further chapters is now mostly content work, reusing the same features.
 
-The full concept blueprint lives in [`docs/bns-study-platform-ideas.md`](docs/bns-study-platform-ideas.md).
+**Live site:** https://pskprem.github.io/bns-study-platform/
+
+**What's live for Chapter II:**
+- Plain-language **summary**, structured **key points**, and **Fast Revision** must-know points
+- Clickable, auto-fitting **mind map**
+- **Practice MCQs** with instant feedback and scoring
+- **Exam Q&A** in Learn (self-test) and Read modes
+- **Section detail** pages with verification badges and linked terms
+- **Bilingual dictionary** (English + Hindi) — both global and per-chapter
+- **Search** across all content
+
+**Planning docs:** [ideas](docs/bns-study-platform-ideas.md) ·
+[requirements](docs/requirements.md) · [spec](docs/spec.md) ·
+[architecture](docs/architecture.md) · [tasks](docs/tasks.md)
+
+> Note: Chapter II statute facts are currently marked **unverified** (shown with an amber
+> badge) pending cross-check against the official BNS 2023 Gazette.
 
 ---
 
@@ -43,7 +60,7 @@ The platform is built around these skills.
 **Phase 3 — Interactive / practice features:**
 - General Exceptions decision-tree
 - Offence Classifier ("Spot the Crime") practice mode
-- Retention tools (flashcards, spaced repetition)
+- Retention tools (practice MCQs and Fast Revision shipped in Chapter II; spaced-repetition flashcards deferred)
 
 **Phase 4 — Differentiators:**
 - Rights of Accused / Victim Justice modules
@@ -80,10 +97,11 @@ Rule: *extract facts and structure; rewrite prose.*
 
 ```
 bns-study-platform/
-├── docs/          # Concept blueprint, design notes, decisions
-├── content/       # Structured, rewritten study content (per section)
-├── data/          # Machine-readable datasets (IPC↔BNS map, classifications)
-└── web/           # The website application (added in Phase 1 build)
+├── docs/          # Planning docs: ideas, requirements, spec, architecture, tasks
+├── data/          # Study content as JSON (chapters, sections, qa, mcqs, dictionary)
+├── content/       # Optional drafting area before content becomes JSON
+├── web/           # The website (React + Vite + TypeScript + Tailwind)
+└── .github/       # CI/CD workflow (auto-deploy to GitHub Pages)
 ```
 
 ---
