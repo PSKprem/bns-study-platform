@@ -8,7 +8,6 @@ import Home from "./pages/Home";
 const ChapterPage = lazy(() => import("./pages/ChapterPage"));
 const SectionPage = lazy(() => import("./pages/SectionPage"));
 const DictionaryPage = lazy(() => import("./pages/DictionaryPage"));
-const FlashcardsPage = lazy(() => import("./pages/FlashcardsPage"));
 const SearchPage = lazy(() => import("./pages/SearchPage"));
 const Placeholder = lazy(() => import("./pages/Placeholder"));
 
@@ -48,14 +47,6 @@ export const router = createBrowserRouter(
           element: (
             <Lazy>
               <DictionaryPage />
-            </Lazy>
-          ),
-        },
-        {
-          path: "flashcards",
-          element: (
-            <Lazy>
-              <FlashcardsPage />
             </Lazy>
           ),
         },

@@ -1,19 +1,37 @@
 import { lazy, Suspense, useState } from "react";
-import { Link, useParams } from "react-router-dom";
-import { getChapter, getQA, getSections } from "../lib/content";
+import { Link, useParams, useSearchParams } from "react-router-dom";
+import { getChapter, getMCQs, getQA, getSections } from "../lib/content";
 import ExamQA from "../features/ExamQA";
+import MCQQuiz from "../features/MCQQuiz";
 
 // MindMap pulls in markmap + d3 (heavy); lazy-load so it code-splits out of
 // the initial bundle and only loads when the Mind Map tab is opened.
 const MindMap = lazy(() => import("../features/MindMap"));
 
-const TABS = ["Mind Map", "Summary", "Key Points", "Exam Q&A", "Sections"] as const;
+const TABS = [
+  "Mind Map",
+  "Summary",
+  "Key Points",
+  "Fast Revision",
+  "Practice (MCQ)",
+  "Exam Q&A",
+  "Sections",
+] as const;
 type Tab = (typeof TABS)[number];
 
 export default function ChapterPage() {
   const { id = "" } = useParams();
+  const [searchParams] = useSearchParams();
   const chapter = getChapter(id);
-  const [tab, setTab] = useState<Tab>("Mind Map");
+
+  // Allow deep-linking to a specific tab (e.g. ?tab=Sections from a section's
+  // "Back to sections" button).
+  const initialTab = (TABS as readonly string[]).includes(
+    searchParams.get("tab") ?? "",
+  )
+    ? (searchParams.get("tab") as Tab)
+    : "Summary";
+  const [tab, setTab] = useState<Tab>(initialTab);
 
   if (!chapter) {
     return (
@@ -28,26 +46,33 @@ export default function ChapterPage() {
 
   const sections = getSections(chapter.id);
   const qa = getQA(chapter.id);
+  const mcqs = getMCQs(chapter.id);
 
   return (
     <div>
       <nav className="text-sm text-slate-500">
-        <Link to="/" className="hover:underline">
+        <Link to="/" className="transition hover:text-indigo-600">
           Course Map
         </Link>{" "}
-        / Chapter {chapter.number}
+        <span className="text-slate-300">/</span> Chapter {chapter.number}
       </nav>
-      <h1 className="mt-1 text-2xl font-bold text-slate-900">
-        Chapter {chapter.number} — {chapter.title}
-      </h1>
-      <p className="mt-1 text-sm text-slate-500">
-        Sections {chapter.sectionRange} · Last verified: {chapter.lastVerified}
-      </p>
 
+      {/* Chapter header banner */}
+      <div className="mt-2 rounded-2xl bg-gradient-to-r from-indigo-600 to-violet-600 p-6 text-white shadow-sm">
+        <p className="text-sm font-medium text-indigo-100">
+          Chapter {chapter.number} · Sections {chapter.sectionRange}
+        </p>
+        <h1 className="mt-1 text-3xl font-bold">{chapter.title}</h1>
+        <p className="mt-2 max-w-2xl text-indigo-100">
+          {chapter.shortDescription}
+        </p>
+      </div>
+
+      {/* Tabs */}
       <div
-        className="mt-4 flex flex-wrap gap-1 border-b border-slate-200"
+        className="mt-5 flex flex-wrap gap-2"
         role="tablist"
-        aria-label="Chapter sections"
+        aria-label="Chapter study views"
       >
         {TABS.map((t) => (
           <button
@@ -55,10 +80,10 @@ export default function ChapterPage() {
             role="tab"
             aria-selected={tab === t}
             onClick={() => setTab(t)}
-            className={`-mb-px border-b-2 px-3 py-2 text-sm ${
+            className={`rounded-full px-4 py-1.5 text-sm font-medium transition ${
               tab === t
-                ? "border-indigo-600 font-semibold text-indigo-700"
-                : "border-transparent text-slate-600 hover:text-slate-900"
+                ? "bg-indigo-600 text-white shadow-sm"
+                : "bg-white text-slate-600 ring-1 ring-slate-200 hover:bg-slate-50"
             }`}
           >
             {t}
@@ -66,7 +91,7 @@ export default function ChapterPage() {
         ))}
       </div>
 
-      <div className="mt-5">
+      <div className="mt-6">
         {tab === "Mind Map" && (
           <Suspense
             fallback={
@@ -78,20 +103,32 @@ export default function ChapterPage() {
         )}
 
         {tab === "Summary" && (
-          <p className="max-w-3xl leading-relaxed text-slate-700">
-            {chapter.summary}
-          </p>
+          <article className="max-w-3xl space-y-4 rounded-2xl border border-slate-200 bg-white p-6 leading-relaxed text-slate-700 shadow-sm">
+            {chapter.summary.split("\n\n").map((para, i) => (
+              <p key={i}>{para}</p>
+            ))}
+          </article>
         )}
 
         {tab === "Key Points" && (
-          <ul className="max-w-3xl space-y-3">
+          <ul className="grid max-w-3xl gap-3">
             {chapter.keyPoints.map((kp, i) => (
-              <li key={i} className="rounded-lg border border-slate-200 bg-white p-3">
-                <p className="font-semibold text-slate-900">{kp.point}</p>
+              <li
+                key={i}
+                className="rounded-2xl border border-slate-200 bg-white p-4 shadow-sm"
+              >
+                <p className="flex items-start gap-2 font-semibold text-slate-900">
+                  <span className="mt-0.5 flex h-5 w-5 shrink-0 items-center justify-center rounded-full bg-indigo-100 text-xs text-indigo-700">
+                    {i + 1}
+                  </span>
+                  {kp.point}
+                </p>
                 {kp.subPoints.length > 0 && (
-                  <ul className="mt-1 list-disc pl-5 text-sm text-slate-600">
+                  <ul className="mt-2 space-y-1 pl-7 text-sm text-slate-600">
                     {kp.subPoints.map((sp, j) => (
-                      <li key={j}>{sp}</li>
+                      <li key={j} className="list-disc">
+                        {sp}
+                      </li>
                     ))}
                   </ul>
                 )}
@@ -100,15 +137,36 @@ export default function ChapterPage() {
           </ul>
         )}
 
+        {tab === "Fast Revision" && (
+          <div className="max-w-3xl">
+            <div className="mb-4 rounded-xl bg-amber-50 p-3 text-sm text-amber-800 ring-1 ring-amber-200">
+              ⚡ Last-minute must-know points. Skim these right before the exam.
+            </div>
+            <ol className="grid gap-2 sm:grid-cols-2">
+              {chapter.fastRevision.map((point, i) => (
+                <li
+                  key={i}
+                  className="flex gap-2 rounded-xl border border-slate-200 bg-white p-3 text-sm text-slate-700 shadow-sm"
+                >
+                  <span className="font-semibold text-indigo-600">{i + 1}.</span>
+                  {point}
+                </li>
+              ))}
+            </ol>
+          </div>
+        )}
+
+        {tab === "Practice (MCQ)" && <MCQQuiz items={mcqs} />}
+
         {tab === "Exam Q&A" && <ExamQA items={qa} />}
 
         {tab === "Sections" && (
-          <ul className="divide-y divide-slate-200 rounded-lg border border-slate-200 bg-white">
+          <ul className="grid max-w-3xl gap-2">
             {sections.map((s) => (
               <li key={s.id}>
                 <Link
                   to={`/section/${s.id}`}
-                  className="flex items-center justify-between px-4 py-3 hover:bg-slate-50"
+                  className="flex items-center justify-between rounded-xl border border-slate-200 bg-white px-4 py-3 shadow-sm transition hover:border-indigo-300 hover:bg-indigo-50/40"
                 >
                   <span>
                     <span className="font-semibold text-indigo-700">
@@ -117,7 +175,7 @@ export default function ChapterPage() {
                     <span className="text-slate-800">{s.title}</span>
                   </span>
                   {s.verification.status === "unverified" && (
-                    <span className="rounded bg-amber-100 px-2 py-0.5 text-xs text-amber-800">
+                    <span className="shrink-0 rounded-full bg-amber-100 px-2 py-0.5 text-xs text-amber-800">
                       unverified
                     </span>
                   )}

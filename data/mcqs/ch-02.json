@@ -1,0 +1,112 @@
+[
+  {
+    "id": "mcq-ch02-1",
+    "chapterId": "ch-02",
+    "question": "Which of the following is a NEW kind of punishment introduced by the Bharatiya Nyaya Sanhita in Section 4?",
+    "options": ["Fine", "Forfeiture of property", "Community service", "Imprisonment for life"],
+    "correctIndex": 2,
+    "explanation": "Community service is recognised as a punishment for the first time under BNS. The others existed under the earlier law."
+  },
+  {
+    "id": "mcq-ch02-2",
+    "chapterId": "ch-02",
+    "question": "Under Section 6, for the purpose of calculating fractions of terms of punishment, imprisonment for life is reckoned as equivalent to how many years?",
+    "options": ["Ten years", "Fourteen years", "Twenty years", "Twenty-five years"],
+    "correctIndex": 2,
+    "explanation": "Section 6 provides that, for calculating fractions of terms, imprisonment for life is reckoned as twenty years. It is only a calculation rule and does not shorten actual life imprisonment."
+  },
+  {
+    "id": "mcq-ch02-3",
+    "chapterId": "ch-02",
+    "question": "What are the two descriptions of imprisonment recognised under Section 4?",
+    "options": [
+      "Open and closed",
+      "Rigorous and simple",
+      "Short-term and long-term",
+      "Civil and criminal"
+    ],
+    "correctIndex": 1,
+    "explanation": "Imprisonment is of two descriptions: rigorous (with hard labour) and simple (without hard labour)."
+  },
+  {
+    "id": "mcq-ch02-4",
+    "chapterId": "ch-02",
+    "question": "Regarding commutation of sentence under Section 5, which statement is correct?",
+    "options": [
+      "It requires the offender's written consent",
+      "It can be done by any Magistrate",
+      "The appropriate Government may commute without the offender's consent",
+      "It applies only to fines"
+    ],
+    "correctIndex": 2,
+    "explanation": "Under Section 5, the appropriate Government may commute any punishment to any other punishment without the offender's consent, following the procedure in s.474 BNSS."
+  },
+  {
+    "id": "mcq-ch02-5",
+    "chapterId": "ch-02",
+    "question": "Under Section 12, solitary confinement shall in no case exceed how long at a time?",
+    "options": ["Seven days", "Fourteen days", "One month", "Three months"],
+    "correctIndex": 1,
+    "explanation": "Section 12 caps solitary confinement at fourteen days at a time, with intervals at least as long as the periods of confinement."
+  },
+  {
+    "id": "mcq-ch02-6",
+    "chapterId": "ch-02",
+    "question": "Where the imprisonment awarded exceeds three months, solitary confinement under Section 12 shall not exceed how many days in any one month?",
+    "options": ["Three days", "Seven days", "Ten days", "Fourteen days"],
+    "correctIndex": 1,
+    "explanation": "For sentences exceeding three months, solitary confinement must not exceed seven days in any one month, with equal intervals."
+  },
+  {
+    "id": "mcq-ch02-7",
+    "chapterId": "ch-02",
+    "question": "Under Section 8, where no maximum amount of fine is expressed, the fine is—",
+    "options": [
+      "Fixed at one thousand rupees",
+      "Unlimited but not excessive",
+      "Left to the police to decide",
+      "Not permitted at all"
+    ],
+    "correctIndex": 1,
+    "explanation": "Where no sum is expressed, the fine is unlimited but shall not be excessive."
+  },
+  {
+    "id": "mcq-ch02-8",
+    "chapterId": "ch-02",
+    "question": "Solitary confinement under Section 11 may be ordered only where the offence carries—",
+    "options": [
+      "Simple imprisonment",
+      "Only a fine",
+      "Rigorous imprisonment",
+      "Community service"
+    ],
+    "correctIndex": 2,
+    "explanation": "Section 11 allows solitary confinement only where the court has power to sentence the offender to rigorous imprisonment, and caps the total at three months."
+  },
+  {
+    "id": "mcq-ch02-9",
+    "chapterId": "ch-02",
+    "question": "Section 13 of the BNS deals with—",
+    "options": [
+      "Commutation of sentence",
+      "Enhanced punishment after a previous conviction",
+      "Fine and default imprisonment",
+      "Kinds of punishment"
+    ],
+    "correctIndex": 1,
+    "explanation": "Section 13 provides for enhanced punishment for certain repeat offences after a previous conviction — up to life or up to ten years."
+  },
+  {
+    "id": "mcq-ch02-10",
+    "chapterId": "ch-02",
+    "question": "Under Section 10, where it is doubtful which of several offences a person is guilty of, he is punished for the offence with—",
+    "options": [
+      "The highest punishment",
+      "The lowest punishment",
+      "The average punishment",
+      "No punishment"
+    ],
+    "correctIndex": 1,
+    "explanation": "Section 10 directs that where it is doubtful which of several offences was committed, the offender is punished for the offence carrying the lowest punishment (where they differ)."
+  }
+]

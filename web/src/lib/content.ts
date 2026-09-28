@@ -6,14 +6,14 @@ import type {
   Chapter,
   Section,
   ExamQA,
-  Flashcard,
+  MCQ,
   DictionaryTerm,
 } from "../types/content";
 
 import ch02 from "@data/chapters/ch-02.json";
 import sectionsCh02 from "@data/sections/ch-02.json";
 import qaCh02 from "@data/qa/ch-02.json";
-import flashcardsCh02 from "@data/flashcards/ch-02.json";
+import mcqsCh02 from "@data/mcqs/ch-02.json";
 import dictionaryJson from "@data/dictionary.json";
 
 // Registries keyed by chapter id. Adding a chapter = add its JSON + one entry
@@ -28,8 +28,8 @@ const qaByChapter: Record<string, ExamQA[]> = {
   "ch-02": qaCh02 as ExamQA[],
 };
 
-const flashcardsByChapter: Record<string, Flashcard[]> = {
-  "ch-02": flashcardsCh02 as Flashcard[],
+const mcqsByChapter: Record<string, MCQ[]> = {
+  "ch-02": mcqsCh02 as MCQ[],
 };
 
 const dictionary: DictionaryTerm[] = dictionaryJson as DictionaryTerm[];
@@ -58,8 +58,8 @@ export function getQA(chapterId: string): ExamQA[] {
   return qaByChapter[chapterId] ?? [];
 }
 
-export function getFlashcards(chapterId: string): Flashcard[] {
-  return flashcardsByChapter[chapterId] ?? [];
+export function getMCQs(chapterId: string): MCQ[] {
+  return mcqsByChapter[chapterId] ?? [];
 }
 
 export function getDictionary(): DictionaryTerm[] {

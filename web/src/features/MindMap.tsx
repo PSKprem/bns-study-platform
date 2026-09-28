@@ -3,7 +3,8 @@ import { Transformer } from "markmap-lib";
 import { Markmap } from "markmap-view";
 
 // Renders a clickable/zoomable mind map from the chapter's markdown outline.
-// Markmap nodes are expandable and pannable (FR-2).
+// It auto-fits on load and whenever the container resizes, so the whole map is
+// visible without manual zooming (user feedback fix).
 const transformer = new Transformer();
 
 export default function MindMap({ markdown }: { markdown: string }) {
@@ -12,25 +13,54 @@ export default function MindMap({ markdown }: { markdown: string }) {
 
   useEffect(() => {
     if (!svgRef.current) return;
+
     const { root } = transformer.transform(markdown);
     if (!mmRef.current) {
-      mmRef.current = Markmap.create(svgRef.current);
+      mmRef.current = Markmap.create(svgRef.current, {
+        autoFit: true,
+        paddingX: 24,
+        duration: 300,
+      });
     }
-    mmRef.current.setData(root);
-    mmRef.current.fit();
+    const mm = mmRef.current;
+    mm.setData(root);
+    // Fit after data is set (and again on the next frame once layout settles).
+    mm.fit();
+    const raf = requestAnimationFrame(() => mm.fit());
+
+    // Re-fit when the window/container size changes so it always fills the box.
+    const onResize = () => mm.fit();
+    window.addEventListener("resize", onResize);
+
+    return () => {
+      cancelAnimationFrame(raf);
+      window.removeEventListener("resize", onResize);
+    };
   }, [markdown]);
 
+  function refit() {
+    mmRef.current?.fit();
+  }
+
   return (
-    <div className="rounded-lg border border-slate-200 bg-white p-2">
+    <div className="rounded-2xl border border-slate-200 bg-white shadow-sm">
+      <div className="flex items-center justify-between border-b border-slate-100 px-4 py-2">
+        <p className="text-xs text-slate-400">
+          Click a node to expand or collapse · drag to pan · scroll to zoom
+        </p>
+        <button
+          onClick={refit}
+          className="rounded-md bg-slate-100 px-3 py-1 text-xs font-medium text-slate-600 transition hover:bg-slate-200"
+        >
+          Fit to screen
+        </button>
+      </div>
       <svg
         ref={svgRef}
-        className="h-[60vh] w-full"
+        className="h-[75vh] w-full"
         role="img"
         aria-label="Chapter mind map"
       />
-      <p className="px-2 pb-1 text-xs text-slate-400">
-        Tip: click a node to expand or collapse; drag to pan.
-      </p>
     </div>
   );
 }

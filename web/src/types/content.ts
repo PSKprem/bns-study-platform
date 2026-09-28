@@ -22,6 +22,7 @@ export interface Chapter {
   subHeadings: SubHeading[];
   summary: string;
   keyPoints: KeyPoint[];
+  fastRevision: string[];
   mindMap: string;
   lastVerified: string;
 }
@@ -80,9 +81,11 @@ export interface DictionaryTerm {
   relatedSections: string[];
 }
 
-export interface Flashcard {
+export interface MCQ {
   id: string;
   chapterId: string;
-  front: string;
-  back: string;
+  question: string;
+  options: string[];
+  correctIndex: number;
+  explanation: string;
 }
