@@ -9,7 +9,7 @@ A **learning & revision companion website for law students** studying the **Bhar
 Nyaya Sanhita, 2023 (BNS)** — India's penal code that replaced the IPC.
 
 - Purpose: help a student **read, understand, revise, and pass the exam** — learning-first.
-- Planning docs: [`docs/`](docs/) (ideas → requirements → spec → architecture). **Read them
+- Planning docs: [`docs/`](docs/) (ideas → requirements → spec → architecture → tasks). **Read them
   before making design decisions.**
 - Live site: https://pskprem.github.io/bns-study-platform/ (auto-deployed from `main`).
 

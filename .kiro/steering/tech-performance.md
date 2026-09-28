@@ -7,7 +7,8 @@
 - **React Router** — client-side routing (`basename` = Vite `BASE_URL` for GitHub Pages).
 - **Fuse.js** — client-side fuzzy search.
 - **Markmap** (`markmap-lib` + `markmap-view`) — clickable mind maps.
-- **localStorage** — user progress (flashcards/quiz). No backend, no database, no accounts.
+- **localStorage** — available for on-device user progress when a persistent feature needs
+  it (not currently used; the MCQ quiz score is session-only). No backend, no database, no accounts.
 - **GitHub Pages** — free static hosting; deploy via GitHub Actions on push to `main`.
 
 ## Architecture constraints
