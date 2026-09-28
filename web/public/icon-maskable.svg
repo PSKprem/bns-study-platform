@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#4f46e5"/>
+      <stop offset="1" stop-color="#7c3aed"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" fill="url(#g)"/>
+  <!-- Glyph scaled to 70% and centred, so it survives circular/rounded masks. -->
+  <g transform="translate(9.6 9.6) scale(0.7)">
+    <g stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none">
+      <path d="M32 13v33M22 49h20M15 21h34M32 13v8"/>
+      <path d="M15 21l-6 13M15 21l6 13M49 21l-6 13M49 21l6 13"/>
+    </g>
+    <g fill="#fff">
+      <circle cx="32" cy="13" r="3"/>
+      <path d="M7.5 34h15a7.5 5.5 0 0 1-15 0zM41.5 34h15a7.5 5.5 0 0 1-15 0z"/>
+    </g>
+  </g>
+</svg>

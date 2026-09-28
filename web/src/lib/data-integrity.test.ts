@@ -1,6 +1,7 @@
 import { describe, it, expect } from "vitest";
 import {
   getChapters,
+  getCourseOutline,
   getSections,
   getMCQs,
   getQA,
@@ -18,6 +19,42 @@ describe("data integrity", () => {
   it("has unique chapter ids", () => {
     const ids = chapters.map((c) => c.id);
     expect(new Set(ids).size).toBe(ids.length);
+  });
+
+  it("course outline covers all 20 chapters and sections 1-358 with no gaps", () => {
+    const outline = getCourseOutline();
+    expect(outline.length).toBe(20);
+    let expected = 1;
+    for (const c of outline) {
+      const [from, to = from] = c.sectionRange.split("-").map(Number);
+      expect(from, `${c.id} should start at s.${expected}`).toBe(expected);
+      expected = to + 1;
+    }
+    expect(expected - 1).toBe(358);
+  });
+
+  it("every published chapter matches its course-outline entry", () => {
+    const outline = getCourseOutline();
+    for (const c of chapters) {
+      const o = outline.find((x) => x.id === c.id);
+      expect(o, `${c.id} missing from course-outline.json`).toBeDefined();
+      expect(o?.available).toBe(true);
+      expect(c.sectionRange).toBe(o?.sectionRange);
+      expect(c.number).toBe(o?.number);
+    }
+  });
+
+  it("every chapter's sections fill its section range, and sub-headings cover each once", () => {
+    for (const c of chapters) {
+      const sections = getSections(c.id);
+      const [from, to = from] = c.sectionRange.split("-").map(Number);
+      expect(sections.map((s) => Number(s.number))).toEqual(
+        Array.from({ length: to - from + 1 }, (_, i) => from + i),
+      );
+      const grouped = c.subHeadings.flatMap((g) => g.sectionIds);
+      expect(new Set(grouped).size, `${c.id} sub-headings repeat a section`).toBe(grouped.length);
+      expect([...grouped].sort()).toEqual(sections.map((s) => s.id).sort());
+    }
   });
 
   it("every chapter has required fields", () => {

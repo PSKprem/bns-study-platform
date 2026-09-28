@@ -1,6 +1,7 @@
 import { useMemo, useState } from "react";
 import { Link } from "react-router-dom";
 import { search, type SearchType } from "../lib/search";
+import { useDocumentTitle } from "../lib/useDocumentTitle";
 
 const TYPE_LABELS: Record<SearchType, string> = {
   chapter: "Chapters",
@@ -12,6 +13,7 @@ const TYPE_LABELS: Record<SearchType, string> = {
 const TYPE_ORDER: SearchType[] = ["chapter", "section", "qa", "term"];
 
 export default function SearchPage() {
+  useDocumentTitle("Search");
   const [query, setQuery] = useState("");
   const results = useMemo(() => search(query), [query]);
 

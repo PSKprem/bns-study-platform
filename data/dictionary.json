@@ -2,8 +2,8 @@
   {
     "id": "community-service",
     "term": "Community service",
-    "meaningEn": "Unpaid work a convicted person is ordered to do for the benefit of the community, newly recognised as a punishment under BNS.",
-    "meaningHi": "समुदाय सेवा — दोषी व्यक्ति को समाज के हित में करने के लिए दिया गया बिना वेतन का कार्य, जिसे BNS में पहली बार दंड के रूप में मान्यता दी गई है।",
+    "meaningEn": "Unpaid work a convicted person is ordered to do for the benefit of the community. Newly listed as a punishment in s.4(f), it can be imposed only where an offence provides for it (e.g. ss.202, 209, 303(2), 355, 356(2)).",
+    "meaningHi": "सामुदायिक सेवा — दोषी व्यक्ति को समाज के हित में करने के लिए दिया गया बिना वेतन का कार्य। धारा 4(च) में पहली बार दंड के रूप में सूचीबद्ध; यह केवल उन्हीं अपराधों में दिया जा सकता है जिनमें इसका प्रावधान हो (जैसे धारा 202, 209, 303(2), 355, 356(2))।",
     "relatedSections": ["s-4"]
   },
   {
@@ -30,8 +30,8 @@
   {
     "id": "imprisonment-for-life",
     "term": "Imprisonment for life",
-    "meaningEn": "Imprisonment for the remainder of the convicted person's natural life; reckoned as twenty years only when calculating fractions of terms.",
-    "meaningHi": "आजीवन कारावास — दोषी के शेष प्राकृतिक जीवन तक का कारावास; केवल अवधि के अंश की गणना के लिए इसे बीस वर्ष माना जाता है।",
+    "meaningEn": "A punishment listed in s.4(b). It generally means imprisonment for the rest of the convict's natural life; some BNS sections say so expressly. Only for calculating fractions of a term does s.6 count it as twenty years, unless otherwise provided.",
+    "meaningHi": "आजीवन कारावास — धारा 4(ख) में सूचीबद्ध दंड। सामान्यतः इसका अर्थ दोषी के शेष प्राकृतिक जीवन तक का कारावास है; BNS की कुछ धाराएँ यह स्पष्ट रूप से कहती हैं। केवल अवधि के अंश की गणना के लिए धारा 6 इसे बीस वर्ष मानती है, जब तक अन्यथा उपबंधित न हो।",
     "relatedSections": ["s-4", "s-6"]
   },
   {
@@ -44,8 +44,8 @@
   {
     "id": "appropriate-government",
     "term": "Appropriate Government",
-    "meaningEn": "The Central or State Government that has authority over the matter, as defined by law.",
-    "meaningHi": "उपयुक्त सरकार — विधि द्वारा परिभाषित, उस विषय पर अधिकार रखने वाली केंद्र या राज्य सरकार।",
+    "meaningEn": "For commutation under s.5: the Central Government for a death sentence or an offence under a law on a Union matter; the Government of the State where the offender was sentenced for an offence under a law on a State matter.",
+    "meaningHi": "उपयुक्त सरकार — धारा 5 के अधीन दंड परिवर्तन के लिए: मृत्युदंड या संघ के विषय से संबंधित विधि के अपराध में केंद्र सरकार; राज्य के विषय से संबंधित विधि के अपराध में उस राज्य की सरकार जहाँ अपराधी को दंडादेश दिया गया।",
     "relatedSections": ["s-5"]
   },
   {
@@ -86,16 +86,16 @@
   {
     "id": "offence",
     "term": "Offence",
-    "meaningEn": "An act or omission made punishable by law; for the Sanhita's extraterritorial reach it includes an act done outside India that would be punishable if done in India.",
-    "meaningHi": "अपराध — विधि द्वारा दंडनीय कार्य या लोप; संहिता के क्षेत्र-बाह्य प्रभाव के लिए इसमें भारत के बाहर किया गया ऐसा कार्य भी शामिल है जो भारत में किए जाने पर दंडनीय होता।",
-    "relatedSections": ["s-1"]
+    "meaningEn": "A thing made punishable by the Sanhita (s.2(24)); in Chapter III and certain listed sections it also covers things punishable under a special or local law. For the Sanhita's reach abroad (s.1), it includes an act done outside India that would be punishable if done in India.",
+    "meaningHi": "अपराध — संहिता द्वारा दंडनीय बनाई गई कोई बात (धारा 2(24)); अध्याय III और कुछ सूचीबद्ध धाराओं में इसमें विशेष या स्थानीय विधि के अधीन दंडनीय बात भी शामिल है। संहिता के भारत के बाहर लागू होने (धारा 1) के लिए इसमें भारत के बाहर किया गया ऐसा कार्य भी शामिल है जो भारत में किए जाने पर दंडनीय होता।",
+    "relatedSections": ["s-1", "s-2"]
   },
   {
     "id": "computer-resource",
     "term": "Computer resource",
-    "meaningEn": "A computer, computer system, network, data, or database; the Sanhita reaches offences committed anywhere that target a computer resource located in India.",
-    "meaningHi": "कंप्यूटर संसाधन — कंप्यूटर, कंप्यूटर प्रणाली, नेटवर्क, डेटा या डेटाबेस; संहिता कहीं से भी किए गए ऐसे अपराधों तक पहुँचती है जो भारत में स्थित किसी कंप्यूटर संसाधन को निशाना बनाते हैं।",
-    "relatedSections": ["s-1"]
+    "meaningEn": "Not defined in the BNS itself; under s.2(39) it takes the meaning in the Information Technology Act, 2000 — a computer, communication device, computer system, computer network, data, computer database or software. Under s.1(5)(c) the Sanhita reaches offences committed anywhere that target a computer resource located in India.",
+    "meaningHi": "कंप्यूटर संसाधन — BNS में स्वयं परिभाषित नहीं; धारा 2(39) के अनुसार इसका अर्थ सूचना प्रौद्योगिकी अधिनियम, 2000 वाला है — कंप्यूटर, संचार उपकरण, कंप्यूटर प्रणाली, कंप्यूटर नेटवर्क, डेटा, कंप्यूटर डेटाबेस या सॉफ़्टवेयर। धारा 1(5)(ग) के अनुसार संहिता कहीं से भी किए गए ऐसे अपराधों तक पहुँचती है जो भारत में स्थित किसी कंप्यूटर संसाधन को निशाना बनाते हैं।",
+    "relatedSections": ["s-1", "s-2"]
   },
   {
     "id": "dishonestly",
@@ -107,8 +107,8 @@
   {
     "id": "fraudulently",
     "term": "Fraudulently",
-    "meaningEn": "Doing something with intent to defraud — i.e. with deceit and an intention to cause injury.",
-    "meaningHi": "कपटपूर्वक — छल के साथ और क्षति पहुँचाने के आशय से, अर्थात् धोखा देने के इरादे से कोई कार्य करना।",
+    "meaningEn": "Doing anything with the intention to defraud, but not otherwise (s.2(9)). Courts have read 'defraud' as involving deceit together with an intention to cause some injury to another.",
+    "meaningHi": "कपटपूर्वक — धोखा देने (कपट करने) के आशय से कोई भी कार्य करना, अन्यथा नहीं (धारा 2(9))। न्यायालयों ने 'कपट' को छल और किसी अन्य को क्षति पहुँचाने के आशय से युक्त माना है।",
     "relatedSections": ["s-2"]
   },
   {
@@ -121,8 +121,8 @@
   {
     "id": "document",
     "term": "Document",
-    "meaningEn": "Any matter expressed or described on any substance by letters, figures or marks, intended to be used as evidence — including electronic records.",
-    "meaningHi": "दस्तावेज़ — किसी पदार्थ पर अक्षरों, अंकों या चिह्नों द्वारा व्यक्त या वर्णित कोई विषय, जिसे साक्ष्य के रूप में प्रयोग करने का आशय हो — इसमें इलेक्ट्रॉनिक अभिलेख भी शामिल हैं।",
+    "meaningEn": "Any matter expressed or described on any substance by letters, figures or marks, intended to be used, or which may be used, as evidence of that matter — and it expressly includes electronic and digital records (s.2(8)).",
+    "meaningHi": "दस्तावेज़ — किसी पदार्थ पर अक्षरों, अंकों या चिह्नों द्वारा व्यक्त या वर्णित कोई विषय, जिसे उस विषय के साक्ष्य के रूप में प्रयोग करने का आशय हो या जो ऐसे प्रयोग हो सकता हो — इसमें इलेक्ट्रॉनिक और डिजिटल अभिलेख स्पष्ट रूप से शामिल हैं (धारा 2(8))।",
     "relatedSections": ["s-2"]
   },
   {
@@ -284,6 +284,76 @@
     "term": "Government",
     "meaningEn": "\"Government\" means the Central Government or a State Government.",
     "meaningHi": "सरकार — इसका अर्थ केंद्र सरकार या राज्य सरकार है।",
+    "relatedSections": ["s-2"]
+  },
+  {
+    "id": "harbour",
+    "term": "Harbour",
+    "meaningEn": "Includes supplying a person with shelter, food, drink, money, clothes, arms, ammunition or means of conveyance, or helping him by any means to evade arrest (s.2(13)).",
+    "meaningHi": "संश्रय देना — किसी व्यक्ति को आश्रय, भोजन, पेय, धन, वस्त्र, आयुध, गोला-बारूद या यातायात के साधन देना, या किसी भी साधन से उसे पकड़े जाने से बचने में सहायता करना (धारा 2(13))।",
+    "relatedSections": ["s-2"]
+  },
+  {
+    "id": "local-law",
+    "term": "Local law",
+    "meaningEn": "A law applicable only to a particular part of India (s.2(18)).",
+    "meaningHi": "स्थानीय विधि — ऐसी विधि जो भारत के केवल किसी विशिष्ट भाग पर लागू हो (धारा 2(18))।",
+    "relatedSections": ["s-2"]
+  },
+  {
+    "id": "special-law",
+    "term": "Special law",
+    "meaningEn": "A law applicable to a particular subject (s.2(30)).",
+    "meaningHi": "विशेष विधि — ऐसी विधि जो किसी विशिष्ट विषय पर लागू हो (धारा 2(30))।",
+    "relatedSections": ["s-2"]
+  },
+  {
+    "id": "man",
+    "term": "Man",
+    "meaningEn": "A male human being of any age (s.2(19)).",
+    "meaningHi": "पुरुष — किसी भी आयु का नर मानव (धारा 2(19))।",
+    "relatedSections": ["s-2"]
+  },
+  {
+    "id": "woman",
+    "term": "Woman",
+    "meaningEn": "A female human being of any age (s.2(35)).",
+    "meaningHi": "स्त्री — किसी भी आयु की नारी मानव (धारा 2(35))।",
+    "relatedSections": ["s-2"]
+  },
+  {
+    "id": "month-and-year",
+    "term": "Month and year",
+    "meaningEn": "Wherever 'month' or 'year' is used, it is reckoned according to the Gregorian calendar (s.2(20)).",
+    "meaningHi": "मास और वर्ष — जहाँ भी 'मास' या 'वर्ष' शब्द प्रयुक्त हो, उसकी गणना ग्रेगोरियन कैलेंडर के अनुसार की जाती है (धारा 2(20))।",
+    "relatedSections": ["s-2"]
+  },
+  {
+    "id": "number",
+    "term": "Number",
+    "meaningEn": "Unless the context shows otherwise, words in the singular include the plural, and words in the plural include the singular (s.2(22)).",
+    "meaningHi": "वचन — जब तक संदर्भ से विपरीत प्रकट न हो, एकवचन के शब्दों में बहुवचन और बहुवचन के शब्दों में एकवचन शामिल है (धारा 2(22))।",
+    "relatedSections": ["s-2"]
+  },
+  {
+    "id": "oath",
+    "term": "Oath",
+    "meaningEn": "Includes a solemn affirmation substituted by law for an oath, and any declaration that the law requires or authorises to be made before a public servant or to be used as proof, whether in a Court or not (s.2(23)).",
+    "meaningHi": "शपथ — इसमें विधि द्वारा शपथ के स्थान पर रखा गया सत्यनिष्ठ प्रतिज्ञान, और ऐसी कोई घोषणा शामिल है जिसे विधि किसी लोक सेवक के समक्ष करने या सबूत के प्रयोजन के लिए प्रयोग करने की अपेक्षा या अनुमति देती है, चाहे न्यायालय में हो या नहीं (धारा 2(23))।",
+    "relatedSections": ["s-2"]
+  },
+  {
+    "id": "will",
+    "term": "Will",
+    "meaningEn": "Any testamentary document (s.2(34)).",
+    "meaningHi": "वसीयत — कोई भी वसीयती दस्तावेज़ (धारा 2(34))।",
+    "relatedSections": ["s-2"]
+  },
+  {
+    "id": "gaining-losing-wrongfully",
+    "term": "Gaining / losing wrongfully",
+    "meaningEn": "A person gains wrongfully when he wrongfully retains, as well as when he wrongfully acquires. A person loses wrongfully when he is wrongfully kept out of property, as well as when he is wrongfully deprived of it (s.2(38)).",
+    "meaningHi": "सदोष अभिलाभ / सदोष हानि — कोई व्यक्ति सदोष अभिलाभ तब करता है जब वह सदोष रूप से रख लेता है, और तब भी जब वह सदोष रूप से प्राप्त करता है। कोई व्यक्ति सदोष हानि तब उठाता है जब उसे किसी संपत्ति से सदोष रूप से बाहर रखा जाए, और तब भी जब उसे उससे सदोष रूप से वंचित किया जाए (धारा 2(38))।",
     "relatedSections": ["s-2"]
   }
 ]

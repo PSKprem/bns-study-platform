@@ -89,11 +89,27 @@ Goal: prove the whole workflow on one small chapter. Definition of Done = `requi
 ## Phase 2 — Expand core reference (after milestone)
 
 - [~] Add more chapters as JSON content (reuse components) — *content, not engineering*
-  - [x] Chapter I (Preliminary, s.1–3) — verified; validated that adding a chapter needs only JSON + one registry line
+  - [x] Chapter I (Preliminary, s.1–3)
+  - [ ] Chapter III (General Exceptions, s.14–44) — next; needs careful classification data
 - [x] Dark mode toggle (light/dark, persisted in localStorage) *(added on request)*
-- [ ] Statutory Dictionary expansion (Section 2 terms)
-- [ ] Reasoning Toolkit cards (Section 3)
-- [ ] Sub-heading–aware navigation for dense chapters
+- [x] Statutory Dictionary: all 38 terms defined in s.2, bilingual
+- [x] Sub-heading–aware navigation (Sections tab grouped by `subHeadings`) — *FR-1.3*
+
+### 2A. Scope-of-improvement batch *(PR from `improve/scope-fixes`)*
+
+- [x] Gold-standard check: Ch I–II bare Act text verified verbatim against the Gazette PDF; errors corrected (age rule is ss.20–21, not s.3; s.3 has nine sub-sections; s.2 has 39 clauses; s.5/6/8/9/13 details)
+- [x] Worked examples for every section
+- [x] Chapters register automatically (`import.meta.glob`); `docs/adding-a-chapter.md`
+- [x] Full 20-chapter course map from the Gazette (`data/course-outline.json`)
+- [x] Accessible chapter tabs (arrow keys, linked panels, tab in URL, scroll on phones)
+- [x] Term deep links (`/dictionary?term=`); Q&A search results open the Exam Q&A tab
+- [x] Progress tracking: mark as read, best MCQ score, continue where you left off
+- [x] About / how-to-use page, disclaimer, "Report it" links + GitHub issue templates
+- [x] Custom favicon and app icons; unused demo assets removed
+- [x] Route pages with real titles (HTTP 200), sitemap.xml
+- [x] Offline support (manifest + service worker)
+- [x] CI on pull requests (lint, test, build); lint gates deploy; Node 24 actions
+- [x] Tests: 38 (progress, routes, format, search links, course outline, section coverage)
 
 ## Phase 3 — Interactive / practice
 

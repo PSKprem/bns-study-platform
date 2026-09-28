@@ -8,27 +8,27 @@ The goal: make the knowledge law students need to learn BNS available in one pla
 
 ## Status
 
-🚀 **Live — first chapter shipped.** Chapter II ("Of Punishments") is built end-to-end and
-deployed. Building further chapters is now mostly content work, reusing the same features.
+🚀 **Live — Chapters I and II shipped.** The course map lists all 20 BNS chapters; the rest
+are added as content (see [adding a chapter](docs/adding-a-chapter.md)).
 
 **Live site:** https://pskprem.github.io/bns-study-platform/
 
-**What's live for Chapter II:**
+**What's live:**
 - Plain-language **summary**, structured **key points**, and **Fast Revision** must-know points
 - Clickable, auto-fitting **mind map**
-- **Practice MCQs** with instant feedback and scoring
+- **Practice MCQs** with instant feedback; best score saved on your device
 - **Exam Q&A** in Learn (self-test) and Read modes
-- **Section detail** pages with verification badges and linked terms
-- **Bilingual dictionary** (English + Hindi) — both global and per-chapter
-- **Search** across all content
+- **Section pages**: bare Act text, plain meaning, ingredients, worked examples, "mark as read"
+- **Bilingual dictionary** (English + Hindi) — global and per-chapter, with deep links
+- **Search**, dark mode, progress tracking, offline support, "Report it" feedback links
 
 **Planning docs:** [ideas](docs/bns-study-platform-ideas.md) ·
 [requirements](docs/requirements.md) · [spec](docs/spec.md) ·
 [architecture](docs/architecture.md) · [tasks](docs/tasks.md)
 
-> Chapter II statute facts have been **verified** against the official BNS 2023 text
-> (India Code, cross-checked via PRS India, Drishti Judiciary, and Testbook) and carry a
-> green verification badge with source and date.
+> The bare Act text of every published section is **verified word for word** against the
+> official Gazette of India (Act No. 45 of 2023) and carries a green verification badge
+> with source and date.
 
 ---
 

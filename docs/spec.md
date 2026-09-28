@@ -201,23 +201,26 @@ matching the learning-first principles (§3 of requirements).
 bns-study-platform/
 ├── docs/                  # ideas, requirements, spec (this file), architecture, tasks
 ├── data/                  # JSON content (imported by the app via the @data alias)
-│   ├── chapters/ch-02.json
-│   ├── sections/ch-02.json
-│   ├── qa/ch-02.json
-│   ├── mcqs/ch-02.json
+│   ├── course-outline.json   # all 20 chapters + section ranges (from the Gazette)
+│   ├── chapters/ch-XX.json   # one per published chapter (auto-registered)
+│   ├── sections/ch-XX.json
+│   ├── qa/ch-XX.json
+│   ├── mcqs/ch-XX.json
 │   └── dictionary.json
 ├── content/               # (optional) source drafts before they become JSON
 └── web/                   # the React + Vite app
     ├── index.html
     ├── package.json
-    ├── vite.config.ts     # base path, @data alias, Tailwind, SPA 404 fallback
+    ├── vite.config.ts     # base path, @data alias, Tailwind, site-pages plugin
+    ├── scripts/site-pages.ts  # route pages, sitemap.xml, 404.html, sw.js (build time)
+    ├── public/            # favicon, app icons, manifest
     └── src/
         ├── main.tsx, App.tsx, routes.tsx   # routes lazy-loaded (code-split)
-        ├── components/    # Layout, VerificationBadge, TermList
-        ├── pages/         # Home, ChapterPage, SectionPage, DictionaryPage, SearchPage
+        ├── components/    # Layout, ChapterTabs, SectionGroups, TermList, VerificationBadge, ReportIssueLink
+        ├── pages/         # Home, ChapterPage, SectionPage, DictionaryPage, SearchPage, AboutPage, NotFound
         ├── features/      # MindMap, ExamQA, MCQQuiz
         ├── types/         # TypeScript schemas (mirror §3)
-        └── lib/           # content (loaders), search (Fuse.js)
+        └── lib/           # content, search, routes, progress, theme, format, site
 ```
 
 Tailwind is configured via the `@tailwindcss/vite` plugin (no separate `tailwind.config.js`).

@@ -1,0 +1,22 @@
+[
+  { "id": "ch-01", "number": "I", "title": "Preliminary", "sectionRange": "1-3" },
+  { "id": "ch-02", "number": "II", "title": "Of Punishments", "sectionRange": "4-13" },
+  { "id": "ch-03", "number": "III", "title": "General Exceptions", "sectionRange": "14-44" },
+  { "id": "ch-04", "number": "IV", "title": "Of Abetment, Criminal Conspiracy and Attempt", "sectionRange": "45-62" },
+  { "id": "ch-05", "number": "V", "title": "Of Offences Against Woman and Child", "sectionRange": "63-99" },
+  { "id": "ch-06", "number": "VI", "title": "Of Offences Affecting the Human Body", "sectionRange": "100-146" },
+  { "id": "ch-07", "number": "VII", "title": "Of Offences Against the State", "sectionRange": "147-158" },
+  { "id": "ch-08", "number": "VIII", "title": "Of Offences Relating to the Army, Navy and Air Force", "sectionRange": "159-168" },
+  { "id": "ch-09", "number": "IX", "title": "Of Offences Relating to Elections", "sectionRange": "169-177" },
+  { "id": "ch-10", "number": "X", "title": "Of Offences Relating to Coin, Currency-Notes, Bank-Notes, and Government Stamps", "sectionRange": "178-188" },
+  { "id": "ch-11", "number": "XI", "title": "Of Offences Against the Public Tranquillity", "sectionRange": "189-197" },
+  { "id": "ch-12", "number": "XII", "title": "Of Offences by or Relating to Public Servants", "sectionRange": "198-205" },
+  { "id": "ch-13", "number": "XIII", "title": "Of Contempts of the Lawful Authority of Public Servants", "sectionRange": "206-226" },
+  { "id": "ch-14", "number": "XIV", "title": "Of False Evidence and Offences Against Public Justice", "sectionRange": "227-269" },
+  { "id": "ch-15", "number": "XV", "title": "Of Offences Affecting the Public Health, Safety, Convenience, Decency and Morals", "sectionRange": "270-297" },
+  { "id": "ch-16", "number": "XVI", "title": "Of Offences Relating to Religion", "sectionRange": "298-302" },
+  { "id": "ch-17", "number": "XVII", "title": "Of Offences Against Property", "sectionRange": "303-334" },
+  { "id": "ch-18", "number": "XVIII", "title": "Of Offences Relating to Documents and to Property Marks", "sectionRange": "335-350" },
+  { "id": "ch-19", "number": "XIX", "title": "Of Criminal Intimidation, Insult, Annoyance, Defamation, etc.", "sectionRange": "351-357" },
+  { "id": "ch-20", "number": "XX", "title": "Repeal and Savings", "sectionRange": "358" }
+]

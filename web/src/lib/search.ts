@@ -8,6 +8,7 @@ import {
   getQA,
   getSections,
 } from "./content";
+import { chapterPath, sectionPath, termPath } from "./routes";
 
 export type SearchType = "chapter" | "section" | "term" | "qa";
 
@@ -29,7 +30,7 @@ function buildItems(): SearchItem[] {
       id: c.id,
       title: `Chapter ${c.number} — ${c.title}`,
       text: `${c.shortDescription} ${c.summary}`,
-      path: `/chapter/${c.id}`,
+      path: chapterPath(c.id),
     });
 
     for (const s of getSections(c.id)) {
@@ -38,7 +39,7 @@ function buildItems(): SearchItem[] {
         id: s.id,
         title: `Section ${s.number} — ${s.title}`,
         text: `${s.plainMeaning} ${s.bareActText}`,
-        path: `/section/${s.id}`,
+        path: sectionPath(s.id),
       });
     }
 
@@ -48,7 +49,8 @@ function buildItems(): SearchItem[] {
         id: q.id,
         title: q.question,
         text: q.modelAnswer,
-        path: `/chapter/${c.id}`,
+        // Open the chapter directly on its Exam Q&A tab, not the Summary.
+        path: chapterPath(c.id, "qa"),
       });
     }
   }
@@ -59,7 +61,8 @@ function buildItems(): SearchItem[] {
       id: t.id,
       title: t.term,
       text: `${t.meaningEn} ${t.meaningHi}`,
-      path: `/dictionary`,
+      // Jump straight to this term, not the top of the dictionary.
+      path: termPath(t.id),
     });
   }
 

@@ -170,12 +170,13 @@ Three distinct kinds of state, deliberately kept separate:
 | Kind | Example | Where it lives | Writable? |
 |---|---|---|---|
 | **Static content** | chapter summary, section text | `data/*.json` (bundled) | No (read-only) |
-| **Ephemeral UI state** | active tab, Q&A reveal, MCQ score/progress, search query | React component state | Yes (in-memory) |
+| **URL state** | active chapter tab (`?tab=`), highlighted term (`?term=`) | the address bar | Yes (shareable, survives refresh) |
+| **Ephemeral UI state** | Q&A reveal, current MCQ question, search query | React component state | Yes (in-memory) |
+| **Persisted progress** | read sections, best MCQ score per chapter, last page, theme | `localStorage` (`lib/progress.ts`, `lib/theme.ts`) | Yes (on this device) |
 
-No global state library is needed at this scale; plain React state is sufficient.
-The MCQ quiz score is session-only (in-memory). A `localStorage`-backed progress layer
-(used originally for flashcards) can return when a persistent feature — e.g. spaced
-repetition or resume-progress — is reintroduced.
+No global state library is needed at this scale. Components read progress through the
+`useProgress()` hook (`useSyncExternalStore`), so every view updates together, including
+across browser tabs.
 
 ---
 
