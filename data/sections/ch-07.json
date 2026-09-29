@@ -1,0 +1,442 @@
+[
+  {
+    "id": "s-147",
+    "chapterId": "ch-07",
+    "number": "147",
+    "title": "Waging, or attempting to wage war, or abetting waging of war, against Government of India",
+    "bareActText": "Whoever wages war against the Government of India, or attempts to wage such war, or abets the waging of such war, shall be punished with death, or imprisonment for life and shall also be liable to fine. Illustration. A joins an insurrection against the Government of India. A has committed the offence defined in this section.",
+    "plainMeaning": "The gravest offence against the State. Waging war against the Government of India, attempting to wage it, or abetting it is punishable with death or life imprisonment, and fine. 'War' here does not mean war between nations; it means an organised use of force by a group to overthrow or challenge the authority of the Government, as the illustration of joining an insurrection shows. The number of persons and weapons matters less than the purpose.",
+    "ingredients": [
+      "Waging war, attempting to wage war, or abetting the waging of war",
+      "Against the Government of India",
+      "An insurrection or organised armed challenge to the Government's authority (not a mere riot for private ends)"
+    ],
+    "punishment": "Death, or imprisonment for life, and fine.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Court of Session"
+    },
+    "ipcReference": {
+      "section": "121 IPC",
+      "changeNote": "Corresponds to s.121 IPC."
+    },
+    "illustrations": [
+      "A group arms itself and attacks police stations and government offices in a district, declaring that it will set up its own government there. Its members wage war against the Government of India.",
+      "P supplies money and weapons to that group knowing its object. P abets the waging of war."
+    ],
+    "termRefs": [
+      "waging-war",
+      "abetment",
+      "attempt"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.147 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-148",
+    "chapterId": "ch-07",
+    "number": "148",
+    "title": "Conspiracy to commit offences punishable by section 147",
+    "bareActText": "Whoever within or without and beyond India conspires to commit any of the offences punishable by section 147, or conspires to overawe, by means of criminal force or the show of criminal force, the Central Government or any State Government, shall be punished with imprisonment for life, or with imprisonment of either description which may extend to ten years, and shall also be liable to fine. Explanation.—To constitute a conspiracy under this section, it is not necessary that any act or illegal omission shall take place in pursuance thereof.",
+    "plainMeaning": "Conspiring, inside or outside India, to commit any offence under s.147, or to overawe the Central or any State Government by criminal force or a show of criminal force, is punishable with life imprisonment or up to ten years, and fine. Unlike ordinary abetment by conspiracy, no act or illegal omission in pursuance of the conspiracy is needed; the agreement itself is enough.",
+    "ingredients": [
+      "A conspiracy, within or outside India",
+      "To commit an offence punishable under s.147, or to overawe the Central or a State Government by criminal force or its show",
+      "No act or illegal omission in pursuance is needed (Explanation)"
+    ],
+    "punishment": "Imprisonment for life, or imprisonment of either description up to 10 years, and fine.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Court of Session"
+    },
+    "ipcReference": {
+      "section": "121A IPC",
+      "changeNote": "Corresponds to s.121A IPC."
+    },
+    "illustrations": [
+      "Q and R, living abroad, agree with S in India on a plan to attack Parliament and seize power. The offence is complete on their agreement, even though nothing is done yet."
+    ],
+    "termRefs": [
+      "criminal-conspiracy",
+      "overawe",
+      "criminal-force"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.148 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-149",
+    "chapterId": "ch-07",
+    "number": "149",
+    "title": "Collecting arms, etc., with intention of waging war against Government of India",
+    "bareActText": "Whoever collects men, arms or ammunition or otherwise prepares to wage war with the intention of either waging or being prepared to wage war against the Government of India, shall be punished with imprisonment for life or imprisonment of either description for a term not exceeding ten years, and shall also be liable to fine.",
+    "plainMeaning": "Collecting men, arms or ammunition, or otherwise preparing to wage war, with the intention of waging war or being prepared to wage war against the Government of India, is punishable with life imprisonment or up to ten years, and fine. This is an exception to the general rule that preparation is not punishable.",
+    "ingredients": [
+      "Collecting men, arms or ammunition, or otherwise preparing to wage war",
+      "With intention of waging, or being prepared to wage, war against the Government of India"
+    ],
+    "punishment": "Imprisonment for life, or imprisonment of either description not exceeding 10 years, and fine.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Court of Session"
+    },
+    "ipcReference": {
+      "section": "122 IPC",
+      "changeNote": "Corresponds to s.122 IPC."
+    },
+    "illustrations": [
+      "T stores rifles and explosives in a forest camp and trains recruits there, planning an armed uprising. T is liable under s.149 even before any attack."
+    ],
+    "termRefs": [
+      "waging-war"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.149 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-150",
+    "chapterId": "ch-07",
+    "number": "150",
+    "title": "Concealing with intent to facilitate design to wage war",
+    "bareActText": "Whoever by any act, or by any illegal omission, conceals the existence of a design to wage war against the Government of India, intending by such concealment to facilitate, or knowing it to be likely that such concealment will facilitate, the waging of such war, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+    "plainMeaning": "Concealing, by any act or illegal omission, the existence of a design to wage war against the Government of India, intending or knowing it likely that the concealment will help the war to be waged, is punishable with up to ten years and fine.",
+    "ingredients": [
+      "Concealing the existence of a design to wage war against the Government of India",
+      "By an act or an illegal omission",
+      "Intending, or knowing it likely, that the concealment will facilitate the waging of war"
+    ],
+    "punishment": "Imprisonment of either description up to 10 years, and fine.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Court of Session"
+    },
+    "ipcReference": {
+      "section": "123 IPC",
+      "changeNote": "Corresponds to s.123 IPC."
+    },
+    "illustrations": [
+      "U, a village official, learns that an armed group is gathering to attack the district headquarters and deliberately hides this from the authorities so that the attack can succeed. U is liable under s.150."
+    ],
+    "termRefs": [
+      "waging-war",
+      "omission",
+      "illegal"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.150 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-151",
+    "chapterId": "ch-07",
+    "number": "151",
+    "title": "Assaulting President, Governor, etc., with intent to compel or restrain exercise of any lawful power",
+    "bareActText": "Whoever, with the intention of inducing or compelling the President of India, or Governor of any State, to exercise or refrain from exercising in any manner any of the lawful powers of such President or Governor, assaults or wrongfully restrains, or attempts wrongfully to restrain, or overawes, by means of criminal force or the show of criminal force, or attempts so to overawe, such President or Governor, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+    "plainMeaning": "Assaulting, wrongfully restraining or attempting to restrain, or overawing by criminal force or its show (or attempting to), the President of India or the Governor of a State, with the intention of inducing or compelling him to exercise, or not to exercise, any of his lawful powers, is punishable with up to seven years and fine.",
+    "ingredients": [
+      "The victim is the President of India or the Governor of a State",
+      "Assault, wrongful restraint or attempt, or overawing (or attempting to overawe) by criminal force or its show",
+      "Intention to induce or compel the exercise, or non-exercise, of a lawful power"
+    ],
+    "punishment": "Imprisonment of either description up to 7 years, and fine.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Court of Session"
+    },
+    "ipcReference": {
+      "section": "124 IPC",
+      "changeNote": "Corresponds to s.124 IPC."
+    },
+    "illustrations": [
+      "A mob surrounds the Governor's car and blocks it, threatening violence unless he refuses assent to a Bill. Its members are liable under s.151."
+    ],
+    "termRefs": [
+      "assault",
+      "wrongful-restraint",
+      "overawe",
+      "criminal-force"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.151 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-152",
+    "chapterId": "ch-07",
+    "number": "152",
+    "title": "Act endangering sovereignty, unity and integrity of India",
+    "bareActText": "Whoever, purposely or knowingly, by words, either spoken or written, or by signs, or by visible representation, or by electronic communication or by use of financial mean, or otherwise, excites or attempts to excite, secession or armed rebellion or subversive activities, or encourages feelings of separatist activities or endangers sovereignty or unity and integrity of India; or indulges in or commits any such act shall be punished with imprisonment for life or with imprisonment which may extend to seven years, and shall also be liable to fine. Explanation.––Comments expressing disapprobation of the measures, or administrative or other action of the Government with a view to obtain their alteration by lawful means without exciting or attempting to excite the activities referred to in this section do not constitute an offence under this section.",
+    "plainMeaning": "This section replaces the old offence of sedition. It punishes anyone who, purposely or knowingly, by spoken or written words, signs, visible representation, electronic communication, use of financial means or otherwise, excites or attempts to excite secession, armed rebellion or subversive activities, encourages feelings of separatist activities, or endangers the sovereignty or unity and integrity of India, or commits any such act. The punishment is life imprisonment or up to seven years, and fine. Criticising government measures or actions to get them changed by lawful means, without exciting these activities, is not an offence. Unlike sedition, the offence is about the country's sovereignty and unity, not 'disaffection' towards the government.",
+    "ingredients": [
+      "Purposely or knowingly",
+      "By words, signs, visible representation, electronic communication, financial means or otherwise",
+      "Exciting or attempting to excite secession, armed rebellion or subversive activities, encouraging separatist feelings, or endangering the sovereignty or unity and integrity of India; or committing such an act",
+      "Explanation — lawful criticism of government measures seeking their change is not an offence"
+    ],
+    "punishment": "Imprisonment for life, or imprisonment up to 7 years, and fine.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Court of Session"
+    },
+    "ipcReference": {
+      "section": "124A IPC (sedition — not retained)",
+      "changeNote": "Replaces s.124A IPC (sedition), which is not retained in the BNS; the Supreme Court had kept s.124A in abeyance in S.G. Vombatkere v. Union of India (2022). The focus shifts from 'disaffection towards the Government' to endangering the sovereignty, unity and integrity of India, and electronic communication and financial means are expressly covered."
+    },
+    "illustrations": [
+      "V runs social-media channels and funds armed groups, urging a region to break away from India by armed rebellion. V is liable under s.152.",
+      "W writes a strongly worded article attacking a new farm law and urging people to protest peacefully until it is repealed. The Explanation protects W."
+    ],
+    "termRefs": [
+      "sovereignty",
+      "secession"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.152 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-153",
+    "chapterId": "ch-07",
+    "number": "153",
+    "title": "Waging war against Government of any foreign State at peace with Government of India",
+    "bareActText": "Whoever wages war against the Government of any foreign State at peace with the Government of India or attempts to wage such war, or abets the waging of such war, shall be punished with imprisonment for life, to which fine may be added, or with imprisonment of either description for a term which may extend to seven years, to which fine may be added, or with fine.",
+    "plainMeaning": "Waging war, attempting to wage war, or abetting war against the government of any foreign State that is at peace with the Government of India is punishable with life imprisonment (with or without fine), or up to seven years (with or without fine), or fine.",
+    "ingredients": [
+      "Waging, attempting to wage, or abetting war",
+      "Against the Government of a foreign State",
+      "That State is at peace with the Government of India"
+    ],
+    "punishment": "Imprisonment for life, to which fine may be added; or imprisonment of either description up to 7 years, to which fine may be added; or fine.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Court of Session"
+    },
+    "ipcReference": {
+      "section": "125 IPC",
+      "changeNote": "Corresponds to s.125 IPC, which referred to 'any Asiatic Power in alliance or at peace'; the BNS covers any foreign State at peace with India."
+    },
+    "illustrations": [
+      "A group based in India crosses the border and attacks army posts of a neighbouring country with which India is at peace. Its members are liable under s.153."
+    ],
+    "termRefs": [
+      "waging-war",
+      "abetment"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.153 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-154",
+    "chapterId": "ch-07",
+    "number": "154",
+    "title": "Committing depredation on territories of foreign State at peace with Government of India",
+    "bareActText": "Whoever commits depredation, or makes preparations to commit depredation, on the territories of any foreign State at peace with the Government of India, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine and to forfeiture of any property used or intended to be used in committing such depredation, or acquired by such depredation.",
+    "plainMeaning": "Committing, or preparing to commit, depredation (plunder or destructive raids) on the territory of a foreign State at peace with India is punishable with up to seven years and fine, and forfeiture of any property used or intended to be used in the depredation, or acquired by it.",
+    "ingredients": [
+      "Committing depredation, or making preparations to commit it",
+      "On the territories of a foreign State at peace with the Government of India"
+    ],
+    "punishment": "Imprisonment of either description up to 7 years, and fine, and forfeiture of property used, intended to be used, or acquired by the depredation.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Court of Session"
+    },
+    "ipcReference": {
+      "section": "126 IPC",
+      "changeNote": "Corresponds to s.126 IPC."
+    },
+    "illustrations": [
+      "X leads armed raiders across the border to loot villages in a neighbouring friendly country, using boats he owns. X is liable under s.154 and the boats may be forfeited."
+    ],
+    "termRefs": [
+      "depredation",
+      "forfeiture"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.154 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-155",
+    "chapterId": "ch-07",
+    "number": "155",
+    "title": "Receiving property taken by war or depredation mentioned in sections 153 and 154",
+    "bareActText": "Whoever receives any property knowing the same to have been taken in the commission of any of the offences mentioned in sections 153 and 154, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine and to forfeiture of the property so received.",
+    "plainMeaning": "Receiving any property knowing that it was taken in committing an offence under s.153 or s.154 is punishable with up to seven years and fine, and forfeiture of the property received.",
+    "ingredients": [
+      "Receiving any property",
+      "Knowing it was taken in the commission of an offence under s.153 or s.154"
+    ],
+    "punishment": "Imprisonment of either description up to 7 years, and fine, and forfeiture of the property received.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Court of Session"
+    },
+    "ipcReference": {
+      "section": "127 IPC",
+      "changeNote": "Corresponds to s.127 IPC."
+    },
+    "illustrations": [
+      "Y buys jewellery from the raiders in the previous example, knowing it was looted in the raid. Y is liable under s.155."
+    ],
+    "termRefs": [
+      "depredation",
+      "forfeiture"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.155 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-156",
+    "chapterId": "ch-07",
+    "number": "156",
+    "title": "Public servant voluntarily allowing prisoner of State or war to escape",
+    "bareActText": "Whoever, being a public servant and having the custody of any State prisoner or prisoner of war, voluntarily allows such prisoner to escape from any place in which such prisoner is confined, shall be punished with imprisonment for life, or imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+    "plainMeaning": "A public servant having custody of a State prisoner or prisoner of war who voluntarily allows that prisoner to escape from confinement is punishable with life imprisonment or up to ten years, and fine.",
+    "ingredients": [
+      "The accused is a public servant",
+      "Having custody of a State prisoner or prisoner of war",
+      "Voluntarily allows the prisoner to escape from the place of confinement"
+    ],
+    "punishment": "Imprisonment for life, or imprisonment of either description up to 10 years, and fine.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Court of Session"
+    },
+    "ipcReference": {
+      "section": "128 IPC",
+      "changeNote": "Corresponds to s.128 IPC."
+    },
+    "illustrations": [
+      "A jail officer guarding a captured enemy soldier takes a bribe and leaves the cell unlocked so he can flee. The officer is liable under s.156."
+    ],
+    "termRefs": [
+      "public-servant",
+      "state-prisoner",
+      "voluntarily"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.156 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-157",
+    "chapterId": "ch-07",
+    "number": "157",
+    "title": "Public servant negligently suffering such prisoner to escape",
+    "bareActText": "Whoever, being a public servant and having the custody of any State prisoner or prisoner of war, negligently suffers such prisoner to escape from any place of confinement in which such prisoner is confined, shall be punished with simple imprisonment for a term which may extend to three years, and shall also be liable to fine.",
+    "plainMeaning": "A public servant having custody of a State prisoner or prisoner of war who, through negligence, lets that prisoner escape is punishable with simple imprisonment up to three years and fine. The difference from s.156 is the mental state: negligence instead of a voluntary act.",
+    "ingredients": [
+      "The accused is a public servant",
+      "Having custody of a State prisoner or prisoner of war",
+      "Negligently suffers the prisoner to escape from confinement"
+    ],
+    "punishment": "Simple imprisonment up to 3 years, and fine.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Magistrate of the first class"
+    },
+    "ipcReference": {
+      "section": "129 IPC",
+      "changeNote": "Corresponds to s.129 IPC."
+    },
+    "illustrations": [
+      "A guard falls asleep on duty without locking the gate, and a prisoner of war walks out. The guard is liable under s.157."
+    ],
+    "termRefs": [
+      "public-servant",
+      "state-prisoner",
+      "simple-imprisonment"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.157 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-158",
+    "chapterId": "ch-07",
+    "number": "158",
+    "title": "Aiding escape of, rescuing or harbouring such prisoner",
+    "bareActText": "Whoever knowingly aids or assists any State prisoner or prisoner of war in escaping from lawful custody, or rescues or attempts to rescue any such prisoner, or harbours or conceals any such prisoner who has escaped from lawful custody, or offers or attempts to offer any resistance to the recapture of such prisoner, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine. Explanation.—A State prisoner or prisoner of war, who is permitted to be at large on his parole within certain limits in India, is said to escape from lawful custody if he goes beyond the limits within which he is allowed to be at large.",
+    "plainMeaning": "Knowingly helping a State prisoner or prisoner of war to escape from lawful custody, rescuing or trying to rescue him, harbouring or concealing him after escape, or resisting or trying to resist his recapture, is punishable with life imprisonment or up to ten years, and fine. A prisoner allowed out on parole within set limits in India escapes from lawful custody if he goes beyond those limits.",
+    "ingredients": [
+      "Knowingly aiding or assisting a State prisoner or prisoner of war to escape from lawful custody; or",
+      "Rescuing or attempting to rescue him; or",
+      "Harbouring or concealing him after escape; or",
+      "Offering or attempting resistance to his recapture",
+      "Explanation — going beyond parole limits is escape"
+    ],
+    "punishment": "Imprisonment for life, or imprisonment of either description up to 10 years, and fine.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Court of Session"
+    },
+    "ipcReference": {
+      "section": "130 IPC",
+      "changeNote": "Corresponds to s.130 IPC."
+    },
+    "illustrations": [
+      "Z hides an escaped prisoner of war in his house and lies to the search party. Z is liable under s.158."
+    ],
+    "termRefs": [
+      "state-prisoner",
+      "harbour"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.158 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  }
+]

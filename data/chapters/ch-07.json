@@ -1,0 +1,91 @@
+{
+  "id": "ch-07",
+  "number": "VII",
+  "title": "Of Offences Against the State",
+  "sectionRange": "147-158",
+  "shortDescription": "Offences that threaten the Indian State itself: waging war, conspiring or preparing for it, attacks on the President or a Governor, acts endangering sovereignty (replacing sedition), hostile acts against friendly foreign States, and escapes of State prisoners and prisoners of war.",
+  "subHeadings": [
+    { "id": "war-against-india", "label": "Waging war against the Government of India", "sectionIds": ["s-147", "s-148", "s-149", "s-150"] },
+    { "id": "authority-and-sovereignty", "label": "Constitutional authorities and sovereignty", "sectionIds": ["s-151", "s-152"] },
+    { "id": "foreign-states", "label": "Foreign States at peace with India", "sectionIds": ["s-153", "s-154", "s-155"] },
+    { "id": "state-prisoners", "label": "State prisoners and prisoners of war", "sectionIds": ["s-156", "s-157", "s-158"] }
+  ],
+  "summary": "Chapter VII protects the security and authority of the Indian State. It corresponds to Chapter VI of the IPC (ss.121-130). The Gazette gives it no sub-headings, but its twelve sections fall into four groups: war against the Government of India (ss.147-150), attacks on constitutional authorities and on sovereignty (ss.151-152), hostile acts against friendly foreign States (ss.153-155), and escapes of State prisoners and prisoners of war (ss.156-158).\n\nSection 147 punishes waging war against the Government of India, attempting it, or abetting it, with death or life imprisonment. 'War' means an organised armed challenge to the Government's authority, such as an insurrection, not a riot for private ends. Because the harm is so great, the law punishes earlier stages than it normally would. Under s.148 a conspiracy to wage war, or to overawe the Central or a State Government by criminal force, is complete on agreement without any act in pursuance, and it may be entered into inside or outside India. Section 149 punishes preparation itself — collecting men, arms or ammunition with intent to wage war — and s.150 punishes concealing a design to wage war in order to help it.\n\nSection 151 protects the President and Governors from assault, restraint or overawing aimed at compelling or preventing the exercise of their lawful powers. Section 152 is the most talked-about change in the chapter. The BNS does not retain sedition (s.124A IPC), which the Supreme Court had put in abeyance in 2022. In its place s.152 punishes purposely or knowingly exciting secession, armed rebellion or subversive activities, encouraging separatist feelings, or endangering the sovereignty, unity and integrity of India — by words, signs, visible representation, electronic communication, financial means or otherwise — with life imprisonment or up to seven years. The focus moves from disaffection towards the Government to threats against the nation, and the Explanation protects lawful criticism of government action.\n\nSections 153 to 155 protect India's relations with friendly countries by punishing waging war against a foreign State at peace with India, committing depredation on its territory, and knowingly receiving property taken in such acts, with forfeiture of the property. Sections 156 to 158 deal with State prisoners and prisoners of war: a public servant who voluntarily lets one escape (life or ten years), one who negligently lets one escape (simple imprisonment up to three years), and anyone who helps such a prisoner escape, rescues or harbours him, or resists his recapture (life or ten years). All the offences are cognizable and none is compoundable. All are non-bailable and triable by a Court of Session except s.157, which is bailable and triable by a Magistrate of the first class.",
+  "keyPoints": [
+    {
+      "point": "Sections 147-150 — War against the Government of India",
+      "subPoints": [
+        "s.147 — waging, attempting or abetting war: death or life + fine",
+        "s.148 — conspiracy (inside or outside India) to wage war or overawe a Government: life or 10 years; no overt act needed",
+        "s.149 — collecting men, arms or ammunition to wage war: life or 10 years (preparation punished)",
+        "s.150 — concealing a design to wage war: up to 10 years"
+      ]
+    },
+    {
+      "point": "Section 151 — President and Governors",
+      "subPoints": [
+        "Assault, wrongful restraint, or overawing by criminal force",
+        "To compel or prevent the exercise of a lawful power",
+        "Up to 7 years + fine"
+      ]
+    },
+    {
+      "point": "Section 152 — Act endangering sovereignty, unity and integrity (replaces sedition)",
+      "subPoints": [
+        "Purposely or knowingly exciting secession, armed rebellion or subversive activities, or encouraging separatist feelings",
+        "By words, signs, visible representation, electronic communication, financial means or otherwise",
+        "Life or up to 7 years + fine",
+        "Lawful criticism of government action is excluded (Explanation)",
+        "s.124A IPC (sedition) is not retained"
+      ]
+    },
+    {
+      "point": "Sections 153-155 — Foreign States at peace with India",
+      "subPoints": [
+        "s.153 — waging war against a friendly foreign State: life, or 7 years, or fine",
+        "s.154 — depredation on its territory: 7 years + fine + forfeiture",
+        "s.155 — receiving property taken in such acts: 7 years + fine + forfeiture"
+      ]
+    },
+    {
+      "point": "Sections 156-158 — State prisoners and prisoners of war",
+      "subPoints": [
+        "s.156 — public servant voluntarily allowing escape: life or 10 years",
+        "s.157 — public servant negligently allowing escape: SI up to 3 years; bailable",
+        "s.158 — aiding escape, rescuing, harbouring or resisting recapture: life or 10 years",
+        "Going beyond parole limits = escape from lawful custody"
+      ]
+    }
+  ],
+  "fastRevision": [
+    "Chapter VII = offences against the State, ss.147-158; corresponds to IPC Chapter VI (ss.121-130).",
+    "s.147 — waging war against the Government of India: death or life + fine.",
+    "s.147 — attempting and abetting war are punished the same as waging it.",
+    "s.147 illustration — joining an insurrection is waging war.",
+    "s.148 — conspiracy to wage war or overawe a Government: life or 10 years.",
+    "s.148 — conspiracy may be within or outside India.",
+    "s.148 Explanation — no act or illegal omission in pursuance is needed.",
+    "s.149 — collecting men, arms or ammunition to wage war: preparation is itself punished.",
+    "s.150 — concealing a design to wage war to facilitate it: up to 10 years.",
+    "s.151 — assaulting or overawing the President or a Governor to compel or restrain lawful powers: up to 7 years.",
+    "s.152 — replaces sedition (s.124A IPC).",
+    "s.152 — exciting secession, armed rebellion, subversive activities or separatist feelings.",
+    "s.152 — covers electronic communication and use of financial means.",
+    "s.152 — life or up to 7 years + fine.",
+    "s.152 Explanation — lawful criticism of government measures is not an offence.",
+    "Sedition was kept in abeyance by the Supreme Court in S.G. Vombatkere (2022).",
+    "s.153 — waging war against a foreign State at peace with India: life, or 7 years, or fine.",
+    "s.153 — IPC s.125 said 'Asiatic Power'; BNS says 'foreign State'.",
+    "s.154 — depredation on a friendly foreign State: 7 years + fine + forfeiture.",
+    "s.155 — receiving property taken by such war or depredation: 7 years + forfeiture.",
+    "s.156 — public servant voluntarily letting a State prisoner or POW escape: life or 10 years.",
+    "s.157 — negligently letting one escape: simple imprisonment up to 3 years; bailable; Magistrate first class.",
+    "s.158 — aiding escape, rescuing, harbouring, resisting recapture: life or 10 years.",
+    "s.158 Explanation — a prisoner on parole who crosses the permitted limits escapes.",
+    "All Chapter VII offences are cognizable and not compoundable.",
+    "All are non-bailable and triable by a Court of Session except s.157.",
+    "IPC mapping: 147 = 121; 148 = 121A; 149 = 122; 150 = 123; 151 = 124; 152 ≈ 124A; 153 = 125; 154 = 126; 155 = 127; 156 = 128; 157 = 129; 158 = 130."
+  ],
+  "mindMap": "# Ch. VII — Offences Against the State\n## War against India (ss.147-150)\n- Waging, attempting, abetting war (s.147)\n  - Death or life\n- Conspiracy (s.148)\n  - Inside or outside India\n  - No overt act needed\n- Collecting arms (s.149)\n- Concealing design (s.150)\n## Authorities & sovereignty (ss.151-152)\n- Assaulting President / Governor (s.151)\n- Endangering sovereignty, unity, integrity (s.152)\n  - Replaces sedition\n  - Secession, armed rebellion, separatism\n  - Lawful criticism protected\n## Friendly foreign States (ss.153-155)\n- Waging war (s.153)\n- Depredation (s.154)\n- Receiving property (s.155)\n  - Forfeiture\n## State prisoners & POWs (ss.156-158)\n- Voluntarily allowing escape (s.156)\n- Negligently allowing escape (s.157)\n- Aiding, rescuing, harbouring (s.158)",
+  "lastVerified": "2026-09-29"
+}
