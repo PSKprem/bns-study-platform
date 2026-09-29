@@ -186,7 +186,9 @@
     "meaningHi": "लोक सेवक — ऐसा व्यक्ति जो संहिता द्वारा लोक पद या कर्तव्य धारण करने वाली किसी श्रेणी में आता है (जैसे न्यायाधीश, अधिकारी और परिभाषा अनुसार सरकारी सेवा में अन्य व्यक्ति)।",
     "relatedSections": [
       "s-2",
-      "s-37"
+      "s-37",
+      "s-56",
+      "s-59"
     ]
   },
   {
@@ -224,7 +226,8 @@
     "meaningEn": "\"Omission\" means a single omission as well as a series of omissions.",
     "meaningHi": "लोप — इसका अर्थ एकल लोप के साथ-साथ लोपों की एक श्रृंखला भी है।",
     "relatedSections": [
-      "s-2"
+      "s-2",
+      "s-46"
     ]
   },
   {
@@ -316,7 +319,8 @@
     "meaningEn": "\"Public\" includes any class of the public or any community.",
     "meaningHi": "लोक (जनता) — इसमें जनता का कोई भी वर्ग या कोई भी समुदाय शामिल है।",
     "relatedSections": [
-      "s-2"
+      "s-2",
+      "s-57"
     ]
   },
   {
@@ -334,7 +338,11 @@
     "meaningEn": "\"Illegal\" applies to everything which is an offence, prohibited by law, or furnishes ground for a civil action; a person is 'legally bound to do' whatever it is illegal in him to omit.",
     "meaningHi": "अवैध / विधितः करने के लिए आबद्ध — 'अवैध' प्रत्येक ऐसी बात पर लागू है जो अपराध हो, विधि द्वारा प्रतिषिद्ध हो, या दीवानी वाद का आधार दे; कोई व्यक्ति उस बात को 'विधितः करने के लिए आबद्ध' है जिसका लोप करना उसके लिए अवैध हो।",
     "relatedSections": [
-      "s-2"
+      "s-2",
+      "s-45",
+      "s-58",
+      "s-60",
+      "s-61"
     ]
   },
   {
@@ -581,6 +589,74 @@
       "s-42",
       "s-43",
       "s-44"
+    ]
+  },
+  {
+    "id": "abetment",
+    "term": "Abetment",
+    "meaningEn": "Helping, encouraging or joining in the doing of a thing: by instigation, by engaging in a conspiracy (with an act in pursuance), or by intentional aid (s.45). The act abetted need not be committed for abetment to be an offence (s.46).",
+    "meaningHi": "दुष्प्रेरण — किसी कार्य को करने में उकसाना, षड्यंत्र में शामिल होना (उसके अनुसरण में कोई कार्य होने पर), या जानबूझकर सहायता करना (धारा 45)। दुष्प्रेरण के अपराध के लिए दुष्प्रेरित कार्य का होना आवश्यक नहीं है (धारा 46)।",
+    "relatedSections": [
+      "s-45",
+      "s-46",
+      "s-47",
+      "s-48",
+      "s-49",
+      "s-55",
+      "s-56",
+      "s-57"
+    ]
+  },
+  {
+    "id": "abettor",
+    "term": "Abettor",
+    "meaningEn": "A person who abets an offence, or an act that would be an offence if done by a person capable by law with the abettor's intention or knowledge (s.46).",
+    "meaningHi": "दुष्प्रेरक — वह व्यक्ति जो किसी अपराध का, या ऐसे कार्य का दुष्प्रेरण करे जो विधितः सक्षम व्यक्ति द्वारा दुष्प्रेरक के आशय या ज्ञान से किए जाने पर अपराध होता (धारा 46)।",
+    "relatedSections": [
+      "s-46",
+      "s-50",
+      "s-51",
+      "s-52",
+      "s-53",
+      "s-54"
+    ]
+  },
+  {
+    "id": "instigation",
+    "term": "Instigation",
+    "meaningEn": "Urging, provoking or encouraging someone to do a thing. It includes wilful misrepresentation, or wilful concealment of a material fact one is bound to disclose, that causes or procures the thing to be done (s.45, Explanation 1).",
+    "meaningHi": "उकसाना (उत्प्रेरण) — किसी को कोई कार्य करने के लिए प्रेरित या प्रोत्साहित करना। इसमें जानबूझकर किया गया मिथ्या व्यपदेशन, या ऐसे तात्त्विक तथ्य को जानबूझकर छिपाना शामिल है जिसे प्रकट करने के लिए व्यक्ति आबद्ध है (धारा 45, स्पष्टीकरण 1)।",
+    "relatedSections": [
+      "s-45"
+    ]
+  },
+  {
+    "id": "criminal-conspiracy",
+    "term": "Criminal conspiracy",
+    "meaningEn": "An agreement between two or more persons, with the common object, to do an illegal act, or a legal act by illegal means. An agreement to commit an offence is complete on agreement; any other needs an act in pursuance (s.61).",
+    "meaningHi": "आपराधिक षड्यंत्र — दो या अधिक व्यक्तियों के बीच सामान्य उद्देश्य से कोई अवैध कार्य, या कोई वैध कार्य अवैध साधनों से, करने का करार। अपराध करने का करार स्वयं में पूर्ण है; अन्य करार के लिए उसके अनुसरण में कोई कार्य आवश्यक है (धारा 61)।",
+    "relatedSections": [
+      "s-61"
+    ]
+  },
+  {
+    "id": "attempt",
+    "term": "Attempt",
+    "meaningEn": "Trying to commit an offence and doing an act towards it that goes beyond mere preparation. Punishable under s.62 with up to one-half of the maximum where no specific provision exists; impossibility is no defence.",
+    "meaningHi": "प्रयत्न — अपराध करने का प्रयास करना और उसकी ओर ऐसा कार्य करना जो मात्र तैयारी से आगे हो। जहाँ विशिष्ट उपबंध न हो, धारा 62 के अंतर्गत अधिकतम दंड के आधे तक दंडनीय; असंभवता बचाव नहीं है।",
+    "relatedSections": [
+      "s-62"
+    ]
+  },
+  {
+    "id": "concealing-design",
+    "term": "Concealing a design",
+    "meaningEn": "Voluntarily hiding the existence of a plan to commit an offence, or making a false statement about it, intending or knowing it likely to facilitate the offence (ss.58-60). Now includes concealment by encryption or other information-hiding tools (ss.58-59).",
+    "meaningHi": "परिकल्पना छिपाना — अपराध करने की योजना के अस्तित्व को जानबूझकर छिपाना, या उसके बारे में मिथ्या कथन करना, इस आशय या ज्ञान से कि इससे अपराध में सुविधा होगी (धारा 58-60)। इसमें अब कूटलेखन (एन्क्रिप्शन) या अन्य सूचना छिपाने के साधनों द्वारा छिपाना भी शामिल है (धारा 58-59)।",
+    "relatedSections": [
+      "s-58",
+      "s-59",
+      "s-60"
     ]
   }
 ]

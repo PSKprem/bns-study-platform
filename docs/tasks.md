@@ -91,6 +91,7 @@ Goal: prove the whole workflow on one small chapter. Definition of Done = `requi
 - [~] Add more chapters as JSON content (reuse components) — *content, not engineering*
   - [x] Chapter I (Preliminary, s.1–3)
   - [x] Chapter III (General Exceptions, s.14–44) — Gazette-verified; 31 sections, 18 MCQs, 10 exam Q&A, 9 new dictionary terms
+  - [x] Chapter IV (Abetment, Criminal Conspiracy and Attempt, s.45–62) — Gazette-verified text, punishments and BNSS First Schedule classification; 18 sections, 20 MCQs, 9 exam Q&A, 6 new dictionary terms *(built locally, not yet committed)*
 - [x] Dark mode toggle (light/dark, persisted in localStorage) *(added on request)*
 - [x] Statutory Dictionary: all 38 terms defined in s.2, bilingual
 - [x] Sub-heading–aware navigation (Sections tab grouped by `subHeadings`) — *FR-1.3*

@@ -1,0 +1,142 @@
+[
+  {
+    "id": "mcq-ch04-1", "chapterId": "ch-04",
+    "question": "Which of the following is NOT one of the three modes of abetment under Section 45?",
+    "options": ["Instigation", "Engaging in a conspiracy with an act in pursuance", "Intentional aid", "Mere knowledge that an offence will be committed"],
+    "correctIndex": 3,
+    "explanation": "Section 45 lists instigation, conspiracy (with an act or illegal omission in pursuance) and intentional aid. Mere knowledge, without more, is not abetment."
+  },
+  {
+    "id": "mcq-ch04-2", "chapterId": "ch-04",
+    "question": "A instigates B to murder C, but B refuses. A is—",
+    "options": ["Not guilty, since no act was done", "Guilty of abetting murder", "Guilty of attempt to murder", "Guilty only of criminal intimidation"],
+    "correctIndex": 1,
+    "explanation": "Explanation 2 to s.46: the act abetted need not be committed. The official illustration is exactly this case."
+  },
+  {
+    "id": "mcq-ch04-3", "chapterId": "ch-04",
+    "question": "Under Section 46, Explanation 3, a person can be guilty of abetment even if the person abetted—",
+    "options": ["Is an adult of sound mind", "Is not capable by law of committing an offence", "Is a public servant", "Is a relative"],
+    "correctIndex": 1,
+    "explanation": "It is not necessary that the person abetted be capable by law of committing an offence, or have any guilty intention — for example, a child under seven."
+  },
+  {
+    "id": "mcq-ch04-4", "chapterId": "ch-04",
+    "question": "Which section of the BNS, with no IPC equivalent, covers abetment from outside India of an offence in India?",
+    "options": ["Section 45", "Section 47", "Section 48", "Section 57"],
+    "correctIndex": 2,
+    "explanation": "Section 48 is new. Section 47 (IPC s.108A) covers the reverse: abetment in India of an act abroad."
+  },
+  {
+    "id": "mcq-ch04-5", "chapterId": "ch-04",
+    "question": "If the act abetted is committed in consequence of the abetment and no express provision exists, the abettor is punished under Section 49 with—",
+    "options": ["One-half of the punishment", "One-fourth of the punishment", "The punishment provided for the offence", "Up to seven years only"],
+    "correctIndex": 2,
+    "explanation": "Section 49: the abettor is punished with the punishment provided for the offence."
+  },
+  {
+    "id": "mcq-ch04-6", "chapterId": "ch-04",
+    "question": "A instigates B to burn Z's house. B burns it and also steals property there. Under Section 51, A is—",
+    "options": ["Liable for both burning and theft", "Liable for abetting the burning only", "Liable for theft only", "Not liable at all"],
+    "correctIndex": 1,
+    "explanation": "The theft was a distinct act, not a probable consequence of the burning (official illustration (b) to s.51)."
+  },
+  {
+    "id": "mcq-ch04-7", "chapterId": "ch-04",
+    "question": "Under Section 54, an abettor who is present when the offence is committed—",
+    "options": ["Gets half the punishment", "Is deemed to have committed the offence", "Is only a witness", "Is liable only for abetment"],
+    "correctIndex": 1,
+    "explanation": "Section 54: he shall be deemed to have committed such act or offence."
+  },
+  {
+    "id": "mcq-ch04-8", "chapterId": "ch-04",
+    "question": "A abets B to commit murder, but no murder is committed and no hurt is caused. Under Section 55, A is liable to—",
+    "options": ["Death or life imprisonment", "Up to 14 years and fine", "Up to 7 years and fine", "Up to 3 years"],
+    "correctIndex": 2,
+    "explanation": "Section 55: up to seven years and fine; it rises to fourteen years only if an act causing hurt is done in consequence."
+  },
+  {
+    "id": "mcq-ch04-9", "chapterId": "ch-04",
+    "question": "Under Section 56, if a public servant whose duty it is to prevent the offence abets it (and it is not committed), the maximum imprisonment is—",
+    "options": ["One-eighth of the longest term", "One-fourth of the longest term", "One-half of the longest term", "The full term"],
+    "correctIndex": 2,
+    "explanation": "The normal limit under s.56 is one-fourth; it rises to one-half where the abettor or person abetted is such a public servant."
+  },
+  {
+    "id": "mcq-ch04-10", "chapterId": "ch-04",
+    "question": "Section 57 punishes abetting the commission of an offence by the public generally or by persons exceeding—",
+    "options": ["Five", "Ten", "Twenty", "Fifty"],
+    "correctIndex": 1,
+    "explanation": "Section 57: 'by any number or class of persons exceeding ten'; punishment up to seven years and fine."
+  },
+  {
+    "id": "mcq-ch04-11", "chapterId": "ch-04",
+    "question": "What did the BNS add to the offences of concealing a design in Sections 58 and 59?",
+    "options": ["A minimum sentence", "Concealment by encryption or any other information-hiding tool", "Death penalty", "Compounding"],
+    "correctIndex": 1,
+    "explanation": "Sections 58 and 59 now cover concealment 'by the use of encryption or any other information hiding tool'."
+  },
+  {
+    "id": "mcq-ch04-12", "chapterId": "ch-04",
+    "question": "Under Section 60, if the offence (punishable with imprisonment) is NOT committed, concealing its design is punishable with up to—",
+    "options": ["One-half of the longest term", "One-fourth of the longest term", "One-eighth of the longest term", "Six months"],
+    "correctIndex": 2,
+    "explanation": "Section 60: one-fourth if committed; one-eighth if not; or fine, or both."
+  },
+  {
+    "id": "mcq-ch04-13", "chapterId": "ch-04",
+    "question": "The minimum number of persons required for a criminal conspiracy under Section 61 is—",
+    "options": ["One", "Two", "Three", "Five"],
+    "correctIndex": 1,
+    "explanation": "Section 61(1): 'When two or more persons agree…'."
+  },
+  {
+    "id": "mcq-ch04-14", "chapterId": "ch-04",
+    "question": "For an agreement to commit an offence, is an overt act required to make it a criminal conspiracy?",
+    "options": ["Yes, always", "No — an agreement to commit an offence is enough", "Only for serious offences", "Only if a public servant is involved"],
+    "correctIndex": 1,
+    "explanation": "The proviso to s.61(1) requires an act besides the agreement only for agreements other than one to commit an offence."
+  },
+  {
+    "id": "mcq-ch04-15", "chapterId": "ch-04",
+    "question": "A criminal conspiracy under Section 61(2)(b) (not to commit a serious offence) is—",
+    "options": ["Cognizable and non-bailable", "Non-cognizable, bailable, triable by a Magistrate of the first class", "Triable only by a Court of Session", "Punishable with up to 2 years"],
+    "correctIndex": 1,
+    "explanation": "BNSS First Schedule: s.61(2)(b) — up to 6 months, or fine, or both; non-cognizable; bailable; Magistrate of the first class."
+  },
+  {
+    "id": "mcq-ch04-16", "chapterId": "ch-04",
+    "question": "Section 61 of the BNS corresponds to which IPC provisions?",
+    "options": ["Section 107", "Sections 120A and 120B", "Section 511", "Section 34"],
+    "correctIndex": 1,
+    "explanation": "Section 61 combines the definition (IPC s.120A) and punishment (IPC s.120B) of criminal conspiracy."
+  },
+  {
+    "id": "mcq-ch04-17", "chapterId": "ch-04",
+    "question": "Under Section 62, the maximum imprisonment for an attempt (where no express provision exists) is—",
+    "options": ["The full term for the offence", "One-fourth of the longest term", "One-half of imprisonment for life or of the longest term", "Seven years"],
+    "correctIndex": 2,
+    "explanation": "Section 62: up to one-half of imprisonment for life or one-half of the longest term; or fine; or both."
+  },
+  {
+    "id": "mcq-ch04-18", "chapterId": "ch-04",
+    "question": "A puts his hand into Z's pocket to steal, but the pocket is empty. A is—",
+    "options": ["Not guilty, since theft was impossible", "Guilty of attempt to commit theft", "Guilty of theft", "Guilty only of preparation"],
+    "correctIndex": 1,
+    "explanation": "Official illustration (b) to s.62: impossibility is no defence to an attempt."
+  },
+  {
+    "id": "mcq-ch04-19", "chapterId": "ch-04",
+    "question": "BNS Section 62 (attempt) corresponds to which IPC section?",
+    "options": ["Section 307", "Section 511", "Section 120B", "Section 116"],
+    "correctIndex": 1,
+    "explanation": "The general attempt provision was IPC s.511 (the last section of the IPC); in the BNS it sits in Chapter IV."
+  },
+  {
+    "id": "mcq-ch04-20", "chapterId": "ch-04",
+    "question": "Under the BNSS First Schedule, the classification (cognizable/bailable) of abetment under Section 49 is—",
+    "options": ["Always cognizable", "Always bailable", "According as the offence abetted", "Always non-cognizable"],
+    "correctIndex": 2,
+    "explanation": "For ss.49-54 the First Schedule says the offence is cognizable/bailable according as the offence abetted is, and triable by the court that tries it."
+  }
+]
