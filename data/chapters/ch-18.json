@@ -1,0 +1,94 @@
+{
+  "id": "ch-18",
+  "number": "XVIII",
+  "title": "Of Offences Relating to Documents and to Property Marks",
+  "sectionRange": "335-350",
+  "shortDescription": "Forgery and related offences — making false documents and electronic records, forging court records, Government ID documents, wills and valuable securities, possessing and using forged documents, counterfeit seals and security marks, destroying wills, falsifying accounts — and offences relating to property marks and false marks on goods.",
+  "subHeadings": [
+    { "id": "forgery", "label": "False documents and forgery", "sectionIds": ["s-335", "s-336", "s-337", "s-338", "s-339", "s-340"] },
+    { "id": "instruments", "label": "Counterfeit seals, marks and destruction of documents", "sectionIds": ["s-341", "s-342", "s-343", "s-344"] },
+    { "id": "property-marks", "label": "Of property marks", "sectionIds": ["s-345", "s-346", "s-347", "s-348", "s-349", "s-350"] }
+  ],
+  "summary": "Chapter XVIII protects the reliability of documents and of marks that show who owns goods. It corresponds to Chapter XVIII of the IPC (ss.463-489, excluding the currency-note offences ss.489A-489E, which the BNS moved to Chapter X). About twenty-five IPC sections are consolidated into sixteen. Throughout, the BNS covers electronic records and electronic signatures alongside paper documents. The Gazette has one sub-heading, 'Of property marks', before s.345; the platform groups the earlier sections into forgery (ss.335-340) and counterfeit instruments, destruction of documents and falsified accounts (ss.341-344).\n\nSection 335 defines making a false document or electronic record in three ways: (A) dishonestly or fraudulently making, signing, sealing, executing or electronically signing it so that it appears to come from someone who did not make or authorise it; (B) dishonestly or fraudulently altering it in a material part without lawful authority after it has been made; and (C) getting someone to sign or alter it knowing that, because of unsoundness of mind, intoxication or deception, he does not know what he is signing. Signing one's own name can be forgery, and documents in the name of fictitious or dead persons are covered. Section 336 makes a false document forgery when made with intent to cause damage or injury, support a claim or title, make someone part with property or enter a contract, or commit fraud: two years for basic forgery, seven years if meant for cheating, and three years if meant to harm reputation. Forgery of court records, public registers, official certificates, powers of attorney and — expressly new — Government identity documents such as Aadhaar and voter ID cards carries seven years (s.337); forgery of valuable securities, wills, adoption authorities and receipts carries life or ten years (s.338). Possessing such forged documents with intent to use them (s.339) and knowingly using a forged document as genuine (s.340) are also punished, the latter as if the user had forged it.\n\nSections 341 and 342 punish making or possessing counterfeit seals, plates and authentication devices (such as watermarks) for forgery, with new offences of bare possession and use of counterfeit seals. Section 343 punishes fraudulently destroying, defacing or hiding a will, adoption authority or valuable security (life or seven years), and s.344 punishes employees who falsify their employer's books or electronic records with intent to defraud.\n\nSections 345-350 deal with property marks — marks that show movable goods belong to a particular person. Using a false property mark (s.345), tampering with one (s.346), counterfeiting one — more severely if it is a public servant's mark (s.347), making instruments for counterfeiting them (s.348), selling goods with counterfeit marks (s.349) and falsely marking packages about their contents (s.350) are all punished. In several of these the accused must prove he acted without intent to defraud or otherwise innocently. Most offences in the chapter are non-cognizable; ss.345(3), 347(1) and 349 are compoundable by the person who suffers loss.",
+  "keyPoints": [
+    {
+      "point": "Sections 335-336 — False document and forgery",
+      "subPoints": [
+        "s.335 — three ways: (A) making as if by another; (B) unauthorised material alteration; (C) obtaining signature from a person who cannot understand",
+        "Covers documents, electronic records and electronic signatures",
+        "Own signature may be forgery (Expl. 1); fictitious or dead persons (Expl. 2)",
+        "s.336 — false document + intent (damage, claim, parting with property, contract, fraud) = forgery",
+        "Forgery: 2 years; for cheating: 7 years + fine; to harm reputation: 3 years + fine"
+      ]
+    },
+    {
+      "point": "Sections 337-340 — Aggravated forgery and use",
+      "subPoints": [
+        "s.337 — court records, public registers, official certificates, power of attorney: 7 years",
+        "s.337 — NEW: Government identity documents incl. voter ID and Aadhaar",
+        "s.338 — valuable security, will, adoption authority, receipt: life or 10 years",
+        "s.339 — possessing forged s.337 / s.338 documents to use as genuine: 7 years / life or 7",
+        "s.340 — using a forged document as genuine: same as forgery of that document"
+      ]
+    },
+    {
+      "point": "Sections 341-344 — Instruments, destruction, accounts",
+      "subPoints": [
+        "s.341 — counterfeit seal or plate for s.338 forgery: life or 7; for other forgery: 7 years",
+        "s.341(3)-(4) — mere possession of counterfeit seal: 3 years; using as genuine: as if made it",
+        "s.342 — counterfeit authentication device or mark (e.g., watermark)",
+        "s.343 — destroying or secreting a will, adoption authority or valuable security: life or 7",
+        "s.344 — falsification of accounts by clerk or servant with intent to defraud: 7 years"
+      ]
+    },
+    {
+      "point": "Sections 345-350 — Property marks",
+      "subPoints": [
+        "s.345 — property mark: denotes ownership of movable property; false use: 1 year",
+        "s.346 — tampering with a property mark: 1 year",
+        "s.347 — counterfeiting another's mark: 2 years; a public servant's mark: 3 years + fine",
+        "s.348 — instruments for counterfeiting a property mark: 3 years",
+        "s.349 — selling goods with a counterfeit mark: 1 year, unless innocence proved",
+        "s.350 — false mark on a receptacle about its contents: 3 years",
+        "Burden on the accused to prove no intent to defraud (ss.345, 350) or innocence (s.349)"
+      ]
+    }
+  ],
+  "fastRevision": [
+    "Chapter XVIII corresponds to IPC Chapter XVIII (ss.463-489); currency-note offences moved to BNS Chapter X.",
+    "s.335 — making a false document or electronic record: definition in clauses (A), (B), (C).",
+    "s.335(A) — made, signed, sealed or electronically signed to appear to come from another.",
+    "s.335(B) — unauthorised, dishonest or fraudulent material alteration after execution.",
+    "s.335(C) — signature obtained from a person of unsound mind, intoxicated, or deceived about contents.",
+    "s.335 Expl. 1 — a man's signature of his own name may amount to forgery.",
+    "s.335 Expl. 2 — false documents in the name of fictitious or deceased persons are covered.",
+    "s.335 Expl. 3 — 'affixing electronic signature' as in s.2(1)(d), IT Act, 2000.",
+    "s.336(1) — forgery: false document + intent to damage, support a claim, obtain property, induce a contract, or defraud.",
+    "s.336(2) — forgery: 2 years, or fine, or both; non-cognizable, bailable.",
+    "s.336(3) — forgery for cheating: 7 years + fine; cognizable, non-bailable.",
+    "s.336(4) — forgery to harm reputation: 3 years + fine.",
+    "s.337 — forgery of court records, public registers, official certificates, power of attorney: 7 years + fine.",
+    "s.337 — NEW: Government ID documents, including voter identity card and Aadhaar card.",
+    "s.337 Expl. — 'register' includes electronic lists, data and records.",
+    "s.338 — forgery of valuable security, will, adoption authority, receipt: life or 10 years + fine.",
+    "s.338 — cognizable only where it is a Central Government promissory note.",
+    "s.339 — possessing forged s.337 document to use: 7 years; forged s.338 document: life or 7 years.",
+    "s.340(1) — forged document: a false document made wholly or partly by forgery.",
+    "s.340(2) — using a forged document as genuine: same punishment as forging it.",
+    "s.341 — counterfeit seal or plate: life or 7 (s.338 forgery); 7 years (other); possession 3 years.",
+    "s.342 — counterfeit authentication device or mark on material: life or 7 / 7 years.",
+    "s.343 — fraudulently destroying or secreting a will, adoption authority or valuable security: life or 7.",
+    "s.344 — falsification of accounts by clerk, officer or servant: 7 years, or fine, or both.",
+    "s.344 Expl. — a general intent to defraud is enough in the charge.",
+    "s.345(1) — property mark: denotes that movable property belongs to a particular person.",
+    "s.345(3) — using a false property mark: 1 year, unless no intent to defraud proved.",
+    "s.346 — removing, destroying, defacing or adding to a property mark to cause injury: 1 year.",
+    "s.347(1) — counterfeiting another's property mark: 2 years; (2) a public servant's mark: 3 years + fine.",
+    "s.348 — die, plate or instrument for counterfeiting a property mark: 3 years.",
+    "s.349 — selling goods with a counterfeit property mark: 1 year, unless innocence proved.",
+    "s.350 — false mark on a package about its contents: 3 years, unless no intent to defraud proved.",
+    "Compoundable (BNSS s.359(1)): ss.345(3), 347(1), 349 — by the person who suffers loss or injury."
+  ],
+  "mindMap": "# Ch. XVIII — Documents & Property Marks\n## False documents & forgery (ss.335-340)\n- False document (s.335)\n  - (A) make as if by another\n  - (B) unauthorised alteration\n  - (C) signature from one who cannot understand\n  - Electronic records & signatures\n- Forgery (s.336)\n  - 2 yrs; cheating 7 yrs; reputation 3 yrs\n- Court records, public registers, Aadhaar / voter ID (s.337) — 7 yrs\n- Valuable security, will (s.338) — life / 10 yrs\n- Possession (s.339)\n- Using forged document (s.340)\n## Instruments & records (ss.341-344)\n- Counterfeit seals (s.341)\n- Counterfeit authentication marks (s.342)\n- Destroying wills etc. (s.343)\n- Falsification of accounts (s.344)\n## Property marks (ss.345-350)\n- False property mark (s.345)\n- Tampering (s.346)\n- Counterfeiting (s.347)\n- Instruments (s.348)\n- Selling marked goods (s.349)\n- False mark on package (s.350)",
+  "lastVerified": "2026-09-30"
+}
