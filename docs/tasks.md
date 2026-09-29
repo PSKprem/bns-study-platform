@@ -93,6 +93,7 @@ Goal: prove the whole workflow on one small chapter. Definition of Done = `requi
   - [x] Chapter III (General Exceptions, s.14–44) — Gazette-verified; 31 sections, 18 MCQs, 10 exam Q&A, 9 new dictionary terms
   - [x] Chapter IV (Abetment, Criminal Conspiracy and Attempt, s.45–62) — Gazette-verified text, punishments and BNSS First Schedule classification; 18 sections, 20 MCQs, 9 exam Q&A, 6 new dictionary terms *(merged in PR #3, live)*
   - [x] Chapter V (Offences Against Woman and Child, s.63–99) — Gazette-verified text, punishments, BNSS First Schedule classification and s.359 compounding; 37 sections, 22 MCQs, 10 exam Q&A, 16 new dictionary terms
+  - [x] Chapter VI (Offences Affecting the Human Body, s.100–146) — Gazette-verified text, punishments, BNSS First Schedule classification and s.359 compounding; s.106(2) flagged as not in force; 47 sections, 24 MCQs, 10 exam Q&A, 27 new dictionary terms
 - [x] Dark mode toggle (light/dark, persisted in localStorage) *(added on request)*
 - [x] Statutory Dictionary: all 38 terms defined in s.2, bilingual
 - [x] Sub-heading–aware navigation (Sections tab grouped by `subHeadings`) — *FR-1.3*

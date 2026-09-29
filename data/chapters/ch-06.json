@@ -1,0 +1,157 @@
+{
+  "id": "ch-06",
+  "number": "VI",
+  "title": "Of Offences Affecting the Human Body",
+  "sectionRange": "100-146",
+  "shortDescription": "Offences against life and body: culpable homicide and murder, negligent death, suicide abetment, organised crime and terrorism, hurt, restraint and confinement, assault, kidnapping, trafficking and forced labour.",
+  "subHeadings": [
+    { "id": "offences-affecting-life", "label": "Of offences affecting life", "sectionIds": ["s-100", "s-101", "s-102", "s-103", "s-104", "s-105", "s-106", "s-107", "s-108", "s-109", "s-110", "s-111", "s-112", "s-113"] },
+    { "id": "hurt", "label": "Of hurt", "sectionIds": ["s-114", "s-115", "s-116", "s-117", "s-118", "s-119", "s-120", "s-121", "s-122", "s-123", "s-124", "s-125"] },
+    { "id": "restraint-confinement", "label": "Of wrongful restraint and wrongful confinement", "sectionIds": ["s-126", "s-127"] },
+    { "id": "criminal-force-assault", "label": "Of criminal force and assault", "sectionIds": ["s-128", "s-129", "s-130", "s-131", "s-132", "s-133", "s-134", "s-135", "s-136"] },
+    { "id": "kidnapping-trafficking", "label": "Of kidnapping, abduction, slavery and forced labour", "sectionIds": ["s-137", "s-138", "s-139", "s-140", "s-141", "s-142", "s-143", "s-144", "s-145", "s-146"] }
+  ],
+  "summary": "Chapter VI is the core of criminal law on violence against the person. It corresponds broadly to Chapter XVI of the IPC (ss.299-374), minus the sexual offences and offences relating to miscarriage and children, which the BNS has moved to Chapter V. It also adds three wholly new offences — organised crime, petty organised crime and terrorist act. The Gazette divides it into five parts: offences affecting life (ss.100-113), hurt (ss.114-125), wrongful restraint and confinement (ss.126-127), criminal force and assault (ss.128-136), and kidnapping, abduction, slavery and forced labour (ss.137-146).\n\nThe homicide provisions keep the IPC structure. Section 100 defines culpable homicide by three mental states — intention to cause death, intention to cause an injury likely to cause death, and knowledge that death is likely. Section 101 identifies the graver cases that amount to murder (clauses (a)-(d)) and lists five Exceptions — grave and sudden provocation, excess of private defence, a public servant acting in good faith, a sudden fight, and consent of a victim over eighteen — which reduce murder to culpable homicide not amounting to murder. Section 102 transfers the offender's intention to an unintended victim. Murder is punished with death or life imprisonment (s.103(1)); new s.103(2) punishes each member of a group of five or more who murder on grounds such as race, caste, community, sex or language. Section 104 allows death or life for natural life for murder by a life-convict, and s.105 grades punishment for culpable homicide not amounting to murder by intention and knowledge.\n\nSection 106(1) raises the punishment for causing death by negligence to five years, with a two-year limit for registered medical practitioners. Section 106(2), which punishes hit-and-run with up to ten years, was not brought into force when the BNS commenced on 1 July 2024. Sections 107 and 108 punish abetment of suicide, and ss.109 and 110 deal with attempts to murder and to commit culpable homicide.\n\nSections 111 to 113 are new. Organised crime (s.111) targets syndicates engaged in continuing unlawful activity — offences with repeated charge-sheets over ten years — for material benefit, with punishment up to death and heavy minimum fines. Petty organised crime (s.112) covers gang theft, snatching, cheating, ticket touting, betting and paper leaks. Terrorist act (s.113) brings a UAPA-style offence into the general penal code, with a Superintendent of Police deciding which law to use.\n\nThe hurt provisions define hurt (s.114) and the eight kinds of grievous hurt (s.116 — the fifteen-day clause replacing twenty days), and then grade punishment by the means used (dangerous weapons, poison, acid), the purpose (extortion, confession, deterring a public servant) and the presence of provocation. New sub-sections cover hurt causing permanent disability or a vegetative state and grievous hurt by a group of five or more. Sections 126 and 127 punish wrongful restraint and confinement, rising with duration and purpose. Sections 128 to 136 define force, criminal force and assault and grade their punishment. The last part covers kidnapping (now defined by reference to a 'child', i.e. under eighteen, for both sexes) and abduction, kidnapping or maiming a child for begging, kidnapping for murder or ransom, importation of a girl or boy, trafficking of persons with steep punishments where children or public servants are involved, exploitation of trafficked persons, dealing in slaves and forced labour. Most serious offences here are cognizable and non-bailable; simple hurt, assault, restraint and several confinement offences are compoundable by the victim under BNSS s.359.",
+  "keyPoints": [
+    {
+      "point": "Sections 100-102 — Culpable homicide and murder",
+      "subPoints": [
+        "s.100 — death caused with intention of death, intention of likely-fatal injury, or knowledge death is likely",
+        "s.101 — murder: clauses (a)-(d) (intention, known-to-be-fatal injury, injury sufficient in ordinary course, imminently dangerous act)",
+        "Five Exceptions: provocation, private defence, public servant, sudden fight, consent (victim over 18)",
+        "s.102 — transferred intention to an unintended victim"
+      ]
+    },
+    {
+      "point": "Sections 103-105 — Punishment",
+      "subPoints": [
+        "s.103(1) — murder: death or life + fine",
+        "s.103(2) — NEW: murder by a group of 5+ on grounds of race, caste, sex, language etc.: death or life",
+        "s.104 — murder by life-convict: death or life for natural life",
+        "s.105 — culpable homicide not murder: life or 5-10 years (intention); up to 10 years (knowledge)"
+      ]
+    },
+    {
+      "point": "Sections 106-110 — Negligence, suicide, attempts",
+      "subPoints": [
+        "s.106(1) — death by negligence: up to 5 years; registered doctor up to 2 years",
+        "s.106(2) — hit-and-run: up to 10 years (not yet in force)",
+        "s.107 — abetting suicide of child, unsound, delirious or intoxicated person: death, life or 10 years",
+        "s.108 — abetment of suicide: up to 10 years",
+        "s.109 — attempt to murder: 10 years; life if hurt; life-convict: death",
+        "s.110 — attempt to commit culpable homicide: 3 years; 7 years if hurt"
+      ]
+    },
+    {
+      "point": "Sections 111-113 — NEW: Organised crime and terrorism",
+      "subPoints": [
+        "s.111 — organised crime by a syndicate (2+) in continuing unlawful activity for material benefit",
+        "Death resulting: death or life + fine ≥ ₹10 lakh; otherwise 5 years to life + fine ≥ ₹5 lakh",
+        "s.112 — petty organised crime by gangs (theft, snatching, ticket touting, paper leaks): 1-7 years",
+        "s.113 — terrorist act: death or life if death results; otherwise 5 years to life",
+        "Spouse exempt from harbouring (ss.111(5), 113(6)); SP decides BNS or UAPA"
+      ]
+    },
+    {
+      "point": "Sections 114-125 — Hurt",
+      "subPoints": [
+        "s.114 — hurt = bodily pain, disease or infirmity",
+        "s.115 — voluntarily causing hurt: 1 year or ₹10,000; compoundable",
+        "s.116 — eight kinds of grievous hurt; clause (h) now 15 days",
+        "s.117 — grievous hurt: 7 years; permanent disability/PVS: 10 years to life; group of 5+: 7 years",
+        "s.118 — by dangerous weapons: hurt 3 years; grievous hurt life or 1-10 years",
+        "ss.119-121 — to extort property, extort confession, or deter a public servant",
+        "s.122 — on grave and sudden provocation: 1 month / 5 years",
+        "s.124 — acid attack: 10 years to life; throwing/attempt 5-7 years",
+        "s.125 — act endangering life: 3 months; hurt 6 months; grievous hurt 3 years"
+      ]
+    },
+    {
+      "point": "Sections 126-127 — Restraint and confinement",
+      "subPoints": [
+        "s.126 — wrongful restraint: SI 1 month or ₹5,000",
+        "s.127 — wrongful confinement: 1 year; 3+ days 3 years; 10+ days 5 years",
+        "Extra punishment if a writ for release is issued, or if secret",
+        "Confinement to extort property or confession: 3 years"
+      ]
+    },
+    {
+      "point": "Sections 128-136 — Force, criminal force, assault",
+      "subPoints": [
+        "s.128 — force; s.129 — criminal force; s.130 — assault (words alone are not assault)",
+        "s.131 — assault or criminal force: 3 months or ₹1,000",
+        "s.132 — on a public servant: 2 years; non-bailable",
+        "ss.133-135 — to dishonour, in attempt to steal, in attempt to confine",
+        "s.136 — on grave and sudden provocation: SI 1 month or ₹1,000"
+      ]
+    },
+    {
+      "point": "Sections 137-146 — Kidnapping, trafficking, slavery",
+      "subPoints": [
+        "s.137 — kidnapping from India or from lawful guardianship (child under 18, either sex): 7 years",
+        "s.138 — abduction: force or deceitful means",
+        "s.139 — kidnapping child for begging: 10 years to life; maiming: 20 years to life",
+        "s.140 — kidnapping to murder: life/10 years; for ransom: death or life",
+        "s.141 — importing girl under 21 or boy under 18: 10 years",
+        "s.143 — trafficking: 7-10 years; child 10 years to life; public servant life",
+        "s.144 — exploiting trafficked child: 5-10 years; other person: 3-7 years",
+        "s.145 — habitual dealing in slaves; s.146 — forced labour: 1 year"
+      ]
+    }
+  ],
+  "fastRevision": [
+    "Chapter VI has five Gazette sub-headings: life (100-113), hurt (114-125), restraint/confinement (126-127), criminal force/assault (128-136), kidnapping etc. (137-146).",
+    "s.100 — culpable homicide: three mental states — intention of death, intention of likely-fatal injury, knowledge of likely death.",
+    "s.100 Expl. 3 — killing a child in the womb is not homicide.",
+    "s.101(c) — injury sufficient in the ordinary course of nature to cause death = murder.",
+    "s.101(d) — imminently dangerous act without excuse = murder.",
+    "s.101 — five Exceptions: provocation, private defence, public servant, sudden fight, consent.",
+    "Exception 5 — consent works only if the victim is above 18.",
+    "s.102 — transferred malice: judged as if the intended victim died.",
+    "s.103(1) — murder: death or life + fine.",
+    "s.103(2) — NEW: mob lynching by 5+ on grounds of race, caste, sex, language etc.: death or life.",
+    "s.104 — murder by life-convict: death or life for natural life (old s.303 mandatory death struck down in Mithu).",
+    "s.105 — culpable homicide not murder: life or 5-10 years (intention); up to 10 years (knowledge).",
+    "s.106(1) — death by negligence: up to 5 years (was 2 under s.304A IPC).",
+    "s.106(1) — registered medical practitioner: up to 2 years.",
+    "s.106(2) — hit-and-run: up to 10 years — not yet brought into force.",
+    "s.107 — abetting suicide of child/unsound/delirious/intoxicated person: death, life or 10 years.",
+    "s.108 — abetment of suicide: up to 10 years; cognizable, non-bailable, Sessions.",
+    "s.109 — attempt to murder: 10 years; life if hurt caused.",
+    "s.110 — attempt to commit culpable homicide: 3 years; 7 if hurt.",
+    "s.111 — NEW: organised crime; syndicate = 2+ persons.",
+    "s.111 — continuing unlawful activity = 3+ year cognizable offence, more than one charge-sheet in 10 years.",
+    "s.111(2)(a) — organised crime causing death: death or life + fine ≥ ₹10 lakh.",
+    "s.112 — NEW: petty organised crime: 1-7 years; includes selling exam papers.",
+    "s.113 — NEW: terrorist act; SP decides whether to use BNS or UAPA.",
+    "ss.111(5), 113(6) — harbouring by the spouse is exempted.",
+    "s.114 — hurt = bodily pain, disease or infirmity.",
+    "s.115(2) — simple hurt: 1 year or fine ₹10,000; non-cognizable; compoundable.",
+    "s.116 — eight kinds of grievous hurt; clause (h) 15 days (was 20).",
+    "s.117(2) — grievous hurt: up to 7 years + fine; bailable.",
+    "s.117(3) — NEW: permanent disability or PVS: RI 10 years to life.",
+    "s.117(4) — NEW: grievous hurt by a group of 5+ on discriminatory grounds.",
+    "s.118(2) — grievous hurt by dangerous weapon: life or 1-10 years.",
+    "s.120 — hurt to extort confession (custodial torture): up to 7 years.",
+    "s.122 — hurt on grave and sudden provocation: 1 month; grievous hurt: 5 years.",
+    "s.124(1) — acid attack: 10 years to life; fine paid to the victim.",
+    "s.124(2) — throwing or attempting to throw acid: 5-7 years.",
+    "s.125 — rash act endangering life: 3 months even if no one is hurt.",
+    "s.126 — wrongful restraint: SI 1 month or ₹5,000.",
+    "s.127 — wrongful confinement 10+ days: up to 5 years, fine ≥ ₹10,000; non-bailable.",
+    "s.130 — mere words do not amount to assault.",
+    "s.131 — assault/criminal force: 3 months or ₹1,000; non-cognizable.",
+    "s.132 — assault on a public servant: 2 years; cognizable, non-bailable.",
+    "s.137 — kidnapping of a 'child' (under 18, boy or girl); child's consent is irrelevant.",
+    "s.137 — kidnapping: up to 7 years + fine; cognizable, bailable.",
+    "s.138 — abduction: by force or deceitful means; any age.",
+    "s.139(2) — maiming a child for begging: 20 years to life.",
+    "s.140(2) — kidnapping for ransom: death or life.",
+    "s.141 — importing a girl under 21 or boy under 18 for illicit intercourse: 10 years.",
+    "s.143 — trafficking: consent of the victim is immaterial; beggary is exploitation.",
+    "s.143(7) — public servant or police officer in trafficking: life for natural life.",
+    "IPC mapping: s.100 = 299; s.101 = 300; s.103 = 302; s.105 = 304; s.106 = 304A; s.109 = 307; s.115 = 323; s.117 = 325; s.137 = 359-363; s.143 = 370."
+  ],
+  "mindMap": "# Ch. VI — Offences Affecting the Human Body\n## Offences affecting life (ss.100-113)\n- Culpable homicide (s.100)\n- Murder (s.101)\n  - Clauses (a)-(d)\n  - 5 Exceptions\n- Transferred malice (s.102)\n- Punishment\n  - Murder; mob lynching (s.103)\n  - Life-convict (s.104)\n  - CH not murder (s.105)\n- Negligent death (s.106)\n  - Doctor: 2 yrs\n  - Hit-and-run: not in force\n- Abetment of suicide (ss.107-108)\n- Attempts (ss.109-110)\n- NEW\n  - Organised crime (s.111)\n  - Petty organised crime (s.112)\n  - Terrorist act (s.113)\n## Hurt (ss.114-125)\n- Hurt / voluntarily (ss.114-115)\n- Grievous hurt — 8 kinds (ss.116-117)\n- Dangerous weapons (s.118)\n- Extort property / confession (ss.119-120)\n- Public servant (s.121)\n- Provocation (s.122)\n- Poison (s.123)\n- Acid attack (s.124)\n- Endangering life (s.125)\n## Restraint & confinement (ss.126-127)\n- Wrongful restraint (s.126)\n- Wrongful confinement (s.127)\n## Criminal force & assault (ss.128-136)\n- Force / criminal force / assault (ss.128-130)\n- Punishment (s.131)\n- Public servant (s.132)\n- Dishonour, theft, confine (ss.133-135)\n- Provocation (s.136)\n## Kidnapping, trafficking, slavery (ss.137-146)\n- Kidnapping / abduction (ss.137-138)\n- Child for begging (s.139)\n- Murder / ransom (s.140)\n- Importing girl or boy (s.141)\n- Concealing kidnapped person (s.142)\n- Trafficking (ss.143-144)\n- Slaves; forced labour (ss.145-146)",
+  "lastVerified": "2026-09-29"
+}

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "mcq-ch06-1", "chapterId": "ch-06",
+    "question": "Under Explanation 3 to Section 100, causing the death of a child in the mother's womb is—",
+    "options": ["Murder", "Culpable homicide", "Not homicide", "Always an attempt to murder"],
+    "correctIndex": 2,
+    "explanation": "Expl. 3 to s.100: causing the death of a child in the womb is not homicide, though killing a living child of which any part has been brought forth may be culpable homicide."
+  },
+  {
+    "id": "mcq-ch06-2", "chapterId": "ch-06",
+    "question": "Intentionally inflicting an injury 'sufficient in the ordinary course of nature to cause death' falls under which clause of Section 101?",
+    "options": ["Clause (a)", "Clause (b)", "Clause (c)", "Clause (d)"],
+    "correctIndex": 2,
+    "explanation": "s.101(c) — the intended injury is sufficient in the ordinary course of nature to cause death; it is murder even if death was not intended."
+  },
+  {
+    "id": "mcq-ch06-3", "chapterId": "ch-06",
+    "question": "Exception 5 to Section 101 (consent) applies only if the deceased was—",
+    "options": ["Above twelve years", "Above sixteen years", "Above eighteen years", "Of any age"],
+    "correctIndex": 2,
+    "explanation": "Exception 5 applies where the person whose death is caused, being above the age of eighteen years, suffers death or takes the risk of death with his own consent."
+  },
+  {
+    "id": "mcq-ch06-4", "chapterId": "ch-06",
+    "question": "A fires at B intending to kill him but kills C, whom he did not see. Under Section 102, A is guilty of—",
+    "options": ["No offence against C", "Causing death by negligence", "The same offence as if he had killed B", "Attempt to murder only"],
+    "correctIndex": 2,
+    "explanation": "s.102 transfers the intention: the offence is of the description it would have been had the intended victim died."
+  },
+  {
+    "id": "mcq-ch06-5", "chapterId": "ch-06",
+    "question": "Section 103(2) applies to murder committed by a group of at least how many persons on grounds such as race or caste?",
+    "options": ["Two", "Three", "Five", "Ten"],
+    "correctIndex": 2,
+    "explanation": "s.103(2): a group of five or more persons acting in concert, on the ground of race, caste or community, sex, place of birth, language, personal belief or similar ground."
+  },
+  {
+    "id": "mcq-ch06-6", "chapterId": "ch-06",
+    "question": "The punishment for murder by a person already under sentence of life imprisonment (s.104) is—",
+    "options": ["Mandatory death", "Death, or life imprisonment for the remainder of natural life", "Life imprisonment only", "10 years and fine"],
+    "correctIndex": 1,
+    "explanation": "s.104 gives a choice: death or life imprisonment meaning the remainder of natural life. Mandatory death under old s.303 IPC was struck down in Mithu (1983)."
+  },
+  {
+    "id": "mcq-ch06-7", "chapterId": "ch-06",
+    "question": "The maximum punishment for causing death by negligence under Section 106(1) (not a medical practitioner) is—",
+    "options": ["2 years", "5 years", "7 years", "10 years"],
+    "correctIndex": 1,
+    "explanation": "s.106(1): up to five years and fine; if by a registered medical practitioner during a medical procedure, up to two years and fine."
+  },
+  {
+    "id": "mcq-ch06-8", "chapterId": "ch-06",
+    "question": "What is the current status of Section 106(2) (hit-and-run)?",
+    "options": ["In force since 1 July 2024", "Repealed", "Not yet brought into force", "Struck down by the Supreme Court"],
+    "correctIndex": 2,
+    "explanation": "The notification of 23 February 2024 brought the BNS into force from 1 July 2024 except s.106(2), which has not yet been brought into force."
+  },
+  {
+    "id": "mcq-ch06-9", "chapterId": "ch-06",
+    "question": "A buys a gun and loads it intending to kill Z. Under the illustrations to Section 109, A has—",
+    "options": ["Committed attempt to murder", "Not yet committed the offence", "Committed murder", "Committed criminal conspiracy"],
+    "correctIndex": 1,
+    "explanation": "Illustration (c) to s.109: buying and loading a gun is preparation. Firing it at Z is the attempt."
+  },
+  {
+    "id": "mcq-ch06-10", "chapterId": "ch-06",
+    "question": "An 'organised crime syndicate' under Section 111 means a group of—",
+    "options": ["Two or more persons", "Three or more persons", "Five or more persons", "Ten or more persons"],
+    "correctIndex": 0,
+    "explanation": "Explanation (i) to s.111: a group of two or more persons who, singly or jointly, indulge in continuing unlawful activity."
+  },
+  {
+    "id": "mcq-ch06-11", "chapterId": "ch-06",
+    "question": "Organised crime resulting in death is punishable with death or life imprisonment and a minimum fine of—",
+    "options": ["₹1 lakh", "₹5 lakh", "₹10 lakh", "₹2 lakh"],
+    "correctIndex": 2,
+    "explanation": "s.111(2)(a): death or imprisonment for life, and fine not less than ten lakh rupees."
+  },
+  {
+    "id": "mcq-ch06-12", "chapterId": "ch-06",
+    "question": "Selling public examination question papers by a member of a gang is—",
+    "options": ["Organised crime under s.111", "Petty organised crime under s.112", "Terrorist act under s.113", "Not an offence under the BNS"],
+    "correctIndex": 1,
+    "explanation": "s.112(1) expressly lists selling of public examination question papers as petty organised crime."
+  },
+  {
+    "id": "mcq-ch06-13", "chapterId": "ch-06",
+    "question": "Under Section 113, who decides whether to register a case under the BNS or under the UAPA?",
+    "options": ["The Magistrate", "An officer not below the rank of Superintendent of Police", "The Central Government", "The Sessions Judge"],
+    "correctIndex": 1,
+    "explanation": "Explanation to s.113: the officer not below the rank of Superintendent of Police decides."
+  },
+  {
+    "id": "mcq-ch06-14", "chapterId": "ch-06",
+    "question": "Under Section 116(h), hurt causing severe bodily pain is grievous if it lasts for—",
+    "options": ["Seven days", "Ten days", "Fifteen days", "Twenty days"],
+    "correctIndex": 2,
+    "explanation": "The BNS reduced the period from twenty days (s.320 IPC) to fifteen days."
+  },
+  {
+    "id": "mcq-ch06-15", "chapterId": "ch-06",
+    "question": "Voluntarily causing (simple) hurt under Section 115(2) is—",
+    "options": ["Cognizable and non-bailable", "Non-cognizable, bailable and compoundable by the person hurt", "Cognizable and non-compoundable", "Triable only by a Court of Session"],
+    "correctIndex": 1,
+    "explanation": "First Schedule: non-cognizable, bailable, any Magistrate. BNSS s.359(1) Table 1: compoundable by the person to whom hurt is caused."
+  },
+  {
+    "id": "mcq-ch06-16", "chapterId": "ch-06",
+    "question": "Throwing or attempting to throw acid on a person (s.124(2)) is punishable with—",
+    "options": ["Up to 3 years", "5 to 7 years and fine", "10 years to life", "Life imprisonment only"],
+    "correctIndex": 1,
+    "explanation": "s.124(2): not less than five years, which may extend to seven years, and fine."
+  },
+  {
+    "id": "mcq-ch06-17", "chapterId": "ch-06",
+    "question": "A police officer who tortures a suspect to extract a confession commits an offence under—",
+    "options": ["Section 119", "Section 120", "Section 121", "Section 132"],
+    "correctIndex": 1,
+    "explanation": "s.120 — voluntarily causing hurt to extort a confession; illustration (a) is a police officer torturing a suspect."
+  },
+  {
+    "id": "mcq-ch06-18", "chapterId": "ch-06",
+    "question": "Wrongful confinement for ten days or more under Section 127(4) is—",
+    "options": ["Bailable and compoundable", "Non-bailable, punishable up to 5 years with fine of at least ₹10,000", "Punishable only with fine", "Non-cognizable"],
+    "correctIndex": 1,
+    "explanation": "s.127(4): up to five years and fine not less than ₹10,000. First Schedule: cognizable, non-bailable, Magistrate of the first class."
+  },
+  {
+    "id": "mcq-ch06-19", "chapterId": "ch-06",
+    "question": "Which statement about assault under Section 130 is correct?",
+    "options": ["Physical contact is necessary", "Mere words amount to assault", "Mere words do not amount to assault, but may give meaning to a gesture", "Assault requires hurt to be caused"],
+    "correctIndex": 2,
+    "explanation": "Explanation to s.130: mere words do not amount to assault, but they may give gestures or preparation a meaning that makes them an assault."
+  },
+  {
+    "id": "mcq-ch06-20", "chapterId": "ch-06",
+    "question": "For kidnapping from lawful guardianship under Section 137, the victim must be—",
+    "options": ["A girl under 18 or a boy under 16", "A child (under 18) or a person of unsound mind", "Any person below 21", "Any person, of any age"],
+    "correctIndex": 1,
+    "explanation": "s.137(1)(b) uses 'child' (under eighteen, s.2) for both sexes, replacing the IPC's separate ages of sixteen and eighteen."
+  },
+  {
+    "id": "mcq-ch06-21", "chapterId": "ch-06",
+    "question": "Kidnapping for ransom under Section 140(2) is punishable with—",
+    "options": ["Up to 7 years", "Up to 10 years", "Death, or imprisonment for life, and fine", "Life imprisonment only"],
+    "correctIndex": 2,
+    "explanation": "s.140(2): death, or imprisonment for life, and fine."
+  },
+  {
+    "id": "mcq-ch06-22", "chapterId": "ch-06",
+    "question": "Under Section 141, importing a girl into India for illicit intercourse is an offence if she is under the age of—",
+    "options": ["Sixteen", "Eighteen", "Twenty-one", "Twenty-five"],
+    "correctIndex": 2,
+    "explanation": "s.141 covers a girl under twenty-one years or a boy under eighteen years."
+  },
+  {
+    "id": "mcq-ch06-23", "chapterId": "ch-06",
+    "question": "In the offence of trafficking under Section 143, the consent of the victim is—",
+    "options": ["A complete defence", "Relevant only for adults", "Immaterial", "A mitigating factor only"],
+    "correctIndex": 2,
+    "explanation": "Explanation 2 to s.143: the consent of the victim is immaterial in determining the offence of trafficking."
+  },
+  {
+    "id": "mcq-ch06-24", "chapterId": "ch-06",
+    "question": "Which of the following is NOT listed as 'exploitation' in Section 143?",
+    "options": ["Beggary", "Forced removal of organs", "Servitude", "Unpaid domestic chores in one's own family"],
+    "correctIndex": 3,
+    "explanation": "Explanation 1 lists physical exploitation, sexual exploitation, slavery or similar practices, servitude, beggary and forced removal of organs."
+  }
+]

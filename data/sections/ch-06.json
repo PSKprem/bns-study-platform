@@ -1,0 +1,1716 @@
+[
+  {
+    "id": "s-100",
+    "chapterId": "ch-06",
+    "number": "100",
+    "title": "Culpable homicide",
+    "bareActText": "Whoever causes death by doing an act with the intention of causing death, or with the intention of causing such bodily injury as is likely to cause death, or with the knowledge that he is likely by such act to cause death, commits the offence of culpable homicide. Illustrations. (a) A lays sticks and turf over a pit, with the intention of thereby causing death, or with the knowledge that death is likely to be thereby caused. Z, believing the ground to be firm, treads on it, falls in and is killed. A has committed the offence of culpable homicide. (b) A knows Z to be behind a bush. B does not know it. A, intending to cause, or knowing it to be likely to cause Z’s death, induces B to fire at the bush. B fires and kills Z. Here B may be guilty of no offence; but A has committed the offence of culpable homicide. (c) A, by shooting at a fowl with intent to kill and steal it, kills B, who is behind a bush; A not knowing that he was there. Here, although A was doing an unlawful act, he was not guilty of culpable homicide, as he did not intend to kill B, or to cause death by doing an act that he knew was likely to cause death. Explanation 1.—A person who causes bodily injury to another who is labouring under a disorder, disease or bodily infirmity, and thereby accelerates the death of that other, shall be deemed to have caused his death. Explanation 2.—Where death is caused by bodily injury, the person who causes such bodily injury shall be deemed to have caused the death, although by resorting to proper remedies and skilful treatment the death might have been prevented. Explanation 3.—The causing of the death of a child in the mother’s womb is not homicide. But it may amount to culpable homicide to cause the death of a living child, if any part of that child has been brought forth, though the child may not have breathed or been completely born.",
+    "plainMeaning": "Culpable homicide is causing death by an act done with one of three mental states: the intention of causing death; the intention of causing bodily injury likely to cause death; or the knowledge that the act is likely to cause death. The Explanations add that hastening the death of someone already ill counts as causing death; that a person who inflicts a fatal injury is responsible even if proper treatment could have saved the victim; and that killing a child still in the womb is not homicide, though killing a living child once any part of it has been born may be.",
+    "ingredients": [
+      "Causing death of a human being",
+      "By doing an act",
+      "With (i) intention of causing death, or (ii) intention of causing bodily injury likely to cause death, or (iii) knowledge that the act is likely to cause death",
+      "Expl. 1 — accelerating the death of a sick or infirm person is causing death",
+      "Expl. 2 — liability remains though skilful treatment might have prevented death",
+      "Expl. 3 — death of a child in the womb is not homicide; a partly born living child is protected"
+    ],
+    "punishment": "Not applicable — this section is a definition; punishment is set by s.105.",
+    "classification": null,
+    "ipcReference": {
+      "section": "299 IPC",
+      "changeNote": "Corresponds to s.299 IPC; wording and illustrations retained."
+    },
+    "illustrations": [
+      "R hits S on the head with an iron rod, intending an injury that is likely to kill him. S dies. R has committed culpable homicide; whether it is murder depends on s.101.",
+      "T, knowing that U has a weak heart, deliberately gives him a severe shock that brings on a fatal attack. Under Expl. 1, T has caused U's death."
+    ],
+    "termRefs": [
+      "culpable-homicide",
+      "death",
+      "injury",
+      "act"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.100 — bare Act text verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-101",
+    "chapterId": "ch-06",
+    "number": "101",
+    "title": "Murder",
+    "bareActText": "Except in the cases hereinafter excepted, culpable homicide is murder,–– (a) if the act by which the death is caused is done with the intention of causing death; or (b) if the act by which the death is caused is done with the intention of causing such bodily injury as the offender knows to be likely to cause the death of the person to whom the harm is caused; or (c) if the act by which the death is caused is done with the intention of causing bodily injury to any person and the bodily injury intended to be inflicted is sufficient in the ordinary course of nature to cause death; or (d) if the person committing the act by which the death is caused, knows that it is so imminently dangerous that it must, in all probability, cause death, or such bodily injury as is likely to cause death, and commits such act without any excuse for incurring the risk of causing death or such injury as aforesaid. Illustrations. (a) A shoots Z with the intention of killing him. Z dies in consequence. A commits murder. (b) A, knowing that Z is labouring under such a disease that a blow is likely to cause his death, strikes him with the intention of causing bodily injury. Z dies in consequence of the blow. A is guilty of murder, although the blow might not have been sufficient in the ordinary course of nature to cause the death of a person in a sound state of health. But if A, not knowing that Z is labouring under any disease, gives him such a blow as would not in the ordinary course of nature kill a person in a sound state of health, here A, although he may intend to cause bodily injury, is not guilty of murder, if he did not intend to cause death, or such bodily injury as in the ordinary course of nature would cause death. (c) A intentionally gives Z a sword-cut or club-wound sufficient to cause the death of a man in the ordinary course of nature. Z dies in consequence. Here A is guilty of murder, although he may not have intended to cause Z’s death. (d) A without any excuse fires a loaded cannon into a crowd of persons and kills one of them. A is guilty of murder, although he may not have had a premeditated design to kill any particular individual. Exception 1.—Culpable homicide is not murder if the offender, whilst deprived of the power of self-control by grave and sudden provocation, causes the death of the person who gave the provocation or causes the death of any other person by mistake or accident: Provided that the provocation is not,–– (a) sought or voluntarily provoked by the offender as an excuse for killing or doing harm to any person; (b) given by anything done in obedience to the law, or by a public servant in the lawful exercise of the powers of such public servant; (c) given by anything done in the lawful exercise of the right of private defence. Explanation.—Whether the provocation was grave and sudden enough to prevent the offence from amounting to murder is a question of fact. Illustrations. (a) A, under the influence of passion excited by a provocation given by Z, intentionally kills Y, Z’s child. This is murder, in as much as the provocation was not given by the child, and the death of the child was not caused by accident or misfortune in doing an act caused by the provocation. (b) Y gives grave and sudden provocation to A.A, on this provocation, fires a pistol at Y, neither intending nor knowing himself to be likely to kill Z, who is near him, but out of sight. A kills Z. Here A has not committed murder, but merely culpable homicide. (c) A is lawfully arrested by Z, a bailiff. A is excited to sudden and violent passion by the arrest, and kills Z. This is murder, in as much as the provocation was given by a thing done by a public servant in the exercise of his powers. (d) A appears as a witness before Z, a Magistrate. Z says that he does not believe a word of A’s deposition, and that A has perjured himself. A is moved to sudden passion by these words, and kills Z. This is murder. (e) A attempts to pull Z’s nose. Z, in the exercise of the right of private defence, lays hold of A to prevent him from doing so. A is moved to sudden and violent passion in consequence, and kills Z. This is murder, in as much as the provocation was giving by a thing done in the exercise of the right of private defence. (f) Z strikes B. B is by this provocation excited to violent rage. A, a bystander, intending to take advantage of B’s rage, and to cause him to kill Z, puts a knife into B’s hand for that purpose. B kills Z with the knife. Here B may have committed only culpable homicide, but A is guilty of murder. Exception 2.—Culpable homicide is not murder if the offender in the exercise in good faith of the right of private defence of person or property, exceeds the power given to him by law and causes the death of the person against whom he is exercising such right of defence without premeditation, and without any intention of doing more harm than is necessary for the purpose of such defence. Illustration. Z attempts to horsewhip A, not in such a manner as to cause grievous hurt to A. A draws out a pistol. Z persists in the assault. A believing in good faith that he can by no other means prevent himself from being horsewhipped, shoots Z dead. A has not committed murder, but only culpable homicide. Exception 3.—Culpable homicide is not murder if the offender, being a public servant or aiding a public servant acting for the advancement of public justice, exceeds the powers given to him by law, and causes death by doing an act which he, in good faith, believes to be lawful and necessary for the due discharge of his duty as such public servant and without ill-will towards the person whose death is caused. Exception 4.—Culpable homicide is not murder if it is committed without premeditation in a sudden fight in the heat of passion upon a sudden quarrel and without the offender’s having taken undue advantage or acted in a cruel or unusual manner. Explanation.—It is immaterial in such cases which party offers the provocation or commits the first assault. Exception 5.—Culpable homicide is not murder when the person whose death is caused, being above the age of eighteen years, suffers death or takes the risk of death with his own consent. Illustration. A, by instigation, voluntarily causes Z, a child to commit suicide. Here, on account of Z’s youth, he was incapable of giving consent to his own death; A has therefore abetted murder.",
+    "plainMeaning": "Culpable homicide becomes murder in four situations: (a) the act is done with the intention of causing death; (b) with the intention of causing an injury the offender knows is likely to kill that particular person; (c) with the intention of causing an injury that is sufficient in the ordinary course of nature to cause death; or (d) with knowledge that the act is so imminently dangerous that it will in all probability cause death, done without any excuse for taking that risk. Five Exceptions reduce murder to culpable homicide not amounting to murder: grave and sudden provocation; exceeding the right of private defence in good faith; a public servant exceeding his powers in good faith; a sudden fight without premeditation; and the death of a person over eighteen who consented to the risk.",
+    "ingredients": [
+      "Culpable homicide (s.100) plus one of clauses (a)-(d)",
+      "(a) intention to cause death",
+      "(b) intention to cause an injury the offender knows is likely to cause the death of the particular victim",
+      "(c) intention to cause an injury sufficient in the ordinary course of nature to cause death",
+      "(d) knowledge that the act is so imminently dangerous it will in all probability cause death, without any excuse",
+      "Not covered by an Exception: 1 grave and sudden provocation; 2 excess of private defence; 3 public servant acting in good faith; 4 sudden fight; 5 consent of a victim over 18"
+    ],
+    "punishment": "Not applicable — this section is a definition; punishment is set by ss.103 and 104.",
+    "classification": null,
+    "ipcReference": {
+      "section": "300 IPC",
+      "changeNote": "Corresponds to s.300 IPC; wording, Exceptions and illustrations retained."
+    },
+    "illustrations": [
+      "V stabs W deep in the chest with a long knife. Even if V says he only meant to injure, the wound is sufficient in the ordinary course of nature to cause death, so it is murder under clause (c).",
+      "X and Y quarrel suddenly over a parking spot; in the heat of the fight, without planning and without taking unfair advantage, X strikes a blow that kills Y. Exception 4 may reduce the offence to culpable homicide not amounting to murder."
+    ],
+    "termRefs": [
+      "murder",
+      "culpable-homicide",
+      "grave-and-sudden-provocation",
+      "private-defence",
+      "good-faith",
+      "consent"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.101 — bare Act text verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-102",
+    "chapterId": "ch-06",
+    "number": "102",
+    "title": "Culpable homicide by causing death of person other than person whose death was intended",
+    "bareActText": "If a person, by doing anything which he intends or knows to be likely to cause death, commits culpable homicide by causing the death of any person, whose death he neither intends nor knows himself to be likely to cause, the culpable homicide committed by the offender is of the description of which it would have been if he had caused the death of the person whose death he intended or knew himself to be likely to cause.",
+    "plainMeaning": "This is the rule of 'transferred malice'. If a person does something intending or knowing it is likely to kill one person, but it kills another whom he did not intend or expect to kill, the offence is judged as if he had killed the person he meant to kill.",
+    "ingredients": [
+      "An act done with intention or knowledge that it is likely to cause death of a person",
+      "It causes the death of a different person whose death was neither intended nor foreseen",
+      "The offence takes the character it would have had if the intended person had died"
+    ],
+    "punishment": "Not applicable — this section is a definition; punishment is set by ss.103 and 105.",
+    "classification": null,
+    "ipcReference": {
+      "section": "301 IPC",
+      "changeNote": "Corresponds to s.301 IPC; wording retained."
+    },
+    "illustrations": [
+      "Z fires at his enemy A, intending to kill him, but misses and kills a passer-by B. Z is guilty of murder of B, as if he had killed A."
+    ],
+    "termRefs": [
+      "culpable-homicide",
+      "murder"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.102 — bare Act text verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-103",
+    "chapterId": "ch-06",
+    "number": "103",
+    "title": "Punishment for murder",
+    "bareActText": "(1) Whoever commits murder shall be punished with death or imprisonment for life, and shall also be liable to fine. (2) When a group of five or more persons acting in concert commits murder on the ground of race, caste or community, sex, place of birth, language, personal belief or any other similar ground each member of such group shall be punished with death or with imprisonment for life, and shall also be liable to fine.",
+    "plainMeaning": "Murder is punishable with death or life imprisonment, and fine. Sub-section (2), new in the BNS, deals with killings by a group — often called mob lynching: when five or more persons acting together commit murder on the ground of race, caste or community, sex, place of birth, language, personal belief or a similar ground, every member of the group is punishable with death or life imprisonment, and fine.",
+    "ingredients": [
+      "s.103(1) — commission of murder (s.101)",
+      "s.103(2) — a group of five or more persons acting in concert",
+      "commits murder on the ground of race, caste or community, sex, place of birth, language, personal belief or any similar ground",
+      "each member of the group is liable"
+    ],
+    "punishment": "(1) Death or imprisonment for life, and fine. (2) Each member: death or imprisonment for life, and fine.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Court of Session"
+    },
+    "ipcReference": {
+      "section": "302 IPC",
+      "changeNote": "s.103(1) corresponds to s.302 IPC. s.103(2) (murder by a group of five or more on grounds such as caste or religion) is new."
+    },
+    "illustrations": [
+      "A crowd of seven people beats a man to death after accusing him, because of his community, of a crime. Every member acting in concert is liable under s.103(2)."
+    ],
+    "termRefs": [
+      "murder",
+      "imprisonment-for-life",
+      "fine"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.103 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette) and compounding from BNSS s.359."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-104",
+    "chapterId": "ch-06",
+    "number": "104",
+    "title": "Punishment for murder by life-convict",
+    "bareActText": "Whoever, being under sentence of imprisonment for life, commits murder, shall be punished with death or with imprisonment for life, which shall mean the remainder of that person’s natural life.",
+    "plainMeaning": "A person who commits murder while already serving a sentence of life imprisonment is punishable with death, or with life imprisonment for the rest of his natural life. Unlike the old s.303 IPC, which made death compulsory and was struck down by the Supreme Court, this section leaves the court a choice.",
+    "ingredients": [
+      "The offender is under sentence of imprisonment for life",
+      "He commits murder"
+    ],
+    "punishment": "Death, or imprisonment for life meaning the remainder of the person's natural life.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Court of Session"
+    },
+    "ipcReference": {
+      "section": "303 IPC",
+      "changeNote": "Corresponds to s.303 IPC, which made death mandatory and was held unconstitutional (Mithu v. State of Punjab, 1983). The BNS allows life imprisonment for natural life as an alternative."
+    },
+    "illustrations": [
+      "B, serving a life sentence, kills a fellow prisoner in a planned attack. B is punishable under s.104 with death or life imprisonment for the rest of his life."
+    ],
+    "termRefs": [
+      "murder",
+      "imprisonment-for-life"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.104 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette) and compounding from BNSS s.359."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-105",
+    "chapterId": "ch-06",
+    "number": "105",
+    "title": "Punishment for culpable homicide not amounting to murder",
+    "bareActText": "Whoever commits culpable homicide not amounting to murder, shall be punished with imprisonment for life, or imprisonment of either description for a term which shall not be less than five years but which may extend to ten years, and shall also be liable to fine, if the act by which the death is caused is done with the intention of causing death, or of causing such bodily injury as is likely to cause death; or with imprisonment of either description for a term which may extend to ten years and with fine, if the act is done with the knowledge that it is likely to cause death, but without any intention to cause death, or to cause such bodily injury as is likely to cause death.",
+    "plainMeaning": "Culpable homicide that is not murder (because none of the clauses of s.101 applies, or because an Exception applies) is punished in two grades. If the act was done with the intention of causing death, or of causing an injury likely to cause death, the punishment is life imprisonment, or five to ten years, and fine. If it was done only with the knowledge that it was likely to cause death, without such intention, the punishment is up to ten years and fine.",
+    "ingredients": [
+      "Culpable homicide not amounting to murder",
+      "Part I — act done with intention of causing death, or of causing bodily injury likely to cause death",
+      "Part II — act done with knowledge that it is likely to cause death, without that intention"
+    ],
+    "punishment": "Part I: imprisonment for life, or imprisonment of either description for not less than 5 years, which may extend to 10 years, and fine. Part II: imprisonment of either description up to 10 years, and fine.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Court of Session"
+    },
+    "ipcReference": {
+      "section": "304 IPC",
+      "changeNote": "Corresponds to s.304 IPC; a minimum of five years is now prescribed for the first part."
+    },
+    "illustrations": [
+      "Provoked suddenly and gravely by insults to his mother, C strikes D with a stick, intending serious injury, and D dies. Exception 1 to s.101 applies, and C is punishable under the first part of s.105."
+    ],
+    "termRefs": [
+      "culpable-homicide",
+      "either-description",
+      "imprisonment-for-life"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.105 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette) and compounding from BNSS s.359."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-106",
+    "chapterId": "ch-06",
+    "number": "106",
+    "title": "Causing death by negligence",
+    "bareActText": "(1) Whoever causes death of any person by doing any rash or negligent act not amounting to culpable homicide, shall be punished with imprisonment of either description for a term which may extend to five years, and shall also be liable to fine; and if such act is done by a registered medical practitioner while performing medical procedure, he shall be punished with imprisonment of either description for a term which may extend to two years, and shall also be liable to fine. Explanation.— For the purposes of this sub-section, “registered medical practitioner” means a medical practitioner who possesses any medical qualification recognised under the National Medical Commission Act, 2019 and whose name has been entered in the National Medical Register or a State Medical Register under that Act. (2) Whoever causes death of any person by rash and negligent driving of vehicle not amounting to culpable homicide, and escapes without reporting it to a police officer or a Magistrate soon after the incident, shall be punished with imprisonment of either description of a term which may extend to ten years, and shall also be liable to fine.",
+    "plainMeaning": "Sub-section (1) punishes causing death by a rash or negligent act that does not amount to culpable homicide: up to five years and fine. If the act is done by a registered medical practitioner during a medical procedure, the maximum is two years and fine. Sub-section (2) is a harsher provision for 'hit-and-run': causing death by rash and negligent driving and escaping without reporting it to a police officer or Magistrate soon after, punishable with up to ten years and fine. Important: the Central Government's notification of 23 February 2024 brought the BNS into force from 1 July 2024 except s.106(2), which has not yet been brought into force; until it is, s.106(1) applies to such cases.",
+    "ingredients": [
+      "s.106(1) — causing death of a person",
+      "by a rash or negligent act",
+      "not amounting to culpable homicide",
+      "Lower maximum where the act is done by a registered medical practitioner while performing a medical procedure",
+      "s.106(2) — death by rash and negligent driving of a vehicle, and escaping without reporting to a police officer or Magistrate soon after (not yet in force)"
+    ],
+    "punishment": "(1) Imprisonment of either description up to 5 years, and fine; by a registered medical practitioner during a medical procedure, up to 2 years and fine. (2) Up to 10 years and fine — not yet in force.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "(1) Bailable; (2) Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Magistrate of the first class"
+    },
+    "ipcReference": {
+      "section": "304A IPC",
+      "changeNote": "s.106(1) corresponds to s.304A IPC, with the maximum raised from two to five years and a separate two-year limit for registered medical practitioners. s.106(2) is new but has not been brought into force."
+    },
+    "illustrations": [
+      "E drives a bus at high speed through a crowded market and knocks down a pedestrian, who dies. E did not intend or know that death was likely. E is liable under s.106(1).",
+      "A surgeon who carelessly leaves an instrument inside a patient, causing death, falls under the lower two-year limit for registered medical practitioners."
+    ],
+    "termRefs": [
+      "rash-and-negligent",
+      "death"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.106 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette) and compounding from BNSS s.359; commencement status per the Central Government notification of 23 Feb 2024 (s.106(2) not brought into force)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-107",
+    "chapterId": "ch-06",
+    "number": "107",
+    "title": "Abetment of suicide of child or person of unsound mind",
+    "bareActText": "If any child, any person of unsound mind, any delirious person or any person in a state of intoxication, commits suicide, whoever abets the commission of such suicide, shall be punished with death or imprisonment for life, or imprisonment for a term not exceeding ten years, and shall also be liable to fine.",
+    "plainMeaning": "Abetting the suicide of a child, a person of unsound mind, a delirious person or a person who is intoxicated is punishable with death, life imprisonment, or up to ten years, and fine. The higher punishment reflects that such persons cannot make a free and informed choice.",
+    "ingredients": [
+      "Suicide committed by a child, a person of unsound mind, a delirious person, or a person in a state of intoxication",
+      "The accused abetted the commission of that suicide (s.45)"
+    ],
+    "punishment": "Death, or imprisonment for life, or imprisonment for a term not exceeding 10 years, and fine.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Court of Session"
+    },
+    "ipcReference": {
+      "section": "305 IPC",
+      "changeNote": "Corresponds to s.305 IPC; 'child' replaces 'person under eighteen years of age'."
+    },
+    "illustrations": [
+      "F repeatedly encourages his fourteen-year-old nephew to end his life and gives him the means. The boy dies by suicide. F is liable under s.107."
+    ],
+    "termRefs": [
+      "abetment",
+      "suicide",
+      "child",
+      "unsoundness-of-mind"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.107 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette) and compounding from BNSS s.359."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-108",
+    "chapterId": "ch-06",
+    "number": "108",
+    "title": "Abetment of suicide",
+    "bareActText": "If any person commits suicide, whoever abets the commission of such suicide, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+    "plainMeaning": "Abetting the suicide of any person is punishable with up to ten years and fine. Abetment has the meaning in s.45 — instigation, conspiracy or intentional aid.",
+    "ingredients": [
+      "A person commits suicide",
+      "The accused abetted the commission of that suicide (instigation, conspiracy or intentional aid under s.45)"
+    ],
+    "punishment": "Imprisonment of either description up to 10 years, and fine.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Court of Session"
+    },
+    "ipcReference": {
+      "section": "306 IPC",
+      "changeNote": "Corresponds to s.306 IPC; wording retained."
+    },
+    "illustrations": [
+      "G harasses and humiliates his employee over months, telling her she should kill herself, and she does. If his conduct amounts to instigation, G is liable under s.108."
+    ],
+    "termRefs": [
+      "abetment",
+      "suicide"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.108 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette) and compounding from BNSS s.359."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-109",
+    "chapterId": "ch-06",
+    "number": "109",
+    "title": "Attempt to murder",
+    "bareActText": "(1) Whoever does any act with such intention or knowledge, and under such circumstances that, if he by that act caused death, he would be guilty of murder, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine; and if hurt is caused to any person by such act, the offender shall be liable either to imprisonment for life, or to such punishment as is hereinbefore mentioned. (2) When any person offending under sub-section (1) is under sentence of imprisonment for life, he may, if hurt is caused, be punished with death or with imprisonment for life, which shall mean the remainder of that person’s natural life. Illustrations. (a) A shoots at Z with intention to kill him, under such circumstances that, if death ensued, A would be guilty of murder. A is liable to punishment under this section. (b) A, with the intention of causing the death of a child of tender years, exposes it in a desert place. A has committed the offence defined by this section, though the death of the child does not ensue. (c) A, intending to murder Z, buys a gun and loads it. A has not yet committed the offence. A fires the gun at Z. He has committed the offence defined in this section, and, if by such firing he wounds Z, he is liable to the punishment provided by the latter part of sub-section (1). (d) A, intending to murder Z by poison, purchases poison and mixes the same with food which remains in A’s keeping; A has not yet committed the offence defined in this section. A places the food on Z’s table or delivers it to Z’s servants to place it on Z’s table. A has committed the offence defined in this section.",
+    "plainMeaning": "Doing any act with the intention or knowledge, and in circumstances, such that it would be murder if death resulted, is attempt to murder, punishable with up to ten years and fine; if hurt is caused, life imprisonment or that punishment. If the offender is already under a life sentence and causes hurt, he may be punished with death or life for the rest of his natural life. Preparation, such as buying a gun or mixing poison that stays with the offender, is not yet an attempt.",
+    "ingredients": [
+      "An act done with such intention or knowledge, and in such circumstances, that it would be murder if death were caused",
+      "Death does not result",
+      "Higher punishment if hurt is caused",
+      "s.109(2) — offender under life sentence who causes hurt"
+    ],
+    "punishment": "(1) Imprisonment of either description up to 10 years, and fine; if hurt is caused, imprisonment for life or as above. (2) Life convict causing hurt: death, or imprisonment for life meaning the remainder of natural life.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Court of Session"
+    },
+    "ipcReference": {
+      "section": "307 IPC",
+      "changeNote": "Corresponds to s.307 IPC; wording and illustrations retained."
+    },
+    "illustrations": [
+      "H fires a pistol at J's chest intending to kill him, but J survives with a wound. H is guilty of attempt to murder and, as hurt is caused, liable to life imprisonment."
+    ],
+    "termRefs": [
+      "attempt",
+      "murder",
+      "hurt"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.109 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette) and compounding from BNSS s.359."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-110",
+    "chapterId": "ch-06",
+    "number": "110",
+    "title": "Attempt to commit culpable homicide",
+    "bareActText": "Whoever does any act with such intention or knowledge and under such circumstances that, if he by that act caused death, he would be guilty of culpable homicide not amounting to murder, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both; and, if hurt is caused to any person by such act, shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both. Illustration. A, on grave and sudden provocation, fires a pistol at Z, under such circumstances that if he thereby caused death, he would be guilty of culpable homicide not amounting to murder. A has committed the offence defined in this section.",
+    "plainMeaning": "Doing any act with the intention or knowledge, and in circumstances, such that it would be culpable homicide not amounting to murder if death resulted, is punishable with up to three years, or fine, or both; if hurt is caused, up to seven years, or fine, or both.",
+    "ingredients": [
+      "An act done with such intention or knowledge, and in such circumstances, that it would be culpable homicide not amounting to murder if death were caused",
+      "Death does not result",
+      "Higher punishment if hurt is caused"
+    ],
+    "punishment": "Imprisonment of either description up to 3 years, or fine, or both; if hurt is caused, up to 7 years, or fine, or both.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Court of Session"
+    },
+    "ipcReference": {
+      "section": "308 IPC",
+      "changeNote": "Corresponds to s.308 IPC; wording retained."
+    },
+    "illustrations": [
+      "On grave and sudden provocation, K throws a heavy stone at L, who ducks and is only grazed. K is liable under s.110."
+    ],
+    "termRefs": [
+      "attempt",
+      "culpable-homicide",
+      "grave-and-sudden-provocation"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.110 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette) and compounding from BNSS s.359."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-111",
+    "chapterId": "ch-06",
+    "number": "111",
+    "title": "Organised crime",
+    "bareActText": "(1) Any continuing unlawful activity including kidnapping, robbery, vehicle theft, extortion, land grabbing, contract killing, economic offence, cyber-crimes, trafficking of persons, drugs, weapons or illicit goods or services, human trafficking for prostitution or ransom, by any person or a group of persons acting in concert, singly or jointly, either as a member of an organised crime syndicate or on behalf of such syndicate, by use of violence, threat of violence, intimidation, coercion, or by any other unlawful means to obtain direct or indirect material benefit including a financial benefit, shall constitute organised crime. Explanation.—For the purposes of this sub-section,–– (i) “organised crime syndicate” means a group of two or more persons who, acting either singly or jointly, as a syndicate or gang indulge in any continuing unlawful activity; (ii) “continuing unlawful activity” means an activity prohibited by law which is a cognizable offence punishable with imprisonment of three years or more, undertaken by any person, either singly or jointly, as a member of an organised crime syndicate or on behalf of such syndicate in respect of which more than one charge-sheets have been filed before a competent Court within the preceding period of ten years and that Court has taken cognizance of such offence, and includes economic offence; (iii) “economic offence” includes criminal breach of trust, forgery, counterfeiting of currency-notes, bank-notes and Government stamps, hawala transaction, mass-marketing fraud or running any scheme to defraud several persons or doing any act in any manner with a view to defraud any bank or financial institution or any other institution or organisation for obtaining monetary benefits in any form. (2) Whoever commits organised crime shall,— (a) if such offence has resulted in the death of any person, be punished with death or imprisonment for life, and shall also be liable to fine which shall not be less than ten lakh rupees; (b) in any other case, be punished with imprisonment for a term which shall not be less than five years but which may extend to imprisonment for life, and shall also be liable to fine which shall not be less than five lakh rupees. (3) Whoever abets, attempts, conspires or knowingly facilitates the commission of an organised crime, or otherwise engages in any act preparatory to an organised crime, shall be punished with imprisonment for a term which shall not be less than five years but which may extend to imprisonment for life, and shall also be liable to fine which shall not be less than five lakh rupees. (4) Any person who is a member of an organised crime syndicate shall be punished with imprisonment for a term which shall not be less than five years but which may extend to imprisonment for life, and shall also be liable to fine which shall not be less than five lakh rupees. (5) Whoever, intentionally, harbours or conceals any person who has committed the offence of an organised crime shall be punished with imprisonment for a term which shall not be less than three years but which may extend to imprisonment for life, and shall also be liable to fine which shall not be less than five lakh rupees: Provided that this sub-section shall not apply to any case in which the harbour or concealment is by the spouse of the offender. (6) Whoever possesses any property derived or obtained from the commission of an organised crime or proceeds of any organised crime or which has been acquired through the organised crime, shall be punishable with imprisonment for a term which shall not be less than three years but which may extend to imprisonment for life and shall also be liable to fine which shall not be less than two lakh rupees. (7) If any person on behalf of a member of an organised crime syndicate is, or at any time has been in possession of movable or immovable property which he cannot satisfactorily account for, shall be punishable with imprisonment for a term which shall not be less than three years but which may extend to imprisonment for ten years and shall also be liable to fine which shall not be less than one lakh rupees.",
+    "plainMeaning": "New in the BNS. Organised crime is any continuing unlawful activity — such as kidnapping, robbery, vehicle theft, extortion, land grabbing, contract killing, economic offences, cyber-crimes, or trafficking of persons, drugs, weapons or illicit goods — carried out by a member of, or on behalf of, an organised crime syndicate, using violence, threats, intimidation, coercion or other unlawful means to obtain a direct or indirect material benefit. A 'syndicate' is a group of two or more persons engaged in continuing unlawful activity. 'Continuing unlawful activity' means a cognizable offence punishable with three years or more in respect of which more than one charge-sheet has been filed in the preceding ten years and cognizance taken. The section also punishes abetting, attempting, conspiring or facilitating organised crime, membership of a syndicate, harbouring a member (except by a spouse), and holding property derived from organised crime.",
+    "ingredients": [
+      "Continuing unlawful activity (more than one charge-sheet in 10 years for cognizable offences punishable with 3+ years, cognizance taken)",
+      "By a member of, or on behalf of, an organised crime syndicate (2+ persons)",
+      "By violence, threat, intimidation, coercion or other unlawful means",
+      "To obtain direct or indirect material benefit, including financial benefit",
+      "Related offences: abetment/attempt/conspiracy/facilitation (3); membership (4); harbouring (5, spouse excepted); possessing proceeds (6); unexplained property on behalf of a member (7)"
+    ],
+    "punishment": "(2)(a) Resulting in death: death or imprisonment for life, and fine not less than ₹10 lakh. (2)(b) Other cases: not less than 5 years to imprisonment for life, and fine not less than ₹5 lakh. (3) and (4): not less than 5 years to life, and fine not less than ₹5 lakh. (5): not less than 3 years to life, and fine not less than ₹5 lakh. (6): not less than 3 years to life, and fine not less than ₹2 lakh. (7): not less than 3 years to 10 years, and fine not less than ₹1 lakh.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Court of Session"
+    },
+    "ipcReference": {
+      "section": "No IPC equivalent",
+      "changeNote": "New provision in the BNS; earlier dealt with only by State laws such as MCOCA."
+    },
+    "illustrations": [
+      "A gang of four has several charge-sheets over the last six years for extortion from traders. When it again threatens a shopkeeper for 'protection money', its members commit organised crime under s.111.",
+      "The wife of a gang member hides him from the police. The proviso to s.111(5) exempts her from liability for harbouring."
+    ],
+    "termRefs": [
+      "organised-crime",
+      "organised-crime-syndicate",
+      "continuing-unlawful-activity",
+      "economic-offence",
+      "harbour"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.111 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette) and compounding from BNSS s.359."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-112",
+    "chapterId": "ch-06",
+    "number": "112",
+    "title": "Petty organised crime",
+    "bareActText": "(1) Whoever, being a member of a group or gang, either singly or jointly, commits any act of theft, snatching, cheating, unauthorised selling of tickets, unauthorised betting or gambling, selling of public examination question papers or any other similar criminal act, is said to commit petty organised crime. Explanation.—For the purposes of this sub-section \"theft\" includes trick theft, theft from vehicle, dwelling house or business premises, cargo theft, pick pocketing, theft through card skimming, shoplifting and theft of Automated Teller Machine. (2) Whoever commits any petty organised crime shall be punished with imprisonment for a term which shall not be less than one year but which may extend to seven years, and shall also be liable to fine.",
+    "plainMeaning": "New in the BNS. A member of a group or gang who, alone or with others, commits theft, snatching, cheating, unauthorised selling of tickets, unauthorised betting or gambling, selling of public examination question papers or any similar criminal act commits petty organised crime. 'Theft' here includes trick theft, theft from vehicles, homes or businesses, cargo theft, pick-pocketing, card skimming, shoplifting and theft of an ATM. The punishment is one to seven years and fine.",
+    "ingredients": [
+      "The accused is a member of a group or gang",
+      "Acting singly or jointly",
+      "Commits theft, snatching, cheating, unauthorised ticket selling, unauthorised betting or gambling, selling public examination papers, or a similar criminal act"
+    ],
+    "punishment": "Imprisonment for not less than 1 year, which may extend to 7 years, and fine.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Magistrate of the first class"
+    },
+    "ipcReference": {
+      "section": "No IPC equivalent",
+      "changeNote": "New provision in the BNS."
+    },
+    "illustrations": [
+      "A gang of pick-pockets working the same railway station together is caught. Each member can be charged with petty organised crime under s.112.",
+      "A group that sells leaked question papers of a State recruitment examination commits petty organised crime."
+    ],
+    "termRefs": [
+      "petty-organised-crime"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.112 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette) and compounding from BNSS s.359."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-113",
+    "chapterId": "ch-06",
+    "number": "113",
+    "title": "Terrorist act",
+    "bareActText": "(1) Whoever does any act with the intent to threaten or likely to threaten the unity, integrity, sovereignty, security, or economic security of India or with the intent to strike terror or likely to strike terror in the people or any section of the people in India or in any foreign country,–– (a) by using bombs, dynamite or other explosive substance or inflammable substance or firearms or other lethal weapons or poisonous or noxious gases or other chemicals or by any other substance (whether biological, radioactive, nuclear or otherwise) of a hazardous nature or by any other means of whatever nature to cause or likely to cause,— (i) death of, or injury to, any person or persons; or (ii) loss of, or damage to, or destruction of, property; or (iii) disruption of any supplies or services essential to the life of the community in India or in any foreign country; or (iv) damage to, the monetary stability of India by way of production or smuggling or circulation of counterfeit Indian paper currency, coin or of any other material; or (v) damage or destruction of any property in India or in a foreign country used or intended to be used for the defence of India or in connection with any other purposes of the Government of India, any State Government or any of their agencies; or (b) overawes by means of criminal force or the show of criminal force or attempts to do so or causes death of any public functionary or attempts to cause death of any public functionary; or (c) detains, kidnaps or abducts any person and threatening to kill or injure such person or does any other act in order to compel the Government of India, any State Government or the Government of a foreign country or an international or inter-governmental organisation or any other person to do or abstain from doing any act, commit a terrorist act. Explanation.—For the purpose of this sub-section,— (a) “public functionary” means the constitutional authorities or any other functionary notified in the Official Gazette by the Central Government as public functionary; (b) “counterfeit Indian currency” means the counterfeit currency as may be declared after examination by an authorised or notified forensic authority that such currency imitates or compromises with the key security features of Indian currency. (2) Whoever commits a terrorist act shall,— (a) if such offence has resulted in the death of any person, be punished with death or imprisonment for life, and shall also be liable to fine; (b) in any other case, be punished with imprisonment for a term which shall not be less than five years but which may extend to imprisonment for life, and shall also be liable to fine. (3) Whoever conspires or attempts to commit, or advocates, abets, advises or incites, directly or knowingly facilitates the commission of a terrorist act or any act preparatory to the commission of a terrorist act, shall be punished with imprisonment for a term which shall not be less than five years but which may extend to imprisonment for life, and shall also be liable to fine. (4) Whoever organises or causes to be organised any camp or camps for imparting training in terrorist act, or recruits or causes to be recruited any person or persons for commission of a terrorist act, shall be punished with imprisonment for a term which shall not be less than five years but which may extend to imprisonment for life, and shall also be liable to fine. (5) Any person who is a member of an organisation which is involved in terrorist act, shall be punished with imprisonment for a term which may extend to imprisonment for life, and shall also be liable to fine. (6) Whoever voluntarily harbours or conceals, or attempts to harbour or conceal any person knowing that such person has committed a terrorist act shall be punished with imprisonment for a term which shall not be less than three years but which may extend to imprisonment for life, and shall also be liable to fine: Provided that this sub-section shall not apply to any case in which the harbour or concealment is by the spouse of the offender. (7) Whoever knowingly possesses any property derived or obtained from commission of any terrorist act or acquired through the commission of any terrorist act shall be punished with imprisonment for a term which may extend to imprisonment for life, and shall also be liable to fine. Explanation.—For the removal of doubts, it is hereby declared that the officer not below the rank of Superintendent of Police shall decide whether to register the case under this section or under the Unlawful Activities (Prevention) Act, 1967.",
+    "plainMeaning": "New in the BNS. A terrorist act is an act done with intent to threaten (or likely to threaten) the unity, integrity, sovereignty, security or economic security of India, or to strike terror in people in India or abroad, by means such as bombs, firearms, hazardous substances or any other means, causing or likely to cause death, injury, property damage, disruption of essential supplies, damage to monetary stability through counterfeit currency, or damage to defence property; or by overawing or killing a public functionary; or by kidnapping a person to compel a government or organisation. The section also punishes conspiracy, abetment, organising training camps, membership of a terrorist organisation, harbouring (except by a spouse) and possessing proceeds. An officer not below the rank of Superintendent of Police decides whether to register a case under this section or under the Unlawful Activities (Prevention) Act, 1967.",
+    "ingredients": [
+      "Intent to threaten (or likelihood of threatening) the unity, integrity, sovereignty, security or economic security of India, or to strike terror in the people",
+      "(a) Use of bombs, explosives, firearms, lethal weapons, poisonous gases, or hazardous biological, radioactive or nuclear substances causing or likely to cause death, injury, property damage, disruption of essential services, damage to monetary stability, or damage to defence property; or",
+      "(b) Overawing by criminal force, or killing or attempting to kill a public functionary; or",
+      "(c) Detaining, kidnapping or abducting a person with threats to compel a government or organisation",
+      "Related offences: conspiracy/abetment (3); training camps and recruitment (4); membership (5); harbouring (6, spouse excepted); proceeds (7)"
+    ],
+    "punishment": "(2)(a) Resulting in death: death or imprisonment for life, and fine. (2)(b) Other cases: not less than 5 years to imprisonment for life, and fine. (3) and (4): not less than 5 years to life, and fine. (5): up to imprisonment for life, and fine. (6): not less than 3 years to life, and fine. (7): up to imprisonment for life, and fine.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Court of Session"
+    },
+    "ipcReference": {
+      "section": "No IPC equivalent",
+      "changeNote": "New provision in the BNS; the definition draws on s.15 of the Unlawful Activities (Prevention) Act, 1967."
+    },
+    "illustrations": [
+      "A group plants an explosive at a railway station to create panic across the country. This is a terrorist act under s.113(1)(a); if anyone dies, s.113(2)(a) applies."
+    ],
+    "termRefs": [
+      "terrorist-act",
+      "criminal-force",
+      "harbour"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.113 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette) and compounding from BNSS s.359."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-114",
+    "chapterId": "ch-06",
+    "number": "114",
+    "title": "Hurt",
+    "bareActText": "Whoever causes bodily pain, disease or infirmity to any person is said to cause hurt.",
+    "plainMeaning": "Causing bodily pain, disease or infirmity to any person is 'hurt'. No visible injury is needed; causing pain is enough.",
+    "ingredients": [
+      "Causing bodily pain, disease or infirmity",
+      "To any person"
+    ],
+    "punishment": "Not applicable — this section is a definition; punishment is set by s.115.",
+    "classification": null,
+    "ipcReference": {
+      "section": "319 IPC",
+      "changeNote": "Corresponds to s.319 IPC; wording retained."
+    },
+    "illustrations": [
+      "M slaps N hard across the face, causing pain but leaving no mark. M has caused hurt."
+    ],
+    "termRefs": [
+      "hurt"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.114 — bare Act text verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-115",
+    "chapterId": "ch-06",
+    "number": "115",
+    "title": "Voluntarily causing hurt",
+    "bareActText": "(1) Whoever does any act with the intention of thereby causing hurt to any person, or with the knowledge that he is likely thereby to cause hurt to any person, and does thereby cause hurt to any person, is said “voluntarily to cause hurt”. (2) Whoever, except in the case provided for by sub-section (1) of section 122 voluntarily causes hurt, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine which may extend to ten thousand rupees, or with both.",
+    "plainMeaning": "A person 'voluntarily causes hurt' when he does an act intending to cause hurt, or knowing that it is likely to cause hurt, and it does cause hurt. Except where s.122(1) (grave and sudden provocation) applies, this is punishable with up to one year, or fine up to ₹10,000, or both. The person hurt may compound it.",
+    "ingredients": [
+      "An act done with intention of causing hurt, or knowledge that it is likely to cause hurt",
+      "Hurt is actually caused",
+      "Not a case of grave and sudden provocation under s.122(1)"
+    ],
+    "punishment": "Imprisonment of either description up to 1 year, or fine up to ₹10,000, or both.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Compoundable by the person to whom the hurt is caused (BNSS s.359(1))",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "321, 323 IPC",
+      "changeNote": "s.115(1) corresponds to s.321 and s.115(2) to s.323 IPC; the fine limit is raised from ₹1,000 to ₹10,000."
+    },
+    "illustrations": [
+      "In an argument, P punches Q in the stomach. P has voluntarily caused hurt and is liable under s.115(2)."
+    ],
+    "termRefs": [
+      "hurt",
+      "voluntarily"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.115 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette) and compounding from BNSS s.359."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-116",
+    "chapterId": "ch-06",
+    "number": "116",
+    "title": "Grievous hurt",
+    "bareActText": "The following kinds of hurt only are designated as “grievous”, namely:–– (a) Emasculation; (b) Permanent privation of the sight of either eye; (c) Permanent privation of the hearing of either ear; (d) Privation of any member or joint; (e) Destruction or permanent impairing of the powers of any member or joint; (f) Permanent disfiguration of the head or face; (g) Fracture or dislocation of a bone or tooth; (h) Any hurt which endangers life or which causes the sufferer to be during the space of fifteen days in severe bodily pain, or unable to follow his ordinary pursuits.",
+    "plainMeaning": "Only eight kinds of hurt are 'grievous': emasculation; permanent loss of sight of either eye; permanent loss of hearing of either ear; loss of any limb or joint; destruction or permanent impairment of the powers of any limb or joint; permanent disfigurement of the head or face; fracture or dislocation of a bone or tooth; and any hurt that endangers life or causes severe bodily pain, or inability to follow ordinary pursuits, for fifteen days.",
+    "ingredients": [
+      "(a) Emasculation",
+      "(b) Permanent loss of sight of either eye",
+      "(c) Permanent loss of hearing of either ear",
+      "(d) Loss of any member or joint",
+      "(e) Destruction or permanent impairment of the powers of any member or joint",
+      "(f) Permanent disfigurement of the head or face",
+      "(g) Fracture or dislocation of a bone or tooth",
+      "(h) Hurt endangering life, or causing severe bodily pain or inability to follow ordinary pursuits for 15 days"
+    ],
+    "punishment": "Not applicable — this section is a definition; punishment is set by s.117.",
+    "classification": null,
+    "ipcReference": {
+      "section": "320 IPC",
+      "changeNote": "Corresponds to s.320 IPC; the period in clause (h) is reduced from twenty days to fifteen days."
+    },
+    "illustrations": [
+      "R pushes S down a staircase and S's arm is fractured. A fracture is grievous hurt under clause (g)."
+    ],
+    "termRefs": [
+      "grievous-hurt",
+      "hurt"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.116 — bare Act text verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-117",
+    "chapterId": "ch-06",
+    "number": "117",
+    "title": "Voluntarily causing grievous hurt",
+    "bareActText": "(1) Whoever voluntarily causes hurt, if the hurt which he intends to cause or knows himself to be likely to cause is grievous hurt, and if the hurt which he causes is grievous hurt, is said “voluntarily to cause grievous hurt”. Explanation.—A person is not said voluntarily to cause grievous hurt except when he both causes grievous hurt and intends or knows himself to be likely to cause grievous hurt. But he is said voluntarily to cause grievous hurt, if intending or knowing himself to be likely to cause grievous hurt of one kind, he actually causes grievous hurt of another kind. Illustration. A, intending of knowing himself to be likely permanently to disfigure Z’s face, gives Z a blow which does not permanently disfigure Z’s face, but which causes Z to suffer severe bodily pain for the space of fifteen days. A has voluntarily caused grievous hurt. (2) Whoever, except in the case provided for by sub-section (2) of section 122, voluntarily causes grievous hurt, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine. (3) Whoever commits an offence under sub-section (1) and in the course of such commission causes any hurt to a person which causes that person to be in permanent disability or in persistent vegetative state, shall be punished with rigorous imprisonment for a term which shall not be less than ten years but which may extend to imprisonment for life, which shall mean imprisonment for the remainder of that person’s natural life. (4) When a group of five or more persons acting in concert, causes grievous hurt to a person on the ground of his race, caste or community, sex, place of birth, language, personal belief or any other similar ground, each member of such group shall be guilty of the offence of causing grievous hurt, and shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+    "plainMeaning": "A person voluntarily causes grievous hurt when he intends, or knows he is likely, to cause grievous hurt and does cause grievous hurt (even if of a different kind from the one intended). Except where s.122(2) (provocation) applies, it is punishable with up to seven years and fine. New sub-sections punish causing permanent disability or a persistent vegetative state (ten years to life for natural life), and grievous hurt by a group of five or more on grounds such as race, caste, sex or language (up to seven years and fine for each member).",
+    "ingredients": [
+      "s.117(1) — voluntarily causing hurt, where the hurt intended or known to be likely is grievous, and grievous hurt is caused",
+      "s.117(2) — punishment, except in a case of provocation under s.122(2)",
+      "s.117(3) — hurt causing permanent disability or a persistent vegetative state",
+      "s.117(4) — a group of five or more acting in concert, on the ground of race, caste or community, sex, place of birth, language, personal belief or similar ground"
+    ],
+    "punishment": "(2) Imprisonment of either description up to 7 years, and fine. (3) Rigorous imprisonment for not less than 10 years, which may extend to imprisonment for life meaning the remainder of natural life. (4) Each member: imprisonment of either description up to 7 years, and fine.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "(2) Bailable; (3) and (4) Non-bailable",
+      "compoundable": "(2) Compoundable with the permission of the Court, by the person to whom hurt is caused (BNSS s.359(2)); (3) and (4) Not compoundable",
+      "triableBy": "(2) Any Magistrate; (3) and (4) Court of Session"
+    },
+    "ipcReference": {
+      "section": "322, 325 IPC",
+      "changeNote": "s.117(1) corresponds to s.322 and s.117(2) to s.325 IPC. Sub-sections (3) and (4) are new."
+    },
+    "illustrations": [
+      "T hits U on the face with a brick, intending to break his jaw; U loses two teeth instead. T intended grievous hurt of one kind and caused grievous hurt of another, so he voluntarily caused grievous hurt."
+    ],
+    "termRefs": [
+      "grievous-hurt",
+      "voluntarily",
+      "persistent-vegetative-state"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.117 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette) and compounding from BNSS s.359."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-118",
+    "chapterId": "ch-06",
+    "number": "118",
+    "title": "Voluntarily causing hurt or grievous hurt by dangerous weapons or means",
+    "bareActText": "(1) Whoever, except in the case provided for by sub-section (1) of section 122, voluntarily causes hurt by means of any instrument for shooting, stabbing or cutting, or any instrument which, used as a weapon of offence, is likely to cause death, or by means of fire or any heated substance, or by means of any poison or any corrosive substance, or by means of any explosive substance, or by means of any substance which it is deleterious to the human body to inhale, to swallow, or to receive into the blood, or by means of any animal, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine which may extend to twenty thousand rupees, or with both. (2) Whoever, except in the case provided for by sub-section (2) of section 122, voluntarily causes grievous hurt by any means referred to in sub–section (1), shall be punished with imprisonment for life, or with imprisonment of either description for a term which shall not be less than one year but which may extend to ten years, and shall also be liable to fine.",
+    "plainMeaning": "Causing hurt by dangerous means — an instrument for shooting, stabbing or cutting, anything likely to cause death when used as a weapon, fire or a heated substance, poison, a corrosive or explosive substance, a harmful substance to inhale, swallow or receive into the blood, or an animal — is punishable with up to three years, or fine up to ₹20,000, or both. Causing grievous hurt by such means is punishable with life imprisonment, or one to ten years, and fine. Both are subject to the provocation provisions of s.122.",
+    "ingredients": [
+      "Voluntarily causing hurt (s.118(1)) or grievous hurt (s.118(2))",
+      "By a dangerous weapon or means: shooting, stabbing or cutting instrument; weapon likely to cause death; fire or heated substance; poison or corrosive; explosive; deleterious substance; or an animal",
+      "Not a case of grave and sudden provocation under s.122"
+    ],
+    "punishment": "(1) Imprisonment of either description up to 3 years, or fine up to ₹20,000, or both. (2) Imprisonment for life, or imprisonment of either description for not less than 1 year, which may extend to 10 years, and fine.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "(1) Any Magistrate; (2) Magistrate of the first class"
+    },
+    "ipcReference": {
+      "section": "324, 326 IPC",
+      "changeNote": "s.118(1) corresponds to s.324 and s.118(2) to s.326 IPC; a fine limit of ₹20,000 and a one-year minimum for grievous hurt are now specified."
+    },
+    "illustrations": [
+      "V slashes W's arm with a blade during a scuffle, causing a shallow cut. V is liable under s.118(1). Had the cut severed a tendon permanently, s.118(2) would apply."
+    ],
+    "termRefs": [
+      "hurt",
+      "grievous-hurt"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.118 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette) and compounding from BNSS s.359."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-119",
+    "chapterId": "ch-06",
+    "number": "119",
+    "title": "Voluntarily causing hurt or grievous hurt to extort property, or to constrain to an illegal act",
+    "bareActText": "(1) Whoever voluntarily causes hurt for the purpose of extorting from the sufferer, or from any person interested in the sufferer, any property or valuable security, or of constraining the sufferer or any person interested in such sufferer to do anything which is illegal or which may facilitate the commission of an offence, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine. (2) Whoever voluntarily causes grievous hurt for any purpose referred to in sub-section (1), shall be punished with imprisonment for life, or imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+    "plainMeaning": "Voluntarily causing hurt to extort property or valuable security from the victim or someone interested in him, or to force either of them to do something illegal or something that helps commit an offence, is punishable with up to ten years and fine. If grievous hurt is caused for such a purpose, the punishment is life imprisonment or up to ten years, and fine.",
+    "ingredients": [
+      "Voluntarily causing hurt (s.119(1)) or grievous hurt (s.119(2))",
+      "For the purpose of extorting property or valuable security from the sufferer or a person interested in him, or",
+      "Constraining either of them to do something illegal or that may facilitate an offence"
+    ],
+    "punishment": "(1) Imprisonment of either description up to 10 years, and fine. (2) Imprisonment for life, or imprisonment of either description up to 10 years, and fine.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "(1) Magistrate of the first class; (2) Court of Session"
+    },
+    "ipcReference": {
+      "section": "327, 329 IPC",
+      "changeNote": "Combines s.327 IPC (hurt) and s.329 IPC (grievous hurt)."
+    },
+    "illustrations": [
+      "X beats Y until he hands over the keys to his shop's safe. X is liable under s.119(1)."
+    ],
+    "termRefs": [
+      "hurt",
+      "grievous-hurt",
+      "valuable-security",
+      "illegal"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.119 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette) and compounding from BNSS s.359."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-120",
+    "chapterId": "ch-06",
+    "number": "120",
+    "title": "Voluntarily causing hurt or grievous hurt to extort confession, or to compel restoration of property",
+    "bareActText": "(1) Whoever voluntarily causes hurt for the purpose of extorting from the sufferer or from any person interested in the sufferer, any confession or any information which may lead to the detection of an offence or misconduct, or for the purpose of constraining the sufferer or any person interested in the sufferer to restore or to cause the restoration of any property or valuable security or to satisfy any claim or demand, or to give information which may lead to the restoration of any property or valuable security, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine. Illustrations. (a) A, a police officer, tortures Z in order to induce Z to confess that he committed a crime. A is guilty of an offence under this section. (b) A, a police officer, tortures B to induce him to point out where certain stolen property is deposited. A is guilty of an offence under this section. (c) A, a revenue officer, tortures Z in order to compel him to pay certain arrears of revenue due from Z. A is guilty of an offence under this section. (2) Whoever voluntarily causes grievous hurt for any purpose referred to in sub-section (1), shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+    "plainMeaning": "Voluntarily causing hurt to extract a confession or information that may lead to detecting an offence or misconduct, or to force the restoration of property, the satisfaction of a claim, or information leading to restoration of property, is punishable with up to seven years and fine; grievous hurt for such a purpose with up to ten years and fine. The illustrations show it applies to custodial torture by police or revenue officers.",
+    "ingredients": [
+      "Voluntarily causing hurt (s.120(1)) or grievous hurt (s.120(2))",
+      "To extort a confession or information that may lead to detection of an offence or misconduct, or",
+      "To compel restoration of property or valuable security, satisfaction of a claim, or information leading to restoration"
+    ],
+    "punishment": "(1) Imprisonment of either description up to 7 years, and fine. (2) Imprisonment of either description up to 10 years, and fine.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "(1) Bailable; (2) Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "(1) Magistrate of the first class; (2) Court of Session"
+    },
+    "ipcReference": {
+      "section": "330, 331 IPC",
+      "changeNote": "Combines s.330 IPC (hurt) and s.331 IPC (grievous hurt)."
+    },
+    "illustrations": [
+      "A police constable beats a suspect in the lock-up to make him confess to a theft. The constable is liable under s.120(1)."
+    ],
+    "termRefs": [
+      "hurt",
+      "grievous-hurt",
+      "valuable-security"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.120 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette) and compounding from BNSS s.359."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-121",
+    "chapterId": "ch-06",
+    "number": "121",
+    "title": "Voluntarily causing hurt or grievous hurt to deter public servant from his duty",
+    "bareActText": "(1) Whoever voluntarily causes hurt to any person being a public servant in the discharge of his duty as such public servant, or with intent to prevent or deter that person or any other public servant from discharging his duty as such public servant or in consequence of anything done or attempted to be done by that person in the lawful discharge of his duty as such public servant, shall be punished with imprisonment of either description for a term which may extend to five years, or with fine, or with both. (2) Whoever voluntarily causes grievous hurt to any person being a public servant in the discharge of his duty as such public servant, or with intent to prevent or deter that person or any other public servant from discharging his duty as such public servant or in consequence of anything done or attempted to be done by that person in the lawful discharge of his duty as such public servant, shall be punished with imprisonment of either description for a term which shall not be less than one year but which may extend to ten years, and shall also be liable to fine.",
+    "plainMeaning": "Voluntarily causing hurt to a public servant while he is discharging his duty, or to stop or deter him or another public servant from doing it, or in revenge for something done in the lawful discharge of duty, is punishable with up to five years, or fine, or both. Causing grievous hurt in such circumstances is punishable with one to ten years and fine.",
+    "ingredients": [
+      "The victim is a public servant",
+      "Hurt (s.121(1)) or grievous hurt (s.121(2)) voluntarily caused",
+      "While he discharges his duty, or to prevent or deter him or another public servant, or in consequence of his lawful discharge of duty"
+    ],
+    "punishment": "(1) Imprisonment of either description up to 5 years, or fine, or both. (2) Imprisonment of either description for not less than 1 year, which may extend to 10 years, and fine.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "(1) Magistrate of the first class; (2) Court of Session"
+    },
+    "ipcReference": {
+      "section": "332, 333 IPC",
+      "changeNote": "Combines s.332 IPC (hurt) and s.333 IPC (grievous hurt); a one-year minimum now applies to grievous hurt."
+    },
+    "illustrations": [
+      "Z punches a traffic constable who is issuing him a challan. Z is liable under s.121(1)."
+    ],
+    "termRefs": [
+      "public-servant",
+      "hurt",
+      "grievous-hurt"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.121 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette) and compounding from BNSS s.359."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-122",
+    "chapterId": "ch-06",
+    "number": "122",
+    "title": "Voluntarily causing hurt or grievous hurt on provocation",
+    "bareActText": "(1) Whoever voluntarily causes hurt on grave and sudden provocation, if he neither intends nor knows himself to be likely to cause hurt to any person other than the person who gave the provocation, shall be punished with imprisonment of either description for a term which may extend to one month, or with fine which may extend to five thousand rupees, or with both. (2) Whoever voluntarily causes grievous hurt on grave and sudden provocation, if he neither intends nor knows himself to be likely to cause grievous hurt to any person other than the person who gave the provocation, shall be punished with imprisonment of either description for a term which may extend to five years, or with fine which may extend to ten thousand rupees, or with both. Explanation.—This section is subject to the same proviso as Exception 1 of section 101.",
+    "plainMeaning": "Where hurt is voluntarily caused on grave and sudden provocation, and the offender neither intends nor knows he is likely to hurt anyone other than the person who provoked him, the punishment is much lighter: up to one month, or fine up to ₹5,000, or both. For grievous hurt in such circumstances, up to five years, or fine up to ₹10,000, or both. The provocation must meet the same conditions as Exception 1 to s.101 (it must not be sought, or given by lawful acts or private defence). Both are compoundable by the person hurt.",
+    "ingredients": [
+      "Hurt (s.122(1)) or grievous hurt (s.122(2)) voluntarily caused",
+      "On grave and sudden provocation",
+      "No intention or knowledge of hurting anyone other than the provoker",
+      "The provocation satisfies the proviso to Exception 1 of s.101"
+    ],
+    "punishment": "(1) Imprisonment of either description up to 1 month, or fine up to ₹5,000, or both. (2) Imprisonment of either description up to 5 years, or fine up to ₹10,000, or both.",
+    "classification": {
+      "cognizable": "(1) Non-cognizable; (2) Cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Compoundable by the person to whom the hurt is caused (BNSS s.359(1))",
+      "triableBy": "(1) Any Magistrate; (2) Magistrate of the first class"
+    },
+    "ipcReference": {
+      "section": "334, 335 IPC",
+      "changeNote": "Combines s.334 IPC (hurt) and s.335 IPC (grievous hurt); fine limits raised to ₹5,000 and ₹10,000."
+    },
+    "illustrations": [
+      "A spits in B's face in front of a crowd; B, enraged, immediately slaps A. B is liable only under s.122(1)."
+    ],
+    "termRefs": [
+      "grave-and-sudden-provocation",
+      "hurt",
+      "grievous-hurt"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.122 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette) and compounding from BNSS s.359."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-123",
+    "chapterId": "ch-06",
+    "number": "123",
+    "title": "Causing hurt by means of poison, etc., with intent to commit an offence",
+    "bareActText": "Whoever administers to or causes to be taken by any person any poison or any stupefying, intoxicating or unwholesome drug, or other thing with intent to cause hurt to such person, or with intent to commit or to facilitate the commission of an offence or knowing it to be likely that he will thereby cause hurt, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+    "plainMeaning": "Administering, or causing a person to take, any poison or stupefying, intoxicating or unwholesome drug or other thing, intending to cause him hurt, or to commit or facilitate an offence, or knowing that hurt is likely, is punishable with up to ten years and fine. Hurt need not actually result.",
+    "ingredients": [
+      "Administering, or causing to be taken, poison or a stupefying, intoxicating or unwholesome drug or thing",
+      "With intent to cause hurt, or to commit or facilitate an offence, or knowing hurt is likely"
+    ],
+    "punishment": "Imprisonment of either description up to 10 years, and fine.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Court of Session"
+    },
+    "ipcReference": {
+      "section": "328 IPC",
+      "changeNote": "Corresponds to s.328 IPC; wording retained."
+    },
+    "illustrations": [
+      "A fellow passenger offers C sweets laced with a sedative so that he can steal C's luggage on the train. He is liable under s.123."
+    ],
+    "termRefs": [
+      "hurt"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.123 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette) and compounding from BNSS s.359."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-124",
+    "chapterId": "ch-06",
+    "number": "124",
+    "title": "Voluntarily causing grievous hurt by use of acid, etc.",
+    "bareActText": "(1) Whoever causes permanent or partial damage or deformity to, or burns or maims or disfigures or disables, any part or parts of the body of a person or causes grievous hurt by throwing acid on or by administering acid to that person, or by using any other means with the intention of causing or with the knowledge that he is likely to cause such injury or hurt or causes a person to be in a permanent vegetative state shall be punished with imprisonment of either description for a term which shall not be less than ten years but which may extend to imprisonment for life, and with fine: Provided that such fine shall be just and reasonable to meet the medical expenses of the treatment of the victim: Provided further that any fine imposed under this sub-section shall be paid to the victim. (2) Whoever throws or attempts to throw acid on any person or attempts to administer acid to any person, or attempts to use any other means, with the intention of causing permanent or partial damage or deformity or burns or maiming or disfigurement or disability or grievous hurt to that person, shall be punished with imprisonment of either description for a term which shall not be less than five years but which may extend to seven years, and shall also be liable to fine. Explanation 1.—For the purposes of this section, “acid” includes any substance which has acidic or corrosive character or burning nature, that is capable of causing bodily injury leading to scars or disfigurement or temporary or permanent disability. Explanation 2.—For the purposes of this section, permanent or partial damage or deformity or permanent vegetative state shall not be required to be irreversible.",
+    "plainMeaning": "Sub-section (1) punishes causing permanent or partial damage, deformity, burns, maiming, disfigurement, disability or grievous hurt by throwing or administering acid or by any other means, or causing a permanent vegetative state, with intention or knowledge: ten years to life, and fine that must cover the victim's medical expenses and is paid to the victim. Sub-section (2) punishes throwing or attempting to throw acid, or attempting to administer it or use other means, with that intention: five to seven years and fine. 'Acid' includes any substance of acidic, corrosive or burning nature capable of causing scars, disfigurement or disability, and the damage need not be irreversible.",
+    "ingredients": [
+      "s.124(1) — permanent or partial damage, deformity, burns, maiming, disfigurement, disability or grievous hurt, or a permanent vegetative state",
+      "By throwing or administering acid, or by any other means",
+      "With intention or knowledge of causing such injury",
+      "s.124(2) — throwing or attempting to throw acid, or attempting to administer it or use other means, with that intention",
+      "'Acid' includes any acidic, corrosive or burning substance; damage need not be irreversible"
+    ],
+    "punishment": "(1) Imprisonment of either description for not less than 10 years, which may extend to imprisonment for life, and fine (paid to the victim, to meet medical expenses). (2) Imprisonment of either description for not less than 5 years, which may extend to 7 years, and fine.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Court of Session"
+    },
+    "ipcReference": {
+      "section": "326A, 326B IPC",
+      "changeNote": "Combines s.326A and s.326B IPC; 'any other means' and 'permanent vegetative state' are added."
+    },
+    "illustrations": [
+      "D throws acid on a woman who refused his proposal, burning her face. D is liable under s.124(1). If he throws it and misses, s.124(2) applies."
+    ],
+    "termRefs": [
+      "acid-attack",
+      "grievous-hurt",
+      "persistent-vegetative-state"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.124 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette) and compounding from BNSS s.359."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-125",
+    "chapterId": "ch-06",
+    "number": "125",
+    "title": "Act endangering life or personal safety of others",
+    "bareActText": "Whoever does any act so rashly or negligently as to endanger human life or the personal safety of others, shall be punished with imprisonment of either description for a term which may extend to three months or with fine which may extend to two thousand five hundred rupees, or with both, but— (a) where hurt is caused, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both; (b) where grievous hurt is caused, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine which may extend to ten thousand rupees, or with both.",
+    "plainMeaning": "Doing any act so rashly or negligently that it endangers human life or the personal safety of others is punishable with up to three months, or fine up to ₹2,500, or both — even if no one is hurt. If hurt is caused, up to six months, or fine up to ₹5,000, or both; if grievous hurt, up to three years, or fine up to ₹10,000, or both. The hurt and grievous hurt forms may be compounded by the injured person with the court's permission.",
+    "ingredients": [
+      "An act done rashly or negligently",
+      "That endangers human life or the personal safety of others",
+      "(a) Higher punishment where hurt is caused; (b) still higher where grievous hurt is caused"
+    ],
+    "punishment": "Imprisonment of either description up to 3 months, or fine up to ₹2,500, or both; (a) hurt caused: up to 6 months, or fine up to ₹5,000, or both; (b) grievous hurt caused: up to 3 years, or fine up to ₹10,000, or both.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Bailable",
+      "compoundable": "(a) and (b): Compoundable with the permission of the Court, by the person to whom hurt is caused (BNSS s.359(2)); main offence not compoundable",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "336, 337, 338 IPC",
+      "changeNote": "Combines ss.336, 337 and 338 IPC; the maximum where grievous hurt is caused is raised from two to three years, and fine limits are raised (₹250→₹2,500, ₹500→₹5,000, ₹1,000→₹10,000)."
+    },
+    "illustrations": [
+      "E fires celebratory gunshots into the air at a wedding, and a pellet injures a guest's hand. E is liable under s.125(a)."
+    ],
+    "termRefs": [
+      "rash-and-negligent",
+      "hurt",
+      "grievous-hurt"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.125 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette) and compounding from BNSS s.359."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-126",
+    "chapterId": "ch-06",
+    "number": "126",
+    "title": "Wrongful restraint",
+    "bareActText": "(1) Whoever voluntarily obstructs any person so as to prevent that person from proceeding in any direction in which that person has a right to proceed, is said wrongfully to restrain that person. Exception.—The obstruction of a private way over land or water which a person in good faith believes himself to have a lawful right to obstruct, is not an offence within the meaning of this section. Illustration. A obstructs a path along which Z has a right to pass, A not believing in good faith that he has a right to stop the path. Z is thereby prevented from passing. A wrongfully restrains Z. (2) Whoever wrongfully restrains any person shall be punished with simple imprisonment for a term which may extend to one month, or with fine which may extend to five thousand rupees, or with both.",
+    "plainMeaning": "Voluntarily obstructing a person so as to prevent him from going in a direction in which he has a right to go is wrongful restraint. Obstructing a private way over land or water that one in good faith believes one has a lawful right to obstruct is not an offence. The punishment is simple imprisonment up to one month, or fine up to ₹5,000, or both, and the person restrained may compound it.",
+    "ingredients": [
+      "Voluntary obstruction of a person",
+      "Preventing him from proceeding in a direction in which he has a right to proceed",
+      "Exception — good-faith belief in a lawful right to obstruct a private way"
+    ],
+    "punishment": "(2) Simple imprisonment up to 1 month, or fine up to ₹5,000, or both.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Compoundable by the person restrained (BNSS s.359(1))",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "339, 341 IPC",
+      "changeNote": "s.126(1) corresponds to s.339 and s.126(2) to s.341 IPC; the fine limit is raised from ₹500 to ₹5,000."
+    },
+    "illustrations": [
+      "F parks his truck across the only public lane to G's house and refuses to move it, so G cannot get home. F wrongfully restrains G."
+    ],
+    "termRefs": [
+      "wrongful-restraint",
+      "good-faith",
+      "voluntarily"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.126 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette) and compounding from BNSS s.359."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-127",
+    "chapterId": "ch-06",
+    "number": "127",
+    "title": "Wrongful confinement",
+    "bareActText": "(1) Whoever wrongfully restrains any person in such a manner as to prevent that person from proceedings beyond certain circumscribing limits, is said “wrongfully to confine” that person. Illustrations. (a) A causes Z to go within a walled space, and locks Z in. Z is thus prevented from proceeding in any direction beyond the circumscribing line of wall. A wrongfully confines Z. (b) A places men with firearms at the outlets of a building, and tells Z that they will fire at Z if Z attempts to leave the building. A wrongfully confines Z. (2) Whoever wrongfully confines any person shall be punished with imprisonment of either description for a term which may extend to one year, or with fine which may extend to five thousand rupees, or with both. (3) Whoever wrongfully confines any person for three days, or more, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine which may extend to ten thousand rupees, or with both. (4) Whoever wrongfully confines any person for ten days or more, shall be punished with imprisonment of either description for a term which may extend to five years, and shall also be liable to fine which shall not be less than ten thousand rupees. (5) Whoever keeps any person in wrongful confinement, knowing that a writ for the liberation of that person has been duly issued, shall be punished with imprisonment of either description for a term which may extend to two years in addition to any term of imprisonment to which he may be liable under any other section of this Chapter and shall also be liable to fine. (6) Whoever wrongfully confines any person in such manner as to indicate an intention that the confinement of such person may not be known to any person interested in the person so confined, or to any public servant, or that the place of such confinement may not be known to or discovered by any such person or public servant as hereinbefore mentioned, shall be punished with imprisonment of either description for a term which may extend to three years in addition to any other punishment to which he may be liable for such wrongful confinement and shall also be liable to fine. (7) Whoever wrongfully confines any person for the purpose of extorting from the person confined, or from any person interested in the person confined, any property or valuable security or of constraining the person confined or any person interested in such person to do anything illegal or to give any information which may facilitate the commission of an offence, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine. (8) Whoever wrongfully confines any person for the purpose of extorting from the person confined or any person interested in the person confined any confession or any information which may lead to the detection of an offence or misconduct, or for the purpose of constraining the person confined or any person interested in the person confined to restore or to cause the restoration of any property or valuable security or to satisfy any claim or demand, or to give information which may lead to the restoration of any property or valuable security, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine.",
+    "plainMeaning": "Wrongfully restraining a person so as to prevent him from going beyond certain limits is wrongful confinement. Physical walls are not needed; a threat that stops the person leaving is enough. The punishment rises with the length and purpose of the confinement: up to one year (basic); up to three years for three days or more; up to five years and fine of at least ₹10,000 for ten days or more; an extra two years if a writ for release has been issued; an extra three years if the confinement is kept secret; and up to three years and fine if the purpose is to extort property or a confession, or to force an illegal act or restoration of property.",
+    "ingredients": [
+      "Wrongful restraint of a person",
+      "So as to prevent him from proceeding beyond certain circumscribing limits",
+      "Aggravated forms: 3+ days (3); 10+ days (4); despite a writ for liberation (5); in secret (6); to extort property or constrain to an illegal act (7); to extort a confession or compel restoration of property (8)"
+    ],
+    "punishment": "(2) Up to 1 year, or fine up to ₹5,000, or both. (3) 3+ days: up to 3 years, or fine up to ₹10,000, or both. (4) 10+ days: up to 5 years, and fine not less than ₹10,000. (5) Despite a writ: up to 2 years in addition, and fine. (6) In secret: up to 3 years in addition, and fine. (7) and (8): up to 3 years, and fine. All imprisonment of either description.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "(4) Non-bailable; others Bailable",
+      "compoundable": "Compoundable by the person confined (BNSS s.359(1)) for (2), (3), (4) and (6); others not compoundable",
+      "triableBy": "(4), (5), (6) Magistrate of the first class; (2), (3), (7), (8) Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "340, 342-348 IPC",
+      "changeNote": "s.127(1) corresponds to s.340 and sub-sections (2)-(8) to ss.342-348 IPC; confinement for three or more days now carries up to three years (was two) and for ten or more days up to five years (was three), with fine limits specified."
+    },
+    "illustrations": [
+      "H locks his domestic worker in a room for a week so she cannot leave. H wrongfully confines her for three days or more, liable under s.127(3)."
+    ],
+    "termRefs": [
+      "wrongful-confinement",
+      "wrongful-restraint",
+      "valuable-security"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.127 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette) and compounding from BNSS s.359."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-128",
+    "chapterId": "ch-06",
+    "number": "128",
+    "title": "Force",
+    "bareActText": "A person is said to use force to another if he causes motion, change of motion, or cessation of motion to that other, or if he causes to any substance such motion, or change of motion, or cessation of motion as brings that substance into contact with any part of that other’s body, or with anything which that other is wearing or carrying, or with anything so situated that such contact affects that other’s sense of feeling: Provided that the person causing the motion, or change of motion, or cessation of motion, causes that motion, change of motion, or cessation of motion in one of the following three ways, namely:–– (a) by his own bodily power; (b) by disposing any substance in such a manner that the motion or change or cessation of motion takes place without any further act on his part, or on the part of any other person; (c) by inducing any animal to move, to change its motion, or to cease to move.",
+    "plainMeaning": "A person 'uses force' on another if he causes motion, change of motion or stopping of motion to that person, or causes a substance to move so that it touches the person's body, what he is wearing or carrying, or something close enough to affect his sense of feeling. The force must be caused by the person's own bodily power, by arranging a substance so it moves without further action, or by making an animal move.",
+    "ingredients": [
+      "Causing motion, change of motion or cessation of motion to a person, or to a substance so that it contacts the person, his clothes or things carried, or something affecting his sense of feeling",
+      "Caused (a) by one's own bodily power, (b) by disposing a substance so the motion follows without further act, or (c) by inducing an animal to move"
+    ],
+    "punishment": "Not applicable — this section is a definition; punishment is set by s.131.",
+    "classification": null,
+    "ipcReference": {
+      "section": "349 IPC",
+      "changeNote": "Corresponds to s.349 IPC; wording retained."
+    },
+    "illustrations": [
+      "J pours cold water over K's head. J has caused a substance to come into contact with K's body by his own bodily power, and so has used force."
+    ],
+    "termRefs": [
+      "force"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.128 — bare Act text verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-129",
+    "chapterId": "ch-06",
+    "number": "129",
+    "title": "Criminal force",
+    "bareActText": "Whoever intentionally uses force to any person, without that person’s consent, in order to the committing of any offence, or intending by the use of such force to cause, or knowing it to be likely that by the use of such force he will cause injury, fear or annoyance to the person to whom the force is used, is said to use criminal force to that other. Illustrations. (a) Z is sitting in a moored boat on a river. A unfastens the moorings, and thus intentionally causes the boat to drift down the stream. Here A intentionally causes motion to Z, and he does this by disposing substances in such a manner that the motion is produced without any other action on any person’s part. A has therefore intentionally used force to Z; and if he has done so without Z’s consent, in order to the committing of any offence, or intending or knowing it to be likely that this use of force will cause injury, fear or annoyance to Z, A has used criminal force to Z. (b) Z is riding in a chariot. A lashes Z’s horses, and thereby causes them to quicken their pace. Here A has caused change of motion to Z by inducing the animals to change their motion. A has therefore used force to Z; and if A has done this without Z’s consent, intending or knowing it to be likely that he may thereby injure, frighten or annoy Z,A has used criminal force to Z. (c) Z is riding in a palanquin. A, intending to rob Z, seizes the pole and stops the palanquin. Here A has caused cessation of motion to Z, and he has done this by his own bodily power. A has therefore used force to Z; and as A has acted thus intentionally, without Z’s consent, in order to the commission of an offence. A has used criminal force to Z. (d) A intentionally pushes against Z in the street. Here A has by his own bodily power moved his own person so as to bring it into contact with Z. He has therefore intentionally used force to Z; and if he has done so without Z’s consent, intending or knowing it to be likely that he may thereby injure, frighten or annoy Z, he has used criminal force to Z. (e) A throws a stone, intending or knowing it to be likely that the stone will be thus brought into contact with Z, or with Z’s clothes, or with something carried by Z, or that it will strike water and dash up the water against Z’s clothes or something carried by Z. Here, if the throwing of the stone produce the effect of causing any substance to come into contact with Z, or Z’s clothes, A has used force to Z, and if he did so without Z’s consent, intending thereby to injure, frighten or annoy Z, he has used criminal force to Z. (f) A intentionally pulls up a woman’s veil. Here A intentionally uses force to her, and if he does so without her consent intending or knowing it to be likely that he may thereby injure, frighten or annoy her, he has used criminal force to her. (g) Z is bathing. A pours into the bath water which he knows to be boiling. Here A intentionally by his own bodily power causes such motion in the boiling water as brings that water into contact with Z, or with other water so situated that such contact must affect Z’s sense of feeling; A has therefore intentionally used force to Z; and if he has done this without Z’s consent intending or knowing it to be likely that he may thereby cause injury, fear or annoyance to Z, A has used criminal force. (h) A incites a dog to spring upon Z, without Z’s consent. Here, if A intends to cause injury, fear or annoyance to Z, he uses criminal force to Z.",
+    "plainMeaning": "Force becomes 'criminal force' when it is used intentionally, without the person's consent, in order to commit an offence, or with intent or knowledge that it will cause injury, fear or annoyance to that person.",
+    "ingredients": [
+      "Intentional use of force (s.128) on a person",
+      "Without that person's consent",
+      "In order to commit an offence, or intending or knowing it likely to cause injury, fear or annoyance"
+    ],
+    "punishment": "Not applicable — this section is a definition; punishment is set by s.131.",
+    "classification": null,
+    "ipcReference": {
+      "section": "350 IPC",
+      "changeNote": "Corresponds to s.350 IPC; wording and illustrations retained."
+    },
+    "illustrations": [
+      "L deliberately shoves M off a bench to frighten him. L has used criminal force."
+    ],
+    "termRefs": [
+      "criminal-force",
+      "force",
+      "consent",
+      "injury"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.129 — bare Act text verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-130",
+    "chapterId": "ch-06",
+    "number": "130",
+    "title": "Assault",
+    "bareActText": "Whoever makes any gesture, or any preparation intending or knowing it to be likely that such gesture or preparation will cause any person present to apprehend that he who makes that gesture or preparation is about to use criminal force to that person, is said to commit an assault. Explanation.—Mere words do not amount to an assault. But the words which a person uses may give to his gestures or preparation such a meaning as may make those gestures or preparations amount to an assault. Illustrations. (a) A shakes his fist at Z, intending or knowing it to be likely that he may thereby cause Z to believe that A is about to strike Z. A has committed an assault. (b) A begins to unloose the muzzle of a ferocious dog, intending or knowing it to be likely that he may thereby cause Z to believe that he is about to cause the dog to attack Z. A has committed an assault upon Z. (c) A takes up a stick, saying to Z, “I will give you a beating”. Here, though the words used by A could in no case amount to an assault, and though the mere gesture, unaccompanied by any other circumstances, might not amount to an assault, the gesture explained by the words may amount to an assault.",
+    "plainMeaning": "Making a gesture or preparation, intending or knowing it is likely to make a person present believe that criminal force is about to be used on him, is assault. Words alone are not an assault, but words can give a gesture the meaning that makes it one. No actual contact is needed.",
+    "ingredients": [
+      "A gesture or preparation",
+      "Intending or knowing it likely to cause a person present to apprehend that criminal force is about to be used on him",
+      "Mere words are not assault, but can colour a gesture"
+    ],
+    "punishment": "Not applicable — this section is a definition; punishment is set by s.131.",
+    "classification": null,
+    "ipcReference": {
+      "section": "351 IPC",
+      "changeNote": "Corresponds to s.351 IPC; wording and illustrations retained."
+    },
+    "illustrations": [
+      "N raises a cricket bat over O's head and shouts that he will smash it. Even though he never swings it, N has committed assault."
+    ],
+    "termRefs": [
+      "assault",
+      "criminal-force"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.130 — bare Act text verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-131",
+    "chapterId": "ch-06",
+    "number": "131",
+    "title": "Punishment for assault or criminal force otherwise than on grave provocation",
+    "bareActText": "Whoever assaults or uses criminal force to any person otherwise than on grave and sudden provocation given by that person, shall be punished with imprisonment of either description for a term which may extend to three months, or with fine which may extend to one thousand rupees, or with both. Explanation 1.—Grave and sudden provocation will not mitigate the punishment for an offence under this section,— (a) if the provocation is sought or voluntarily provoked by the offender as an excuse for the offence; or (b) if the provocation is given by anything done in obedience to the law, or by a public servant, in the lawful exercise of the powers of such public servant; or (c) if the provocation is given by anything done in the lawful exercise of the right of private defence. Explanation 2.—Whether the provocation was grave and sudden enough to mitigate the offence, is a question of fact.",
+    "plainMeaning": "Assaulting or using criminal force on a person, other than on grave and sudden provocation given by that person, is punishable with up to three months, or fine up to ₹1,000, or both. Provocation does not reduce the punishment if it was sought by the offender, given by an act done in obedience to law or by a public servant acting lawfully, or given in lawful private defence. The victim may compound the offence.",
+    "ingredients": [
+      "Assault (s.130) or use of criminal force (s.129)",
+      "Not on grave and sudden provocation given by the victim",
+      "Provocation does not help if sought, given by lawful acts of a public servant, or given in private defence"
+    ],
+    "punishment": "Imprisonment of either description up to 3 months, or fine up to ₹1,000, or both.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Compoundable by the person assaulted or to whom criminal force is used (BNSS s.359(1))",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "352 IPC",
+      "changeNote": "Corresponds to s.352 IPC; the fine limit is raised from ₹500 to ₹1,000."
+    },
+    "illustrations": [
+      "P pushes Q roughly in a queue at a ticket counter. P is liable under s.131."
+    ],
+    "termRefs": [
+      "assault",
+      "criminal-force",
+      "grave-and-sudden-provocation"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.131 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette) and compounding from BNSS s.359."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-132",
+    "chapterId": "ch-06",
+    "number": "132",
+    "title": "Assault or criminal force to deter public servant from discharge of his duty",
+    "bareActText": "Whoever assaults or uses criminal force to any person being a public servant in the execution of his duty as such public servant, or with intent to prevent or deter that person from discharging his duty as such public servant, or in consequence of anything done or attempted to be done by such person in the lawful discharge of his duty as such public servant, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+    "plainMeaning": "Assaulting or using criminal force on a public servant while he is executing his duty, or to prevent or deter him from doing it, or because of something he did lawfully in his duty, is punishable with up to two years, or fine, or both.",
+    "ingredients": [
+      "The victim is a public servant",
+      "Assault or criminal force",
+      "While executing his duty, or to prevent or deter him, or in consequence of lawful discharge of duty"
+    ],
+    "punishment": "Imprisonment of either description up to 2 years, or fine, or both.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "353 IPC",
+      "changeNote": "Corresponds to s.353 IPC; wording retained."
+    },
+    "illustrations": [
+      "R grabs the collar of an electricity inspector who has come to disconnect an illegal connection and pushes him out. R is liable under s.132."
+    ],
+    "termRefs": [
+      "public-servant",
+      "assault",
+      "criminal-force"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.132 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette) and compounding from BNSS s.359."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-133",
+    "chapterId": "ch-06",
+    "number": "133",
+    "title": "Assault or criminal force with intent to dishonour person, otherwise than on grave provocation",
+    "bareActText": "Whoever assaults or uses criminal force to any person, intending thereby to dishonour that person, otherwise than on grave and sudden provocation given by that person, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+    "plainMeaning": "Assaulting or using criminal force on a person intending to dishonour him, other than on grave and sudden provocation given by him, is punishable with up to two years, or fine, or both. The victim may compound it.",
+    "ingredients": [
+      "Assault or criminal force",
+      "With intent to dishonour the person",
+      "Not on grave and sudden provocation given by that person"
+    ],
+    "punishment": "Imprisonment of either description up to 2 years, or fine, or both.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Compoundable by the person assaulted or to whom criminal force is used (BNSS s.359(1))",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "355 IPC",
+      "changeNote": "Corresponds to s.355 IPC; wording retained."
+    },
+    "illustrations": [
+      "S knocks the turban off T's head in public to humiliate him. S is liable under s.133."
+    ],
+    "termRefs": [
+      "assault",
+      "criminal-force"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.133 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette) and compounding from BNSS s.359."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-134",
+    "chapterId": "ch-06",
+    "number": "134",
+    "title": "Assault or criminal force in attempt to commit theft of property carried by a person",
+    "bareActText": "Whoever assaults or uses criminal force to any person, in attempting to commit theft on any property which that person is then wearing or carrying, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+    "plainMeaning": "Assaulting or using criminal force on a person while attempting to steal property he is wearing or carrying is punishable with up to two years, or fine, or both.",
+    "ingredients": [
+      "Assault or criminal force",
+      "In attempting to commit theft",
+      "Of property the person is then wearing or carrying"
+    ],
+    "punishment": "Imprisonment of either description up to 2 years, or fine, or both.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "356 IPC",
+      "changeNote": "Corresponds to s.356 IPC; wording retained."
+    },
+    "illustrations": [
+      "U grabs V's arm and tries to pull off her wristwatch, but she breaks free. U is liable under s.134."
+    ],
+    "termRefs": [
+      "assault",
+      "criminal-force",
+      "attempt"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.134 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette) and compounding from BNSS s.359."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-135",
+    "chapterId": "ch-06",
+    "number": "135",
+    "title": "Assault or criminal force in attempt wrongfully to confine a person",
+    "bareActText": "Whoever assaults or uses criminal force to any person, in attempting wrongfully to confine that person, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine which may extend to five thousand rupees, or with both.",
+    "plainMeaning": "Assaulting or using criminal force on a person while attempting to wrongfully confine him is punishable with up to one year, or fine up to ₹5,000, or both. The victim may compound it with the court's permission.",
+    "ingredients": [
+      "Assault or criminal force",
+      "In attempting wrongfully to confine that person"
+    ],
+    "punishment": "Imprisonment of either description up to 1 year, or fine up to ₹5,000, or both.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Compoundable with the permission of the Court, by the person assaulted or to whom the force was used (BNSS s.359(2))",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "357 IPC",
+      "changeNote": "Corresponds to s.357 IPC; the fine limit is raised from ₹1,000 to ₹5,000."
+    },
+    "illustrations": [
+      "W tries to drag X into a room to lock him in, but X escapes. W is liable under s.135."
+    ],
+    "termRefs": [
+      "assault",
+      "criminal-force",
+      "wrongful-confinement"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.135 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette) and compounding from BNSS s.359."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-136",
+    "chapterId": "ch-06",
+    "number": "136",
+    "title": "Assault or criminal force on grave provocation",
+    "bareActText": "Whoever assaults or uses criminal force to any person on grave and sudden provocation given by that person, shall be punished with simple imprisonment for a term which may extend to one month, or with fine which may extend to one thousand rupees, or with both. Explanation.—This section is subject to the same Explanation as section 131.",
+    "plainMeaning": "Assaulting or using criminal force on a person on grave and sudden provocation given by that person is punishable with simple imprisonment up to one month, or fine up to ₹1,000, or both — subject to the same conditions on provocation as s.131. The victim may compound it.",
+    "ingredients": [
+      "Assault or criminal force",
+      "On grave and sudden provocation given by that person",
+      "Subject to the Explanation to s.131"
+    ],
+    "punishment": "Simple imprisonment up to 1 month, or fine up to ₹1,000, or both.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Compoundable by the person assaulted or to whom criminal force is used (BNSS s.359(1))",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "358 IPC",
+      "changeNote": "Corresponds to s.358 IPC; the fine limit is raised from ₹200 to ₹1,000."
+    },
+    "illustrations": [
+      "Y publicly abuses Z's family in filthy language, and Z at once pushes him away. Z is liable only under s.136."
+    ],
+    "termRefs": [
+      "assault",
+      "criminal-force",
+      "grave-and-sudden-provocation",
+      "simple-imprisonment"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.136 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette) and compounding from BNSS s.359."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-137",
+    "chapterId": "ch-06",
+    "number": "137",
+    "title": "Kidnapping",
+    "bareActText": "(1) Kidnapping is of two kinds: kidnapping from India, and kidnapping from lawful guardianship–– (a) whoever conveys any person beyond the limits of India without the consent of that person, or of some person legally authorised to consent on behalf of that person, is said to kidnap that person from India; (b) whoever takes or entices any child or any person of unsound mind, out of the keeping of the lawful guardian of such child or person of unsound mind, without the consent of such guardian, is said to kidnap such child or person from lawful guardianship. Explanation.––The words “lawful guardian” in this clause include any person lawfully entrusted with the care or custody of such child or other person. Exception.—This clause does not extend to the act of any person who in good faith believes himself to be the father of an illegitimate child, or who in good faith believes himself to be entitled to the lawful custody of such child, unless such act is committed for an immoral or unlawful purpose. (2) Whoever kidnaps any person from India or from lawful guardianship shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+    "plainMeaning": "Kidnapping is of two kinds. Kidnapping from India is taking a person beyond the limits of India without his consent or that of someone legally authorised to consent for him. Kidnapping from lawful guardianship is taking or enticing a child or a person of unsound mind out of the keeping of the lawful guardian without the guardian's consent. 'Lawful guardian' includes anyone lawfully entrusted with the child's care or custody. The child's own consent is irrelevant. A person who in good faith believes himself to be the father of an illegitimate child, or entitled to its lawful custody, is excepted unless he acts for an immoral or unlawful purpose. The punishment is up to seven years and fine.",
+    "ingredients": [
+      "(a) From India — conveying a person beyond India without his consent or that of a person legally authorised to consent",
+      "(b) From lawful guardianship — taking or enticing a child or person of unsound mind",
+      "out of the keeping of the lawful guardian",
+      "without the guardian's consent",
+      "Exception — good-faith belief in paternity of an illegitimate child or in a right to custody, unless for an immoral or unlawful purpose"
+    ],
+    "punishment": "(2) Imprisonment of either description up to 7 years, and fine.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Magistrate of the first class"
+    },
+    "ipcReference": {
+      "section": "359, 360, 361, 363 IPC",
+      "changeNote": "Combines ss.359-361 and 363 IPC. The age limits of sixteen (boys) and eighteen (girls) are replaced by 'child' (under eighteen, s.2)."
+    },
+    "illustrations": [
+      "A takes his neighbour's twelve-year-old daughter to another town with her agreement but without her parents' consent. A has kidnapped her from lawful guardianship; her consent does not matter."
+    ],
+    "termRefs": [
+      "kidnapping",
+      "lawful-guardian",
+      "child",
+      "unsoundness-of-mind",
+      "good-faith"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.137 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette) and compounding from BNSS s.359."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-138",
+    "chapterId": "ch-06",
+    "number": "138",
+    "title": "Abduction",
+    "bareActText": "Whoever by force compels, or by any deceitful means induces, any person to go from any place, is said to abduct that person.",
+    "plainMeaning": "A person abducts another if he compels him by force, or induces him by deceitful means, to go from any place. Abduction is not punishable by itself; it becomes an offence when combined with a purpose listed in other sections (for example ss.87 and 140).",
+    "ingredients": [
+      "Compelling a person by force, or inducing him by deceitful means",
+      "To go from any place"
+    ],
+    "punishment": "Not applicable — this section is a definition; punishment is set by the relevant aggravated section (e.g. ss.87, 140).",
+    "classification": null,
+    "ipcReference": {
+      "section": "362 IPC",
+      "changeNote": "Corresponds to s.362 IPC; wording retained."
+    },
+    "illustrations": [
+      "B tells C, an adult, that her mother is in hospital and drives her to a remote farmhouse. B has abducted C by deceitful means; the offence depends on B's purpose."
+    ],
+    "termRefs": [
+      "abduction",
+      "force",
+      "deceitful-means"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.138 — bare Act text verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-139",
+    "chapterId": "ch-06",
+    "number": "139",
+    "title": "Kidnapping or maiming a child for purposes of begging",
+    "bareActText": "(1) Whoever kidnaps any child or, not being the lawful guardian of such child, obtains the custody of the child, in order that such child may be employed or used for the purposes of begging shall be punishable with rigorous imprisonment for a term which shall not be less than ten years but which may extend to imprisonment for life, and shall also be liable to fine. (2) Whoever maims any child in order that such child may be employed or used for the purposes of begging shall be punishable with imprisonment which shall not be less than twenty years, but which may extend to life which shall mean imprisonment for the remainder of that person’s natural life, and with fine. (3) Where any person, not being the lawful guardian of a child employs or uses such child for the purposes of begging, it shall be presumed, unless the contrary is proved, that he kidnapped or otherwise obtained the custody of such child in order that such child might be employed or used for the purposes of begging. (4) In this section “begging” means— (i) soliciting or receiving alms in a public place, whether under the pretence of singing, dancing, fortune telling, performing tricks or selling articles or otherwise; (ii) entering on any private premises for the purpose of soliciting or receiving alms; (iii) exposing or exhibiting, with the object of obtaining or extorting alms, any sore, wound, injury, deformity or disease, whether of himself or of any other person or of an animal; (iv) using such child as an exhibit for the purpose of soliciting or receiving alms.",
+    "plainMeaning": "Kidnapping a child, or obtaining custody of a child without being the lawful guardian, so that the child may be used for begging, is punishable with ten years to life and fine. Maiming a child for that purpose is punishable with twenty years to life for the rest of natural life, and fine. If a person who is not the lawful guardian uses a child for begging, it is presumed, unless proved otherwise, that he kidnapped or obtained the child for that purpose. 'Begging' includes soliciting alms in public under any pretence, entering private premises to solicit alms, exhibiting wounds or deformities to obtain alms, and using a child as an exhibit to seek alms.",
+    "ingredients": [
+      "s.139(1) — kidnapping a child, or obtaining custody without being the lawful guardian, so the child may be employed or used for begging",
+      "s.139(2) — maiming a child so the child may be used for begging",
+      "s.139(3) — presumption against a non-guardian who uses a child for begging",
+      "s.139(4) — definition of begging"
+    ],
+    "punishment": "(1) Rigorous imprisonment for not less than 10 years, which may extend to imprisonment for life, and fine. (2) Imprisonment for not less than 20 years, which may extend to life meaning the remainder of natural life, and fine.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "(1) Magistrate of the first class; (2) Court of Session"
+    },
+    "ipcReference": {
+      "section": "363A IPC",
+      "changeNote": "Corresponds to s.363A IPC; minimum punishments of ten and twenty years are now prescribed."
+    },
+    "illustrations": [
+      "D keeps a toddler who is not his own and makes her sit beside him at a traffic signal to collect money. D is presumed to have obtained the child for begging under s.139(3)."
+    ],
+    "termRefs": [
+      "begging",
+      "kidnapping",
+      "child",
+      "lawful-guardian"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.139 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette) and compounding from BNSS s.359."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-140",
+    "chapterId": "ch-06",
+    "number": "140",
+    "title": "Kidnapping or abducting in order to murder or for ransom, etc.",
+    "bareActText": "(1) Whoever kidnaps or abducts any person in order that such person may be murdered or may be so disposed of as to be put in danger of being murdered, shall be punished with imprisonment for life or rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine. Illustrations. (a) A kidnaps Z from India, intending or knowing it to be likely that Z may be sacrificed to an idol. A has committed the offence defined in this section. (b) A forcibly carries or entices B away from his home in order that B may be murdered. A has committed the offence defined in this section. (2) Whoever kidnaps or abducts any person or keeps a person in detention after such kidnapping or abduction, and threatens to cause death or hurt to such person, or by his conduct gives rise to a reasonable apprehension that such person may be put to death or hurt, or causes hurt or death to such person in order to compel the Government or any foreign State or international inter-governmental organisation or any other person to do or abstain from doing any act or to pay a ransom, shall be punishable with death, or imprisonment for life, and shall also be liable to fine. (3) Whoever kidnaps or abducts any person with intent to cause that person to be secretly and wrongfully confined, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine. (4) Whoever kidnaps or abducts any person in order that such person may be subjected, or may be so disposed of as to be put in danger of being subjected to grievous hurt, or slavery, or to the unnatural lust of any person, or knowing it to be likely that such person will be so subjected or disposed of, shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+    "plainMeaning": "This section punishes kidnapping or abduction for serious purposes: (1) so that the person may be murdered or put in danger of being murdered — life imprisonment or rigorous imprisonment up to ten years, and fine; (2) kidnapping or abducting, or detaining after it, and threatening death or hurt, or causing hurt or death, to compel a government, foreign State, international organisation or any person to do or not do something or to pay a ransom — death or life imprisonment, and fine; (3) intending the person to be secretly and wrongfully confined — up to seven years and fine; and (4) so that the person may be subjected to grievous hurt, slavery or the unnatural lust of any person — up to ten years and fine.",
+    "ingredients": [
+      "Kidnapping or abduction of any person, with one of these purposes:",
+      "(1) that the person may be murdered or put in danger of being murdered",
+      "(2) with threats of death or hurt (or causing hurt or death) to compel a government or any person to act, or to pay a ransom",
+      "(3) that the person may be secretly and wrongfully confined",
+      "(4) that the person may be subjected to grievous hurt, slavery or unnatural lust"
+    ],
+    "punishment": "(1) Imprisonment for life, or rigorous imprisonment up to 10 years, and fine. (2) Death, or imprisonment for life, and fine. (3) Imprisonment of either description up to 7 years, and fine. (4) Imprisonment of either description up to 10 years, and fine.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "(3) Magistrate of the first class; (1), (2), (4) Court of Session"
+    },
+    "ipcReference": {
+      "section": "364, 364A, 365, 367 IPC",
+      "changeNote": "Combines ss.364, 364A, 365 and 367 IPC into one section."
+    },
+    "illustrations": [
+      "E kidnaps a businessman's son and phones the father demanding ₹50 lakh, threatening to kill the boy. E is liable under s.140(2)."
+    ],
+    "termRefs": [
+      "kidnapping",
+      "abduction",
+      "wrongful-confinement",
+      "slavery",
+      "grievous-hurt"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.140 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette) and compounding from BNSS s.359."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-141",
+    "chapterId": "ch-06",
+    "number": "141",
+    "title": "Importation of girl or boy from foreign country",
+    "bareActText": "Whoever imports into India from any country outside India any girl under the age of twenty-one years or any boy under the age of eighteen years with intent that girl or boy may be, or knowing it to be likely that girl or boy will be, forced or seduced to illicit intercourse with another person, shall be punishable with imprisonment which may extend to ten years and shall also be liable to fine.",
+    "plainMeaning": "Importing into India from abroad a girl under twenty-one or a boy under eighteen, intending or knowing it likely that the child will be forced or seduced into illicit intercourse with another person, is punishable with up to ten years and fine.",
+    "ingredients": [
+      "Importing into India from any country outside India",
+      "A girl under 21 years, or a boy under 18 years",
+      "Intending, or knowing it likely, that the girl or boy will be forced or seduced to illicit intercourse with another person"
+    ],
+    "punishment": "Imprisonment which may extend to 10 years, and fine.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Court of Session"
+    },
+    "ipcReference": {
+      "section": "366B IPC",
+      "changeNote": "Corresponds to s.366B IPC, which covered only girls; boys under eighteen are now included."
+    },
+    "illustrations": [
+      "F brings a nineteen-year-old woman from a neighbouring country on a promise of a job, intending to sell her to a brothel. F is liable under s.141."
+    ],
+    "termRefs": [
+      "illicit-intercourse"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.141 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette) and compounding from BNSS s.359."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-142",
+    "chapterId": "ch-06",
+    "number": "142",
+    "title": "Wrongfully concealing or keeping in confinement, kidnapped or abducted person",
+    "bareActText": "Whoever, knowing that any person has been kidnapped or has been abducted, wrongfully conceals or confines such person, shall be punished in the same manner as if he had kidnapped or abducted such person with the same intention or knowledge, or for the same purpose as that with or for which he conceals or detains such person in confinement.",
+    "plainMeaning": "A person who, knowing that someone has been kidnapped or abducted, wrongfully conceals or confines that person, is punished as if he had himself kidnapped or abducted that person with the same intention, knowledge or purpose.",
+    "ingredients": [
+      "Knowledge that a person has been kidnapped or abducted",
+      "Wrongfully concealing or confining that person"
+    ],
+    "punishment": "Same as for kidnapping or abduction with the same intention, knowledge or purpose.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Court by which the kidnapping or abduction is triable"
+    },
+    "ipcReference": {
+      "section": "368 IPC",
+      "changeNote": "Corresponds to s.368 IPC; wording retained."
+    },
+    "illustrations": [
+      "G knowingly lets kidnappers keep a child hidden in his godown while they negotiate a ransom. G is punished as if he had kidnapped the child for ransom."
+    ],
+    "termRefs": [
+      "kidnapping",
+      "abduction",
+      "wrongful-confinement"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.142 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette) and compounding from BNSS s.359."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-143",
+    "chapterId": "ch-06",
+    "number": "143",
+    "title": "Trafficking of person",
+    "bareActText": "(1) Whoever, for the purpose of exploitation recruits, transports, harbours, transfers, or receives a person or persons, by— (a) using threats; or (b) using force, or any other form of coercion; or (c) by abduction; or (d) by practising fraud, or deception; or (e) by abuse of power; or (f) by inducement, including the giving or receiving of payments or benefits, in order to achieve the consent of any person having control over the person recruited, transported, harboured, transferred or received, commits the offence of trafficking. Explanation 1.—The expression “exploitation” shall include any act of physical exploitation or any form of sexual exploitation, slavery or practices similar to slavery, servitude, beggary or forced removal of organs. Explanation 2.—The consent of the victim is immaterial in determination of the offence of trafficking. (2) Whoever commits the offence of trafficking shall be punished with rigorous imprisonment for a term which shall not be less than seven years, but which may extend to ten years, and shall also be liable to fine. (3) Where the offence involves the trafficking of more than one person, it shall be punishable with rigorous imprisonment for a term which shall not be less than ten years but which may extend to imprisonment for life, and shall also be liable to fine. (4) Where the offence involves the trafficking of a child, it shall be punishable with rigorous imprisonment for a term which shall not be less than ten years, but which may extend to imprisonment for life, and shall also be liable to fine. (5) Where the offence involves the trafficking of more than one child, it shall be punishable with rigorous imprisonment for a term which shall not be less than fourteen years, but which may extend to imprisonment for life, and shall also be liable to fine. (6) If a person is convicted of the offence of trafficking of a child on more than one occasion, then such person shall be punished with imprisonment for life, which shall mean imprisonment for the remainder of that person’s natural life, and shall also be liable to fine. (7) When a public servant or a police officer is involved in the trafficking of any person then, such public servant or police officer shall be punished with imprisonment for life, which shall mean imprisonment for the remainder of that person’s natural life, and shall also be liable to fine.",
+    "plainMeaning": "Trafficking is recruiting, transporting, harbouring, transferring or receiving a person for the purpose of exploitation, by threats, force or other coercion, abduction, fraud or deception, abuse of power, or inducement (including payments to someone who controls the victim). 'Exploitation' includes physical or sexual exploitation, slavery or similar practices, servitude, beggary and forced removal of organs. The victim's consent is immaterial. Punishment increases with the number and age of victims: seven to ten years for one person; ten years to life for more than one person or for a child; fourteen years to life for more than one child; and life for the rest of natural life for a repeat child-trafficker or for a public servant or police officer involved in trafficking.",
+    "ingredients": [
+      "Recruiting, transporting, harbouring, transferring or receiving a person",
+      "For the purpose of exploitation (physical or sexual exploitation, slavery, servitude, beggary, forced organ removal)",
+      "By threats, force or coercion, abduction, fraud or deception, abuse of power, or inducement",
+      "Consent of the victim is immaterial",
+      "Aggravated: more than one person; a child; more than one child; repeat child-trafficking; public servant or police officer involved"
+    ],
+    "punishment": "(2) Rigorous imprisonment for not less than 7 years, which may extend to 10 years, and fine. (3) More than one person: RI not less than 10 years to imprisonment for life, and fine. (4) A child: RI not less than 10 years to life, and fine. (5) More than one child: RI not less than 14 years to life, and fine. (6) Repeat conviction for child trafficking: imprisonment for life (remainder of natural life), and fine. (7) Public servant or police officer: imprisonment for life (remainder of natural life), and fine.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Court of Session"
+    },
+    "ipcReference": {
+      "section": "370 IPC",
+      "changeNote": "Corresponds to s.370 IPC; 'beggary' is added to the meaning of exploitation."
+    },
+    "illustrations": [
+      "H recruits young women from villages with false promises of hotel jobs and delivers them to a person who forces them into sex work. H commits trafficking of more than one person under s.143(3)."
+    ],
+    "termRefs": [
+      "trafficking",
+      "exploitation",
+      "abduction",
+      "harbour",
+      "child"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.143 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette) and compounding from BNSS s.359."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-144",
+    "chapterId": "ch-06",
+    "number": "144",
+    "title": "Exploitation of a trafficked person",
+    "bareActText": "(1) Whoever, knowingly or having reason to believe that a child has been trafficked, engages such child for sexual exploitation in any manner, shall be punished with rigorous imprisonment for a term which shall not be less than five years, but which may extend to ten years, and shall also be liable to fine. (2) Whoever, knowingly or having reason to believe that a person has been trafficked, engages such person for sexual exploitation in any manner, shall be punished with rigorous imprisonment for a term which shall not be less than three years, but which may extend to seven years, and shall also be liable to fine.",
+    "plainMeaning": "Engaging a child for sexual exploitation in any manner, knowing or having reason to believe that the child has been trafficked, is punishable with rigorous imprisonment of five to ten years and fine. Doing the same with any trafficked person is punishable with rigorous imprisonment of three to seven years and fine.",
+    "ingredients": [
+      "Knowledge or reason to believe that the person has been trafficked",
+      "Engaging that person for sexual exploitation in any manner",
+      "s.144(1) — the person is a child; s.144(2) — any person"
+    ],
+    "punishment": "(1) Child: rigorous imprisonment for not less than 5 years, which may extend to 10 years, and fine. (2) Any person: rigorous imprisonment for not less than 3 years, which may extend to 7 years, and fine.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Court of Session"
+    },
+    "ipcReference": {
+      "section": "370A IPC",
+      "changeNote": "Corresponds to s.370A IPC; 'minor' is replaced by 'child'."
+    },
+    "illustrations": [
+      "J visits a brothel knowing that the girl offered to him, aged fifteen, was brought there by traffickers. J is liable under s.144(1)."
+    ],
+    "termRefs": [
+      "trafficking",
+      "exploitation",
+      "child",
+      "reason-to-believe"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.144 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette) and compounding from BNSS s.359."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-145",
+    "chapterId": "ch-06",
+    "number": "145",
+    "title": "Habitual dealing in slaves",
+    "bareActText": "Whoever habitually imports, exports, removes, buys, sells, traffics or deals in slaves, shall be punished with imprisonment for life, or with imprisonment of either description for a term not exceeding ten years, and shall also be liable to fine.",
+    "plainMeaning": "Habitually importing, exporting, removing, buying, selling, trafficking or dealing in slaves is punishable with life imprisonment, or up to ten years, and fine.",
+    "ingredients": [
+      "Habitually",
+      "Importing, exporting, removing, buying, selling, trafficking or dealing in slaves"
+    ],
+    "punishment": "Imprisonment for life, or imprisonment of either description not exceeding 10 years, and fine.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Court of Session"
+    },
+    "ipcReference": {
+      "section": "371 IPC",
+      "changeNote": "Corresponds to s.371 IPC; wording retained."
+    },
+    "illustrations": [
+      "K runs a business of repeatedly buying bonded persons in one State and selling them to landowners elsewhere, treating them as property. K habitually deals in slaves."
+    ],
+    "termRefs": [
+      "slavery"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.145 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette) and compounding from BNSS s.359."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-146",
+    "chapterId": "ch-06",
+    "number": "146",
+    "title": "Unlawful compulsory labour",
+    "bareActText": "Whoever unlawfully compels any person to labour against the will of that person, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both.",
+    "plainMeaning": "Unlawfully compelling any person to work against his will is punishable with up to one year, or fine, or both.",
+    "ingredients": [
+      "Compelling a person to labour",
+      "Against that person's will",
+      "Unlawfully"
+    ],
+    "punishment": "Imprisonment of either description up to 1 year, or fine, or both.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "374 IPC",
+      "changeNote": "Corresponds to s.374 IPC; wording retained."
+    },
+    "illustrations": [
+      "L threatens to beat a labourer unless he works in L's field for free every Sunday. L is liable under s.146."
+    ],
+    "termRefs": [
+      "forced-labour"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.146 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette) and compounding from BNSS s.359."
+    },
+    "lastVerified": "2026-09-29"
+  }
+]
