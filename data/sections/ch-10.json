@@ -1,0 +1,405 @@
+[
+  {
+    "id": "s-178",
+    "chapterId": "ch-10",
+    "number": "178",
+    "title": "Counterfeiting coin, Government stamps, currency-notes or bank-notes",
+    "bareActText": "Whoever counterfeits, or knowingly performs any part of the process of counterfeiting, any coin, stamp issued by Government for the purpose of revenue, currency-note or bank-note, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine. Explanation.—For the purposes of this Chapter,— (1) the expression “bank-note” means a promissory note or engagement for the payment of money to bearer on demand issued by any person carrying on the business of banking in any part of the world, or issued by or under the authority of any State or Sovereign Power, and intended to be used as equivalent to, or as a substitute for money; (2) “coin” shall have the same meaning as assigned to it in section 2 of the Coinage Act, 2011 and includes metal used for the time being as money and is stamped and issued by or under the authority of any State or Sovereign Power intended to be so used; (3) a person commits the offence of “counterfeiting Government stamp” who counterfeits by causing a genuine stamp of one denomination to appear like a genuine stamp of a different denomination; (4) a person commits the offence of counterfeiting coin who intending to practise deception, or knowing it to be likely that deception will thereby be practised, causes a genuine coin to appear like a different coin; and (5) the offence of “counterfeiting coin” includes diminishing the weight or alteration of the composition, or alteration of the appearance of the coin.",
+    "plainMeaning": "Counterfeiting — or knowingly carrying out any part of the process of counterfeiting — any coin, revenue stamp issued by Government, currency-note or bank-note is punishable with life imprisonment or up to ten years, and fine. The Explanation defines key terms for the whole Chapter: a 'bank-note' is a promissory note payable to bearer on demand, issued by a banker anywhere in the world or by a State, and meant to be used as money; 'coin' has the meaning in the Coinage Act, 2011 and includes stamped metal issued as money by a State. Making a genuine stamp or coin look like one of a different value is counterfeiting, and counterfeiting coin also includes reducing its weight or altering its composition or appearance.",
+    "ingredients": [
+      "Counterfeiting, or knowingly performing any part of the process of counterfeiting",
+      "Any coin, Government stamp, currency-note or bank-note (stamp: issued by Government for revenue)",
+      "Includes making a genuine stamp or coin appear to be of a different denomination (Expl. (3), (4))",
+      "Counterfeiting coin includes diminishing weight or altering composition or appearance (Expl. (5))"
+    ],
+    "punishment": "Imprisonment for life, or imprisonment of either description up to 10 years, and fine.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Court of Session"
+    },
+    "ipcReference": {
+      "section": "230-232, 255, 489A IPC",
+      "changeNote": "Brings together the IPC offences of counterfeiting coin (ss.231-232), Government stamps (s.255) and currency or bank-notes (s.489A) in one section; 'coin' is now defined by reference to the Coinage Act, 2011."
+    },
+    "illustrations": [
+      "A runs a printing unit in his basement that produces fake ₹500 notes. A is guilty of counterfeiting currency-notes under s.178.",
+      "B scrapes metal off genuine coins to collect and sell the metal, reducing their weight. Under Expl. (5), B counterfeits coin."
+    ],
+    "termRefs": [
+      "counterfeit",
+      "bank-note",
+      "coin",
+      "revenue-stamp"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.178 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-179",
+    "chapterId": "ch-10",
+    "number": "179",
+    "title": "Using as genuine, forged or counterfeit coin, Government stamp, currency-notes or bank-notes",
+    "bareActText": "Whoever imports or exports, or sells or delivers to, or buys or receives from, any other person, or otherwise traffics or uses as genuine, any forged or counterfeit coin, stamp, currency-note or bank-note, knowing or having reason to believe the same to be forged or counterfeit, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+    "plainMeaning": "Importing, exporting, selling, delivering, buying, receiving, otherwise trafficking in, or using as genuine any forged or counterfeit coin, Government stamp, currency-note or bank-note, knowing or having reason to believe it is forged or counterfeit, is punishable with life imprisonment or up to ten years, and fine. The person need not have made it; dealing in it or passing it off is enough.",
+    "ingredients": [
+      "Importing, exporting, selling, delivering, buying, receiving, trafficking in, or using as genuine",
+      "Any forged or counterfeit coin, Government stamp, currency-note or bank-note",
+      "Knowing or having reason to believe it to be forged or counterfeit"
+    ],
+    "punishment": "Imprisonment for life, or imprisonment of either description up to 10 years, and fine.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Court of Session"
+    },
+    "ipcReference": {
+      "section": "489B, 239-241, 258-260 IPC",
+      "changeNote": "Combines the IPC offences of delivering, using and trafficking in counterfeit coin, stamps and notes (including s.489B)."
+    },
+    "illustrations": [
+      "C buys a bundle of fake ₹200 notes at a discount and uses them at a busy market. C is liable under s.179.",
+      "D brings counterfeit notes into India across the border to hand to distributors. D imports them and is liable under s.179."
+    ],
+    "termRefs": [
+      "counterfeit",
+      "reason-to-believe",
+      "bank-note"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.179 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-180",
+    "chapterId": "ch-10",
+    "number": "180",
+    "title": "Possession of forged or counterfeit coin, Government stamp, currency-notes or bank-notes",
+    "bareActText": "Whoever has in his possession any forged or counterfeit coin, stamp, currency-note or bank-note, knowing or having reason to believe the same to be forged or counterfeit and intending to use the same as genuine or that it may be used as genuine, shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both. Explanation.—If a person establishes the possession of the forged or counterfeit coin, stamp, currency-note or bank-note to be from a lawful source, it shall not constitute an offence under this section.",
+    "plainMeaning": "Possessing any forged or counterfeit coin, Government stamp, currency-note or bank-note, knowing or having reason to believe it is forged or counterfeit, and intending to use it as genuine or that it may be used as genuine, is punishable with up to seven years, or fine, or both. A new Explanation says that if the person proves the possession came from a lawful source, there is no offence.",
+    "ingredients": [
+      "Possession of a forged or counterfeit coin, Government stamp, currency-note or bank-note",
+      "Knowing or having reason to believe it to be forged or counterfeit",
+      "Intending to use it, or that it may be used, as genuine",
+      "Explanation — no offence if possession is established to be from a lawful source"
+    ],
+    "punishment": "Imprisonment of either description up to 7 years, or fine, or both.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Court of Session"
+    },
+    "ipcReference": {
+      "section": "489C, 242-243, 259 IPC",
+      "changeNote": "Combines the IPC possession offences (including s.489C). The Explanation on possession from a lawful source is new."
+    },
+    "illustrations": [
+      "E keeps fifty fake ₹100 notes in his shop drawer to hand out as change to customers. E is liable under s.180.",
+      "A bank cashier who holds a seized fake note in order to hand it to the police has no intention to use it as genuine, and the possession is from a lawful source. No offence."
+    ],
+    "termRefs": [
+      "counterfeit",
+      "reason-to-believe"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.180 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-181",
+    "chapterId": "ch-10",
+    "number": "181",
+    "title": "Making or possessing instruments or materials for forging or counterfeiting coin, Government stamp, currency-notes or bank-notes",
+    "bareActText": "Whoever makes or mends, or performs any part of the process of making or mending, or buys or sells or disposes of, or has in his possession, any machinery, die, or instrument or material for the purpose of being used, or knowing or having reason to believe that it is intended to be used, for forging or counterfeiting any coin, stamp issued by Government for the purpose of revenue, currency-note or bank-note, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+    "plainMeaning": "Making, mending, buying, selling, disposing of or possessing any machinery, die, instrument or material for use — or known to be intended for use — in forging or counterfeiting any coin, Government stamp, currency-note or bank-note, is punishable with life imprisonment or up to ten years, and fine. The law punishes the tools of counterfeiting even before any fake is made.",
+    "ingredients": [
+      "Making or mending, or any part of the process; or buying, selling, disposing of, or possessing",
+      "Any machinery, die, instrument or material",
+      "For the purpose of, or known or believed to be intended for, forging or counterfeiting any coin, Government stamp, currency-note or bank-note"
+    ],
+    "punishment": "Imprisonment for life, or imprisonment of either description up to 10 years, and fine.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Court of Session"
+    },
+    "ipcReference": {
+      "section": "489D, 233-235, 256-257 IPC",
+      "changeNote": "Combines the IPC offences relating to instruments for counterfeiting coin, stamps and notes (including s.489D)."
+    },
+    "illustrations": [
+      "Police find in F's workshop a printing plate carrying the design of a ₹2,000 note and special security-thread paper. F is liable under s.181 even though no notes have been printed."
+    ],
+    "termRefs": [
+      "counterfeit"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.181 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-182",
+    "chapterId": "ch-10",
+    "number": "182",
+    "title": "Making or using documents resembling currency-notes or bank-notes",
+    "bareActText": "(1) Whoever makes, or causes to be made, or uses for any purpose whatsoever, or delivers to any person, any document purporting to be, or in any way resembling, or so nearly resembling as to be calculated to deceive, any currency-note or bank-note shall be punished with fine which may extend to three hundred rupees. (2) If any person, whose name appears on a document the making of which is an offence under sub-section (1), refuses, without lawful excuse, to disclose to a police officer on being so required the name and address of the person by whom it was printed or otherwise made, he shall be punished with fine which may extend to six hundred rupees. (3) Where the name of any person appears on any document in respect of which any person is charged with an offence under sub-section (1) or on any other document used or distributed in connection with that document it may, until the contrary is proved, be presumed that the person caused the document to be made.",
+    "plainMeaning": "Making, causing to be made, using for any purpose, or delivering any document that looks like, or so closely resembles as to be likely to deceive, a currency-note or bank-note is punishable with fine up to ₹300 — even without any intent to cheat. If a person whose name appears on such a document refuses, without lawful excuse, to tell the police who printed it, he is punishable with fine up to ₹600. A person whose name appears on the document is presumed, until the contrary is proved, to have caused it to be made.",
+    "ingredients": [
+      "(1) Making, causing to be made, using or delivering a document purporting to be, or resembling, or so nearly resembling as to be calculated to deceive, a currency-note or bank-note",
+      "(2) A person named on the document refusing, without lawful excuse, to disclose the printer's name and address to the police",
+      "(3) Presumption that a person named on the document caused it to be made"
+    ],
+    "punishment": "(1) Fine up to ₹300. (2) Fine up to ₹600.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "489E IPC",
+      "changeNote": "Corresponds to s.489E IPC; fines are increased to ₹300 and ₹600."
+    },
+    "illustrations": [
+      "A shop prints advertising leaflets designed exactly like ₹500 notes with its name on the back. This is an offence under s.182(1), and the shop owner, whose name appears, is presumed to have had them made."
+    ],
+    "termRefs": [
+      "bank-note"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.182 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-183",
+    "chapterId": "ch-10",
+    "number": "183",
+    "title": "Effacing writing from substance bearing Government stamp, or removing from document a stamp used for it, with intent to cause loss to Government",
+    "bareActText": "Whoever, fraudulently or with intent to cause loss to the Government, removes or effaces from any substance, bearing any stamp issued by Government for the purpose of revenue, any writing or document for which such stamp has been used, or removes from any writing or document a stamp which has been used for such writing or document, in order that such stamp may be used for a different writing or document, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+    "plainMeaning": "Fraudulently, or intending to cause loss to the Government, removing or rubbing out the writing from a paper bearing a revenue stamp, or removing a used stamp from a document, so that the stamp can be used again for a different document, is punishable with up to three years, or fine, or both.",
+    "ingredients": [
+      "Fraudulently or with intent to cause loss to the Government",
+      "Removing or effacing writing from a substance bearing a revenue stamp, or removing a used stamp from a document",
+      "So that the stamp may be used for a different writing or document"
+    ],
+    "punishment": "Imprisonment of either description up to 3 years, or fine, or both.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Magistrate of the first class"
+    },
+    "ipcReference": {
+      "section": "261 IPC",
+      "changeNote": "Corresponds to s.261 IPC."
+    },
+    "illustrations": [
+      "G chemically washes the writing off a used stamp paper so that it can be sold again as fresh stamp paper. G is liable under s.183."
+    ],
+    "termRefs": [
+      "revenue-stamp",
+      "fraudulently"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.183 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-184",
+    "chapterId": "ch-10",
+    "number": "184",
+    "title": "Using Government stamp known to have been before used",
+    "bareActText": "Whoever, fraudulently or with intent to cause loss to the Government, uses for any purpose a stamp issued by Government for the purpose of revenue, which he knows to have been before used, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+    "plainMeaning": "Fraudulently, or intending to cause loss to the Government, using for any purpose a revenue stamp that one knows has been used before is punishable with up to two years, or fine, or both.",
+    "ingredients": [
+      "Fraudulently or with intent to cause loss to the Government",
+      "Using a revenue stamp for any purpose",
+      "Knowing it has been used before"
+    ],
+    "punishment": "Imprisonment of either description up to 2 years, or fine, or both.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "262 IPC",
+      "changeNote": "Corresponds to s.262 IPC."
+    },
+    "illustrations": [
+      "H peels a revenue stamp off an old receipt and sticks it on a new agreement to avoid buying a fresh one. H is liable under s.184."
+    ],
+    "termRefs": [
+      "revenue-stamp",
+      "fraudulently"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.184 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-185",
+    "chapterId": "ch-10",
+    "number": "185",
+    "title": "Erasure of mark denoting that stamp has been used",
+    "bareActText": "Whoever, fraudulently or with intent to cause loss to Government, erases or removes from a stamp issued by Government for the purpose of revenue, any mark, put or impressed upon such stamp for the purpose of denoting that the same has been used, or knowingly has in his possession or sells or disposes of any such stamp from which such mark has been erased or removed, or sells or disposes of any such stamp which he knows to have been used, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+    "plainMeaning": "Fraudulently, or intending to cause loss to the Government, erasing or removing from a revenue stamp the mark (such as a cancellation) that shows it has been used; knowingly possessing, selling or disposing of such a stamp; or selling or disposing of a stamp known to have been used, is punishable with up to three years, or fine, or both.",
+    "ingredients": [
+      "Fraudulently or with intent to cause loss to the Government",
+      "Erasing or removing the mark showing that a revenue stamp has been used; or",
+      "Knowingly possessing, selling or disposing of such a stamp; or selling or disposing of a stamp known to have been used"
+    ],
+    "punishment": "Imprisonment of either description up to 3 years, or fine, or both.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Magistrate of the first class"
+    },
+    "ipcReference": {
+      "section": "263 IPC",
+      "changeNote": "Corresponds to s.263 IPC."
+    },
+    "illustrations": [
+      "J removes the cancellation marks from used court-fee stamps and sells them to litigants as new. J is liable under s.185."
+    ],
+    "termRefs": [
+      "revenue-stamp",
+      "fraudulently"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.185 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-186",
+    "chapterId": "ch-10",
+    "number": "186",
+    "title": "Prohibition of fictitious stamps",
+    "bareActText": "(1) Whoever— (a) makes, knowingly utters, deals in or sells any fictitious stamp, or knowingly uses for any postal purpose any fictitious stamp; or (b) has in his possession, without lawful excuse, any fictitious stamp; or (c) makes or, without lawful excuse, has in his possession any die, plate, instrument or materials for making any fictitious stamp, shall be punished with fine which may extend to two hundred rupees. (2) Any such stamp, die, plate, instrument or materials in the possession of any person for making any fictitious stamp may be seized and, if seized shall be forfeited. (3) In this section “fictitious stamp” means any stamp falsely purporting to be issued by Government for the purpose of denoting a rate of postage, or any facsimile or imitation or representation, whether on paper or otherwise, of any stamp issued by Government for that purpose. (4) In this section and also in sections 178 to 181 (both inclusive), and sections 183 to 185 (both inclusive) the word “Government”, when used in connection with, or in reference to any stamp issued for the purpose of denoting a rate of postage, shall, notwithstanding anything in clause (12) of section 2, be deemed to include the person or persons authorised by law to administer executive Government in any part of India or in any foreign country.",
+    "plainMeaning": "Making, knowingly uttering, dealing in or selling a fictitious stamp, knowingly using one for postage, possessing one without lawful excuse, or making or possessing without lawful excuse any die, plate, instrument or material for making them, is punishable with fine up to ₹200. Such stamps and equipment may be seized and, if seized, are forfeited. A 'fictitious stamp' is any stamp falsely claiming to be issued by Government to show a rate of postage, or any facsimile, imitation or representation of such a stamp. For postage stamps, 'Government' in this Chapter includes the authorities of any part of India or of a foreign country.",
+    "ingredients": [
+      "(a) Making, knowingly uttering, dealing in or selling a fictitious stamp, or knowingly using it for postage; or",
+      "(b) Possessing a fictitious stamp without lawful excuse; or",
+      "(c) Making, or possessing without lawful excuse, a die, plate, instrument or material for making fictitious stamps",
+      "Seizure and forfeiture (sub-s.(2)); definition of fictitious stamp (sub-s.(3)); meaning of 'Government' for postage stamps (sub-s.(4))"
+    ],
+    "punishment": "Fine up to ₹200; the stamps and equipment may be seized and forfeited.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "263A IPC",
+      "changeNote": "Corresponds to s.263A IPC."
+    },
+    "illustrations": [
+      "K prints imitation postage stamps and sells them to letter-writers as real. K is liable under s.186 and the stamps and printing plates are forfeited."
+    ],
+    "termRefs": [
+      "fictitious-stamp",
+      "forfeiture"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.186 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-187",
+    "chapterId": "ch-10",
+    "number": "187",
+    "title": "Person employed in mint causing coin to be of different weight or composition from that fixed by law",
+    "bareActText": "Whoever, being employed in any mint lawfully established in India, does any act, or omits what he is legally bound to do, with the intention of causing any coin issued from that mint to be of a different weight or composition from the weight or composition fixed by law, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+    "plainMeaning": "A person employed in a lawfully established mint in India who does something, or fails to do what he is legally bound to do, intending that a coin issued from the mint should be of a different weight or composition from that fixed by law, is punishable with up to seven years and fine.",
+    "ingredients": [
+      "The accused is employed in a mint lawfully established in India",
+      "An act, or an omission of a legal duty",
+      "Intention that coins issued from the mint be of a weight or composition different from that fixed by law"
+    ],
+    "punishment": "Imprisonment of either description up to 7 years, and fine.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Magistrate of the first class"
+    },
+    "ipcReference": {
+      "section": "244 IPC",
+      "changeNote": "Corresponds to s.244 IPC."
+    },
+    "illustrations": [
+      "A mint supervisor secretly lowers the silver content in a commemorative coin batch so that he can take the extra silver home. He is liable under s.187."
+    ],
+    "termRefs": [
+      "mint",
+      "coin",
+      "omission"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.187 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-188",
+    "chapterId": "ch-10",
+    "number": "188",
+    "title": "Unlawfully taking coining instrument from mint",
+    "bareActText": "Whoever, without lawful authority, takes out of any mint, lawfully established in India, any coining tool or instrument, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+    "plainMeaning": "Taking any coining tool or instrument out of a lawfully established mint in India without lawful authority is punishable with up to seven years and fine. No intention to counterfeit need be shown.",
+    "ingredients": [
+      "Taking out of a mint lawfully established in India",
+      "Any coining tool or instrument",
+      "Without lawful authority"
+    ],
+    "punishment": "Imprisonment of either description up to 7 years, and fine.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Magistrate of the first class"
+    },
+    "ipcReference": {
+      "section": "245 IPC",
+      "changeNote": "Corresponds to s.245 IPC."
+    },
+    "illustrations": [
+      "A mint worker hides a coin die in his lunch box and carries it out of the mint. He is liable under s.188."
+    ],
+    "termRefs": [
+      "mint"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.188 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  }
+]

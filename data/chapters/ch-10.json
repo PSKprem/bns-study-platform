@@ -1,0 +1,90 @@
+{
+  "id": "ch-10",
+  "number": "X",
+  "title": "Of Offences Relating to Coin, Currency-Notes, Bank-Notes, and Government Stamps",
+  "sectionRange": "178-188",
+  "shortDescription": "Offences against the integrity of money and revenue: counterfeiting coins, notes and Government stamps, dealing in or possessing fakes, counterfeiting tools, note look-alikes, reusing stamps, fictitious postage stamps and mint offences.",
+  "subHeadings": [
+    { "id": "counterfeiting", "label": "Counterfeiting, using and possessing fakes", "sectionIds": ["s-178", "s-179", "s-180", "s-181", "s-182"] },
+    { "id": "stamps", "label": "Misuse of Government stamps", "sectionIds": ["s-183", "s-184", "s-185", "s-186"] },
+    { "id": "mint", "label": "Offences in or relating to a mint", "sectionIds": ["s-187", "s-188"] }
+  ],
+  "summary": "Chapter X protects the currency and the Government's revenue. The IPC dealt with these matters in two separate chapters — Chapter XII on coin and Government stamps (ss.230-263A) and a group of sections on currency and bank-notes (ss.489A-489E) placed with offences relating to documents. The BNS merges them into one compact chapter of eleven sections. Where the IPC had parallel sections for coins, for stamps and for notes, the BNS usually has one section covering all of them. The Gazette gives the chapter no sub-headings; its sections fall into three groups: counterfeiting and dealing in fakes (ss.178-182), misuse of Government stamps (ss.183-186), and mint offences (ss.187-188).\n\nSection 178 is the central offence: counterfeiting, or knowingly taking part in any step of counterfeiting, any coin, revenue stamp, currency-note or bank-note, punishable with life or up to ten years. Its Explanation defines 'bank-note' and 'coin' (the latter by reference to the Coinage Act, 2011) for the whole Chapter, and makes clear that making a genuine stamp or coin look like one of a different value, or reducing a coin's weight or altering its composition or appearance, is also counterfeiting. Section 179 punishes trafficking in or using fakes as genuine (life or ten years), and s.180 punishes possessing them intending use as genuine (up to seven years); a new Explanation to s.180 protects a person who shows that his possession came from a lawful source. Section 181 punishes making or possessing machinery, dies or materials for counterfeiting (life or ten years). Section 182 is a minor offence of making or using documents that resemble currency or bank-notes, such as note-shaped advertisements, punishable with fine only.\n\nSections 183 to 185 protect revenue from stamp fraud: removing writing from stamped paper or taking a used stamp off a document for reuse (up to three years), using a stamp known to have been used (up to two years), and erasing the cancellation mark from a used stamp or dealing in such stamps (up to three years). Each requires fraud or intent to cause loss to the Government. Section 186 prohibits fictitious postage stamps, with a fine and forfeiture. Finally, s.187 punishes a mint employee who causes coins to be of a weight or composition other than that fixed by law, and s.188 punishes taking a coining tool out of a mint without authority (up to seven years each).\n\nThe grave counterfeiting offences in ss.178-181 are cognizable, non-bailable and triable by a Court of Session. The stamp offences in ss.183-186 are cognizable and bailable, and the mint offences are cognizable, non-bailable and triable by a Magistrate of the first class. Section 182 is the only non-cognizable offence. None is compoundable.",
+  "keyPoints": [
+    {
+      "point": "Section 178 — Counterfeiting",
+      "subPoints": [
+        "Counterfeiting (or any part of the process) of coin, revenue stamp, currency-note or bank-note",
+        "Life or up to 10 years + fine",
+        "Explanation defines bank-note and coin (Coinage Act, 2011) for the Chapter",
+        "Changing denomination of a genuine stamp or coin = counterfeiting",
+        "Diminishing weight or altering composition or appearance of coin = counterfeiting"
+      ]
+    },
+    {
+      "point": "Sections 179-181 — Dealing in fakes and tools",
+      "subPoints": [
+        "s.179 — importing, exporting, trafficking or using as genuine: life or 10 years",
+        "s.180 — possession with intent to use as genuine: up to 7 years, or fine, or both",
+        "s.180 Explanation — NEW: possession from a lawful source is no offence",
+        "s.181 — making or possessing machinery, die or materials for counterfeiting: life or 10 years"
+      ]
+    },
+    {
+      "point": "Section 182 — Look-alike documents",
+      "subPoints": [
+        "Making or using documents resembling currency or bank-notes: fine up to ₹300",
+        "Named person refusing to disclose the printer to police: fine up to ₹600",
+        "Presumption that the named person caused it to be made",
+        "The only non-cognizable offence in the Chapter"
+      ]
+    },
+    {
+      "point": "Sections 183-186 — Government stamps",
+      "subPoints": [
+        "s.183 — effacing writing or removing a used stamp for reuse: up to 3 years",
+        "s.184 — using a stamp known to be used: up to 2 years",
+        "s.185 — erasing the used-mark, or dealing in such stamps: up to 3 years",
+        "ss.183-185 require fraud or intent to cause loss to Government",
+        "s.186 — fictitious postage stamps: fine up to ₹200 + seizure and forfeiture"
+      ]
+    },
+    {
+      "point": "Sections 187-188 — Mint",
+      "subPoints": [
+        "s.187 — mint employee altering weight or composition of coin: up to 7 years + fine",
+        "s.188 — taking a coining tool out of a mint without authority: up to 7 years + fine"
+      ]
+    }
+  ],
+  "fastRevision": [
+    "Chapter X merges IPC Chapter XII (coin and stamps, ss.230-263A) and ss.489A-489E (currency and bank-notes).",
+    "s.178 — counterfeiting coin, revenue stamp, currency-note or bank-note: life or 10 years + fine.",
+    "s.178 — performing any part of the process of counterfeiting is enough.",
+    "s.178 Expl. (1) — bank-note = promissory note payable to bearer on demand, used as money.",
+    "s.178 Expl. (2) — coin has the meaning in the Coinage Act, 2011.",
+    "s.178 Expl. (3)-(4) — making a genuine stamp or coin look like a different denomination is counterfeiting.",
+    "s.178 Expl. (5) — diminishing weight or altering composition or appearance of coin is counterfeiting.",
+    "s.179 — using as genuine, importing, exporting or trafficking in fakes: life or 10 years.",
+    "s.179 — knowledge or reason to believe the item is fake is required.",
+    "s.180 — possessing fakes with intent to use as genuine: up to 7 years, or fine, or both.",
+    "s.180 Expl. — NEW: possession from a lawful source is not an offence.",
+    "s.181 — machinery, die or materials for counterfeiting: life or 10 years.",
+    "ss.178-181 — cognizable, non-bailable, Court of Session.",
+    "s.182 — documents resembling notes: fine up to ₹300; refusing to name the printer: ₹600.",
+    "s.182 — the only non-cognizable offence in Chapter X.",
+    "s.183 — removing writing from stamped paper, or a used stamp from a document, for reuse: 3 years.",
+    "s.184 — using a stamp known to be used before: 2 years.",
+    "s.185 — erasing the mark showing a stamp was used: 3 years.",
+    "ss.183-185 — need fraud or intent to cause loss to Government.",
+    "s.186 — fictitious postage stamps: fine up to ₹200; stamps and dies seized and forfeited.",
+    "s.186(4) — for postage stamps, 'Government' includes foreign governments.",
+    "s.187 — mint employee changing coin weight or composition: 7 years + fine.",
+    "s.188 — taking a coining tool out of a mint without authority: 7 years + fine.",
+    "ss.187-188 — cognizable, non-bailable, Magistrate of the first class.",
+    "No offence in Chapter X is compoundable.",
+    "IPC mapping: 178 ≈ 231-232, 255, 489A; 179 ≈ 489B; 180 ≈ 489C; 181 ≈ 489D; 182 = 489E; 183 = 261; 184 = 262; 185 = 263; 186 = 263A; 187 = 244; 188 = 245."
+  ],
+  "mindMap": "# Ch. X — Coin, Currency, Bank-Notes, Stamps\n## Counterfeiting & fakes (ss.178-182)\n- Counterfeiting (s.178)\n  - Life or 10 yrs\n  - Definitions: bank-note, coin\n  - Change of denomination\n- Using / trafficking (s.179)\n- Possession (s.180)\n  - Lawful source defence — NEW\n- Tools & materials (s.181)\n- Look-alike documents (s.182)\n  - Fine only; non-cognizable\n## Government stamps (ss.183-186)\n- Effacing / removing for reuse (s.183)\n- Using used stamp (s.184)\n- Erasing used-mark (s.185)\n- Fictitious postage stamps (s.186)\n## Mint (ss.187-188)\n- Altering weight / composition (s.187)\n- Taking coining tool (s.188)",
+  "lastVerified": "2026-09-29"
+}
