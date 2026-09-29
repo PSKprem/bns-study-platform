@@ -1,0 +1,79 @@
+[
+  {
+    "id": "mcq-ch08-1", "chapterId": "ch-08",
+    "question": "Abetting mutiny by a soldier under Section 159, where no mutiny actually follows, is punishable with—",
+    "options": ["Up to 2 years", "Imprisonment for life, or up to 10 years, and fine", "Death only", "Fine only"],
+    "correctIndex": 1,
+    "explanation": "s.159: imprisonment for life, or up to ten years, and fine. Mutiny need not occur."
+  },
+  {
+    "id": "mcq-ch08-2", "chapterId": "ch-08",
+    "question": "Death is a possible punishment under which section of Chapter VIII?",
+    "options": ["Section 159", "Section 160", "Section 162", "Section 164"],
+    "correctIndex": 1,
+    "explanation": "s.160 — abetment of mutiny where mutiny is committed in consequence: death, life or up to ten years."
+  },
+  {
+    "id": "mcq-ch08-3", "chapterId": "ch-08",
+    "question": "Abetting an assault by an airman on his superior officer in the execution of his office, where the assault is committed, is punishable under Section 162 with—",
+    "options": ["Up to 3 years and fine", "Up to 7 years and fine", "Life imprisonment", "Up to 2 years or fine"],
+    "correctIndex": 1,
+    "explanation": "s.161 (abetment alone): up to 3 years. s.162 (assault committed): up to 7 years and fine."
+  },
+  {
+    "id": "mcq-ch08-4", "chapterId": "ch-08",
+    "question": "Who is exempted from liability for harbouring a deserter under Section 164?",
+    "options": ["The deserter's parents", "The deserter's spouse", "Any relative", "The deserter's employer"],
+    "correctIndex": 1,
+    "explanation": "Exception to s.164: harbour given by the spouse of the deserter. The IPC equivalent said 'wife'."
+  },
+  {
+    "id": "mcq-ch08-5", "chapterId": "ch-08",
+    "question": "The master of a merchant vessel on which a deserter is concealed through his neglect is liable under Section 165 to—",
+    "options": ["Imprisonment up to 2 years", "A penalty not exceeding ₹3,000", "A penalty not exceeding ₹500", "No liability, as he did not know"],
+    "correctIndex": 1,
+    "explanation": "s.165: penalty up to ₹3,000, even though ignorant, if he might have known but for neglect of duty or want of discipline on board."
+  },
+  {
+    "id": "mcq-ch08-6", "chapterId": "ch-08",
+    "question": "Which offence in Chapter VIII is non-cognizable?",
+    "options": ["Section 159", "Section 163", "Section 165", "Section 168"],
+    "correctIndex": 2,
+    "explanation": "Under the BNSS First Schedule, only s.165 is non-cognizable; the others are cognizable."
+  },
+  {
+    "id": "mcq-ch08-7", "chapterId": "ch-08",
+    "question": "Under Section 167, persons subject to which laws cannot be punished under Chapter VIII?",
+    "options": ["The Police Act, 1861", "The Air Force Act, 1950, the Army Act, 1950 and the Navy Act, 1957", "The Official Secrets Act, 1923", "The Arms Act, 1959"],
+    "correctIndex": 1,
+    "explanation": "s.167 excludes persons subject to the Air Force Act, 1950, the Army Act, 1950 and the Navy Act, 1957; they are dealt with under those Acts."
+  },
+  {
+    "id": "mcq-ch08-8", "chapterId": "ch-08",
+    "question": "Abetting insubordination under Section 166 is punishable only if—",
+    "options": ["The abettor is a civilian officer", "The act of insubordination is committed in consequence of the abetment", "It happens during war", "The superior officer is injured"],
+    "correctIndex": 1,
+    "explanation": "s.166 applies 'if such act of insubordination be committed in consequence of that abetment'."
+  },
+  {
+    "id": "mcq-ch08-9", "chapterId": "ch-08",
+    "question": "Wearing a soldier's uniform with intent to be believed a soldier (s.168) is punishable with—",
+    "options": ["Up to 3 months, or fine up to ₹2,000, or both", "Up to 1 year and fine", "Up to 3 years", "Fine up to ₹500 only"],
+    "correctIndex": 0,
+    "explanation": "s.168: up to three months, or fine up to ₹2,000, or both. The IPC fine limit was ₹500."
+  },
+  {
+    "id": "mcq-ch08-10", "chapterId": "ch-08",
+    "question": "Section 159 of the BNS corresponds to which section of the IPC?",
+    "options": ["Section 121", "Section 131", "Section 135", "Section 140"],
+    "correctIndex": 1,
+    "explanation": "ss.159-168 BNS correspond to ss.131-140 IPC in order."
+  },
+  {
+    "id": "mcq-ch08-11", "chapterId": "ch-08",
+    "question": "How many offences in Chapter VIII are compoundable under BNSS s.359?",
+    "options": ["None", "Only s.164", "Only s.168", "All bailable offences"],
+    "correctIndex": 0,
+    "explanation": "No Chapter VIII offence appears in either table of BNSS s.359."
+  }
+]

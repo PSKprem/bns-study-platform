@@ -97,7 +97,8 @@
       "oath",
       "offence",
       "will",
-      "gaining-losing-wrongfully"
+      "gaining-losing-wrongfully",
+      "computer-resource"
     ],
     "verification": {
       "status": "verified",
@@ -136,7 +137,9 @@
     ],
     "termRefs": [
       "illegal",
-      "omission"
+      "omission",
+      "good-faith",
+      "gender"
     ],
     "verification": {
       "status": "verified",

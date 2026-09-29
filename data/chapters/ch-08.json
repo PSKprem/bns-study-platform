@@ -1,0 +1,77 @@
+{
+  "id": "ch-08",
+  "number": "VIII",
+  "title": "Of Offences Relating to the Army, Navy and Air Force",
+  "sectionRange": "159-168",
+  "shortDescription": "Offences by outsiders that undermine military discipline: abetting mutiny, assault on superiors, desertion and insubordination, harbouring deserters, and impersonating service personnel.",
+  "subHeadings": [
+    { "id": "mutiny-assault", "label": "Mutiny and assault on superior officers", "sectionIds": ["s-159", "s-160", "s-161", "s-162"] },
+    { "id": "desertion", "label": "Desertion and deserters", "sectionIds": ["s-163", "s-164", "s-165"] },
+    { "id": "insubordination-scope", "label": "Insubordination and who is covered", "sectionIds": ["s-166", "s-167"] },
+    { "id": "impersonation", "label": "Impersonating service personnel", "sectionIds": ["s-168"] }
+  ],
+  "summary": "Chapter VIII protects the discipline and loyalty of the Army, Navy and Air Force. It corresponds to Chapter VII of the IPC (ss.131-140). The Gazette gives it no sub-headings; its ten sections fall into four groups: mutiny and assault on superior officers (ss.159-162), desertion (ss.163-165), insubordination and the scope of the Chapter (ss.166-167), and impersonation of service personnel (s.168).\n\nThe Chapter is aimed mainly at people outside the armed forces who interfere with them. Section 167 makes this clear: persons subject to the Air Force Act, 1950, the Army Act, 1950 or the Navy Act, 1957 cannot be punished under this Chapter, because their own conduct is governed by those service laws and court-martial.\n\nMost offences here are forms of abetment. Abetting mutiny, or trying to seduce a soldier, sailor or airman from his allegiance or duty, is punishable with life or ten years even if no mutiny follows (s.159). If mutiny is actually committed as a result, the punishment rises to include death (s.160). The same two-step pattern applies to abetting an assault on a superior officer in the execution of his office: up to three years (s.161), or seven years if the assault is committed (s.162). Abetting desertion (s.163) and harbouring a deserter (s.164) carry up to two years; a deserter's spouse who shelters him is exempted, and the BNS now uses the word 'spouse' instead of 'wife'. The master of a merchant vessel on which a deserter is hidden through his neglect is liable to a penalty of up to ₹3,000 (s.165). Abetting insubordination, if committed, carries up to two years (s.166). Finally, s.168 punishes anyone who wears a uniform or carries a token resembling that of service personnel intending to be taken for one of them: up to three months or ₹2,000. All offences in the Chapter are cognizable except s.165, and none is compoundable. The serious ones (ss.159-162) are non-bailable, while ss.163-166 and 168 are bailable.",
+  "keyPoints": [
+    {
+      "point": "Sections 159-160 — Mutiny",
+      "subPoints": [
+        "s.159 — abetting mutiny or seducing from allegiance/duty: life or 10 years (mutiny need not occur)",
+        "s.160 — mutiny committed in consequence: death, life or 10 years",
+        "Both cognizable, non-bailable, Court of Session"
+      ]
+    },
+    {
+      "point": "Sections 161-162 — Assault on superior officer",
+      "subPoints": [
+        "s.161 — abetting assault on a superior officer in execution of office: up to 3 years",
+        "s.162 — if the assault is committed: up to 7 years",
+        "Triable by a Magistrate of the first class"
+      ]
+    },
+    {
+      "point": "Sections 163-165 — Desertion",
+      "subPoints": [
+        "s.163 — abetting desertion: up to 2 years, or fine, or both",
+        "s.164 — harbouring a deserter: up to 2 years; spouse exempted",
+        "s.165 — deserter concealed on merchant vessel through master's neglect: penalty up to ₹3,000; non-cognizable"
+      ]
+    },
+    {
+      "point": "Sections 166-167 — Insubordination and scope",
+      "subPoints": [
+        "s.166 — abetting insubordination, if committed: up to 2 years",
+        "s.167 — persons subject to the Army, Navy and Air Force Acts are not punishable under this Chapter"
+      ]
+    },
+    {
+      "point": "Section 168 — Impersonation",
+      "subPoints": [
+        "Wearing garb or carrying token of a soldier, sailor or airman",
+        "With intent to be believed to be one",
+        "Up to 3 months, or fine up to ₹2,000, or both"
+      ]
+    }
+  ],
+  "fastRevision": [
+    "Chapter VIII = offences relating to the Army, Navy and Air Force, ss.159-168; IPC Chapter VII (ss.131-140).",
+    "The Chapter targets outsiders; service personnel are dealt with under their own Acts (s.167).",
+    "s.159 — abetting mutiny or seducing from allegiance: life or 10 years + fine.",
+    "s.159 — the offence is complete even if no mutiny happens.",
+    "s.160 — abetment followed by mutiny: death, life or 10 years.",
+    "s.161 — abetting assault on a superior officer in execution of office: up to 3 years + fine.",
+    "s.162 — same, if the assault is committed: up to 7 years + fine.",
+    "ss.161-162 — triable by a Magistrate of the first class.",
+    "s.163 — abetting desertion: up to 2 years, or fine, or both; bailable.",
+    "s.164 — harbouring a deserter: up to 2 years; the deserter's spouse is exempted.",
+    "s.164 — BNS says 'spouse' (IPC said 'wife').",
+    "s.165 — master of merchant vessel, deserter concealed through neglect: penalty up to ₹3,000.",
+    "s.165 — the only non-cognizable offence in the Chapter; ignorance is no excuse if due to neglect.",
+    "s.166 — abetting insubordination, if committed: up to 2 years.",
+    "s.167 — no punishment under this Chapter for persons subject to the Air Force Act 1950, Army Act 1950, Navy Act 1957.",
+    "s.168 — impersonating a soldier, sailor or airman by garb or token: 3 months or ₹2,000.",
+    "None of the Chapter VIII offences is compoundable.",
+    "IPC mapping: 159 = 131; 160 = 132; 161 = 133; 162 = 134; 163 = 135; 164 = 136; 165 = 137; 166 = 138; 167 = 139; 168 = 140."
+  ],
+  "mindMap": "# Ch. VIII — Army, Navy and Air Force\n## Mutiny (ss.159-160)\n- Abetting / seducing from duty (s.159)\n  - Life or 10 yrs\n- Mutiny committed (s.160)\n  - Death possible\n## Assault on superior (ss.161-162)\n- Abetting (s.161) — 3 yrs\n- Assault committed (s.162) — 7 yrs\n## Desertion (ss.163-165)\n- Abetting desertion (s.163)\n- Harbouring deserter (s.164)\n  - Spouse exempt\n- Merchant vessel master (s.165)\n  - ₹3,000 penalty\n## Insubordination & scope (ss.166-167)\n- Abetting insubordination (s.166)\n- Service personnel excluded (s.167)\n## Impersonation (s.168)\n- Garb or token\n- 3 months / ₹2,000",
+  "lastVerified": "2026-09-29"
+}

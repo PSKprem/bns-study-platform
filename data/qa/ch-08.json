@@ -1,0 +1,37 @@
+[
+  {
+    "id": "qa-ch08-1",
+    "chapterId": "ch-08",
+    "question": "Explain the offences relating to abetment of mutiny under Sections 159 and 160 of the BNS.",
+    "modelAnswer": "Section 159 punishes whoever abets the committing of mutiny by an officer, soldier, sailor or airman in the Army, Navy or Air Force of the Government of India, or attempts to seduce any such person from his allegiance or his duty, with imprisonment for life or up to ten years, and fine. The offence is complete on the abetment or the attempt to seduce; no mutiny need follow. Section 160 applies where mutiny is actually committed in consequence of the abetment, and raises the punishment to death, imprisonment for life, or up to ten years, and fine. Both are cognizable, non-bailable, not compoundable and triable by a Court of Session. Mutiny means a collective revolt by service members against lawful military authority. These provisions exist because the loyalty and discipline of the armed forces are essential to the security of the State. They correspond to ss.131 and 132 IPC. Under s.167 they do not apply to persons who are themselves subject to the Army, Navy or Air Force Acts, who are dealt with under those laws.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "qa-ch08-2",
+    "chapterId": "ch-08",
+    "question": "Who can be punished under Chapter VIII? Explain the effect of Section 167.",
+    "modelAnswer": "Chapter VIII is directed mainly at people outside the armed forces — civilians and others — who interfere with military discipline by abetting mutiny, assault on superior officers, desertion or insubordination, by harbouring deserters, or by impersonating service personnel. Section 167 provides that no person subject to the Air Force Act, 1950, the Army Act, 1950 or the Navy Act, 1957 shall be subject to punishment under the Sanhita for any offence defined in this Chapter. The reason is that members of the forces are governed by their own complete disciplinary codes, which define mutiny, desertion and insubordination as service offences triable by court-martial, often with heavier consequences. This avoids two parallel prosecutions for the same conduct. So a soldier who incites his comrades to mutiny is tried under the Army Act, while a civilian who does the same is punished under s.159 or s.160 of the BNS. The section corresponds to s.139 IPC, updated to name the current service Acts.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "qa-ch08-3",
+    "chapterId": "ch-08",
+    "question": "Discuss the offences relating to desertion under Sections 163 to 165.",
+    "modelAnswer": "Section 163 punishes whoever abets the desertion of any officer, soldier, sailor or airman in the Army, Navy or Air Force of the Government of India, with up to two years, or fine, or both. Section 164 punishes whoever, knowing or having reason to believe that such a person has deserted, harbours him, with up to two years, or fine, or both; the Exception excludes harbour given by the deserter's spouse (the IPC said 'wife'). Section 165 imposes a penalty of up to ₹3,000 on the master or person in charge of a merchant vessel on which a deserter is concealed, even if he did not know of it, provided he might have known but for some neglect of his duty or want of discipline on board. This is a form of liability for negligence rather than intention. Sections 163 and 164 are cognizable, bailable and triable by any Magistrate; s.165 is non-cognizable, bailable and triable by any Magistrate. None is compoundable. They correspond to ss.135-137 IPC, with the s.165 penalty raised from ₹500 to ₹3,000.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "qa-ch08-4",
+    "chapterId": "ch-08",
+    "question": "Explain the two-step pattern of punishment in Chapter VIII for abetment, with reference to Sections 159-162.",
+    "modelAnswer": "Chapter VIII often punishes abetment in two steps: a lower punishment for the abetment alone, and a higher one where the abetted act is actually committed. For mutiny, s.159 punishes abetment or an attempt to seduce a service member from allegiance or duty with life or up to ten years, and s.160 punishes abetment followed by mutiny with death, life or up to ten years. For assault on a superior officer being in the execution of his office, s.161 punishes the abetment with up to three years and fine, and s.162 punishes it with up to seven years and fine if the assault is committed in consequence. This reflects the general scheme of abetment in Chapter IV (compare ss.49 and 55-56), under which the abettor's liability grows when the abetted act takes place. Here the law sets fixed punishments because the harm to military discipline is serious even at the stage of incitement. Section 166 (abetting insubordination) is punishable only if the insubordination is committed.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "qa-ch08-5",
+    "chapterId": "ch-08",
+    "question": "What is the offence under Section 168? Give an example.",
+    "modelAnswer": "Section 168 punishes whoever, not being a soldier, sailor or airman in the Army, Naval or Air service of the Government of India, wears any garb or carries any token resembling any garb or token used by such a person, with the intention that it may be believed that he is such a soldier, sailor or airman. The punishment is imprisonment up to three months, or fine up to ₹2,000, or both. It is cognizable, bailable, not compoundable and triable by any Magistrate. The ingredients are: (1) the accused is not a member of these services; (2) he wears garb or carries a token resembling theirs; and (3) he intends people to believe he is one of them. Intention is essential, so an actor in uniform in a film or a child in a fancy-dress competition commits no offence. Example: a man dresses in an army officer's uniform with rank badges to obtain free travel and special treatment at a railway station. The section corresponds to s.140 IPC, with the fine raised from ₹500 to ₹2,000.",
+    "difficulty": "basic"
+  }
+]

@@ -3,6 +3,7 @@ import { Link, useParams, useSearchParams } from "react-router-dom";
 import {
   getChapter,
   getChapterTerms,
+  getDictionary,
   getMCQs,
   getQA,
   getSections,
@@ -184,8 +185,8 @@ export default function ChapterPage() {
         {tab === "dictionary" && (
           <div className="max-w-3xl">
             <p className="mb-4 rounded-xl bg-indigo-50 p-3 text-sm text-indigo-800 ring-1 ring-indigo-200 dark:bg-indigo-950/40 dark:text-indigo-200 dark:ring-indigo-900">
-              <span aria-hidden="true">📖 </span>Terms relevant to this chapter, in
-              English and Hindi. For all terms across the book, see the{" "}
+              <span aria-hidden="true">📖 </span>{terms.length} terms used in this chapter, in
+              English and Hindi. For all {getDictionary().length} terms across the book, see the{" "}
               <Link to="/dictionary" className="font-semibold underline">
                 full Dictionary
               </Link>

@@ -95,6 +95,8 @@ Goal: prove the whole workflow on one small chapter. Definition of Done = `requi
   - [x] Chapter V (Offences Against Woman and Child, s.63–99) — Gazette-verified text, punishments, BNSS First Schedule classification and s.359 compounding; 37 sections, 22 MCQs, 10 exam Q&A, 16 new dictionary terms
   - [x] Chapter VI (Offences Affecting the Human Body, s.100–146) — Gazette-verified text, punishments, BNSS First Schedule classification and s.359 compounding; s.106(2) flagged as not in force; 47 sections, 24 MCQs, 10 exam Q&A, 27 new dictionary terms
   - [x] Chapter VII (Offences Against the State, s.147–158) — Gazette-verified text, punishments and BNSS First Schedule classification; s.152 explained as the replacement for sedition; 12 sections, 16 MCQs, 7 exam Q&A, 7 new dictionary terms
+  - [x] Chapter VIII (Offences Relating to the Army, Navy and Air Force, s.159–168) — Gazette-verified; 10 sections, 11 MCQs, 5 exam Q&A, 6 new dictionary terms
+- [x] Dictionary check: fixed 10 one-way section↔term links; new test enforces two-way links; home page links to the full dictionary with its term count; chapter tab shows its term count
 - [x] Dark mode toggle (light/dark, persisted in localStorage) *(added on request)*
 - [x] Statutory Dictionary: all 38 terms defined in s.2, bilingual
 - [x] Sub-heading–aware navigation (Sections tab grouped by `subHeadings`) — *FR-1.3*
