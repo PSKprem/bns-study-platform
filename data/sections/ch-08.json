@@ -1,0 +1,352 @@
+[
+  {
+    "id": "s-159",
+    "chapterId": "ch-08",
+    "number": "159",
+    "title": "Abetting mutiny, or attempting to seduce a soldier, sailor or airman from his duty",
+    "bareActText": "Whoever abets the committing of mutiny by an officer, soldier, sailor or airman, in the Army, Navy or Air Force of the Government of India or attempts to seduce any such officer, soldier, sailor or airman from his allegiance or his duty, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+    "plainMeaning": "Abetting mutiny by an officer, soldier, sailor or airman in the Army, Navy or Air Force of the Government of India, or trying to seduce any of them from his allegiance or duty, is punishable with life imprisonment or up to ten years, and fine. The offence is complete even if no mutiny actually takes place.",
+    "ingredients": [
+      "Abetting the committing of mutiny by an officer, soldier, sailor or airman in the Army, Navy or Air Force of the Government of India; or",
+      "Attempting to seduce such a person from his allegiance or duty",
+      "Mutiny need not actually occur"
+    ],
+    "punishment": "Imprisonment for life, or imprisonment of either description up to 10 years, and fine.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Court of Session"
+    },
+    "ipcReference": {
+      "section": "131 IPC",
+      "changeNote": "Corresponds to s.131 IPC."
+    },
+    "illustrations": [
+      "A civilian distributes leaflets in an army cantonment urging soldiers to refuse orders and take over the armoury. Even if no soldier responds, he is liable under s.159."
+    ],
+    "termRefs": [
+      "mutiny",
+      "abetment",
+      "seduce-from-allegiance"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.159 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-160",
+    "chapterId": "ch-08",
+    "number": "160",
+    "title": "Abetment of mutiny, if mutiny is committed in consequence thereof",
+    "bareActText": "Whoever abets the committing of mutiny by an officer, soldier, sailor or airman, in the Army, Navy or Air Force of the Government of India, shall, if mutiny be committed in consequence of that abetment, be punished with death or with imprisonment for life, or imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+    "plainMeaning": "If a person abets mutiny by a member of the armed forces and mutiny is actually committed as a result, the punishment rises to death, life imprisonment, or up to ten years, and fine.",
+    "ingredients": [
+      "Abetting mutiny by an officer, soldier, sailor or airman in the Army, Navy or Air Force of the Government of India",
+      "Mutiny is committed in consequence of that abetment"
+    ],
+    "punishment": "Death, or imprisonment for life, or imprisonment of either description up to 10 years, and fine.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Court of Session"
+    },
+    "ipcReference": {
+      "section": "132 IPC",
+      "changeNote": "Corresponds to s.132 IPC."
+    },
+    "illustrations": [
+      "After B's repeated instigation, a naval crew seizes its ship and locks up the officers. As the mutiny took place in consequence of the abetment, B is liable under s.160."
+    ],
+    "termRefs": [
+      "mutiny",
+      "abetment"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.160 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-161",
+    "chapterId": "ch-08",
+    "number": "161",
+    "title": "Abetment of assault by soldier, sailor or airman on his superior officer, when in execution of his office",
+    "bareActText": "Whoever abets an assault by an officer, soldier, sailor or airman, in the Army, Navy or Air Force of the Government of India, on any superior officer being in the execution of his office, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine.",
+    "plainMeaning": "Abetting an assault by a member of the armed forces on a superior officer who is executing his office is punishable with up to three years and fine, whether or not the assault is committed.",
+    "ingredients": [
+      "Abetting an assault by an officer, soldier, sailor or airman in the Army, Navy or Air Force of the Government of India",
+      "On a superior officer",
+      "Who is in the execution of his office"
+    ],
+    "punishment": "Imprisonment of either description up to 3 years, and fine.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Magistrate of the first class"
+    },
+    "ipcReference": {
+      "section": "133 IPC",
+      "changeNote": "Corresponds to s.133 IPC."
+    },
+    "illustrations": [
+      "C urges an airman to punch his squadron leader during a parade inspection. C is liable under s.161 even if the airman does nothing."
+    ],
+    "termRefs": [
+      "abetment",
+      "assault",
+      "superior-officer"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.161 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-162",
+    "chapterId": "ch-08",
+    "number": "162",
+    "title": "Abetment of such assault, if the assault is committed",
+    "bareActText": "Whoever abets an assault by an officer, soldier, sailor or airman, in the Army, Navy or Air Force of the Government of India, on any superior officer being in the execution of his office, shall, if such assault be committed in consequence of that abetment be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+    "plainMeaning": "If the abetted assault on a superior officer is actually committed as a result of the abetment, the punishment rises to up to seven years and fine.",
+    "ingredients": [
+      "Abetting an assault by an officer, soldier, sailor or airman in the Army, Navy or Air Force of the Government of India on a superior officer in the execution of his office",
+      "The assault is committed in consequence of the abetment"
+    ],
+    "punishment": "Imprisonment of either description up to 7 years, and fine.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Magistrate of the first class"
+    },
+    "ipcReference": {
+      "section": "134 IPC",
+      "changeNote": "Corresponds to s.134 IPC."
+    },
+    "illustrations": [
+      "In the example under s.161, the airman does punch the squadron leader because of C's urging. C is now liable under s.162."
+    ],
+    "termRefs": [
+      "abetment",
+      "assault",
+      "superior-officer"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.162 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-163",
+    "chapterId": "ch-08",
+    "number": "163",
+    "title": "Abetment of desertion of soldier, sailor or airman",
+    "bareActText": "Whoever abets the desertion of any officer, soldier, sailor or airman, in the Army, Navy or Air Force of the Government of India, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+    "plainMeaning": "Abetting the desertion of an officer, soldier, sailor or airman in the Army, Navy or Air Force of the Government of India is punishable with up to two years, or fine, or both.",
+    "ingredients": [
+      "Abetting the desertion of an officer, soldier, sailor or airman in the Army, Navy or Air Force of the Government of India"
+    ],
+    "punishment": "Imprisonment of either description up to 2 years, or fine, or both.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "135 IPC",
+      "changeNote": "Corresponds to s.135 IPC."
+    },
+    "illustrations": [
+      "D arranges civilian clothes and a bus ticket so that his cousin, a soldier, can leave his unit without permission and not return. D abets desertion."
+    ],
+    "termRefs": [
+      "desertion",
+      "abetment"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.163 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-164",
+    "chapterId": "ch-08",
+    "number": "164",
+    "title": "Harbouring deserter",
+    "bareActText": "Whoever, except as hereinafter excepted, knowing or having reason to believe that an officer, soldier, sailor or airman, in the Army, Navy or Air Force of the Government of India, has deserted, harbours such officer, soldier, sailor or airman, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine or with both. Exception.—This provision does not extend to the case in which the harbour is given by the spouse of the deserter.",
+    "plainMeaning": "Harbouring a member of the armed forces whom one knows, or has reason to believe, has deserted is punishable with up to two years, or fine, or both. The spouse of the deserter is exempted.",
+    "ingredients": [
+      "Knowledge or reason to believe that an officer, soldier, sailor or airman in the Army, Navy or Air Force of the Government of India has deserted",
+      "Harbouring that person",
+      "Exception — harbour given by the spouse of the deserter"
+    ],
+    "punishment": "Imprisonment of either description up to 2 years, or fine, or both.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "136 IPC",
+      "changeNote": "Corresponds to s.136 IPC; the Exception now says 'spouse' instead of 'wife'."
+    },
+    "illustrations": [
+      "E lets a sailor he knows has deserted his ship stay in his house for weeks and hides him from the military police. E is liable under s.164. The sailor's wife would not be."
+    ],
+    "termRefs": [
+      "desertion",
+      "harbour",
+      "reason-to-believe"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.164 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-165",
+    "chapterId": "ch-08",
+    "number": "165",
+    "title": "Deserter concealed on board merchant vessel through negligence of master",
+    "bareActText": "The master or person in charge of a merchant vessel, on board of which any deserter from the Army, Navy or Air Force of the Government of India is concealed, shall, though ignorant of such concealment, be liable to a penalty not exceeding three thousand rupees, if he might have known of such concealment but for some neglect of his duty as such master or person in charge, or but for some want of discipline on board of the vessel.",
+    "plainMeaning": "The master or person in charge of a merchant vessel on which a deserter from the armed forces is hidden is liable to a penalty of up to ₹3,000, even though he did not know of it, if he could have known but for neglect of his duty or lack of discipline on board.",
+    "ingredients": [
+      "The accused is the master or person in charge of a merchant vessel",
+      "A deserter from the Army, Navy or Air Force is concealed on board",
+      "He did not know, but might have known but for neglect of duty or want of discipline on board"
+    ],
+    "punishment": "Penalty (fine) not exceeding ₹3,000.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "137 IPC",
+      "changeNote": "Corresponds to s.137 IPC; the penalty limit is raised from ₹500 to ₹3,000."
+    },
+    "illustrations": [
+      "A deserter hides in the cargo hold of a merchant ship because the captain never has the ship searched before sailing. The captain is liable to the penalty under s.165."
+    ],
+    "termRefs": [
+      "desertion"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.165 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-166",
+    "chapterId": "ch-08",
+    "number": "166",
+    "title": "Abetment of act of insubordination by soldier, sailor or airman",
+    "bareActText": "Whoever abets what he knows to be an act of insubordination by an officer, soldier, sailor or airman, in the Army, Navy or Air Force, of the Government of India, shall, if such act of insubordination be committed in consequence of that abetment, be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+    "plainMeaning": "Abetting what one knows to be an act of insubordination by a member of the armed forces, where the act is committed as a result, is punishable with up to two years, or fine, or both.",
+    "ingredients": [
+      "Abetting an act known to be insubordination by an officer, soldier, sailor or airman in the Army, Navy or Air Force of the Government of India",
+      "The act of insubordination is committed in consequence of the abetment"
+    ],
+    "punishment": "Imprisonment of either description up to 2 years, or fine, or both.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "138 IPC",
+      "changeNote": "Corresponds to s.138 IPC."
+    },
+    "illustrations": [
+      "F persuades a soldier to refuse to report for guard duty, and the soldier refuses. F is liable under s.166."
+    ],
+    "termRefs": [
+      "insubordination",
+      "abetment"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.166 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-167",
+    "chapterId": "ch-08",
+    "number": "167",
+    "title": "Persons subject to certain Acts",
+    "bareActText": "No person subject to the Air Force Act, 1950, the Army Act, 1950 and the Navy Act, 1957, or shall be subject to punishment under this Sanhita for any of the offences defined in this Chapter.",
+    "plainMeaning": "Persons who are themselves subject to the Air Force Act, 1950, the Army Act, 1950 or the Navy Act, 1957 cannot be punished under this Chapter. Service personnel who commit these acts are dealt with under their own service laws; the Chapter is aimed at civilians and others who interfere with the armed forces. (The official text reads '…the Navy Act, 1957, or shall be subject to…'; it is reproduced exactly, and the meaning is clear from context.)",
+    "ingredients": [
+      "The person is subject to the Air Force Act, 1950, the Army Act, 1950 or the Navy Act, 1957",
+      "Effect: not punishable under the BNS for offences defined in this Chapter"
+    ],
+    "punishment": "Not applicable — this section excludes certain persons from this Chapter.",
+    "classification": null,
+    "ipcReference": {
+      "section": "139 IPC",
+      "changeNote": "Corresponds to s.139 IPC, updated to refer to the Air Force Act, 1950, the Army Act, 1950 and the Navy Act, 1957."
+    },
+    "illustrations": [
+      "A soldier who incites his comrades to mutiny is tried by court-martial under the Army Act, 1950, not under s.159 of the BNS."
+    ],
+    "termRefs": [
+      "mutiny"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.167 — bare Act text verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-168",
+    "chapterId": "ch-08",
+    "number": "168",
+    "title": "Wearing garb or carrying token used by soldier, sailor or airman",
+    "bareActText": "Whoever, not being a soldier, sailor or airman in the Army, Naval or Air service of the Government of India, wears any garb or carries any token resembling any garb or token used by such a soldier, sailor or airman with the intention that it may be believed that he is such a soldier, sailor or airman, shall be punished with imprisonment of either description for a term which may extend to three months, or with fine which may extend to two thousand rupees, or with both.",
+    "plainMeaning": "A person who is not a soldier, sailor or airman but wears a uniform or carries a token resembling one used by them, intending that people believe he is one, is punishable with up to three months, or fine up to ₹2,000, or both.",
+    "ingredients": [
+      "The accused is not a soldier, sailor or airman",
+      "Wears any garb, or carries any token, resembling that used by such persons",
+      "Intending that it be believed he is such a person"
+    ],
+    "punishment": "Imprisonment of either description up to 3 months, or fine up to ₹2,000, or both.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "140 IPC",
+      "changeNote": "Corresponds to s.140 IPC; the fine limit is raised from ₹500 to ₹2,000."
+    },
+    "illustrations": [
+      "G puts on an army officer's uniform and badges to get free entry and respect at a railway station. G is liable under s.168. An actor wearing a uniform in a film, with no such intention, is not."
+    ],
+    "termRefs": [
+      "garb-or-token"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.168 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  }
+]

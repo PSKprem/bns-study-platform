@@ -89,6 +89,26 @@ describe("data integrity", () => {
     }
   });
 
+  it("section term links and dictionary relatedSections agree both ways", () => {
+    // The chapter Dictionary tab is derived from relatedSections, while section
+    // pages show termRefs — if they drift, a term shows on one but not the other.
+    const allSections = chapters.flatMap((c) => getSections(c.id));
+    const byId = new Map(allSections.map((s) => [s.id, s]));
+    for (const s of allSections) {
+      for (const ref of s.termRefs) {
+        expect(getTerm(ref)?.relatedSections, `${ref} should list ${s.id}`).toContain(s.id);
+      }
+    }
+    for (const t of dictionary) {
+      expect(t.relatedSections.length, `${t.id} is linked to no section`).toBeGreaterThan(0);
+      for (const sid of t.relatedSections) {
+        const s = byId.get(sid);
+        expect(s, `${t.id} points to missing ${sid}`).toBeDefined();
+        expect(s?.termRefs, `${sid} should reference ${t.id}`).toContain(t.id);
+      }
+    }
+  });
+
   it("every MCQ has a valid correctIndex and options", () => {
     for (const c of chapters) {
       for (const q of getMCQs(c.id)) {

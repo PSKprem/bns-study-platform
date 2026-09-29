@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import { getChapter, getCourseOutline, getSections } from "../lib/content";
+import { getChapter, getCourseOutline, getDictionary, getSections } from "../lib/content";
 import { chapterPath } from "../lib/routes";
 import { chapterReadFraction } from "../lib/progress";
 import { useProgress } from "../lib/useProgress";
@@ -11,7 +11,6 @@ const FEATURES = [
   "Mind maps",
   "Practice MCQs",
   "Fast revision",
-  "Dictionary (EN + हिन्दी)",
 ];
 
 export default function Home() {
@@ -38,6 +37,14 @@ export default function Home() {
               {f}
             </li>
           ))}
+          <li>
+            <Link
+              to="/dictionary"
+              className="block rounded-full bg-white px-3 py-1 font-semibold text-indigo-700 hover:bg-indigo-50"
+            >
+              Dictionary (EN + हिन्दी) — {getDictionary().length} terms →
+            </Link>
+          </li>
         </ul>
         <div className="mt-6 flex flex-wrap gap-3">
           {progress.lastVisited && (

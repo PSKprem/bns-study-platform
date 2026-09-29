@@ -265,7 +265,8 @@
     "relatedSections": [
       "s-2",
       "s-46",
-      "s-150"
+      "s-150",
+      "s-3"
     ]
   },
   {
@@ -388,7 +389,8 @@
     "relatedSections": [
       "s-2",
       "s-84",
-      "s-144"
+      "s-144",
+      "s-164"
     ]
   },
   {
@@ -403,7 +405,8 @@
       "s-60",
       "s-61",
       "s-119",
-      "s-150"
+      "s-150",
+      "s-3"
     ]
   },
   {
@@ -479,7 +482,8 @@
       "s-111",
       "s-113",
       "s-143",
-      "s-158"
+      "s-158",
+      "s-164"
     ]
   },
   {
@@ -704,7 +708,17 @@
       "s-107",
       "s-108",
       "s-147",
-      "s-153"
+      "s-153",
+      "s-50",
+      "s-51",
+      "s-52",
+      "s-53",
+      "s-159",
+      "s-160",
+      "s-161",
+      "s-162",
+      "s-163",
+      "s-166"
     ]
   },
   {
@@ -1151,7 +1165,9 @@
       "s-134",
       "s-135",
       "s-136",
-      "s-151"
+      "s-151",
+      "s-161",
+      "s-162"
     ]
   },
   {
@@ -1305,6 +1321,65 @@
       "s-156",
       "s-157",
       "s-158"
+    ]
+  },
+  {
+    "id": "mutiny",
+    "term": "Mutiny",
+    "meaningEn": "A collective revolt by members of the armed forces against lawful military authority, such as refusing orders together or seizing control from officers. Abetting it is punished by ss.159-160.",
+    "meaningHi": "विद्रोह (सैन्य) — सशस्त्र बलों के सदस्यों द्वारा विधिपूर्ण सैन्य प्राधिकार के विरुद्ध सामूहिक बगावत, जैसे मिलकर आदेश मानने से इनकार करना या अधिकारियों से नियंत्रण छीन लेना। इसका दुष्प्रेरण धारा 159-160 में दंडनीय है।",
+    "relatedSections": [
+      "s-159",
+      "s-160",
+      "s-167"
+    ]
+  },
+  {
+    "id": "seduce-from-allegiance",
+    "term": "Seducing from allegiance or duty",
+    "meaningEn": "Trying to persuade a member of the armed forces to abandon his loyalty to the State or to give up his duty (s.159).",
+    "meaningHi": "निष्ठा या कर्तव्य से विचलित करना — सशस्त्र बल के किसी सदस्य को राज्य के प्रति निष्ठा छोड़ने या अपना कर्तव्य त्यागने के लिए बहकाने का प्रयत्न (धारा 159)।",
+    "relatedSections": [
+      "s-159"
+    ]
+  },
+  {
+    "id": "superior-officer",
+    "term": "Superior officer",
+    "meaningEn": "An officer of higher rank to whom a soldier, sailor or airman owes obedience. Abetting an assault on him while he is executing his office is punished by ss.161-162.",
+    "meaningHi": "वरिष्ठ अधिकारी — उच्चतर पद का वह अधिकारी जिसकी आज्ञा का पालन सैनिक, नौसैनिक या वायुसैनिक को करना होता है। पद के निष्पादन के समय उस पर हमले का दुष्प्रेरण धारा 161-162 में दंडनीय है।",
+    "relatedSections": [
+      "s-161",
+      "s-162"
+    ]
+  },
+  {
+    "id": "desertion",
+    "term": "Desertion",
+    "meaningEn": "Leaving military service or one's unit without permission, intending not to return. Abetting it, harbouring a deserter, and negligently carrying one on a merchant vessel are offences (ss.163-165).",
+    "meaningHi": "अभित्यजन (सेना छोड़ना) — बिना अनुमति, वापस न आने के आशय से सैन्य सेवा या अपनी इकाई छोड़ देना। इसका दुष्प्रेरण, भगोड़े को संश्रय देना, और उपेक्षा से उसे व्यापारिक जलयान पर ले जाना अपराध हैं (धारा 163-165)।",
+    "relatedSections": [
+      "s-163",
+      "s-164",
+      "s-165"
+    ]
+  },
+  {
+    "id": "insubordination",
+    "term": "Insubordination",
+    "meaningEn": "Refusal or failure by a member of the armed forces to obey a lawful order or show due respect to authority. Abetting it, if committed, is punished by s.166.",
+    "meaningHi": "अनधीनता — सशस्त्र बल के सदस्य द्वारा किसी विधिपूर्ण आदेश का पालन न करना या प्राधिकार के प्रति उचित सम्मान न दिखाना। इसके किए जाने पर इसका दुष्प्रेरण धारा 166 में दंडनीय है।",
+    "relatedSections": [
+      "s-166"
+    ]
+  },
+  {
+    "id": "garb-or-token",
+    "term": "Garb or token (of the armed forces)",
+    "meaningEn": "A uniform, badge or other sign resembling that used by soldiers, sailors or airmen. Wearing or carrying one to pass oneself off as such a person is punished by s.168.",
+    "meaningHi": "पोशाक या प्रतीक (सशस्त्र बलों का) — सैनिकों, नौसैनिकों या वायुसैनिकों द्वारा प्रयुक्त वर्दी, बिल्ला या अन्य चिह्न जैसा कुछ। स्वयं को ऐसा व्यक्ति दिखाने के लिए इसे पहनना या रखना धारा 168 में दंडनीय है।",
+    "relatedSections": [
+      "s-168"
     ]
   }
 ]

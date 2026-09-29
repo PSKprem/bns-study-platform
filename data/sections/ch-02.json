@@ -24,7 +24,8 @@
     "termRefs": [
       "community-service",
       "rigorous-imprisonment",
-      "simple-imprisonment"
+      "simple-imprisonment",
+      "imprisonment-for-life"
     ],
     "verification": {
       "status": "verified",
