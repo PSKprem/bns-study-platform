@@ -1,0 +1,149 @@
+[
+  {
+    "id": "mcq-ch16-1",
+    "chapterId": "ch-16",
+    "question": "Section 298 of the BNS corresponds to which IPC section?",
+    "options": ["Section 295", "Section 295A", "Section 296", "Section 298"],
+    "correctIndex": 0,
+    "explanation": "s.298 (injuring or defiling a place of worship) = s.295 IPC."
+  },
+  {
+    "id": "mcq-ch16-2",
+    "chapterId": "ch-16",
+    "question": "Defiling an object held sacred by a class of persons with intent to insult their religion (s.298) is punishable with up to—",
+    "options": ["1 year", "2 years, or fine, or both", "3 years", "7 years"],
+    "correctIndex": 1,
+    "explanation": "s.298: imprisonment of either description up to two years, or fine, or both."
+  },
+  {
+    "id": "mcq-ch16-3",
+    "chapterId": "ch-16",
+    "question": "Section 298 is—",
+    "options": [
+      "Non-cognizable and bailable",
+      "Cognizable and non-bailable",
+      "Cognizable and bailable",
+      "Compoundable"
+    ],
+    "correctIndex": 1,
+    "explanation": "BNSS First Schedule: s.298 is cognizable, non-bailable, triable by any Magistrate."
+  },
+  {
+    "id": "mcq-ch16-4",
+    "chapterId": "ch-16",
+    "question": "The essential mental element of Section 299 is—",
+    "options": [
+      "Mere knowledge that someone may be offended",
+      "Deliberate and malicious intention of outraging religious feelings of a class",
+      "Negligence",
+      "Intention to cause wrongful gain"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.299 requires a 'deliberate and malicious intention of outraging the religious feelings of any class of citizens of India'."
+  },
+  {
+    "id": "mcq-ch16-5",
+    "chapterId": "ch-16",
+    "question": "What is newly added to Section 299 compared with s.295A IPC?",
+    "options": [
+      "A minimum sentence",
+      "'Through electronic means'",
+      "A fine of ₹50,000",
+      "Death penalty"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.299 expressly adds 'through electronic means' as a mode of insult; punishment is unchanged."
+  },
+  {
+    "id": "mcq-ch16-6",
+    "chapterId": "ch-16",
+    "question": "The maximum punishment under Section 299 is—",
+    "options": ["1 year", "2 years", "3 years, or fine, or both", "5 years and fine"],
+    "correctIndex": 2,
+    "explanation": "s.299: imprisonment of either description up to three years, or fine, or both."
+  },
+  {
+    "id": "mcq-ch16-7",
+    "chapterId": "ch-16",
+    "question": "The Supreme Court upheld the constitutional validity of s.295A IPC (now s.299 BNS) in—",
+    "options": [
+      "Kedar Nath Singh v. State of Bihar",
+      "Ramji Lal Modi v. State of U.P.",
+      "Shreya Singhal v. Union of India",
+      "Maneka Gandhi v. Union of India"
+    ],
+    "correctIndex": 1,
+    "explanation": "Ramji Lal Modi v. State of U.P. (1957) upheld s.295A because it punishes only deliberate and malicious insults tending to disrupt public order."
+  },
+  {
+    "id": "mcq-ch16-8",
+    "chapterId": "ch-16",
+    "question": "Voluntarily disturbing an assembly lawfully engaged in religious worship is an offence under—",
+    "options": ["Section 298", "Section 299", "Section 300", "Section 302"],
+    "correctIndex": 2,
+    "explanation": "s.300 (disturbing religious assembly): up to one year, or fine, or both."
+  },
+  {
+    "id": "mcq-ch16-9",
+    "chapterId": "ch-16",
+    "question": "Offering indignity to a human corpse, with intent to wound feelings, is covered by—",
+    "options": ["Section 298", "Section 300", "Section 301", "Section 302"],
+    "correctIndex": 2,
+    "explanation": "s.301 covers trespass on burial and funeral places, indignity to a human corpse, and disturbing funeral ceremonies."
+  },
+  {
+    "id": "mcq-ch16-10",
+    "chapterId": "ch-16",
+    "question": "Section 302 protects the religious feelings of—",
+    "options": [
+      "A class of citizens",
+      "An individual person",
+      "The State",
+      "Religious institutions only"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.302 punishes words, sounds, gestures or objects deliberately aimed at wounding the religious feelings of 'any person'; s.299 deals with a class of citizens."
+  },
+  {
+    "id": "mcq-ch16-11",
+    "chapterId": "ch-16",
+    "question": "Which offence in Chapter XVI is non-cognizable?",
+    "options": ["Section 298", "Section 299", "Section 301", "Section 302"],
+    "correctIndex": 3,
+    "explanation": "BNSS First Schedule: only s.302 is non-cognizable; ss.298-301 are cognizable."
+  },
+  {
+    "id": "mcq-ch16-12",
+    "chapterId": "ch-16",
+    "question": "Section 302 is compoundable by—",
+    "options": [
+      "The State Government",
+      "The person whose religious feelings are intended to be wounded",
+      "Any member of the religious community",
+      "It is not compoundable"
+    ],
+    "correctIndex": 1,
+    "explanation": "BNSS s.359(1): s.302 may be compounded by the person whose religious feelings are intended to be wounded."
+  },
+  {
+    "id": "mcq-ch16-13",
+    "chapterId": "ch-16",
+    "question": "Which two Chapter XVI offences are non-bailable?",
+    "options": ["ss.298 and 299", "ss.299 and 300", "ss.300 and 301", "ss.301 and 302"],
+    "correctIndex": 0,
+    "explanation": "BNSS First Schedule: ss.298 and 299 are non-bailable; ss.300-302 are bailable."
+  },
+  {
+    "id": "mcq-ch16-14",
+    "chapterId": "ch-16",
+    "question": "Chapter XVI of the BNS corresponds to which IPC chapter?",
+    "options": [
+      "Chapter XIV",
+      "Chapter XV (ss.295-298)",
+      "Chapter XVI",
+      "Chapter VIII"
+    ],
+    "correctIndex": 1,
+    "explanation": "IPC Chapter XV, 'Of Offences relating to Religion', ss.295-298."
+  }
+]

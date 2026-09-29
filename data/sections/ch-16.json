@@ -1,0 +1,183 @@
+[
+  {
+    "id": "s-298",
+    "chapterId": "ch-16",
+    "number": "298",
+    "title": "Injuring or defiling place of worship with intent to insult religion of any class",
+    "bareActText": "Whoever destroys, damages or defiles any place of worship, or any object held sacred by any class of persons with the intention of thereby insulting the religion of any class of persons or with the knowledge that any class of persons is likely to consider such destruction, damage or defilement as an insult to their religion, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+    "plainMeaning": "A person who destroys, damages or defiles (makes impure or dishonours) a place of worship, or any object held sacred by a class of persons, commits this offence if he intends to insult the religion of any class of persons, or knows that a class of persons is likely to regard the act as an insult to their religion. The object need not be inside a place of worship — an idol, a holy book or a sacred tree can be covered. The punishment is up to two years, or fine, or both. It is cognizable and non-bailable.",
+    "ingredients": [
+      "Destroying, damaging or defiling a place of worship, or an object held sacred by a class of persons",
+      "With intention to insult the religion of a class of persons; or",
+      "With knowledge that a class of persons is likely to consider it an insult to their religion"
+    ],
+    "punishment": "Imprisonment of either description up to 2 years, or fine, or both.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "295 IPC",
+      "changeNote": "Re-enacted without change of substance or punishment."
+    },
+    "illustrations": [
+      "During a local dispute, A breaks into a shrine at night and smashes the idol, intending to insult the community that worships there. A is liable under s.298.",
+      "B throws meat into a temple's sanctum knowing the worshippers will regard it as a desecration. Even if B's main aim was to provoke a quarrel, he knew the act was likely to be considered an insult to their religion, so s.298 applies."
+    ],
+    "termRefs": [
+      "place-of-worship",
+      "defile"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.298 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-30"
+  },
+  {
+    "id": "s-299",
+    "chapterId": "ch-16",
+    "number": "299",
+    "title": "Deliberate and malicious acts, intended to outrage religious feelings of any class by insulting its religion or religious beliefs",
+    "bareActText": "Whoever, with deliberate and malicious intention of outraging the religious feelings of any class of citizens of India, by words, either spoken or written, or by signs or by visible representations or through electronic means or otherwise, insults or attempts to insult the religion or the religious beliefs of that class, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+    "plainMeaning": "A person who insults, or attempts to insult, the religion or religious beliefs of a class of citizens of India — by spoken or written words, signs, visible representations, electronic means or otherwise — commits this offence only if he acts with a deliberate and malicious intention of outraging the religious feelings of that class. Unintended, careless or bona fide statements (for example, honest academic criticism of religion) are not covered; the insult must be a deliberate and malicious attack. The punishment is up to three years, or fine, or both. It is cognizable and non-bailable.",
+    "ingredients": [
+      "Insulting, or attempting to insult, the religion or religious beliefs of a class of citizens of India",
+      "By words (spoken or written), signs, visible representations, electronic means or otherwise",
+      "With a deliberate and malicious intention of outraging the religious feelings of that class"
+    ],
+    "punishment": "Imprisonment of either description up to 3 years, or fine, or both.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Magistrate of the first class"
+    },
+    "ipcReference": {
+      "section": "295A IPC",
+      "changeNote": "Re-enacts s.295A IPC and expressly adds 'through electronic means' as a way of committing the offence. Punishment is unchanged."
+    },
+    "illustrations": [
+      "C creates and circulates on social media a series of crude cartoons mocking a community's deity, with captions making clear he wants to enrage its followers. C insults their religion through electronic means with deliberate and malicious intent and is liable under s.299.",
+      "A historian publishes a scholarly book critically examining the origins of a religious practice, relying on sources and without abusive language. Absent a deliberate and malicious intention to outrage religious feelings, s.299 does not apply."
+    ],
+    "termRefs": [
+      "religious-feelings"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.299 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-30"
+  },
+  {
+    "id": "s-300",
+    "chapterId": "ch-16",
+    "number": "300",
+    "title": "Disturbing religious assembly",
+    "bareActText": "Whoever voluntarily causes disturbance to any assembly lawfully engaged in the performance of religious worship, or religious ceremonies, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both.",
+    "plainMeaning": "A person who voluntarily causes disturbance to an assembly that is lawfully engaged in religious worship or religious ceremonies — a prayer meeting, a puja, a namaz, a church service, a religious procession being lawfully held — is punishable with up to one year, or fine, or both. The assembly must be lawfully engaged in worship; the disturbance must be voluntary (caused intentionally or knowingly), not accidental.",
+    "ingredients": [
+      "An assembly lawfully engaged in the performance of religious worship or religious ceremonies",
+      "The accused causes disturbance to it",
+      "Voluntarily"
+    ],
+    "punishment": "Imprisonment of either description up to 1 year, or fine, or both.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "296 IPC",
+      "changeNote": "Re-enacted without change of substance or punishment."
+    },
+    "illustrations": [
+      "While a congregation is holding its lawful Sunday service, D drives up and blasts loud music outside the church door to break up the service. D voluntarily disturbs a religious assembly and is liable under s.300."
+    ],
+    "termRefs": [
+      "voluntarily"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.300 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-30"
+  },
+  {
+    "id": "s-301",
+    "chapterId": "ch-16",
+    "number": "301",
+    "title": "Trespassing on burial places, etc.",
+    "bareActText": "Whoever, with the intention of wounding the feelings of any person, or of insulting the religion of any person, or with the knowledge that the feelings of any person are likely to be wounded, or that the religion of any person is likely to be insulted thereby, commits any trespass in any place of worship or on any place of sepulchre, or any place set apart for the performance of funeral rites or as a depository for the remains of the dead, or offers any indignity to any human corpse, or causes disturbance to any persons assembled for the performance of funeral ceremonies, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both.",
+    "plainMeaning": "This section protects places and rites connected with worship and the dead. It is an offence to trespass in a place of worship, a graveyard (place of sepulchre), a cremation ground or other place for funeral rites or for keeping the remains of the dead; to offer any indignity to a human corpse; or to disturb people gathered for funeral ceremonies — if done with the intention of wounding anyone's feelings or insulting anyone's religion, or with knowledge that this is likely. The punishment is up to one year, or fine, or both.",
+    "ingredients": [
+      "Trespassing in a place of worship, a place of sepulchre, a place for funeral rites, or a depository for the remains of the dead; or",
+      "Offering any indignity to a human corpse; or",
+      "Causing disturbance to persons assembled for funeral ceremonies",
+      "With intention of wounding a person's feelings or insulting his religion, or knowing that this is likely"
+    ],
+    "punishment": "Imprisonment of either description up to 1 year, or fine, or both.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "297 IPC",
+      "changeNote": "Re-enacted without change of substance or punishment."
+    },
+    "illustrations": [
+      "E digs up a recently buried body in a village graveyard and leaves it exposed, knowing the dead man's family will be deeply hurt. E offers indignity to a human corpse and trespasses on a place of sepulchre, and is liable under s.301.",
+      "During a cremation, F, who has a grudge against the family, arrives drunk and shouts abuse to break up the ceremony. F causes disturbance to persons assembled for funeral ceremonies and is liable under s.301."
+    ],
+    "termRefs": [
+      "place-of-worship",
+      "sepulchre",
+      "religious-feelings"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.301 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-30"
+  },
+  {
+    "id": "s-302",
+    "chapterId": "ch-16",
+    "number": "302",
+    "title": "Uttering words, etc., with deliberate intent to wound religious feelings of any person",
+    "bareActText": "Whoever, with the deliberate intention of wounding the religious feelings of any person, utters any word or makes any sound in the hearing of that person or makes any gesture in the sight of that person or places any object in the sight of that person, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both.",
+    "plainMeaning": "Section 299 protects the feelings of a class of citizens; s.302 protects an individual. A person who, with the deliberate intention of wounding the religious feelings of a particular person, utters any word or makes any sound in that person's hearing, makes a gesture in his sight, or places an object in his sight, is punishable with up to one year, or fine, or both. It is the least serious offence in the chapter: non-cognizable, bailable, and the only one that can be compounded — by the person whose religious feelings were intended to be wounded.",
+    "ingredients": [
+      "Uttering a word or making a sound in the hearing of a person; or making a gesture, or placing an object, in his sight",
+      "With the deliberate intention of wounding the religious feelings of that person"
+    ],
+    "punishment": "Imprisonment of either description up to 1 year, or fine, or both.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Compoundable by the person whose religious feelings are intended to be wounded (BNSS s.359(1))",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "298 IPC",
+      "changeNote": "Re-enacted without change of substance or punishment."
+    },
+    "illustrations": [
+      "While his neighbour is saying his daily prayers, G stands in front of him making mocking gestures and places a torn page of the neighbour's holy book where he can see it, to hurt him. G makes a gesture and places an object in his sight with the deliberate intention of wounding his religious feelings, and is liable under s.302."
+    ],
+    "termRefs": [
+      "religious-feelings"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.302 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette); compounding from BNSS s.359(1)."
+    },
+    "lastVerified": "2026-09-30"
+  }
+]

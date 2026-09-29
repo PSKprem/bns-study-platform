@@ -1,0 +1,72 @@
+{
+  "id": "ch-16",
+  "number": "XVI",
+  "title": "Of Offences Relating to Religion",
+  "sectionRange": "298-302",
+  "shortDescription": "Offences that protect religious freedom and feelings: defiling places of worship or sacred objects, deliberate and malicious insults to a class's religion, disturbing religious assemblies, trespassing on burial places or insulting the dead, and words or gestures meant to wound an individual's religious feelings.",
+  "subHeadings": [
+    { "id": "places-beliefs", "label": "Places of worship and religious beliefs", "sectionIds": ["s-298", "s-299"] },
+    { "id": "assemblies-dead", "label": "Religious assemblies and the dead", "sectionIds": ["s-300", "s-301"] },
+    { "id": "individual", "label": "Wounding an individual's religious feelings", "sectionIds": ["s-302"] }
+  ],
+  "summary": "Chapter XVI is the shortest offence chapter in the BNS. It protects the freedom of religion guaranteed by Articles 25-28 of the Constitution by punishing conduct that insults religion or disrupts worship. It corresponds to Chapter XV of the IPC (ss.295-298), and each section maps directly: s.298 = s.295, s.299 = s.295A, s.300 = s.296, s.301 = s.297, s.302 = s.298. The substance and punishments are unchanged; the only change is that s.299 expressly covers insults made through electronic means. The Gazette gives the chapter no sub-headings; its five sections fall into three groups: places of worship and religious beliefs (ss.298-299), religious assemblies and the dead (ss.300-301), and wounding an individual's religious feelings (s.302).\n\nSection 298 punishes destroying, damaging or defiling a place of worship or an object held sacred by a class of persons, with intent to insult their religion or knowing they are likely to consider it an insult (up to two years). Section 299 punishes insulting, or attempting to insult, the religion or religious beliefs of a class of citizens with a deliberate and malicious intention of outraging their religious feelings (up to three years). The requirement of deliberate and malicious intent is what keeps s.299 within constitutional limits: it does not punish every hurtful remark or honest criticism of religion, only aggravated insults aimed at outraging religious feelings. Both are cognizable and non-bailable.\n\nSection 300 punishes voluntarily disturbing an assembly lawfully engaged in religious worship or ceremonies. Section 301 punishes trespass in places of worship, graveyards, cremation grounds and similar places, indignity to a human corpse, and disturbing funeral gatherings, where done with intent or knowledge of wounding feelings or insulting religion. Both carry up to one year and are cognizable and bailable. Section 302 protects the individual: words, sounds, gestures or objects deliberately aimed at wounding a person's religious feelings are punishable with up to one year. It is the only non-cognizable offence in the chapter, and the only one that is compoundable — by the person whose feelings were intended to be wounded. Related offences elsewhere include s.196 (promoting enmity between groups on religious grounds) in Chapter XI.",
+  "keyPoints": [
+    {
+      "point": "Section 298 — Defiling places of worship",
+      "subPoints": [
+        "Destroying, damaging or defiling a place of worship or an object held sacred by a class of persons",
+        "Intent to insult their religion, or knowledge that they are likely to consider it an insult",
+        "Up to 2 years, or fine, or both; cognizable, non-bailable (= s.295 IPC)"
+      ]
+    },
+    {
+      "point": "Section 299 — Deliberate and malicious insult",
+      "subPoints": [
+        "Insulting or attempting to insult the religion or religious beliefs of a class of citizens",
+        "By words, signs, visible representations, electronic means (NEW) or otherwise",
+        "Deliberate and malicious intention of outraging religious feelings is essential",
+        "Up to 3 years, or fine, or both; cognizable, non-bailable (= s.295A IPC)"
+      ]
+    },
+    {
+      "point": "Sections 300-301 — Assemblies and the dead",
+      "subPoints": [
+        "s.300 — voluntarily disturbing an assembly lawfully engaged in religious worship or ceremonies: 1 year",
+        "s.301 — trespass on places of worship, sepulchre or funeral rites; indignity to a corpse; disturbing funeral ceremonies",
+        "s.301 needs intent or knowledge of wounding feelings or insulting religion",
+        "Both: up to 1 year, or fine, or both; cognizable, bailable"
+      ]
+    },
+    {
+      "point": "Section 302 — Wounding an individual's religious feelings",
+      "subPoints": [
+        "Word, sound, gesture or object in a person's hearing or sight",
+        "Deliberate intention of wounding that person's religious feelings",
+        "Up to 1 year, or fine, or both",
+        "Non-cognizable, bailable; compoundable by the person whose feelings were intended to be wounded"
+      ]
+    }
+  ],
+  "fastRevision": [
+    "Chapter XVI corresponds to IPC Chapter XV (ss.295-298).",
+    "Mapping: 298 = 295; 299 = 295A; 300 = 296; 301 = 297; 302 = 298.",
+    "s.298 — destroying, damaging or defiling a place of worship or sacred object: 2 years.",
+    "s.298 — intent to insult religion, or knowledge that a class is likely to see it as an insult.",
+    "s.299 — deliberate and malicious insult to the religion or beliefs of a class of citizens: 3 years.",
+    "s.299 — 'through electronic means' is newly added.",
+    "s.299 — insult must be deliberate and malicious; bona fide criticism is not covered.",
+    "ss.298-299 — cognizable, non-bailable.",
+    "s.299 is triable by a Magistrate of the first class; the rest by any Magistrate.",
+    "s.300 — voluntarily disturbing an assembly lawfully engaged in religious worship: 1 year.",
+    "s.301 — trespass in a place of worship, graveyard or cremation ground: 1 year.",
+    "s.301 — also covers indignity to a human corpse and disturbing a funeral gathering.",
+    "ss.300-301 — cognizable, bailable.",
+    "s.302 — word, sound, gesture or object to deliberately wound a person's religious feelings: 1 year.",
+    "s.299 protects a class of citizens; s.302 protects an individual person.",
+    "s.302 — the only non-cognizable offence in the chapter.",
+    "s.302 — compoundable by the person whose religious feelings were intended to be wounded (BNSS s.359(1)).",
+    "Related: s.196 (promoting enmity between groups) and s.197 (national integration) in Chapter XI."
+  ],
+  "mindMap": "# Ch. XVI — Offences Relating to Religion\n## Places & beliefs (ss.298-299)\n- Defiling place of worship (s.298)\n  - 2 yrs; non-bailable\n- Deliberate & malicious insult (s.299)\n  - Class of citizens\n  - Electronic means — NEW\n  - 3 yrs; non-bailable\n## Assemblies & the dead (ss.300-301)\n- Disturbing religious assembly (s.300)\n- Trespass on burial places, indignity to corpse (s.301)\n- 1 yr; bailable\n## Individual (s.302)\n- Words, gestures to wound religious feelings\n- 1 yr; non-cognizable\n- Compoundable",
+  "lastVerified": "2026-09-30"
+}

@@ -582,7 +582,8 @@
       "s-171",
       "s-221",
       "s-279",
-      "s-280"
+      "s-280",
+      "s-300"
     ]
   },
   {
@@ -2046,6 +2047,45 @@
     "meaningHi": "लॉटरी — ऐसी योजना जिसमें पुरस्कार संयोग से, प्रायः टिकट, पर्ची या अंक निकालकर, बाँटे जाते हैं। ऐसी लॉटरी का कार्यालय रखना जो न तो राज्य की है और न राज्य सरकार द्वारा प्राधिकृत, धारा 297 में दंडनीय है।",
     "relatedSections": [
       "s-297"
+    ]
+  },
+  {
+    "id": "place-of-worship",
+    "term": "Place of worship",
+    "meaningEn": "Any place used for religious worship by a class of persons — a temple, mosque, church, gurdwara, synagogue, shrine or similar place. Destroying, damaging or defiling it to insult a religion is punished by s.298; trespassing in it to wound feelings or insult religion is punished by s.301.",
+    "meaningHi": "उपासना स्थल — किसी वर्ग के व्यक्तियों द्वारा धार्मिक उपासना के लिए प्रयुक्त कोई स्थान, जैसे मंदिर, मस्जिद, गिरजाघर, गुरुद्वारा या तीर्थस्थल। किसी धर्म का अपमान करने के लिए उसे नष्ट, क्षतिग्रस्त या अपवित्र करना धारा 298 में दंडनीय है।",
+    "relatedSections": [
+      "s-298",
+      "s-301"
+    ]
+  },
+  {
+    "id": "defile",
+    "term": "Defile",
+    "meaningEn": "To make impure, unclean or dishonoured — for example by throwing filth or forbidden matter into a shrine or on a sacred object. Defilement need not cause physical damage (s.298).",
+    "meaningHi": "अपवित्र करना — किसी वस्तु या स्थान को अशुद्ध या अपमानित करना, जैसे पूजा स्थल या पवित्र वस्तु पर गंदगी या वर्जित पदार्थ फेंकना। इसके लिए भौतिक क्षति आवश्यक नहीं है (धारा 298)।",
+    "relatedSections": [
+      "s-298"
+    ]
+  },
+  {
+    "id": "religious-feelings",
+    "term": "Religious feelings",
+    "meaningEn": "The sentiments of reverence a person or community has towards their religion, beliefs, sacred objects, places and rites. Deliberately and maliciously outraging the religious feelings of a class is punished by s.299; deliberately wounding an individual's religious feelings by words or gestures is punished by s.302.",
+    "meaningHi": "धार्मिक भावनाएँ — किसी व्यक्ति या समुदाय की अपने धर्म, विश्वासों, पवित्र वस्तुओं, स्थलों और अनुष्ठानों के प्रति श्रद्धा की भावना। किसी वर्ग की धार्मिक भावनाओं को विमर्शित और विद्वेषपूर्ण आशय से आहत करना धारा 299 में, और किसी व्यक्ति की धार्मिक भावनाएँ जानबूझकर आहत करना धारा 302 में दंडनीय है।",
+    "relatedSections": [
+      "s-299",
+      "s-301",
+      "s-302"
+    ]
+  },
+  {
+    "id": "sepulchre",
+    "term": "Place of sepulchre",
+    "meaningEn": "A burial place — a grave, tomb or graveyard. Together with places set apart for funeral rites and depositories for the remains of the dead, it is protected against trespass meant to wound feelings or insult religion (s.301).",
+    "meaningHi": "समाधि स्थल (कब्रिस्तान) — दफ़नाने का स्थान, जैसे कब्र, मकबरा या कब्रिस्तान। अंत्येष्टि स्थलों के साथ इस पर भावनाओं को आहत करने के आशय से अतिचार धारा 301 में दंडनीय है।",
+    "relatedSections": [
+      "s-301"
     ]
   }
 ]
