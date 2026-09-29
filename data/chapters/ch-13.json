@@ -1,0 +1,106 @@
+{
+  "id": "ch-13",
+  "number": "XIII",
+  "title": "Of Contempts of the Lawful Authority of Public Servants",
+  "sectionRange": "206-226",
+  "shortDescription": "Offences that defy or undermine the lawful authority of public servants: dodging or blocking summonses, not appearing when summoned or proclaimed, withholding documents or information, lying to officials, refusing oaths, answers or signatures, obstructing seizures, sales and official work, disobeying lawful orders, threatening officials, and attempting suicide to coerce them.",
+  "subHeadings": [
+    { "id": "summons", "label": "Evading summons, notices and proclamations", "sectionIds": ["s-206", "s-207", "s-208", "s-209"] },
+    { "id": "information", "label": "Documents, information, oaths and statements", "sectionIds": ["s-210", "s-211", "s-212", "s-213", "s-214", "s-215", "s-216", "s-217"] },
+    { "id": "obstruction", "label": "Obstructing property action and public functions", "sectionIds": ["s-218", "s-219", "s-220", "s-221", "s-222"] },
+    { "id": "orders-threats", "label": "Disobeying orders, threats and coercion", "sectionIds": ["s-223", "s-224", "s-225", "s-226"] }
+  ],
+  "summary": "Chapter XIII protects the working of government by punishing people who defy or frustrate the lawful authority of public servants. It corresponds to Chapter X of the IPC (ss.172-190), and each BNS section from s.206 to s.225 maps to one IPC section in the same order, from s.172 to s.190 (with s.209 matching s.174A). Section 226 is new. The Gazette gives the chapter no sub-headings; its sections fall into four groups: evading summonses and proclamations (ss.206-209); documents, information, oaths and statements (ss.210-217); obstructing property action and public functions (ss.218-222); and disobeying orders, threats and coercion (ss.223-226). Most of the offences are minor, and a common pattern runs through them: a basic punishment (often up to one month and a ₹5,000 fine), rising (often to six months and ₹10,000) where a Court or an offence is involved. The BNS mostly re-enacts the IPC but raises almost every fine and expressly adds electronic records.\n\nSections 206 to 209 deal with process. Absconding to avoid a summons (s.206), preventing its service, affixing or proclamation (s.207), and intentionally not attending when legally bound (s.208) are punished with the two-tier scale. Section 209 is far more serious: failing to appear as required by a proclamation under BNSS s.84(1) carries up to three years or community service, and up to seven years and fine if the person has been declared a proclaimed offender under s.84(4). It is cognizable and non-bailable.\n\nSections 210 to 217 cover information and truth-telling. A person legally bound to produce a document or electronic record (s.210), or to give notice or information (s.211), who intentionally fails to do so is punishable; so is one legally bound to inform who gives false information (s.212, up to two years where an offence is involved). Refusing an oath or affirmation (s.213), refusing to answer questions one is legally bound to answer (s.214), and refusing to sign one's statement when lawfully required (s.215) are also punished. Section 216 punishes a false statement on oath to a public servant or other authorised person (three years and fine). Section 217 punishes anyone who gives a public servant false information intending him to act wrongly or to use his power to injure or annoy someone — the section used against false complaints — now with up to one year and a ₹10,000 fine.\n\nSections 218 to 222 protect official action: resisting a lawful seizure of property (s.218), obstructing an official sale (s.219), sham or disqualified bidding at such a sale (s.220), voluntarily obstructing a public servant in his functions (s.221), and failing to give legally required assistance (s.222). Section 223 enforces lawfully promulgated orders such as prohibitory orders under BNSS s.163: knowing disobedience that causes or risks harm is punishable, and no intent to cause harm is needed; it is the only cognizable offence among ss.206-208 and 210-226. Sections 224 and 225 punish threats of injury to a public servant to influence his official acts, and threats to stop a person from seeking protection from a public servant. Finally, the new s.226 punishes attempting suicide with intent to compel or restrain a public servant from discharging his duty — the BNS does not re-enact the IPC's general offence of attempted suicide (s.309). No offence in the Chapter is compoundable.",
+  "keyPoints": [
+    {
+      "point": "Sections 206-209 — Summons and proclamations",
+      "subPoints": [
+        "s.206 — absconding to avoid service; s.207 — preventing service, affixing or proclamation; s.208 — not attending",
+        "Basic: SI 1 month or ₹5,000; where a Court is involved: SI 6 months or ₹10,000",
+        "s.209 — not appearing under BNSS s.84(1) proclamation: 3 years, or fine, or community service",
+        "s.209 — declared proclaimed offender (BNSS s.84(4)): 7 years + fine",
+        "s.209 is cognizable and non-bailable; ss.206-208 are non-cognizable and bailable"
+      ]
+    },
+    {
+      "point": "Sections 210-212 — Documents and information",
+      "subPoints": [
+        "s.210 — intentionally not producing a document or electronic record when legally bound",
+        "s.211 — intentionally not giving legally required notice or information",
+        "s.211(c) — order under BNSS s.394: 6 months or ₹1,000",
+        "s.212 — giving false information when legally bound to inform: 6 months; 2 years if about an offence",
+        "s.212 Explanation — 'offence' includes listed grave acts committed outside India"
+      ]
+    },
+    {
+      "point": "Sections 213-217 — Oaths, answers, statements, false information",
+      "subPoints": [
+        "s.213 — refusing oath or affirmation: SI 6 months or ₹5,000",
+        "s.214 — refusing to answer when legally bound: SI 6 months or ₹5,000",
+        "s.215 — refusing to sign one's statement: SI 3 months or ₹3,000",
+        "s.216 — false statement on oath to public servant or authorised person: 3 years + fine",
+        "s.217 — false information to make a public servant misuse power: 1 year or ₹10,000 (IPC: 6 months)"
+      ]
+    },
+    {
+      "point": "Sections 218-222 — Obstruction",
+      "subPoints": [
+        "s.218 — resisting lawful taking of property: 6 months or ₹10,000",
+        "s.219 — obstructing an official sale: 1 month or ₹5,000",
+        "s.220 — bidding for a disqualified person or without intent to pay: 1 month or ₹200",
+        "s.221 — voluntarily obstructing a public servant: 3 months or ₹2,500",
+        "s.222 — not assisting a public servant when bound by law: 1 month; 6 months for court process, offences, riots, arrests"
+      ]
+    },
+    {
+      "point": "Sections 223-226 — Orders, threats and coercion",
+      "subPoints": [
+        "s.223 — disobeying a lawfully promulgated order: 6 months; 1 year if danger to life, health, safety or riot",
+        "s.223 Explanation — no intent to harm needed; knowledge of the order + harm or likely harm",
+        "s.223 is cognizable (used for BNSS s.163 prohibitory orders)",
+        "s.224 — threat of injury to a public servant to influence official acts: 2 years",
+        "s.225 — threat to stop a person applying for protection: 1 year",
+        "s.226 — NEW: attempting suicide to compel or restrain a public servant: SI 1 year, or fine, or community service"
+      ]
+    }
+  ],
+  "fastRevision": [
+    "Chapter XIII corresponds to IPC Chapter X (ss.172-190); s.226 is new.",
+    "Mapping: 206-208 = 172-174; 209 = 174A; 210-225 = 175-190.",
+    "Common scale: SI 1 month or ₹5,000; if a Court (or offence) is involved, SI 6 months or ₹10,000.",
+    "s.206 — absconding to avoid a summons, notice or order.",
+    "s.207 — preventing service or affixing, removing an affixed summons, or preventing a proclamation.",
+    "s.208 — intentionally not attending, or leaving early, when legally bound to attend.",
+    "s.209 — not appearing under a BNSS s.84(1) proclamation: 3 years, or fine, or both, or community service.",
+    "s.209 — proclaimed offender (BNSS s.84(4)): up to 7 years and fine.",
+    "s.209 — cognizable, non-bailable, Magistrate of the first class.",
+    "s.210 — intentionally not producing a document or electronic record when legally bound.",
+    "s.211 — intentionally not giving legally required notice or information.",
+    "s.211(c) — information required by a BNSS s.394 order: 6 months or ₹1,000.",
+    "s.212 — furnishing false information when legally bound: SI 6 months or ₹5,000.",
+    "s.212(b) — false information about an offence or offender: up to 2 years.",
+    "s.212 Explanation — 'offence' in ss.211-212 covers listed grave acts committed outside India.",
+    "s.213 — refusing oath or affirmation: SI 6 months or ₹5,000.",
+    "s.214 — refusing to answer a public servant when legally bound to state the truth: SI 6 months or ₹5,000.",
+    "s.215 — refusing to sign one's own statement when lawfully required: SI 3 months or ₹3,000.",
+    "BNSS s.181 — statements to police in investigation must not be signed, so s.215 does not apply to them.",
+    "s.216 — false statement on oath or affirmation to public servant or authorised person: 3 years + fine.",
+    "s.217 — false information to make a public servant act wrongly or use power to injure or annoy: 1 year or ₹10,000.",
+    "s.217 applies to anyone; s.212 applies only to those legally bound to inform.",
+    "s.218 — resisting lawful taking of property: 6 months or ₹10,000.",
+    "s.219 — obstructing an official sale: 1 month or ₹5,000.",
+    "s.220 — bidding for a legally incapacitated person, or without intent to pay: 1 month or ₹200.",
+    "s.221 — voluntarily obstructing a public servant in public functions: 3 months or ₹2,500.",
+    "s.222 — not giving legally required assistance: SI 1 month or ₹2,500; 6 months or ₹5,000 in serious cases.",
+    "s.223 — disobeying a lawfully promulgated order: SI 6 months or ₹2,500; 1 year or ₹5,000 if danger to life or riot.",
+    "s.223 — no intent to harm needed; it is cognizable.",
+    "s.224 — threat of injury to a public servant: 2 years, or fine, or both.",
+    "s.225 — threat to stop a person applying for protection: 1 year, or fine, or both.",
+    "s.226 — NEW: attempt to commit suicide to compel or restrain a public servant: SI 1 year, fine, or community service.",
+    "General attempted suicide (s.309 IPC) is not an offence under the BNS.",
+    "Community service is available under ss.209 and 226.",
+    "Cognizable: only ss.209 and 223. Non-bailable: only s.209. None compoundable."
+  ],
+  "mindMap": "# Ch. XIII — Contempt of Lawful Authority\n## Summons & proclamations (ss.206-209)\n- Absconding (s.206)\n- Preventing service (s.207)\n- Non-attendance (s.208)\n- Not appearing to proclamation (s.209)\n  - 3 yrs; proclaimed offender 7 yrs\n  - Cognizable, non-bailable\n## Documents & information (ss.210-217)\n- Not producing document (s.210)\n- Not giving information (s.211)\n- False information when bound (s.212)\n- Refusing oath (s.213)\n- Refusing to answer (s.214)\n- Refusing to sign (s.215)\n- False statement on oath (s.216)\n- False information to misuse power (s.217)\n## Obstruction (ss.218-222)\n- Resisting seizure (s.218)\n- Obstructing sale (s.219)\n- Illegal bid (s.220)\n- Obstructing public servant (s.221)\n- Not assisting (s.222)\n## Orders, threats, coercion (ss.223-226)\n- Disobeying promulgated order (s.223)\n  - No intent to harm needed\n- Threat to public servant (s.224)\n- Threat to stop protection (s.225)\n- Suicide attempt to coerce (s.226) — NEW",
+  "lastVerified": "2026-09-29"
+}
