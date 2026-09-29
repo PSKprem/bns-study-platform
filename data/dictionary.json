@@ -5,7 +5,8 @@
     "meaningEn": "Unpaid work a convicted person is ordered to do for the benefit of the community. Newly listed as a punishment in s.4(f), it can be imposed only where an offence provides for it (e.g. ss.202, 209, 303(2), 355, 356(2)).",
     "meaningHi": "सामुदायिक सेवा — दोषी व्यक्ति को समाज के हित में करने के लिए दिया गया बिना वेतन का कार्य। धारा 4(च) में पहली बार दंड के रूप में सूचीबद्ध; यह केवल उन्हीं अपराधों में दिया जा सकता है जिनमें इसका प्रावधान हो (जैसे धारा 202, 209, 303(2), 355, 356(2))।",
     "relatedSections": [
-      "s-4"
+      "s-4",
+      "s-202"
     ]
   },
   {
@@ -20,7 +21,8 @@
       "s-64",
       "s-65",
       "s-68",
-      "s-75"
+      "s-75",
+      "s-199"
     ]
   },
   {
@@ -33,7 +35,10 @@
       "s-7",
       "s-79",
       "s-136",
-      "s-157"
+      "s-157",
+      "s-198",
+      "s-202",
+      "s-203"
     ]
   },
   {
@@ -44,7 +49,8 @@
     "relatedSections": [
       "s-7",
       "s-67",
-      "s-105"
+      "s-105",
+      "s-204"
     ]
   },
   {
@@ -208,7 +214,8 @@
     "meaningEn": "Any matter expressed or described on any substance by letters, figures or marks, intended to be used, or which may be used, as evidence of that matter — and it expressly includes electronic and digital records (s.2(8)).",
     "meaningHi": "दस्तावेज़ — किसी पदार्थ पर अक्षरों, अंकों या चिह्नों द्वारा व्यक्त या वर्णित कोई विषय, जिसे उस विषय के साक्ष्य के रूप में प्रयोग करने का आशय हो या जो ऐसे प्रयोग हो सकता हो — इसमें इलेक्ट्रॉनिक और डिजिटल अभिलेख स्पष्ट रूप से शामिल हैं (धारा 2(8))।",
     "relatedSections": [
-      "s-2"
+      "s-2",
+      "s-201"
     ]
   },
   {
@@ -228,7 +235,14 @@
       "s-156",
       "s-157",
       "s-189",
-      "s-195"
+      "s-195",
+      "s-198",
+      "s-199",
+      "s-201",
+      "s-202",
+      "s-203",
+      "s-204",
+      "s-205"
     ]
   },
   {
@@ -351,7 +365,9 @@
       "s-2",
       "s-100",
       "s-129",
-      "s-171"
+      "s-171",
+      "s-198",
+      "s-201"
     ]
   },
   {
@@ -807,7 +823,9 @@
       "s-64",
       "s-65",
       "s-66",
-      "s-70"
+      "s-70",
+      "s-199",
+      "s-200"
     ]
   },
   {
@@ -1115,7 +1133,9 @@
     "meaningEn": "Causing damage, deformity, burns, disfigurement, disability or grievous hurt by throwing or administering acid (any acidic, corrosive or burning substance), or attempting to do so (s.124).",
     "meaningHi": "अम्ल हमला — अम्ल (कोई भी अम्लीय, संक्षारक या जलाने वाला पदार्थ) फेंककर या पिलाकर क्षति, विरूपता, जलन, विद्रूपण, निःशक्तता या घोर उपहति कारित करना, या ऐसा करने का प्रयत्न (धारा 124)।",
     "relatedSections": [
-      "s-124"
+      "s-124",
+      "s-199",
+      "s-200"
     ]
   },
   {
@@ -1244,7 +1264,8 @@
     "meaningHi": "दुर्व्यापार — शोषण के लिए धमकी, बल, अपहरण, कपट, शक्ति के दुरुपयोग या प्रलोभन द्वारा किसी व्यक्ति की भर्ती, परिवहन, संश्रय, स्थानांतरण या प्राप्ति; पीड़ित की सहमति महत्वहीन है (धारा 143)।",
     "relatedSections": [
       "s-143",
-      "s-144"
+      "s-144",
+      "s-199"
     ]
   },
   {
@@ -1402,11 +1423,12 @@
   },
   {
     "id": "garb-or-token",
-    "term": "Garb or token (of the armed forces)",
-    "meaningEn": "A uniform, badge or other sign resembling that used by soldiers, sailors or airmen. Wearing or carrying one to pass oneself off as such a person is punished by s.168.",
-    "meaningHi": "पोशाक या प्रतीक (सशस्त्र बलों का) — सैनिकों, नौसैनिकों या वायुसैनिकों द्वारा प्रयुक्त वर्दी, बिल्ला या अन्य चिह्न जैसा कुछ। स्वयं को ऐसा व्यक्ति दिखाने के लिए इसे पहनना या रखना धारा 168 में दंडनीय है।",
+    "term": "Garb or token",
+    "meaningEn": "A uniform, badge, identity card or other sign resembling one used by a class of persons such as soldiers, sailors, airmen or public servants. Wearing or carrying one so that others believe one belongs to that class is punished by s.168 (armed forces) and s.205 (public servants).",
+    "meaningHi": "पोशाक या प्रतीक — किसी वर्ग, जैसे सैनिकों, नौसैनिकों, वायुसैनिकों या लोक सेवकों, द्वारा प्रयुक्त वर्दी, बिल्ला, पहचान-पत्र या अन्य चिह्न जैसा कुछ। स्वयं को उस वर्ग का दिखाने के लिए इसे पहनना या रखना धारा 168 (सशस्त्र बल) और धारा 205 (लोक सेवक) में दंडनीय है।",
     "relatedSections": [
-      "s-168"
+      "s-168",
+      "s-205"
     ]
   },
   {
@@ -1595,6 +1617,43 @@
     "meaningHi": "लोक प्रशांति — समाज की सामान्य शांति और सुव्यवस्था, जिसमें लोग अव्यवस्था या सामूहिक हिंसा के भय के बिना सार्वजनिक जीवन जी सकें। अध्याय 11 इसकी रक्षा करता है।",
     "relatedSections": [
       "s-196"
+    ]
+  },
+  {
+    "id": "direction-of-law",
+    "term": "Direction of law",
+    "meaningEn": "A legal rule — in a statute, rules or binding orders — that tells a public servant how he must act in carrying out his duties, such as how to execute a decree or conduct an investigation. Knowingly disobeying it to cause injury is an offence under s.198; certain investigative directions are enforced by s.199.",
+    "meaningHi": "विधि का निदेश — विधि, नियम या बाध्यकारी आदेश में दिया गया वह निर्देश जो लोक सेवक को बताता है कि उसे अपने कर्तव्य का पालन कैसे करना है, जैसे डिक्री का निष्पादन या अन्वेषण करना। क्षति पहुँचाने के आशय से इसकी जानबूझकर अवज्ञा धारा 198 में अपराध है।",
+    "relatedSections": [
+      "s-198",
+      "s-199"
+    ]
+  },
+  {
+    "id": "electronic-record",
+    "term": "Electronic record",
+    "meaningEn": "Data, a record or data generated, an image or sound stored, received or sent in electronic form, or microfilm or computer-generated microfiche. The BNS takes this meaning from the Information Technology Act, 2000 through s.2(39).",
+    "meaningHi": "इलेक्ट्रॉनिक अभिलेख — इलेक्ट्रॉनिक रूप में संग्रहीत, प्राप्त या भेजा गया डेटा, अभिलेख, छवि या ध्वनि, अथवा माइक्रोफिल्म या कंप्यूटर-जनित माइक्रोफिश। भा.न्या.सं. की धारा 2(39) के माध्यम से इसका अर्थ सूचना प्रौद्योगिकी अधिनियम, 2000 से लिया गया है।",
+    "relatedSections": [
+      "s-201"
+    ]
+  },
+  {
+    "id": "colour-of-office",
+    "term": "Colour of office",
+    "meaningEn": "The apparent authority of a public office. An act is done 'under colour of office' when it is done on the strength of that office, or of pretending to hold it — for example, demanding documents or money as if one were an inspector. Under s.204, acting under colour of a pretended office is what turns a false claim into personation of a public servant.",
+    "meaningHi": "पद की आड़ — किसी लोक पद का प्रतीयमान प्राधिकार। जब कोई कार्य उस पद के बल पर, या उस पद को धारण करने का ढोंग करके किया जाता है, तो वह 'पद की आड़ में' किया गया कार्य है। धारा 204 में ऐसा कार्य लोक सेवक के प्रतिरूपण का आवश्यक तत्व है।",
+    "relatedSections": [
+      "s-204"
+    ]
+  },
+  {
+    "id": "confiscation",
+    "term": "Confiscation",
+    "meaningEn": "Taking property away from its holder by order of law, so that it passes to the Government. Under s.203, property unlawfully bought by a public servant barred from buying it must be confiscated.",
+    "meaningHi": "अधिहरण (ज़ब्ती) — विधि के आदेश से किसी व्यक्ति से संपत्ति छीनकर सरकार को सौंप देना। धारा 203 में, क्रय से वर्जित लोक सेवक द्वारा अवैध रूप से खरीदी गई संपत्ति का अधिहरण किया जाएगा।",
+    "relatedSections": [
+      "s-203"
     ]
   }
 ]

@@ -1,0 +1,95 @@
+{
+  "id": "ch-12",
+  "number": "XII",
+  "title": "Of Offences by or Relating to Public Servants",
+  "sectionRange": "198-205",
+  "shortDescription": "Offences by public servants who misuse their position — disobeying the law to cause injury, failing to register FIRs in serious offences, falsifying records, trading or buying property against legal bars — plus hospitals refusing to treat victims, and people who impersonate public servants or wear their uniform.",
+  "subHeadings": [
+    { "id": "duty", "label": "Public servants breaking legal duties", "sectionIds": ["s-198", "s-199", "s-200", "s-201"] },
+    { "id": "trade-property", "label": "Unlawful trade and purchases", "sectionIds": ["s-202", "s-203"] },
+    { "id": "personation", "label": "Impersonating public servants", "sectionIds": ["s-204", "s-205"] }
+  ],
+  "summary": "Chapter XII deals with the misuse of public office and with people who pretend to hold it. It corresponds to Chapter IX of the IPC, which ran from s.166 to s.171. The IPC's bribery offences (ss.161-165A) had already been repealed in 1988 and moved to the Prevention of Corruption Act, so they do not appear here. The BNS keeps the remaining eight sections in the same order, and each BNS section maps to one IPC section: 198 to 166, 199 to 166A, 200 to 166B, 201 to 167, 202 to 168, 203 to 169, 204 to 170 and 205 to 171. The Gazette gives the chapter no sub-headings; the sections fall into three groups: public servants breaking legal duties (ss.198-201), unlawful trade and purchases (ss.202-203), and impersonating public servants (ss.204-205).\n\nSection 198 punishes a public servant who knowingly disobeys a direction of law about how he must do his job, intending or knowing it likely to cause injury to a person (simple imprisonment up to one year). Section 199 is aimed at investigating officers: knowingly breaking the rules that forbid summoning certain persons for investigation, or other rules on how an investigation is conducted, or — most importantly — failing to record an FIR under BNSS s.173(1) for rape and related sexual offences, acid attack and trafficking. It carries a mandatory minimum of six months' rigorous imprisonment, up to two years, and fine. Section 200 makes the person in charge of any hospital, government or private, liable for up to one year if it fails to give the immediate free treatment to rape and acid-attack victims required by BNSS s.397. Section 201 punishes a public servant who knowingly prepares or translates an official document or electronic record incorrectly to cause injury (up to three years).\n\nSections 202 and 203 prevent conflicts of interest. A public servant legally barred from trade who engages in trade faces simple imprisonment up to one year, or fine, or both — and the BNS now adds community service as an option. A public servant legally barred from buying certain property who buys or bids for it, even through another person, faces simple imprisonment up to two years, or fine, or both, and the property is confiscated.\n\nSection 204 punishes pretending to hold a public office, or personating a real office-holder, and acting under colour of that office. The BNS makes it far more serious than s.170 IPC: at least six months, up to three years, and a compulsory fine; it is cognizable and non-bailable. Section 205 punishes wearing a public servant's garb or carrying a token resembling theirs so that people believe one belongs to that class; its fine rises from ₹200 to ₹5,000. Sections 199, 201, 204 and 205 are cognizable; the rest are non-cognizable. All are bailable except s.204, and none is compoundable.",
+  "keyPoints": [
+    {
+      "point": "Section 198 — Disobeying law to cause injury",
+      "subPoints": [
+        "Public servant knowingly disobeys a direction of law on how to conduct himself",
+        "Intending or knowing it likely to cause injury to any person",
+        "Simple imprisonment up to 1 year, or fine, or both",
+        "Non-cognizable, bailable (= s.166 IPC)"
+      ]
+    },
+    {
+      "point": "Section 199 — Investigation and FIR failures",
+      "subPoints": [
+        "(a) Requiring attendance of a person for investigation in breach of law",
+        "(b) Disobeying other directions on conducting an investigation, to someone's prejudice",
+        "(c) Not recording an FIR under BNSS s.173(1) for ss.64-68, 70, 71, 74, 76, 77, 79, 124, 143, 144",
+        "RI not less than 6 months, up to 2 years, and fine",
+        "Cognizable, bailable (= s.166A IPC)"
+      ]
+    },
+    {
+      "point": "Sections 200-201 — Hospitals and false records",
+      "subPoints": [
+        "s.200 — person in charge of any hospital breaching BNSS s.397 (free immediate treatment of victims): 1 year",
+        "s.200 applies to private hospitals too — accused need not be a public servant",
+        "s.201 — public servant preparing or translating a document or electronic record incorrectly to cause injury: 3 years",
+        "s.201 is cognizable; s.200 is non-cognizable"
+      ]
+    },
+    {
+      "point": "Sections 202-203 — Trade and property",
+      "subPoints": [
+        "s.202 — public servant legally barred from trade engaging in trade",
+        "s.202 — simple imprisonment 1 year, or fine, or both, or community service (NEW)",
+        "s.203 — public servant legally barred from buying certain property buying or bidding for it",
+        "s.203 — simple imprisonment 2 years, or fine, or both; property confiscated"
+      ]
+    },
+    {
+      "point": "Sections 204-205 — Impersonation",
+      "subPoints": [
+        "s.204 — pretending to hold an office, or personating an office-holder, and acting under colour of office",
+        "s.204 — min 6 months, up to 3 years, and fine (IPC: up to 2 years); cognizable, non-bailable",
+        "s.205 — wearing garb or carrying token of a class of public servants to be believed one of them",
+        "s.205 — 3 months, or fine up to ₹5,000 (IPC: ₹200), or both"
+      ]
+    }
+  ],
+  "fastRevision": [
+    "Chapter XII corresponds to IPC Chapter IX (ss.166-171); IPC bribery sections 161-165A were repealed in 1988.",
+    "Mapping: 198 = 166; 199 = 166A; 200 = 166B; 201 = 167; 202 = 168; 203 = 169; 204 = 170; 205 = 171.",
+    "s.198 — public servant knowingly disobeying law, intending or knowing it likely to cause injury.",
+    "s.198 — simple imprisonment up to 1 year, or fine, or both.",
+    "s.198 Illustration — officer who knowingly fails to execute a decree to injure the decree-holder.",
+    "s.199(a) — requiring attendance of a person for investigation in breach of law.",
+    "s.199(b) — disobeying other directions on conducting an investigation, to someone's prejudice.",
+    "s.199(c) — failing to record information under BNSS s.173(1) about listed serious offences.",
+    "s.199(c) list: ss.64, 65, 66, 67, 68, 70, 71, 74, 76, 77, 79, 124, 143, 144.",
+    "s.199 — rigorous imprisonment not less than 6 months, up to 2 years, and fine.",
+    "s.199 — cognizable, bailable, Magistrate of the first class.",
+    "s.200 — person in charge of a hospital (public or private) contravening BNSS s.397.",
+    "BNSS s.397 — free, immediate first-aid or treatment for victims of ss.64-68, 70, 71, 124(1) BNS and POCSO ss.4, 6, 8, 10; inform police.",
+    "s.200 — up to 1 year, or fine, or both; non-cognizable.",
+    "s.201 — public servant knowingly framing or translating a document or electronic record incorrectly to cause injury.",
+    "s.201 — up to 3 years, or fine, or both; cognizable, bailable.",
+    "s.202 — public servant legally barred from trade engaging in trade.",
+    "s.202 — simple imprisonment up to 1 year, or fine, or both, or community service (NEW).",
+    "s.203 — public servant legally barred from buying certain property purchasing or bidding for it.",
+    "s.203 — covers purchase in own name, another's name, jointly or in shares.",
+    "s.203 — simple imprisonment up to 2 years, or fine, or both; property confiscated.",
+    "s.204 — pretending to hold a public office, or personating an office-holder, and acting under colour of office.",
+    "s.204 — not less than 6 months, up to 3 years, and fine (IPC s.170: 2 years).",
+    "s.204 — cognizable, non-bailable, any Magistrate — the only non-bailable offence in the Chapter.",
+    "s.205 — wearing garb or carrying token of public servants, intending to be believed one of them.",
+    "s.205 — up to 3 months, or fine up to ₹5,000 (IPC: ₹200), or both.",
+    "s.204 needs an act under colour of office; s.205 needs only the deceptive garb or token.",
+    "s.205 covers civil public servants; s.168 covers the garb of soldiers, sailors and airmen.",
+    "Cognizable: ss.199, 201, 204, 205. Non-cognizable: ss.198, 200, 202, 203.",
+    "No Chapter XII offence is compoundable."
+  ],
+  "mindMap": "# Ch. XII — Public Servants\n## Breaking legal duties (ss.198-201)\n- Disobeying law to injure (s.198)\n  - SI 1 yr\n- Investigation / FIR failures (s.199)\n  - Not recording FIR for sexual offences, acid attack, trafficking\n  - RI 6 months - 2 yrs + fine\n- Hospital not treating victim (s.200)\n  - BNSS s.397; public or private\n- Incorrect document (s.201)\n  - 3 yrs\n## Trade & property (ss.202-203)\n- Unlawful trade (s.202)\n  - Community service — NEW\n- Buying barred property (s.203)\n  - Confiscation\n## Impersonation (ss.204-205)\n- Personating public servant (s.204)\n  - 6 months - 3 yrs + fine; non-bailable\n- Garb or token (s.205)\n  - 3 months / ₹5,000",
+  "lastVerified": "2026-09-29"
+}
