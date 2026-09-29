@@ -1,0 +1,211 @@
+[
+  {
+    "id": "mcq-ch12-1",
+    "chapterId": "ch-12",
+    "question": "Section 198 of the BNS corresponds to which IPC section?",
+    "options": ["Section 161", "Section 166", "Section 166A", "Section 167"],
+    "correctIndex": 1,
+    "explanation": "s.198 re-enacts s.166 IPC: public servant disobeying law with intent to cause injury."
+  },
+  {
+    "id": "mcq-ch12-2",
+    "chapterId": "ch-12",
+    "question": "The punishment under Section 198 is—",
+    "options": [
+      "Rigorous imprisonment up to 2 years",
+      "Simple imprisonment up to 1 year, or fine, or both",
+      "Imprisonment up to 3 years and fine",
+      "Fine only"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.198: simple imprisonment for a term which may extend to one year, or fine, or both."
+  },
+  {
+    "id": "mcq-ch12-3",
+    "chapterId": "ch-12",
+    "question": "Under Section 199(c), a public servant is punished for failing to record information given under—",
+    "options": [
+      "BNSS s.154",
+      "BNSS s.173(1)",
+      "BNSS s.397",
+      "BSA s.63"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.199(c) refers to information given under sub-section (1) of section 173 of the BNSS, 2023 (the FIR provision, formerly CrPC s.154)."
+  },
+  {
+    "id": "mcq-ch12-4",
+    "chapterId": "ch-12",
+    "question": "The punishment under Section 199 is—",
+    "options": [
+      "Simple imprisonment up to 1 year",
+      "Rigorous imprisonment not less than 6 months, up to 2 years, and fine",
+      "Rigorous imprisonment not less than 1 year, up to 3 years",
+      "Fine not less than ₹25,000"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.199: rigorous imprisonment for not less than six months which may extend to two years, and fine."
+  },
+  {
+    "id": "mcq-ch12-5",
+    "chapterId": "ch-12",
+    "question": "Which of these offences is NOT listed in Section 199(c)?",
+    "options": [
+      "Section 64 (rape)",
+      "Section 124 (acid attack)",
+      "Section 78 (stalking)",
+      "Section 143 (trafficking)"
+    ],
+    "correctIndex": 2,
+    "explanation": "The s.199(c) list is ss.64, 65, 66, 67, 68, 70, 71, 74, 76, 77, 79, 124, 143 and 144. Section 78 (stalking) is not in it."
+  },
+  {
+    "id": "mcq-ch12-6",
+    "chapterId": "ch-12",
+    "question": "Section 200 of the BNS applies to—",
+    "options": [
+      "Only government hospitals",
+      "Only public servants",
+      "The person in charge of any hospital, public or private",
+      "Only doctors who treat the victim"
+    ],
+    "correctIndex": 2,
+    "explanation": "s.200 covers whoever is in charge of a hospital, public or private, whether run by the Central Government, State Government, local bodies or any other person."
+  },
+  {
+    "id": "mcq-ch12-7",
+    "chapterId": "ch-12",
+    "question": "The duty of hospitals to treat victims free of cost, enforced by Section 200, is found in—",
+    "options": ["BNSS s.173", "BNSS s.397", "BNS s.64", "CrPC s.357A"],
+    "correctIndex": 1,
+    "explanation": "s.200 punishes contravention of BNSS s.397 (formerly CrPC s.357C)."
+  },
+  {
+    "id": "mcq-ch12-8",
+    "chapterId": "ch-12",
+    "question": "Under Section 201, a public servant who knowingly prepares an incorrect document to cause injury is punishable with—",
+    "options": [
+      "Up to 1 year, or fine, or both",
+      "Up to 3 years, or fine, or both",
+      "Up to 7 years and fine",
+      "Life imprisonment"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.201: imprisonment of either description up to three years, or fine, or both."
+  },
+  {
+    "id": "mcq-ch12-9",
+    "chapterId": "ch-12",
+    "question": "Section 201 applies to incorrect preparation or translation of—",
+    "options": [
+      "Documents only",
+      "Electronic records only",
+      "A document or electronic record",
+      "Only court judgments"
+    ],
+    "correctIndex": 2,
+    "explanation": "s.201 covers any document or electronic record that the public servant is charged with preparing or translating."
+  },
+  {
+    "id": "mcq-ch12-10",
+    "chapterId": "ch-12",
+    "question": "Which punishment is NEWLY added to Section 202 (public servant unlawfully engaging in trade)?",
+    "options": ["Rigorous imprisonment", "Forfeiture of property", "Community service", "Death"],
+    "correctIndex": 2,
+    "explanation": "s.202: simple imprisonment up to one year, or fine, or both, or with community service. Community service was not in s.168 IPC."
+  },
+  {
+    "id": "mcq-ch12-11",
+    "chapterId": "ch-12",
+    "question": "Under Section 203, property unlawfully purchased by a public servant—",
+    "options": [
+      "May be returned to the seller",
+      "Shall be confiscated",
+      "Shall be auctioned again with his consent",
+      "Remains his after paying a fine"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.203: '...and the property, if purchased, shall be confiscated.'"
+  },
+  {
+    "id": "mcq-ch12-12",
+    "chapterId": "ch-12",
+    "question": "Section 203 applies when the public servant buys the barred property—",
+    "options": [
+      "Only in his own name",
+      "In his own name, in another's name, jointly, or in shares with others",
+      "Only through a registered sale deed",
+      "Only at a court auction"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.203 covers purchases or bids 'either in his own name or in the name of another, or jointly, or in shares with others'."
+  },
+  {
+    "id": "mcq-ch12-13",
+    "chapterId": "ch-12",
+    "question": "The punishment for personating a public servant under Section 204 is—",
+    "options": [
+      "Up to 2 years, or fine, or both",
+      "Not less than 6 months, up to 3 years, and fine",
+      "Up to 3 months, or fine up to ₹5,000",
+      "Up to 7 years and fine"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.204: imprisonment of either description not less than six months, up to three years, and fine. Under s.170 IPC it was up to two years, or fine, or both."
+  },
+  {
+    "id": "mcq-ch12-14",
+    "chapterId": "ch-12",
+    "question": "Which is the only non-bailable offence in Chapter XII?",
+    "options": ["Section 199", "Section 201", "Section 204", "Section 205"],
+    "correctIndex": 2,
+    "explanation": "BNSS First Schedule: s.204 (personating a public servant) is cognizable and non-bailable; all others in the Chapter are bailable."
+  },
+  {
+    "id": "mcq-ch12-15",
+    "chapterId": "ch-12",
+    "question": "An essential ingredient of Section 204 that is NOT required under Section 205 is—",
+    "options": [
+      "Wearing a uniform",
+      "Doing or attempting an act under colour of the office",
+      "Intention that others believe he is a public servant",
+      "Not being a public servant"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.204 requires doing or attempting to do an act under colour of the pretended office; s.205 is complete on wearing the garb or carrying the token with the required intention or knowledge."
+  },
+  {
+    "id": "mcq-ch12-16",
+    "chapterId": "ch-12",
+    "question": "The maximum fine under Section 205 (wearing garb of a public servant) is—",
+    "options": ["₹200", "₹1,000", "₹5,000", "₹25,000"],
+    "correctIndex": 2,
+    "explanation": "s.205: up to three months, or fine up to ₹5,000, or both. The IPC (s.171) fine was ₹200."
+  },
+  {
+    "id": "mcq-ch12-17",
+    "chapterId": "ch-12",
+    "question": "Which of these Chapter XII offences is non-cognizable?",
+    "options": [
+      "s.199 — not recording an FIR",
+      "s.201 — framing an incorrect document",
+      "s.202 — unlawfully engaging in trade",
+      "s.204 — personating a public servant"
+    ],
+    "correctIndex": 2,
+    "explanation": "ss.198, 200, 202 and 203 are non-cognizable; ss.199, 201, 204 and 205 are cognizable."
+  },
+  {
+    "id": "mcq-ch12-18",
+    "chapterId": "ch-12",
+    "question": "Offences under Chapter XII are triable by a Magistrate of the first class, EXCEPT—",
+    "options": [
+      "ss.198 and 199",
+      "ss.200 and 201",
+      "ss.202 and 203",
+      "ss.204 and 205, triable by any Magistrate"
+    ],
+    "correctIndex": 3,
+    "explanation": "BNSS First Schedule: ss.198-203 are triable by a Magistrate of the first class; ss.204 and 205 by any Magistrate."
+  }
+]

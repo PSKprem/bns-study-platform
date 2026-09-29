@@ -1,0 +1,72 @@
+[
+  {
+    "id": "qa-ch12-1",
+    "chapterId": "ch-12",
+    "question": "Explain the offence under Section 198 of the BNS (public servant disobeying law with intent to cause injury).",
+    "modelAnswer": "Section 198 (formerly s.166 IPC) punishes a public servant who knowingly disobeys any direction of the law as to the way in which he is to conduct himself as a public servant, intending to cause, or knowing it to be likely that he will cause, injury to any person by that disobedience. The ingredients are: (1) the accused is a public servant; (2) there is a direction of law governing how he must conduct himself in that capacity; (3) he knowingly disobeys it; and (4) he intends, or knows it is likely, that injury will be caused to a person. 'Injury' under s.2 means any harm illegally caused to a person in body, mind, reputation or property. The mental element is essential: negligence, inefficiency or a bona fide error of judgment does not fall within the section. The Gazette's Illustration gives the example of an officer directed by law to take property in execution to satisfy a decree in Z's favour, who knowingly disobeys that direction knowing it is likely to injure Z. The punishment is simple imprisonment up to one year, or fine, or both. The offence is non-cognizable, bailable, not compoundable and triable by a Magistrate of the first class.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "qa-ch12-2",
+    "chapterId": "ch-12",
+    "question": "Discuss Section 199 of the BNS. Why is clause (c) important for victims of sexual offences?",
+    "modelAnswer": "Section 199 (formerly s.166A IPC) punishes a public servant who (a) knowingly disobeys a direction of law prohibiting him from requiring the attendance at any place of any person for investigation into an offence or other matter; (b) knowingly disobeys, to the prejudice of any person, any other direction of law regulating how he must conduct the investigation; or (c) fails to record information given to him under BNSS s.173(1) about a cognizable offence punishable under BNS ss.64, 65, 66, 67, 68, 70, 71, 74, 76, 77, 79, 124, 143 or 144. The punishment is rigorous imprisonment of not less than six months, which may extend to two years, and fine. It is cognizable, bailable, not compoundable and triable by a Magistrate of the first class. Clause (c) matters because the refusal of police to register complaints of rape and other sexual offences has long been a serious barrier to justice. The listed offences cover rape and aggravated rape (ss.64-66, 70, 71), sexual intercourse by a husband during separation or by a person in authority (ss.67-68), assault to outrage modesty (s.74), disrobing (s.76), voyeurism (s.77), insulting a woman's modesty (s.79), acid attack (s.124) and trafficking (ss.143-144). By making failure to record the FIR a personal offence of the officer, with a mandatory minimum sentence, the law gives victims a remedy against police inaction. The provision originated in the 2013 criminal law amendment that followed the Nirbhaya case.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "qa-ch12-3",
+    "chapterId": "ch-12",
+    "question": "What is the liability of a hospital under Section 200 of the BNS?",
+    "modelAnswer": "Section 200 (formerly s.166B IPC) punishes whoever, being in charge of a hospital, public or private, whether run by the Central Government, a State Government, a local body or any other person, contravenes BNSS s.397. BNSS s.397 requires all hospitals to provide first-aid or medical treatment immediately and free of cost to victims of offences under BNS ss.64, 65, 66, 67, 68, 70, 71 or s.124(1), or under ss.4, 6, 8 or 10 of the POCSO Act, 2012, and to inform the police immediately. So a hospital that refuses or delays treatment, demands payment, or fails to inform the police breaches the duty. The person in charge is punishable with imprisonment up to one year, or fine, or both. The offence is non-cognizable, bailable and triable by a Magistrate of the first class. Notably, it is placed in the chapter on public servants but the accused need not be a public servant: private hospitals are expressly covered.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "qa-ch12-4",
+    "chapterId": "ch-12",
+    "question": "Distinguish between Section 204 (personating a public servant) and Section 205 (wearing garb or carrying token used by a public servant).",
+    "modelAnswer": "Both sections protect public trust in the identity of public servants, but they differ. (1) Conduct: s.204 requires pretending to hold a particular public office knowing one does not, or falsely personating a person who holds it, and in that assumed character doing or attempting to do an act under colour of the office. Section 205 requires only wearing a garb or carrying a token resembling that of a class of public servants, with the intention or knowledge that one will be believed to belong to that class. (2) Act under colour of office: essential for s.204, not needed for s.205 — the deceptive appearance itself is the offence. (3) Specific office versus class: s.204 concerns a particular office or office-holder; s.205 concerns a class of public servants, such as police or excise officers. (4) Punishment: s.204 — imprisonment of either description not less than six months, up to three years, and fine; s.205 — up to three months, or fine up to ₹5,000, or both. (5) Classification: s.204 is cognizable and non-bailable; s.205 is cognizable and bailable; both are triable by any Magistrate. The BNS sharply increased the punishment under s.204 compared with s.170 IPC (up to two years, or fine, or both) and raised the fine under s.205 from ₹200. A person who wears a police uniform and then extorts money at a fake checkpoint may be liable under both.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "qa-ch12-5",
+    "chapterId": "ch-12",
+    "question": "Explain Sections 202 and 203 of the BNS. What is the purpose behind them?",
+    "modelAnswer": "Section 202 (formerly s.168 IPC) punishes a public servant who, being legally bound as such not to engage in trade, engages in trade. The punishment is simple imprisonment up to one year, or fine, or both, or community service. Section 203 (formerly s.169 IPC) punishes a public servant who, being legally bound as such not to purchase or bid for certain property, purchases or bids for it, whether in his own name or another's, or jointly, or in shares with others. The punishment is simple imprisonment up to two years, or fine, or both, and the property, if purchased, must be confiscated. Both are non-cognizable, bailable and triable by a Magistrate of the first class. Their purpose is to prevent conflicts of interest and abuse of position. A public servant engaged in trade may use his official power to benefit his business or neglect his duties; a public servant bidding at an auction his own office conducts could manipulate it. The legal bar itself comes from other laws or service rules — for example, government servants' conduct rules or procedural rules on court and revenue auctions — and s.202 and s.203 give it criminal force. The inclusion of 'in the name of another' in s.203 targets benami purchases. The addition of community service in s.202 is new in the BNS.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "qa-ch12-6",
+    "chapterId": "ch-12",
+    "question": "What does Section 201 of the BNS provide? Give an example.",
+    "modelAnswer": "Section 201 (formerly s.167 IPC) punishes a public servant who, being charged as such with preparing or translating a document or electronic record, frames, prepares or translates it in a manner he knows or believes to be incorrect, intending to cause, or knowing it likely to cause, injury to any person. The ingredients are: (1) the accused is a public servant; (2) he is officially charged with preparing or translating the document or electronic record; (3) he prepares or translates it in a manner he knows or believes to be incorrect; and (4) he intends or knows it likely that injury will be caused. The punishment is imprisonment of either description up to three years, or fine, or both; the offence is cognizable, bailable and triable by a Magistrate of the first class. Example: a revenue official responsible for mutation entries deliberately records the wrong person as owner of a plot so that the true owner loses it in a dispute. The section overlaps with forgery (Chapter XVIII) but is specific to public servants acting within their official duty to prepare or translate records.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "qa-ch12-7",
+    "chapterId": "ch-12",
+    "question": "Compare Section 198 and Section 199 of the BNS.",
+    "modelAnswer": "Both punish public servants for disobeying the law, but they differ in scope, mental element and punishment. Section 198 is general: it covers any direction of law about how a public servant must conduct himself, and requires that he knowingly disobey it intending or knowing it likely to cause injury to any person. Section 199 is specific to investigations: (a) requiring a person's attendance in breach of a legal prohibition; (b) disobeying any other legal direction on conducting an investigation, to someone's prejudice; and (c) failing to record an FIR under BNSS s.173(1) for listed serious offences — for clause (c), no intention to cause injury is required, only the failure to record. Punishment differs sharply: s.198 carries simple imprisonment up to one year, or fine, or both, with no minimum; s.199 carries rigorous imprisonment of at least six months and up to two years, and a compulsory fine. Section 198 is non-cognizable; s.199 is cognizable. Both are bailable, triable by a Magistrate of the first class and not compoundable. In short, s.198 is the general offence of disobedience with intent to injure, while s.199 targets specific, serious investigative failures, especially in sexual-offence cases.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "qa-ch12-8",
+    "chapterId": "ch-12",
+    "question": "What changes did the BNS make to the offences in this chapter compared with the IPC?",
+    "modelAnswer": "The chapter largely re-enacts IPC ss.166-171 in the same order, with a few important changes. (1) Section 199 (s.166A IPC) now refers to BNSS s.173(1) instead of CrPC s.154(1), and its list of offences is rewritten with BNS section numbers; stalking (s.78 BNS) does not appear in the list. (2) Section 200 (s.166B IPC) now enforces BNSS s.397 instead of CrPC s.357C. (3) Section 202 (s.168 IPC) adds community service as an alternative punishment for a public servant unlawfully engaging in trade. (4) Section 204 (s.170 IPC) is made much stricter: from up to two years, or fine, or both, to a mandatory minimum of six months, up to three years, and a compulsory fine; it is cognizable and non-bailable. (5) Section 205 (s.171 IPC) raises the maximum fine for wearing a public servant's garb or token from ₹200 to ₹5,000. Sections 198, 201 and 203 are unchanged in substance and punishment.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "qa-ch12-9",
+    "chapterId": "ch-12",
+    "question": "Problem: X, an unemployed man, puts on a khaki uniform with a fake police badge, stops trucks on a highway and collects ₹500 from each driver as a 'challan'. Discuss his liability under Chapter XII.",
+    "modelAnswer": "X is not a member of the police, but he wears a garb and carries a token resembling those used by the police, intending drivers to believe he is a policeman. That alone satisfies s.205, punishable with up to three months, or fine up to ₹5,000, or both. X goes further: he pretends to hold the office of a police officer, knowing he does not, and in that assumed character does acts under colour of the office — stopping trucks and collecting 'challan' money. This satisfies s.204, punishable with imprisonment of either description of at least six months, up to three years, and fine; it is cognizable and non-bailable. Beyond Chapter XII, collecting money by pretending to have authority may also amount to cheating by personation (s.319) or extortion (s.308), depending on whether the drivers paid because they were deceived or because they were put in fear. The facts give no indication that X personated a particular named officer, so the case falls under the first limb of s.204 (pretending to hold an office).",
+    "difficulty": "hard"
+  },
+  {
+    "id": "qa-ch12-10",
+    "chapterId": "ch-12",
+    "question": "Problem: A woman reports to the officer in charge of a police station that she was sexually assaulted by her employer. The officer refuses to write down her complaint, saying it is a 'family matter'. Later a private hospital refuses to examine her until she pays a fee. Discuss the liability of the officer and the hospital.",
+    "modelAnswer": "The officer: BNSS s.173(1) requires every information about a cognizable offence given to the officer in charge of a police station to be reduced to writing. If the facts disclose rape or another listed offence — for example s.64 (rape) or s.74 (assault or criminal force to outrage modesty), both cognizable — the officer's refusal to record it falls squarely within s.199(c). No intention to cause injury is required under clause (c). He is punishable with rigorous imprisonment of at least six months, up to two years, and fine; the offence is cognizable and bailable. The hospital: BNSS s.397 obliges every hospital, public or private, to give immediate free first-aid or medical treatment to victims of offences under BNS ss.64-68, 70, 71 or 124(1), and to inform the police. If the assault amounts to rape (s.64), the hospital's demand for payment before examination breaches s.397, and the person in charge is liable under s.200 — up to one year, or fine, or both; non-cognizable and bailable. If the offence were only under s.74, s.397 would not apply (s.74 is not in the s.397 list), so s.200 would not be attracted, though s.199(c) would still apply to the officer, since s.74 is in the s.199(c) list.",
+    "difficulty": "hard"
+  }
+]

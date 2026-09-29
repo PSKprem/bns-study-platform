@@ -1,0 +1,311 @@
+[
+  {
+    "id": "s-198",
+    "chapterId": "ch-12",
+    "number": "198",
+    "title": "Public servant disobeying law, with intent to cause injury to any person",
+    "bareActText": "Whoever, being a public servant, knowingly disobeys any direction of the law as to the way in which he is to conduct himself as such public servant, intending to cause, or knowing it to be likely that he will by such disobedience, cause injury to any person, shall be punished with simple imprisonment for a term which may extend to one year, or with fine, or with both. Illustration. A, being an officer directed by law to take property in execution, in order to satisfy a decree pronounced in Z's favour by a Court, knowingly disobeys that direction of law, with the knowledge that he is likely thereby to cause injury to Z. A has committed the offence defined in this section.",
+    "plainMeaning": "A public servant who knowingly disobeys a legal direction about how he must carry out his official duties is punishable if he intends to harm someone by doing so, or knows harm is likely. Mere carelessness or an honest mistake is not enough: the disobedience must be knowing, and it must be aimed at, or known to be likely to cause, injury to a person. The punishment is simple imprisonment up to one year, or fine, or both.",
+    "ingredients": [
+      "The accused is a public servant",
+      "There is a direction of law about how he must conduct himself as a public servant",
+      "He knowingly disobeys that direction",
+      "He intends to cause injury to a person, or knows injury is likely to result"
+    ],
+    "punishment": "Simple imprisonment up to 1 year, or fine, or both.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Magistrate of the first class"
+    },
+    "ipcReference": {
+      "section": "166 IPC",
+      "changeNote": "Re-enacted without change of substance or punishment."
+    },
+    "illustrations": [
+      "A tehsildar is required by law to issue a caste certificate once the applicant's documents are in order. To stop a particular applicant from getting a reserved-category job, he deliberately sits on the file past the deadline. He knowingly disobeys a direction of law intending to injure the applicant and is liable under s.198.",
+      "A clerk who misses a statutory deadline because of heavy workload, without any intention or knowledge of harming anyone, does not commit this offence."
+    ],
+    "termRefs": [
+      "public-servant",
+      "direction-of-law",
+      "injury",
+      "simple-imprisonment"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.198 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-199",
+    "chapterId": "ch-12",
+    "number": "199",
+    "title": "Public servant disobeying direction under law",
+    "bareActText": "Whoever, being a public servant,— (a) knowingly disobeys any direction of the law which prohibits him from requiring the attendance at any place of any person for the purpose of investigation into an offence or any other matter; or (b) knowingly disobeys, to the prejudice of any person, any other direction of the law regulating the manner in which he shall conduct such investigation; or (c) fails to record any information given to him under sub-section (1) of section 173 of the Bharatiya Nagarik Suraksha Sanhita, 2023 in relation to cognizable offence punishable under section 64, section 65, section 66, section 67, section 68, section 70, section 71, section 74, section 76, section 77, section 79, section 124, section 143 or section 144, shall be punished with rigorous imprisonment for a term which shall not be less than six months but which may extend to two years, and shall also be liable to fine.",
+    "plainMeaning": "This section makes police and other investigating officers personally answerable for three specific failures. (a) Knowingly breaking a legal rule that forbids summoning a person to a particular place for an investigation — for example, a rule that certain persons, such as women or the elderly, must be questioned at their residence. (b) Knowingly breaking any other legal rule on how an investigation must be conducted, to someone's prejudice. (c) Failing to record information (an FIR) under BNSS s.173(1) about serious offences against women and certain other grave offences: rape and related offences (ss.64-68, 70, 71), assault or criminal force to outrage modesty (s.74), disrobing (s.76), voyeurism (s.77), words or gestures insulting a woman's modesty (s.79), acid attack (s.124), and trafficking and exploitation of trafficked persons (ss.143, 144). The punishment has a mandatory minimum: rigorous imprisonment of at least six months, up to two years, and fine.",
+    "ingredients": [
+      "The accused is a public servant",
+      "(a) Knowingly disobeying a direction of law that prohibits requiring a person's attendance at any place for investigation; or",
+      "(b) Knowingly disobeying any other direction of law on the conduct of an investigation, to the prejudice of any person; or",
+      "(c) Failing to record information given under BNSS s.173(1) about a cognizable offence under BNS ss.64, 65, 66, 67, 68, 70, 71, 74, 76, 77, 79, 124, 143 or 144"
+    ],
+    "punishment": "Rigorous imprisonment for not less than 6 months, which may extend to 2 years, and fine.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Magistrate of the first class"
+    },
+    "ipcReference": {
+      "section": "166A IPC",
+      "changeNote": "Re-enacts s.166A IPC (inserted in 2013 after the Nirbhaya case) with the same punishment. Clause (c) now refers to BNSS s.173(1) instead of CrPC s.154(1), and the list of offences is renumbered to the BNS sections. Stalking (BNS s.78, formerly s.354D IPC) does not appear in the new list."
+    },
+    "illustrations": [
+      "A woman goes to a police station to report that she has been raped. The officer in charge refuses to register her complaint and tells her to 'settle the matter at home'. He has failed to record information under BNSS s.173(1) about an offence under s.64 and is liable under s.199(c).",
+      "An investigating officer, knowing the law requires a woman witness to be questioned at her home, orders her to come to the police station late at night. He is liable under s.199(a)."
+    ],
+    "termRefs": [
+      "public-servant",
+      "direction-of-law",
+      "rigorous-imprisonment",
+      "rape",
+      "acid-attack",
+      "trafficking"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.199 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-200",
+    "chapterId": "ch-12",
+    "number": "200",
+    "title": "Punishment for non-treatment of victim",
+    "bareActText": "Whoever, being in charge of a hospital, public or private, whether run by the Central Government, the State Government, local bodies or any other person, contravenes the provisions of section 397 of the Bharatiya Nagarik Suraksha Sanhita, 2023, shall be punished with imprisonment for a term which may extend to one year, or with fine, or with both.",
+    "plainMeaning": "BNSS s.397 requires every hospital, government or private, to give immediate first-aid or medical treatment, free of cost, to victims of rape and related offences (BNS ss.64-68, 70, 71), acid attack (s.124(1)) and certain POCSO offences, and to inform the police at once. The person in charge of a hospital that breaks this rule — for example by turning a victim away or demanding payment first — is punishable with imprisonment up to one year, or fine, or both. The accused need not be a public servant: private hospitals are equally covered.",
+    "ingredients": [
+      "The accused is in charge of a hospital — public or private, run by the Central or State Government, a local body or any other person",
+      "The hospital contravenes BNSS s.397",
+      "BNSS s.397 requires immediate free first-aid or medical treatment for victims of BNS ss.64-68, 70, 71, 124(1) or POCSO ss.4, 6, 8, 10, and immediate information to the police"
+    ],
+    "punishment": "Imprisonment up to 1 year, or fine, or both.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Magistrate of the first class"
+    },
+    "ipcReference": {
+      "section": "166B IPC",
+      "changeNote": "Re-enacts s.166B IPC with the same punishment; the duty it enforces is now in BNSS s.397 (formerly CrPC s.357C)."
+    },
+    "illustrations": [
+      "An acid-attack survivor is brought to a private hospital's emergency ward. The medical superintendent refuses to start treatment until the family pays a deposit. The hospital has breached BNSS s.397, and the superintendent, being in charge, is liable under s.200.",
+      "A government hospital treats a rape survivor free of cost at once but its staff forget to inform the police. The duty to inform the police immediately is also part of BNSS s.397, so the person in charge may be liable."
+    ],
+    "termRefs": [
+      "rape",
+      "acid-attack"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.200 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette); BNSS s.397 read from the BNSS Gazette."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-201",
+    "chapterId": "ch-12",
+    "number": "201",
+    "title": "Public servant framing an incorrect document with intent to cause injury",
+    "bareActText": "Whoever, being a public servant, and being, as such public servant, charged with the preparation or translation of any document or electronic record, frames, prepares or translates that document or electronic record in a manner which he knows or believes to be incorrect, intending thereby to cause or knowing it to be likely that he may thereby cause injury to any person, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+    "plainMeaning": "A public servant whose official job is to prepare or translate a document or electronic record commits this offence if he prepares or translates it in a way he knows or believes is incorrect, intending to harm someone or knowing harm is likely. It targets deliberate falsification of official records — a wrong entry in a land record, a slanted translation of a statement, a doctored online record. The punishment is up to three years, or fine, or both.",
+    "ingredients": [
+      "The accused is a public servant",
+      "He is charged, as a public servant, with preparing or translating a document or electronic record",
+      "He frames, prepares or translates it in a manner he knows or believes to be incorrect",
+      "He intends to cause injury to a person, or knows injury is likely"
+    ],
+    "punishment": "Imprisonment of either description up to 3 years, or fine, or both.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Magistrate of the first class"
+    },
+    "ipcReference": {
+      "section": "167 IPC",
+      "changeNote": "Re-enacted without change of substance or punishment."
+    },
+    "illustrations": [
+      "A patwari responsible for updating the land records deliberately enters a neighbour's name as owner of B's field, so that B loses the land in a pending dispute. The patwari is liable under s.201.",
+      "A court translator knowingly mistranslates a witness's statement to make it look like a confession, to harm the accused. The translator is liable under s.201."
+    ],
+    "termRefs": [
+      "public-servant",
+      "document",
+      "electronic-record",
+      "injury"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.201 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-202",
+    "chapterId": "ch-12",
+    "number": "202",
+    "title": "Public servant unlawfully engaging in trade",
+    "bareActText": "Whoever, being a public servant, and being legally bound as such public servant not to engage in trade, engages in trade, shall be punished with simple imprisonment for a term which may extend to one year, or with fine, or with both or with community service.",
+    "plainMeaning": "Many public servants are forbidden by law or their service rules from carrying on trade or business, to avoid conflicts of interest. A public servant under such a legal bar who engages in trade anyway is punishable with simple imprisonment up to one year, or fine, or both, or community service. It is one of the offences for which the BNS newly allows community service as a punishment.",
+    "ingredients": [
+      "The accused is a public servant",
+      "He is legally bound, as a public servant, not to engage in trade",
+      "He engages in trade"
+    ],
+    "punishment": "Simple imprisonment up to 1 year, or fine, or both, or community service.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Magistrate of the first class"
+    },
+    "ipcReference": {
+      "section": "168 IPC",
+      "changeNote": "Same offence and same maximum imprisonment; community service is added as an alternative punishment."
+    },
+    "illustrations": [
+      "A government school teacher, whose service rules bar him from carrying on business, runs a wholesale grocery shop in his wife's name and manages it himself every day. He engages in trade in breach of his legal obligation and is liable under s.202."
+    ],
+    "termRefs": [
+      "public-servant",
+      "community-service",
+      "simple-imprisonment"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.202 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-203",
+    "chapterId": "ch-12",
+    "number": "203",
+    "title": "Public servant unlawfully buying or bidding for property",
+    "bareActText": "Whoever, being a public servant, and being legally bound as such public servant, not to purchase or bid for certain property, purchases or bids for that property, either in his own name or in the name of another, or jointly, or in shares with others, shall be punished with simple imprisonment for a term which may extend to two years, or with fine, or with both; and the property, if purchased, shall be confiscated.",
+    "plainMeaning": "Some public servants are legally barred from buying or bidding for certain property — typically property sold through their own office, such as goods auctioned by a revenue officer or court. If such a public servant buys or bids for it, whether in his own name, through someone else (a 'benami' buyer), jointly or in shares, he is punishable with simple imprisonment up to two years, or fine, or both. Any property actually bought must be confiscated.",
+    "ingredients": [
+      "The accused is a public servant",
+      "He is legally bound, as a public servant, not to purchase or bid for certain property",
+      "He purchases or bids for that property",
+      "In his own name, in another's name, jointly, or in shares with others"
+    ],
+    "punishment": "Simple imprisonment up to 2 years, or fine, or both; and the property, if purchased, shall be confiscated.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Magistrate of the first class"
+    },
+    "ipcReference": {
+      "section": "169 IPC",
+      "changeNote": "Re-enacted without change of substance or punishment."
+    },
+    "illustrations": [
+      "A court nazir conducting the auction of a debtor's car under a court decree gets his brother-in-law to bid for it on his behalf and keeps the car. The nazir is liable under s.203, and the car must be confiscated."
+    ],
+    "termRefs": [
+      "public-servant",
+      "confiscation",
+      "simple-imprisonment"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.203 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-204",
+    "chapterId": "ch-12",
+    "number": "204",
+    "title": "Personating a public servant",
+    "bareActText": "Whoever pretends to hold any particular office as a public servant, knowing that he does not hold such office or falsely personates any other person holding such office, and in such assumed character does or attempts to do any act under colour of such office, shall be punished with imprisonment of either description for a term which shall not be less than six months but which may extend to three years and with fine.",
+    "plainMeaning": "A person commits this offence who either pretends to hold a particular public office knowing he does not, or falsely poses as a specific person who holds that office — and then, in that assumed character, does or tries to do some act under colour of the office (that is, using its apparent authority). Merely claiming to be an officer is not enough; there must be an act, or an attempt, done on the strength of the pretended office. The BNS makes this much more serious than before: imprisonment of at least six months, up to three years, and fine. It is cognizable and non-bailable.",
+    "ingredients": [
+      "Pretending to hold a particular office as a public servant, knowing one does not hold it; or falsely personating another person who holds that office",
+      "Doing or attempting to do an act in that assumed character",
+      "The act is done under colour of that office"
+    ],
+    "punishment": "Imprisonment of either description for not less than 6 months, which may extend to 3 years, and fine.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "170 IPC",
+      "changeNote": "Section 170 IPC carried up to 2 years, or fine, or both. The BNS adds a mandatory minimum of 6 months, raises the maximum to 3 years, and makes fine compulsory."
+    },
+    "illustrations": [
+      "C tells shopkeepers in a market that he is a food-safety inspector, 'inspects' their stock and collects 'penalties' from them. C pretends to hold a public office and acts under colour of it, and is liable under s.204 (and may also be liable for cheating or extortion).",
+      "D telephones a businessman pretending to be a named senior police officer and orders him to appear at a hotel for 'questioning'. D falsely personates a person holding the office and attempts an act under colour of it."
+    ],
+    "termRefs": [
+      "public-servant",
+      "colour-of-office",
+      "either-description"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.204 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-205",
+    "chapterId": "ch-12",
+    "number": "205",
+    "title": "Wearing garb or carrying token used by public servant with fraudulent intent",
+    "bareActText": "Whoever, not belonging to a certain class of public servants, wears any garb or carries any token resembling any garb or token used by that class of public servants, with the intention that it may be believed, or with the knowledge that it is likely to be believed, that he belongs to that class of public servants, shall be punished with imprisonment of either description for a term which may extend to three months, or with fine which may extend to five thousand rupees, or with both.",
+    "plainMeaning": "A person who does not belong to a class of public servants, but wears a uniform or carries a badge, identity card or other token resembling theirs, intending people to believe (or knowing they are likely to believe) that he belongs to that class, commits this offence. Unlike s.204, no act under colour of office is needed — the deceptive wearing or carrying is enough. The punishment is up to three months, or fine up to ₹5,000, or both.",
+    "ingredients": [
+      "The accused does not belong to a certain class of public servants",
+      "He wears a garb or carries a token resembling one used by that class",
+      "He intends, or knows it is likely, that people will believe he belongs to that class"
+    ],
+    "punishment": "Imprisonment of either description up to 3 months, or fine up to ₹5,000, or both.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "171 IPC",
+      "changeNote": "Same offence and same 3-month maximum; the maximum fine rises from ₹200 to ₹5,000."
+    },
+    "illustrations": [
+      "E buys a police uniform and wears it while driving so that traffic constables will wave him through checkpoints. E is liable under s.205.",
+      "An actor wearing a police uniform while shooting a film scene is not liable, because there is no intention or knowledge that anyone will believe he is really a policeman."
+    ],
+    "termRefs": [
+      "public-servant",
+      "garb-or-token"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.205 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  }
+]
