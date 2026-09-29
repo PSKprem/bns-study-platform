@@ -1,0 +1,792 @@
+[
+  {
+    "id": "s-206",
+    "chapterId": "ch-13",
+    "number": "206",
+    "title": "Absconding to avoid service of summons or other proceeding",
+    "bareActText": "Whoever absconds in order to avoid being served with a summons, notice or order proceeding from any public servant legally competent, as such public servant, to issue such summons, notice or order,— (a) shall be punished with simple imprisonment for a term which may extend to one month, or with fine which may extend to five thousand rupees, or with both; (b) where such summons or notice or order is to attend in person or by agent, or to produce a document or an electronic record in a Court shall be punished with simple imprisonment for a term which may extend to six months, or with fine which may extend to ten thousand rupees, or with both.",
+    "plainMeaning": "A person who runs away or hides to avoid being served with a summons, notice or order from a public servant who has legal power to issue it commits this offence. The ordinary punishment is simple imprisonment up to one month, or fine up to ₹5,000, or both. If the summons, notice or order requires him to appear in a Court (in person or through an agent), or to produce a document or electronic record in a Court, the punishment rises to six months, or fine up to ₹10,000, or both.",
+    "ingredients": [
+      "A summons, notice or order proceeding from a public servant legally competent to issue it",
+      "The accused absconds",
+      "He does so in order to avoid being served with it",
+      "Clause (b): it requires attendance, or production of a document or electronic record, in a Court"
+    ],
+    "punishment": "(a) Simple imprisonment up to 1 month, or fine up to ₹5,000, or both. (b) If the summons, notice or order requires attendance or production of a document or electronic record in a Court: simple imprisonment up to 6 months, or fine up to ₹10,000, or both.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "172 IPC",
+      "changeNote": "Re-enacts s.172 IPC. The fine limits are raised to ₹5,000 and ₹10,000, and clause (b) expressly covers production of an electronic record."
+    },
+    "illustrations": [
+      "A process server comes to R's house with a court summons to appear as a witness. Seeing him, R slips out through the back door and stays at a relative's place for a week so that the summons cannot be served. R has absconded to avoid service of a court summons and is liable under s.206(b)."
+    ],
+    "termRefs": [
+      "public-servant",
+      "summons",
+      "abscond",
+      "electronic-record",
+      "simple-imprisonment"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.206 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-207",
+    "chapterId": "ch-13",
+    "number": "207",
+    "title": "Preventing service of summons or other proceeding, or preventing publication thereof",
+    "bareActText": "Whoever in any manner intentionally prevents the serving on himself, or on any other person, of any summons, notice or order proceeding from any public servant legally competent, as such public servant, to issue such summons, notice or order, or intentionally prevents the lawful affixing to any place of any such summons, notice or order or intentionally removes any such summons, notice or order from any place to which it is lawfully affixed or intentionally prevents the lawful making of any proclamation, under the authority of any public servant legally competent, as such public servant, to direct such proclamation to be made,— (a) shall be punished with simple imprisonment for a term which may extend to one month, or with fine which may extend to five thousand rupees, or with both; (b) where the summons, notice, order or proclamation is to attend in person or by agent, or to produce a document or electronic record in a Court, with simple imprisonment for a term which may extend to six months, or with fine which may extend to ten thousand rupees, or with both.",
+    "plainMeaning": "Section 206 punishes running away from service; s.207 punishes actively blocking it. It is an offence to intentionally: prevent a summons, notice or order being served on oneself or on anyone else; prevent it being lawfully fixed to a place (such as a door or notice board); tear or remove it once lawfully fixed; or prevent a lawful proclamation being made. The document or proclamation must come from a public servant legally competent to issue or direct it. Punishment is the same as s.206: up to one month or ₹5,000 fine, rising to six months or ₹10,000 fine where it concerns attending or producing a document or electronic record in a Court.",
+    "ingredients": [
+      "A summons, notice, order or proclamation from a public servant legally competent to issue or direct it",
+      "The accused intentionally prevents its service on himself or another; or prevents its lawful affixing; or removes it after it is lawfully affixed; or prevents the lawful making of a proclamation",
+      "Clause (b): it requires attendance, or production of a document or electronic record, in a Court"
+    ],
+    "punishment": "(a) Simple imprisonment up to 1 month, or fine up to ₹5,000, or both. (b) If it requires attendance or production of a document or electronic record in a Court: simple imprisonment up to 6 months, or fine up to ₹10,000, or both.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "173 IPC",
+      "changeNote": "Re-enacts s.173 IPC. The fine limits are raised to ₹5,000 and ₹10,000, and clause (b) expressly covers electronic records."
+    },
+    "illustrations": [
+      "A court bailiff lawfully pastes a notice of attachment on the door of S's shop. As soon as the bailiff leaves, S tears it down. S has intentionally removed a lawfully affixed notice and is liable under s.207.",
+      "When a process server tries to hand a court summons to T's brother, T physically blocks the doorway and pushes the process server away. T intentionally prevents service on another person."
+    ],
+    "termRefs": [
+      "public-servant",
+      "summons",
+      "proclamation",
+      "electronic-record"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.207 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-208",
+    "chapterId": "ch-13",
+    "number": "208",
+    "title": "Non-attendance in obedience to an order from public servant",
+    "bareActText": "Whoever, being legally bound to attend in person or by an agent at a certain place and time in obedience to a summons, notice, order, or proclamation proceeding from any public servant legally competent, as such public servant, to issue the same, intentionally omits to attend at that place or time or departs from the place where he is bound to attend before the time at which it is lawful for him to depart,— (a) shall be punished with simple imprisonment for a term which may extend to one month, or with fine which may extend to five thousand rupees, or with both; (b) where the summons, notice, order or proclamation is to attend in person or by agent in a Court with simple imprisonment for a term which may extend to six months, or with fine which may extend to ten thousand rupees, or with both. Illustrations. (a) A, being legally bound to appear before a High Court, in obedience to a subpoena issuing from that Court, intentionally omits to appear. A has committed the offence defined in this section. (b) A, being legally bound to appear before a District Judge, as a witness, in obedience to a summons issued by that District Judge intentionally omits to appear. A has committed the offence defined in this section.",
+    "plainMeaning": "Once a person has been validly summoned, he must turn up. A person legally bound to attend a certain place at a certain time — in person or by agent — in obedience to a summons, notice, order or proclamation from a competent public servant commits this offence if he intentionally fails to attend, or leaves before he is lawfully allowed to. The punishment is up to one month or fine up to ₹5,000, rising to six months or fine up to ₹10,000 where the attendance is required in a Court. The Gazette's Illustrations give the examples of a person who intentionally fails to obey a High Court subpoena, and a witness who intentionally fails to appear before a District Judge.",
+    "ingredients": [
+      "A summons, notice, order or proclamation from a public servant legally competent to issue it",
+      "The accused is legally bound by it to attend a certain place at a certain time, in person or by agent",
+      "He intentionally omits to attend, or departs before the time he may lawfully leave",
+      "Clause (b): the attendance is required in a Court"
+    ],
+    "punishment": "(a) Simple imprisonment up to 1 month, or fine up to ₹5,000, or both. (b) If attendance is required in a Court: simple imprisonment up to 6 months, or fine up to ₹10,000, or both.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "174 IPC",
+      "changeNote": "Re-enacts s.174 IPC with its Illustrations. The fine limits are raised to ₹5,000 and ₹10,000."
+    },
+    "illustrations": [
+      "U is served with a notice from the Tehsildar to appear at the tehsil office on a fixed date to give a statement in a land inquiry. U deliberately stays home. U is liable under s.208(a).",
+      "V, a witness in a criminal trial, appears in court in the morning but walks out before his evidence is recorded and before the court permits him to leave. V departs before the lawful time and is liable under s.208(b)."
+    ],
+    "termRefs": [
+      "public-servant",
+      "summons",
+      "proclamation",
+      "court"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.208 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-209",
+    "chapterId": "ch-13",
+    "number": "209",
+    "title": "Non-appearance in response to a proclamation under section 84 of Bharatiya Nagarik Suraksha Sanhita, 2023",
+    "bareActText": "Whoever fails to appear at the specified place and the specified time as required by a proclamation published under sub-section (1) of section 84 of the Bharatiya Nagarik Suraksha Sanhita, 2023, shall be punished with imprisonment for a term which may extend to three years, or with fine, or with both, or with community service, and where a declaration has been made under sub-section (4) of that section pronouncing him as a proclaimed offender, he shall be punished with imprisonment for a term which may extend to seven years and shall also be liable to fine.",
+    "plainMeaning": "When a court believes a person against whom a warrant has been issued has absconded or is hiding so that the warrant cannot be executed, it can publish a proclamation under BNSS s.84(1) requiring him to appear at a specified place and time. Failing to appear as the proclamation requires is punishable with imprisonment up to three years, or fine, or both, or community service. If the court has also declared him a 'proclaimed offender' under BNSS s.84(4), the punishment rises to imprisonment up to seven years and fine. Unlike most offences in this Chapter, it is cognizable and non-bailable.",
+    "ingredients": [
+      "A proclamation published under BNSS s.84(1) requiring the accused to appear at a specified place and time",
+      "The accused fails to appear at that place and time",
+      "Aggravated form: a declaration under BNSS s.84(4) pronouncing him a proclaimed offender"
+    ],
+    "punishment": "Imprisonment up to 3 years, or fine, or both, or community service. If declared a proclaimed offender under BNSS s.84(4): imprisonment up to 7 years and fine.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Magistrate of the first class"
+    },
+    "ipcReference": {
+      "section": "174A IPC",
+      "changeNote": "Re-enacts s.174A IPC, now referring to BNSS s.84 instead of CrPC s.82, and adds community service as an alternative punishment for the basic offence."
+    },
+    "illustrations": [
+      "W is accused of cheating and evades a warrant for months. The Magistrate publishes a proclamation under BNSS s.84(1) requiring W to appear in court within thirty days. W does not appear. W is liable under s.209. If the court then declares W a proclaimed offender under s.84(4) and W still stays away, he faces up to seven years."
+    ],
+    "termRefs": [
+      "proclamation",
+      "proclaimed-offender",
+      "abscond",
+      "community-service"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.209 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-210",
+    "chapterId": "ch-13",
+    "number": "210",
+    "title": "Omission to produce document or electronic record to public servant by person legally bound to produce it",
+    "bareActText": "Whoever, being legally bound to produce or deliver up any document or electronic record to any public servant, as such, intentionally omits so to produce or deliver up the same,— (a) shall be punished with simple imprisonment for a term which may extend to one month, or with fine which may extend to five thousand rupees, or with both; (b) and where the document or electronic record is to be produced or delivered up to a Court with simple imprisonment for a term which may extend to six months, or with fine which may extend to ten thousand rupees, or with both. Illustration. A, being legally bound to produce a document before a District Court, intentionally omits to produce the same. A has committed the offence defined in this section.",
+    "plainMeaning": "A person who is legally bound to produce or hand over a document or electronic record to a public servant, acting in that capacity, and intentionally fails to do so, commits this offence. The punishment is simple imprisonment up to one month, or fine up to ₹5,000, or both; if the document or record was to be produced in or delivered to a Court, up to six months, or fine up to ₹10,000, or both.",
+    "ingredients": [
+      "The accused is legally bound to produce or deliver up a document or electronic record",
+      "To a public servant acting as such",
+      "He intentionally omits to produce or deliver it",
+      "Clause (b): it was to be produced or delivered to a Court"
+    ],
+    "punishment": "(a) Simple imprisonment up to 1 month, or fine up to ₹5,000, or both. (b) If to be produced or delivered to a Court: simple imprisonment up to 6 months, or fine up to ₹10,000, or both.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "The Court in which the offence is committed, subject to Chapter XXVIII of the BNSS; or, if not committed in a Court, any Magistrate"
+    },
+    "ipcReference": {
+      "section": "175 IPC",
+      "changeNote": "Re-enacts s.175 IPC and extends it expressly to electronic records. The fine limits are raised to ₹5,000 and ₹10,000."
+    },
+    "illustrations": [
+      "A company's accountant receives a lawful notice from an income-tax officer to produce the firm's ledgers and its accounting software backup. He deliberately ignores it. He is liable under s.210(a)."
+    ],
+    "termRefs": [
+      "public-servant",
+      "document",
+      "electronic-record",
+      "court"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.210 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-211",
+    "chapterId": "ch-13",
+    "number": "211",
+    "title": "Omission to give notice or information to public servant by person legally bound to give it",
+    "bareActText": "Whoever, being legally bound to give any notice or to furnish information on any subject to any public servant, as such, intentionally omits to give such notice or to furnish such information in the manner and at the time required by law,— (a) shall be punished with simple imprisonment for a term which may extend to one month, or with fine which may extend to five thousand rupees, or with both; (b) where the notice or information required to be given respects the commission of an offence, or is required for the purpose of preventing the commission of an offence, or in order to the apprehension of an offender, with simple imprisonment for a term which may extend to six months, or with fine which may extend to ten thousand rupees, or with both; (c) where the notice or information required to be given is required by an order passed under section 394 of the Bharatiya Nagarik Suraksha Sanhita, 2023 with imprisonment of either description for a term which may extend to six months, or with fine which may extend to one thousand rupees, or with both.",
+    "plainMeaning": "Some people are legally required to inform public servants about certain matters — for example, village officials about crimes in their area, or employers and landlords under specific laws. A person under such a legal duty who intentionally fails to give the notice or information in the manner and at the time the law requires is punishable with up to one month or fine up to ₹5,000. If the information concerns an offence, or is needed to prevent an offence or catch an offender, the punishment rises to six months or fine up to ₹10,000. If the duty arises from an order under BNSS s.394 (an order that a person convicted again of an offence punishable with three years or more must notify his residence, and any change of or absence from it, after release), the punishment is up to six months of either description, or fine up to ₹1,000, or both. The Explanation to s.212 extends 'offence' here to certain serious acts committed outside India.",
+    "ingredients": [
+      "The accused is legally bound to give a notice or furnish information to a public servant acting as such",
+      "He intentionally omits to give it in the manner and at the time required by law",
+      "Clause (b): the information concerns the commission or prevention of an offence, or the apprehension of an offender",
+      "Clause (c): the duty arises from an order under BNSS s.394"
+    ],
+    "punishment": "(a) Simple imprisonment up to 1 month, or fine up to ₹5,000, or both. (b) Information about an offence or offender: simple imprisonment up to 6 months, or fine up to ₹10,000, or both. (c) Information required by an order under BNSS s.394: imprisonment of either description up to 6 months, or fine up to ₹1,000, or both.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "176 IPC",
+      "changeNote": "Re-enacts s.176 IPC. Clause (c) now refers to BNSS s.394, and the fine limits in clauses (a) and (b) are raised to ₹5,000 and ₹10,000."
+    },
+    "illustrations": [
+      "A village headman, who is legally required to report suspicious deaths in his village to the police, learns that a woman has died of burns in suspicious circumstances but deliberately says nothing. He is liable under s.211(b), since the information concerns the commission of an offence.",
+      "A person with a previous conviction for theft is convicted again, this time of house-breaking, and the court orders under BNSS s.394 that he notify any change of residence after release. He moves to another town without informing them. He is liable under s.211(c)."
+    ],
+    "termRefs": [
+      "public-servant",
+      "offence"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.211 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-212",
+    "chapterId": "ch-13",
+    "number": "212",
+    "title": "Furnishing false information",
+    "bareActText": "Whoever, being legally bound to furnish information on any subject to any public servant, as such, furnishes, as true, information on the subject which he knows or has reason to believe to be false,— (a) shall be punished with simple imprisonment for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both; (b) where the information which he is legally bound to give respects the commission of an offence, or is required for the purpose of preventing the commission of an offence, or in order to the apprehension of an offender, with imprisonment of either description for a term which may extend to two years, or with fine, or with both. Illustrations. (a) A, a landholder, knowing of the commission of a murder within the limits of his estate, wilfully misinforms the Magistrate of the district that the death has occurred by accident in consequence of the bite of a snake. A is guilty of the offence defined in this section. (b) A, a village watchman, knowing that a considerable body of strangers has passed through his village in order to commit a dacoity in the house of Z, a wealthy merchant residing in a neighbouring place, and being legally bound to give early and punctual information of the above fact to the officer of the nearest police station, wilfully misinforms the police officer that a body of suspicious characters passed through the village with a view to commit dacoity in a certain distant place in a different direction. Here A is guilty of the offence defined in this section. Explanation.—In section 211 and in this section the word “offence” include any act committed at any place out of India, which, if committed in India, would be punishable under any of the following sections, namely, 103, 105, 307, sub-sections (2), (3) and (4) of section 309, sub-sections (2), (3), (4) and (5) of section 310, 311, 312, clauses (f) and (g) of section 326, sub-sections (4), (6), (7) and (8) of section 331, clauses (a) and (b) of section 332 and the word “offender” includes any person who is alleged to have been guilty of any such act.",
+    "plainMeaning": "Section 211 punishes staying silent when the law requires one to inform; s.212 punishes giving false information instead. A person legally bound to give information to a public servant who gives, as true, information he knows or has reason to believe is false, is punishable with simple imprisonment up to six months, or fine up to ₹5,000, or both. If the information concerns an offence, its prevention, or the capture of an offender, the punishment rises to two years of either description, or fine, or both. The Explanation widens 'offence' in ss.211 and 212 to include certain grave acts committed outside India that would be offences if done here — such as murder, culpable homicide, robbery, dacoity, and specified forms of mischief and house-breaking — and 'offender' to include anyone alleged to have done them.",
+    "ingredients": [
+      "The accused is legally bound to furnish information on a subject to a public servant acting as such",
+      "He furnishes information on that subject as true",
+      "He knows or has reason to believe it to be false",
+      "Clause (b): the information concerns the commission or prevention of an offence, or the apprehension of an offender"
+    ],
+    "punishment": "(a) Simple imprisonment up to 6 months, or fine up to ₹5,000, or both. (b) Information about an offence or offender: imprisonment of either description up to 2 years, or fine, or both.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "177 IPC",
+      "changeNote": "Re-enacts s.177 IPC with its Illustrations. The Explanation, which applies to ss.211 and 212, is placed at the end of s.212 and lists the corresponding BNS sections. The fine limit in clause (a) is raised to ₹5,000."
+    },
+    "illustrations": [
+      "A chowkidar legally bound to report crimes in his village sees a group of men carrying away a body at night, but tells the police that the dead man drowned accidentally in the canal. He knowingly furnishes false information about an offence and is liable under s.212(b)."
+    ],
+    "termRefs": [
+      "public-servant",
+      "reason-to-believe",
+      "offence"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.212 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-213",
+    "chapterId": "ch-13",
+    "number": "213",
+    "title": "Refusing oath or affirmation when duly required by public servant to make it",
+    "bareActText": "Whoever refuses to bind himself by an oath or affirmation to state the truth, when required so to bind himself by a public servant legally competent to require that he shall so bind himself, shall be punished with simple imprisonment for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+    "plainMeaning": "When a public servant who is legally competent to do so — such as a judge or magistrate recording evidence — requires a person to take an oath or make an affirmation that he will speak the truth, refusing to do so is an offence. The punishment is simple imprisonment up to six months, or fine up to ₹5,000, or both. The person may choose an affirmation instead of a religious oath, but he cannot refuse both.",
+    "ingredients": [
+      "A public servant legally competent to require a person to bind himself by oath or affirmation to state the truth",
+      "He requires the accused to do so",
+      "The accused refuses"
+    ],
+    "punishment": "Simple imprisonment up to 6 months, or fine up to ₹5,000, or both.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "The Court in which the offence is committed, subject to Chapter XXVIII of the BNSS; or, if not committed in a Court, any Magistrate"
+    },
+    "ipcReference": {
+      "section": "178 IPC",
+      "changeNote": "Re-enacts s.178 IPC; the fine limit is raised to ₹5,000."
+    },
+    "illustrations": [
+      "Called as a witness in a trial, X steps into the witness box but refuses either to take the oath or to make a solemn affirmation, saying he 'does not believe in such formalities'. X is liable under s.213."
+    ],
+    "termRefs": [
+      "public-servant",
+      "oath",
+      "affirmation"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.213 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-214",
+    "chapterId": "ch-13",
+    "number": "214",
+    "title": "Refusing to answer public servant authorised to question",
+    "bareActText": "Whoever, being legally bound to state the truth on any subject to any public servant, refuses to answer any question demanded of him touching that subject by such public servant in the exercise of the legal powers of such public servant, shall be punished with simple imprisonment for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+    "plainMeaning": "A person who is legally bound to state the truth on a subject to a public servant, and who refuses to answer a question on that subject put to him by the public servant in the exercise of his legal powers, commits this offence. The punishment is simple imprisonment up to six months, or fine up to ₹5,000, or both. The section does not override constitutional or statutory protections: an accused person cannot be compelled to be a witness against himself (Article 20(3) of the Constitution), so refusing to answer a self-incriminating question is not punishable.",
+    "ingredients": [
+      "The accused is legally bound to state the truth on a subject to a public servant",
+      "The public servant, exercising his legal powers, demands an answer to a question on that subject",
+      "The accused refuses to answer"
+    ],
+    "punishment": "Simple imprisonment up to 6 months, or fine up to ₹5,000, or both.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "The Court in which the offence is committed, subject to Chapter XXVIII of the BNSS; or, if not committed in a Court, any Magistrate"
+    },
+    "ipcReference": {
+      "section": "179 IPC",
+      "changeNote": "Re-enacts s.179 IPC; the fine limit is raised to ₹5,000."
+    },
+    "illustrations": [
+      "Y, a witness on oath in a civil suit, is asked by the judge whether he saw the defendant sign the agreement. Y replies that he will not answer. Y is legally bound to state the truth and is liable under s.214."
+    ],
+    "termRefs": [
+      "public-servant"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.214 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-215",
+    "chapterId": "ch-13",
+    "number": "215",
+    "title": "Refusing to sign statement",
+    "bareActText": "Whoever refuses to sign any statement made by him, when required to sign that statement by a public servant legally competent to require that he shall sign that statement, shall be punished with simple imprisonment for a term which may extend to three months, or with fine which may extend to three thousand rupees, or with both.",
+    "plainMeaning": "A person who refuses to sign a statement he has made, when a public servant legally competent to require his signature asks him to sign it, commits this offence. It is punishable with simple imprisonment up to three months, or fine up to ₹3,000, or both. The offence applies only where the public servant has legal power to require a signature. Notably, BNSS s.181 forbids the police from requiring a person to sign a statement made to them during investigation, so refusing to sign a police statement is not an offence under s.215.",
+    "ingredients": [
+      "The accused has made a statement",
+      "A public servant legally competent to require him to sign it requires him to do so",
+      "He refuses to sign"
+    ],
+    "punishment": "Simple imprisonment up to 3 months, or fine up to ₹3,000, or both.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "The Court in which the offence is committed, subject to Chapter XXVIII of the BNSS; or, if not committed in a Court, any Magistrate"
+    },
+    "ipcReference": {
+      "section": "180 IPC",
+      "changeNote": "Re-enacts s.180 IPC; the fine limit is raised to ₹3,000."
+    },
+    "illustrations": [
+      "After Z's deposition is recorded and read over to him in court, the Magistrate lawfully requires him to sign it. Z refuses, though he accepts it is correctly recorded. Z is liable under s.215."
+    ],
+    "termRefs": [
+      "public-servant"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.215 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-216",
+    "chapterId": "ch-13",
+    "number": "216",
+    "title": "False statement on oath or affirmation to public servant or person authorised to administer an oath or affirmation",
+    "bareActText": "Whoever, being legally bound by an oath or affirmation to state the truth on any subject to any public servant or other person authorised by law to administer such oath or affirmation, makes, to such public servant or other person as aforesaid, touching that subject, any statement which is false, and which he either knows or believes to be false or does not believe to be true, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine.",
+    "plainMeaning": "A person bound by an oath or affirmation to tell the truth to a public servant, or to another person authorised by law to administer oaths (such as a notary or oath commissioner), commits this offence if he makes a statement on that subject which is false and which he knows or believes to be false, or does not believe to be true. It is punishable with imprisonment up to three years and fine. It overlaps with giving false evidence (s.229), which applies to statements in a judicial proceeding and to other cases of false evidence; s.216 covers false statements on oath to public servants and authorised persons more generally.",
+    "ingredients": [
+      "The accused is legally bound by an oath or affirmation to state the truth on a subject",
+      "To a public servant, or to another person authorised by law to administer the oath or affirmation",
+      "He makes a false statement on that subject to that person",
+      "He knows or believes it to be false, or does not believe it to be true"
+    ],
+    "punishment": "Imprisonment of either description up to 3 years, and fine.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Magistrate of the first class"
+    },
+    "ipcReference": {
+      "section": "181 IPC",
+      "changeNote": "Re-enacted without change of substance or punishment."
+    },
+    "illustrations": [
+      "In a sworn statement before a revenue officer holding a lawful inquiry into succession, P states on affirmation that the deceased left no other heirs, knowing that the deceased had a daughter. P is liable under s.216."
+    ],
+    "termRefs": [
+      "public-servant",
+      "oath",
+      "affirmation"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.216 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-217",
+    "chapterId": "ch-13",
+    "number": "217",
+    "title": "False information, with intent to cause public servant to use his lawful power to injury of another person",
+    "bareActText": "Whoever gives to any public servant any information which he knows or believes to be false, intending thereby to cause, or knowing it to be likely that he will thereby cause, such public servant— (a) to do or omit anything which such public servant ought not to do or omit if the true state of facts respecting which such information is given were known by him; or (b) to use the lawful power of such public servant to the injury or annoyance of any person, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine which may extend to ten thousand rupees, or with both. Illustrations. (a) A informs a Magistrate that Z, a police officer, subordinate to such Magistrate, has been guilty of neglect of duty or misconduct, knowing such information to be false, and knowing it to be likely that the information will cause the Magistrate to dismiss Z. A has committed the offence defined in this section. (b) A falsely informs a public servant that Z has contraband salt in a secret place, knowing such information to be false, and knowing that it is likely that the consequence of the information will be a search of Z's premises, attended with annoyance to Z. A has committed the offence defined in this section. (c) A falsely informs a policeman that he has been assaulted and robbed in the neighbourhood of a particular village. He does not mention the name of any person as one of his assailants, but knows it to be likely that in consequence of this information the police will make enquiries and institute searches in the village to the annoyance of the villagers or some of them. A has committed an offence under this section.",
+    "plainMeaning": "This is the offence of misleading a public servant with false information. Unlike s.212, it applies to anyone — the informant need not be under a legal duty to give information. A person commits it by giving a public servant information he knows or believes to be false, intending or knowing it likely that the public servant will (a) do or omit something he would not do or omit if he knew the truth, or (b) use his lawful power to injure or annoy someone. False police complaints and false complaints against officials are the typical examples; the Gazette's Illustrations show that even a false complaint naming nobody is enough if it is likely to lead to searches that annoy innocent people. The punishment is up to one year, or fine up to ₹10,000, or both.",
+    "ingredients": [
+      "The accused gives information to a public servant",
+      "He knows or believes the information to be false",
+      "He intends, or knows it likely, that the public servant will (a) do or omit something he would not if he knew the truth, or (b) use his lawful power to the injury or annoyance of any person"
+    ],
+    "punishment": "Imprisonment of either description up to 1 year, or fine up to ₹10,000, or both.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "182 IPC",
+      "changeNote": "Re-enacts s.182 IPC with its Illustrations. The maximum imprisonment is raised from 6 months to 1 year and the fine limit to ₹10,000."
+    },
+    "illustrations": [
+      "After a quarrel with his neighbour, Q calls the police and falsely reports that the neighbour is storing illegal firearms at home, hoping the police will raid and humiliate him. Q is liable under s.217(b).",
+      "R, who lost money gambling, tells the police he was robbed on the highway so that his family will not find out. He knows the police are likely to start searches and question people in the area. R is liable under s.217, as in Illustration (c)."
+    ],
+    "termRefs": [
+      "public-servant",
+      "injury"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.217 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-218",
+    "chapterId": "ch-13",
+    "number": "218",
+    "title": "Resistance to taking of property by lawful authority of a public servant",
+    "bareActText": "Whoever offers any resistance to the taking of any property by the lawful authority of any public servant, knowing or having reason to believe that he is such public servant, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to ten thousand rupees, or with both.",
+    "plainMeaning": "When a public servant lawfully takes property — for example, attaching goods in execution of a decree, seizing articles during a search, or distraining property for tax arrears — anyone who resists that taking, knowing or having reason to believe that the person is a public servant, commits this offence. The punishment is up to six months, or fine up to ₹10,000, or both. The taking must be by lawful authority; resisting an unlawful seizure is not covered.",
+    "ingredients": [
+      "A public servant takes, or attempts to take, property by lawful authority",
+      "The accused offers resistance to that taking",
+      "He knows or has reason to believe that the person is such a public servant"
+    ],
+    "punishment": "Imprisonment of either description up to 6 months, or fine up to ₹10,000, or both.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "183 IPC",
+      "changeNote": "Re-enacts s.183 IPC. The maximum imprisonment becomes 6 months and the fine limit ₹10,000."
+    },
+    "illustrations": [
+      "A court amin arrives with a warrant to attach S's tractor under a decree. S locks the tractor in his shed, stands at the gate and refuses to let the amin in. S resists the lawful taking of property and is liable under s.218."
+    ],
+    "termRefs": [
+      "public-servant",
+      "reason-to-believe"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.218 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-219",
+    "chapterId": "ch-13",
+    "number": "219",
+    "title": "Obstructing sale of property offered for sale by authority of public servant",
+    "bareActText": "Whoever intentionally obstructs any sale of property offered for sale by the lawful authority of any public servant, as such, shall be punished with imprisonment of either description for a term which may extend to one month, or with fine which may extend to five thousand rupees, or with both.",
+    "plainMeaning": "A person who intentionally obstructs a sale of property held by the lawful authority of a public servant — such as a court auction or a revenue sale for recovery of dues — commits this offence. Obstruction can include threatening bidders, disrupting the auction, or physically preventing it. The punishment is up to one month, or fine up to ₹5,000, or both.",
+    "ingredients": [
+      "Property offered for sale by the lawful authority of a public servant acting as such",
+      "The accused obstructs the sale",
+      "He does so intentionally"
+    ],
+    "punishment": "Imprisonment of either description up to 1 month, or fine up to ₹5,000, or both.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "184 IPC",
+      "changeNote": "Re-enacts s.184 IPC; the fine limit is raised to ₹5,000."
+    },
+    "illustrations": [
+      "At a tehsil auction of a defaulter's land for recovery of loan dues, T stands up and warns the gathered bidders that anyone who bids will 'face consequences' in the village. The bidders leave and the auction fails. T intentionally obstructs the sale and is liable under s.219."
+    ],
+    "termRefs": [
+      "public-servant"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.219 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-220",
+    "chapterId": "ch-13",
+    "number": "220",
+    "title": "Illegal purchase or bid for property offered for sale by authority of public servant",
+    "bareActText": "Whoever, at any sale of property held by the lawful authority of a public servant, as such, purchases or bids for any property on account of any person, whether himself or any other, whom he knows to be under a legal incapacity to purchase that property at that sale, or bids for such property not intending to perform the obligations under which he lays himself by such bidding, shall be punished with imprisonment of either description for a term which may extend to one month, or with fine which may extend to two hundred rupees, or with both.",
+    "plainMeaning": "At a sale held by the lawful authority of a public servant, two kinds of conduct are punished: (1) buying or bidding for property on behalf of someone — oneself or another — whom one knows is legally barred from buying it at that sale (for instance, a public servant barred under s.203 or a judgment-debtor); and (2) bidding without intending to honour the obligations the bid creates, such as paying the price — a sham bid to push up the price or derail the sale. The punishment is up to one month, or fine up to ₹200, or both.",
+    "ingredients": [
+      "A sale of property held by the lawful authority of a public servant acting as such",
+      "(1) Purchasing or bidding on account of a person the accused knows to be under a legal incapacity to purchase at that sale; or",
+      "(2) Bidding without intending to perform the obligations the bid creates"
+    ],
+    "punishment": "Imprisonment of either description up to 1 month, or fine up to ₹200, or both.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "185 IPC",
+      "changeNote": "Re-enacted without change of substance; the punishment (1 month or ₹200) is unchanged."
+    },
+    "illustrations": [
+      "At a court auction of a flat, U places the highest bid purely to stop a rival from acquiring it, never intending to deposit the price. U is liable under s.220.",
+      "The judgment-debtor, legally barred from buying his own attached property at the court sale, sends his cousin to bid for him; the cousin knows of the bar. The cousin is liable under s.220."
+    ],
+    "termRefs": [
+      "public-servant"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.220 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-221",
+    "chapterId": "ch-13",
+    "number": "221",
+    "title": "Obstructing public servant in discharge of public functions",
+    "bareActText": "Whoever voluntarily obstructs any public servant in the discharge of his public functions, shall be punished with imprisonment of either description for a term which may extend to three months, or with fine which may extend to two thousand and five hundred rupees, or with both.",
+    "plainMeaning": "This is the general offence of obstructing a public servant. A person who voluntarily obstructs a public servant while he is discharging his public functions is punishable with up to three months, or fine up to ₹2,500, or both. Obstruction usually means some positive act that prevents or hinders the public servant from doing his job — physically blocking him, locking him out, snatching records — rather than mere verbal protest. Where obstruction is by assault or criminal force, more serious offences such as s.132 (assault to deter a public servant) apply.",
+    "ingredients": [
+      "The victim is a public servant discharging his public functions",
+      "The accused obstructs him",
+      "The obstruction is voluntary"
+    ],
+    "punishment": "Imprisonment of either description up to 3 months, or fine up to ₹2,500, or both.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "186 IPC",
+      "changeNote": "Re-enacts s.186 IPC; the fine limit is raised to ₹2,500."
+    },
+    "illustrations": [
+      "Municipal inspectors arrive to seal an illegal slaughterhouse. The owner parks a truck across the entrance and refuses to move it, preventing them from entering. He voluntarily obstructs public servants in the discharge of their functions and is liable under s.221.",
+      "A person who merely shouts slogans against a demolition drive, without hindering it, does not obstruct the officials."
+    ],
+    "termRefs": [
+      "public-servant",
+      "voluntarily"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.221 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-222",
+    "chapterId": "ch-13",
+    "number": "222",
+    "title": "Omission to assist public servant when bound by law to give assistance",
+    "bareActText": "Whoever, being bound by law to render or furnish assistance to any public servant in the execution of his public duty, intentionally omits to give such assistance,— (a) shall be punished with simple imprisonment for a term which may extend to one month, or with fine which may extend to two thousand and five hundred rupees, or with both; (b) and where such assistance be demanded of him by a public servant legally competent to make such demand for the purposes of executing any process lawfully issued by a Court or of preventing the commission of an offence, or suppressing a riot, or affray, or of apprehending a person charged with or guilty of an offence, or of having escaped from lawful custody, shall be punished with simple imprisonment for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+    "plainMeaning": "Some people are bound by law to help public servants — for example, the BNSS requires members of the public to assist a Magistrate or police officer who reasonably demands help in arresting an offender or preventing a breach of the peace. A person under such a legal duty who intentionally fails to help is punishable with simple imprisonment up to one month, or fine up to ₹2,500, or both. If the help is demanded by a competent public servant for executing court process, preventing an offence, suppressing a riot or affray, or catching a person charged with or guilty of an offence or who has escaped from lawful custody, the punishment rises to six months, or fine up to ₹5,000, or both.",
+    "ingredients": [
+      "The accused is bound by law to render or furnish assistance to a public servant in the execution of his public duty",
+      "He intentionally omits to give that assistance",
+      "Clause (b): the assistance is demanded by a legally competent public servant for executing court process, preventing an offence, suppressing a riot or affray, or apprehending an offender or escapee"
+    ],
+    "punishment": "(a) Simple imprisonment up to 1 month, or fine up to ₹2,500, or both. (b) Where demanded for court process, preventing an offence, suppressing a riot or affray, or apprehending an offender or escapee: simple imprisonment up to 6 months, or fine up to ₹5,000, or both.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "187 IPC",
+      "changeNote": "Re-enacts s.187 IPC; the fine limits are raised to ₹2,500 and ₹5,000."
+    },
+    "illustrations": [
+      "A police officer chasing an escaped prisoner through a market calls on a shopkeeper, who is standing right next to the fleeing man, to help stop him. The shopkeeper, bound by law to assist, deliberately steps aside. He is liable under s.222(b)."
+    ],
+    "termRefs": [
+      "public-servant",
+      "rioting",
+      "affray"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.222 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-223",
+    "chapterId": "ch-13",
+    "number": "223",
+    "title": "Disobedience to order duly promulgated by public servant",
+    "bareActText": "Whoever, knowing that, by an order promulgated by a public servant lawfully empowered to promulgate such order, he is directed to abstain from a certain act, or to take certain order with certain property in his possession or under his management, disobeys such direction,— (a) shall, if such disobedience causes or tends to cause obstruction, annoyance or injury, or risk of obstruction, annoyance or injury, to any person lawfully employed, be punished with simple imprisonment for a term which may extend to six months, or with fine which may extend to two thousand and five hundred rupees, or with both; (b) and where such disobedience causes or tends to cause danger to human life, health or safety, or causes or tends to cause a riot or affray, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine which may extend to five thousand rupees, or with both. Explanation.—It is not necessary that the offender should intend to produce harm, or contemplate his disobedience as likely to produce harm. It is sufficient that he knows of the order which he disobeys, and that his disobedience produces, or is likely to produce, harm. Illustration. An order is promulgated by a public servant lawfully empowered to promulgate such order, directing that a religious procession shall not pass down a certain street. A knowingly disobeys the order, and thereby causes danger of riot. A has committed the offence defined in this section.",
+    "plainMeaning": "This is the section used to enforce prohibitory orders — for example, a District Magistrate's order under BNSS s.163 banning gatherings, a curfew, or a direction about how property must be kept. A person who knows of such an order, lawfully promulgated, directing him to abstain from an act or to deal with his property in a certain way, and disobeys it, is punishable if the disobedience causes or tends to cause harm. If it causes or risks obstruction, annoyance or injury to anyone lawfully employed, the punishment is simple imprisonment up to six months, or fine up to ₹2,500, or both. If it causes or tends to cause danger to human life, health or safety, or a riot or affray, it is up to one year, or fine up to ₹5,000, or both. Under the Explanation, no intention to cause harm is needed: knowledge of the order and resulting (or likely) harm are enough. Unlike almost all other offences in the Chapter, it is cognizable.",
+    "ingredients": [
+      "An order promulgated by a public servant lawfully empowered to promulgate it",
+      "The order directs the accused to abstain from a certain act, or to take certain order with property in his possession or management",
+      "The accused knows of the order",
+      "He disobeys it",
+      "(a) The disobedience causes or tends to cause obstruction, annoyance or injury (or risk of it) to a person lawfully employed; or (b) danger to human life, health or safety, or a riot or affray",
+      "No intention to cause harm is needed (Explanation)"
+    ],
+    "punishment": "(a) Simple imprisonment up to 6 months, or fine up to ₹2,500, or both. (b) Danger to life, health or safety, or riot or affray: imprisonment of either description up to 1 year, or fine up to ₹5,000, or both.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "188 IPC",
+      "changeNote": "Re-enacts s.188 IPC with its Explanation and Illustration. The maximum under clause (b) is raised from 6 months to 1 year, and the fine limits to ₹2,500 and ₹5,000."
+    },
+    "illustrations": [
+      "During a communal flare-up, the District Magistrate lawfully orders that no more than four persons may assemble in the town centre. Knowing of the order, V organises a rally of two hundred people there, and scuffles break out. V's disobedience causes an affray and he is liable under s.223(b).",
+      "During an epidemic, a lawful order directs that a particular market must stay shut. W, who knows of the order, opens his shop and draws a crowd. His disobedience tends to cause danger to human health, so s.223(b) applies even though he meant no harm."
+    ],
+    "termRefs": [
+      "public-servant",
+      "promulgated-order",
+      "rioting",
+      "affray",
+      "injury"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.223 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-224",
+    "chapterId": "ch-13",
+    "number": "224",
+    "title": "Threat of injury to public servant",
+    "bareActText": "Whoever holds out any threat of injury to any public servant, or to any person in whom he believes that public servant to be interested, for the purpose of inducing that public servant to do any act, or to forbear or delay to do any act, connected with the exercise of the public functions of such public servant, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+    "plainMeaning": "A person who threatens injury to a public servant — or to someone he believes the public servant cares about, such as a family member — in order to make the public servant do, not do, or delay something connected with his public functions, commits this offence. 'Injury' has its wide meaning under s.2: harm to body, mind, reputation or property. The threat itself is the offence; it need not be carried out and need not succeed. The punishment is up to two years, or fine, or both.",
+    "ingredients": [
+      "The accused holds out a threat of injury",
+      "To a public servant, or to a person in whom he believes the public servant is interested",
+      "For the purpose of inducing the public servant to do, forbear from, or delay an act",
+      "The act is connected with the exercise of the public servant's public functions"
+    ],
+    "punishment": "Imprisonment of either description up to 2 years, or fine, or both.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "189 IPC",
+      "changeNote": "Re-enacted without change of substance or punishment."
+    },
+    "illustrations": [
+      "A contractor whose bill is under scrutiny tells the engineer in charge that if the bill is not passed by Friday, 'your son may not come back safely from school'. The contractor threatens injury to a person in whom the engineer is interested, to induce an official act, and is liable under s.224."
+    ],
+    "termRefs": [
+      "public-servant",
+      "injury"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.224 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-225",
+    "chapterId": "ch-13",
+    "number": "225",
+    "title": "Threat of injury to induce person to refrain from applying for protection to public servant",
+    "bareActText": "Whoever holds out any threat of injury to any person for the purpose of inducing that person to refrain or desist from making a legal application for protection against any injury to any public servant legally empowered as such to give such protection, or to cause such protection to be given, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both.",
+    "plainMeaning": "A person who threatens someone with injury to stop him from making, or to make him withdraw, a lawful application to a public servant for protection against injury — for example, to stop a victim from going to the police or a Magistrate for protection — commits this offence. The public servant must be legally empowered to give, or cause to be given, such protection. The punishment is up to one year, or fine, or both.",
+    "ingredients": [
+      "The accused holds out a threat of injury to any person",
+      "For the purpose of inducing that person to refrain or desist from making a legal application for protection against injury",
+      "The application is to a public servant legally empowered to give, or cause to be given, such protection"
+    ],
+    "punishment": "Imprisonment of either description up to 1 year, or fine, or both.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "190 IPC",
+      "changeNote": "Re-enacted without change of substance or punishment."
+    },
+    "illustrations": [
+      "X has been harassing his neighbour Y. When Y sets out for the police station to seek protection, X tells him that if he files the application, X will set fire to Y's crops. X is liable under s.225."
+    ],
+    "termRefs": [
+      "public-servant",
+      "injury"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.225 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-226",
+    "chapterId": "ch-13",
+    "number": "226",
+    "title": "Attempt to commit suicide to compel or restrain exercise of lawful power",
+    "bareActText": "Whoever attempts to commit suicide with the intent to compel or restrain any public servant from discharging his official duty shall be punished with simple imprisonment for a term which may extend to one year, or with fine, or with both, or with community service.",
+    "plainMeaning": "The BNS does not carry forward the general offence of attempting suicide (s.309 IPC). Instead, s.226 punishes an attempt to commit suicide only where it is made with the intent to compel a public servant to act, or to restrain him from discharging his official duty — for instance, self-immolation threats or attempts staged to stop a demolition, eviction or arrest. The punishment is simple imprisonment up to one year, or fine, or both, or community service. The focus is on the coercive purpose, not on the act of self-harm as such; a person who attempts suicide from distress, without that intent, commits no offence under this section.",
+    "ingredients": [
+      "The accused attempts to commit suicide",
+      "With the intent to compel, or restrain, a public servant",
+      "In relation to the discharge of the public servant's official duty"
+    ],
+    "punishment": "Simple imprisonment up to 1 year, or fine, or both, or community service.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "None (new offence)",
+      "changeNote": "NEW. The IPC's general offence of attempted suicide (s.309) is not re-enacted in the BNS; s.226 punishes an attempt only when it is aimed at coercing a public servant in the discharge of official duty."
+    },
+    "illustrations": [
+      "When officials arrive to demolish an unauthorised structure under a lawful order, Z pours kerosene on himself and tries to set himself alight, declaring he will die unless they go away. Z is prevented by bystanders. Z attempted suicide with intent to restrain public servants from their duty and is liable under s.226.",
+      "A person who attempts suicide at home after a family dispute, with no aim of influencing any public servant, commits no offence under s.226."
+    ],
+    "termRefs": [
+      "public-servant",
+      "suicide",
+      "attempt",
+      "community-service"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.226 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  }
+]

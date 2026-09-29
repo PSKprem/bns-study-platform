@@ -1,0 +1,233 @@
+[
+  {
+    "id": "mcq-ch13-1",
+    "chapterId": "ch-13",
+    "question": "Absconding to avoid service of a summons requiring attendance in a Court (s.206(b)) is punishable with—",
+    "options": [
+      "SI up to 1 month, or fine up to ₹5,000, or both",
+      "SI up to 6 months, or fine up to ₹10,000, or both",
+      "Up to 3 years and fine",
+      "Up to 7 years and fine"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.206(b): simple imprisonment up to six months, or fine up to ten thousand rupees, or both. Clause (a) is the lower tier."
+  },
+  {
+    "id": "mcq-ch13-2",
+    "chapterId": "ch-13",
+    "question": "Tearing down a summons that has been lawfully affixed to a door is an offence under—",
+    "options": ["Section 206", "Section 207", "Section 208", "Section 221"],
+    "correctIndex": 1,
+    "explanation": "s.207 covers intentionally removing any summons, notice or order from a place where it is lawfully affixed."
+  },
+  {
+    "id": "mcq-ch13-3",
+    "chapterId": "ch-13",
+    "question": "Section 209 punishes failure to appear in response to a proclamation published under—",
+    "options": ["BNSS s.35", "BNSS s.84(1)", "BNSS s.163", "BNSS s.394"],
+    "correctIndex": 1,
+    "explanation": "s.209 refers to a proclamation published under sub-section (1) of section 84 of the BNSS, 2023."
+  },
+  {
+    "id": "mcq-ch13-4",
+    "chapterId": "ch-13",
+    "question": "If a person has been declared a proclaimed offender under BNSS s.84(4) and fails to appear, the maximum punishment under Section 209 is—",
+    "options": ["1 year", "3 years", "7 years and fine", "10 years and fine"],
+    "correctIndex": 2,
+    "explanation": "s.209: up to three years, or fine, or both, or community service; where declared a proclaimed offender, up to seven years and fine."
+  },
+  {
+    "id": "mcq-ch13-5",
+    "chapterId": "ch-13",
+    "question": "Which offence in Chapter XIII is cognizable AND non-bailable?",
+    "options": ["Section 208", "Section 209", "Section 217", "Section 223"],
+    "correctIndex": 1,
+    "explanation": "BNSS First Schedule: s.209 is cognizable and non-bailable. s.223 is cognizable but bailable; the rest are non-cognizable and bailable."
+  },
+  {
+    "id": "mcq-ch13-6",
+    "chapterId": "ch-13",
+    "question": "Section 210 covers intentional omission to produce—",
+    "options": [
+      "Only a paper document",
+      "A document or electronic record",
+      "Only property seized by police",
+      "Only a witness"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.210: being legally bound to produce or deliver up any document or electronic record to a public servant, intentionally omitting to do so."
+  },
+  {
+    "id": "mcq-ch13-7",
+    "chapterId": "ch-13",
+    "question": "Under Section 211(c), the higher punishment applies where the information is required by an order passed under—",
+    "options": ["BNSS s.84", "BNSS s.173", "BNSS s.394", "BNS s.3(5)"],
+    "correctIndex": 2,
+    "explanation": "s.211(c): where the notice or information is required by an order passed under section 394 of the BNSS — imprisonment of either description up to six months, or fine up to ₹1,000, or both."
+  },
+  {
+    "id": "mcq-ch13-8",
+    "chapterId": "ch-13",
+    "question": "A landholder, knowing of a murder in his estate, falsely tells the Magistrate the death was from a snakebite. He commits an offence under—",
+    "options": ["Section 211", "Section 212", "Section 216", "Section 224"],
+    "correctIndex": 1,
+    "explanation": "This is Illustration (a) to s.212 (furnishing false information by a person legally bound to inform)."
+  },
+  {
+    "id": "mcq-ch13-9",
+    "chapterId": "ch-13",
+    "question": "The Explanation defining 'offence' to include certain acts committed outside India applies to—",
+    "options": [
+      "Sections 206 and 207",
+      "Sections 211 and 212",
+      "Sections 216 and 217",
+      "Sections 223 and 224"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Explanation after s.212 states: 'In section 211 and in this section the word \"offence\" include any act committed at any place out of India...'."
+  },
+  {
+    "id": "mcq-ch13-10",
+    "chapterId": "ch-13",
+    "question": "Refusing to take an oath or affirmation when duly required by a competent public servant is punishable under—",
+    "options": ["Section 213", "Section 214", "Section 215", "Section 216"],
+    "correctIndex": 0,
+    "explanation": "s.213: simple imprisonment up to six months, or fine up to ₹5,000, or both."
+  },
+  {
+    "id": "mcq-ch13-11",
+    "chapterId": "ch-13",
+    "question": "The punishment for refusing to sign a statement under Section 215 is—",
+    "options": [
+      "SI up to 3 months, or fine up to ₹3,000, or both",
+      "SI up to 6 months, or fine up to ₹5,000, or both",
+      "Up to 1 year and fine",
+      "Fine only"
+    ],
+    "correctIndex": 0,
+    "explanation": "s.215: simple imprisonment up to three months, or fine up to three thousand rupees, or both."
+  },
+  {
+    "id": "mcq-ch13-12",
+    "chapterId": "ch-13",
+    "question": "A false statement on oath to a public servant under Section 216 is punishable with—",
+    "options": [
+      "Up to 6 months, or fine",
+      "Up to 1 year, or fine up to ₹10,000",
+      "Up to 3 years and fine",
+      "Up to 7 years and fine"
+    ],
+    "correctIndex": 2,
+    "explanation": "s.216: imprisonment of either description up to three years, and also fine."
+  },
+  {
+    "id": "mcq-ch13-13",
+    "chapterId": "ch-13",
+    "question": "A person who files a false police complaint so that the police will raid his neighbour's house is liable under—",
+    "options": ["Section 212", "Section 214", "Section 217", "Section 221"],
+    "correctIndex": 2,
+    "explanation": "s.217(b): false information to a public servant intending him to use his lawful power to the injury or annoyance of any person."
+  },
+  {
+    "id": "mcq-ch13-14",
+    "chapterId": "ch-13",
+    "question": "The maximum punishment under Section 217 is—",
+    "options": [
+      "6 months, or fine up to ₹1,000",
+      "1 year, or fine up to ₹10,000, or both",
+      "2 years, or fine, or both",
+      "3 years and fine"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.217: imprisonment of either description up to one year, or fine up to ₹10,000, or both. Under s.182 IPC it was six months."
+  },
+  {
+    "id": "mcq-ch13-15",
+    "chapterId": "ch-13",
+    "question": "Bidding at a court auction without intending to pay the price is an offence under—",
+    "options": ["Section 203", "Section 218", "Section 219", "Section 220"],
+    "correctIndex": 3,
+    "explanation": "s.220 punishes bidding 'not intending to perform the obligations under which he lays himself by such bidding' — up to one month, or fine up to ₹200, or both."
+  },
+  {
+    "id": "mcq-ch13-16",
+    "chapterId": "ch-13",
+    "question": "Voluntarily obstructing a public servant in the discharge of his public functions (s.221) is punishable with—",
+    "options": [
+      "Up to 3 months, or fine up to ₹2,500, or both",
+      "Up to 6 months, or fine up to ₹5,000, or both",
+      "Up to 2 years, or fine, or both",
+      "Up to 3 years, or fine not less than ₹25,000"
+    ],
+    "correctIndex": 0,
+    "explanation": "s.221: imprisonment of either description up to three months, or fine up to two thousand five hundred rupees, or both."
+  },
+  {
+    "id": "mcq-ch13-17",
+    "chapterId": "ch-13",
+    "question": "Under the Explanation to Section 223, for disobedience of a lawfully promulgated order it is—",
+    "options": [
+      "Necessary to prove intent to cause harm",
+      "Sufficient that the offender knows of the order and his disobedience produces or is likely to produce harm",
+      "Necessary that a riot actually occurs",
+      "Necessary that the order was published in the Gazette"
+    ],
+    "correctIndex": 1,
+    "explanation": "Explanation to s.223: the offender need not intend or contemplate harm; it is sufficient that he knows of the order and that his disobedience produces, or is likely to produce, harm."
+  },
+  {
+    "id": "mcq-ch13-18",
+    "chapterId": "ch-13",
+    "question": "If disobedience of a promulgated order causes danger to human life or a riot, the maximum punishment under Section 223(b) is—",
+    "options": ["1 month", "6 months", "1 year", "2 years"],
+    "correctIndex": 2,
+    "explanation": "s.223(b): imprisonment of either description up to one year, or fine up to ₹5,000, or both."
+  },
+  {
+    "id": "mcq-ch13-19",
+    "chapterId": "ch-13",
+    "question": "Threatening injury to a public servant's family member to make him delay an official act is punishable under Section 224 with—",
+    "options": [
+      "Up to 1 year, or fine",
+      "Up to 2 years, or fine, or both",
+      "Up to 3 years and fine",
+      "Up to 7 years and fine"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.224 covers threats to a public servant or to 'any person in whom he believes that public servant to be interested' — up to two years, or fine, or both."
+  },
+  {
+    "id": "mcq-ch13-20",
+    "chapterId": "ch-13",
+    "question": "Under the BNS, an attempt to commit suicide is an offence—",
+    "options": [
+      "In every case, as under s.309 IPC",
+      "Only when made with intent to compel or restrain a public servant from discharging his official duty",
+      "Only if committed in a public place",
+      "Never"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.226 (new) punishes an attempt to commit suicide only with intent to compel or restrain a public servant. The general offence under s.309 IPC is not re-enacted."
+  },
+  {
+    "id": "mcq-ch13-21",
+    "chapterId": "ch-13",
+    "question": "Which two Chapter XIII offences provide community service as a punishment?",
+    "options": [
+      "ss.206 and 207",
+      "ss.209 and 226",
+      "ss.217 and 223",
+      "ss.221 and 224"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.209 (non-appearance to a proclamation) and s.226 (attempt to commit suicide to coerce a public servant) both include community service."
+  },
+  {
+    "id": "mcq-ch13-22",
+    "chapterId": "ch-13",
+    "question": "Section 223 of the BNS corresponds to which IPC section?",
+    "options": ["Section 144", "Section 186", "Section 188", "Section 189"],
+    "correctIndex": 2,
+    "explanation": "s.223 re-enacts s.188 IPC (disobedience to order duly promulgated by public servant)."
+  }
+]

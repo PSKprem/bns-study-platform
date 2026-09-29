@@ -6,7 +6,9 @@
     "meaningHi": "सामुदायिक सेवा — दोषी व्यक्ति को समाज के हित में करने के लिए दिया गया बिना वेतन का कार्य। धारा 4(च) में पहली बार दंड के रूप में सूचीबद्ध; यह केवल उन्हीं अपराधों में दिया जा सकता है जिनमें इसका प्रावधान हो (जैसे धारा 202, 209, 303(2), 355, 356(2))।",
     "relatedSections": [
       "s-4",
-      "s-202"
+      "s-202",
+      "s-209",
+      "s-226"
     ]
   },
   {
@@ -38,7 +40,8 @@
       "s-157",
       "s-198",
       "s-202",
-      "s-203"
+      "s-203",
+      "s-206"
     ]
   },
   {
@@ -145,7 +148,9 @@
     "meaningHi": "अपराध — संहिता द्वारा दंडनीय बनाई गई कोई बात (धारा 2(24)); अध्याय III और कुछ सूचीबद्ध धाराओं में इसमें विशेष या स्थानीय विधि के अधीन दंडनीय बात भी शामिल है। संहिता के भारत के बाहर लागू होने (धारा 1) के लिए इसमें भारत के बाहर किया गया ऐसा कार्य भी शामिल है जो भारत में किए जाने पर दंडनीय होता।",
     "relatedSections": [
       "s-1",
-      "s-2"
+      "s-2",
+      "s-211",
+      "s-212"
     ]
   },
   {
@@ -215,7 +220,8 @@
     "meaningHi": "दस्तावेज़ — किसी पदार्थ पर अक्षरों, अंकों या चिह्नों द्वारा व्यक्त या वर्णित कोई विषय, जिसे उस विषय के साक्ष्य के रूप में प्रयोग करने का आशय हो या जो ऐसे प्रयोग हो सकता हो — इसमें इलेक्ट्रॉनिक और डिजिटल अभिलेख स्पष्ट रूप से शामिल हैं (धारा 2(8))।",
     "relatedSections": [
       "s-2",
-      "s-201"
+      "s-201",
+      "s-210"
     ]
   },
   {
@@ -242,7 +248,27 @@
       "s-202",
       "s-203",
       "s-204",
-      "s-205"
+      "s-205",
+      "s-206",
+      "s-207",
+      "s-208",
+      "s-210",
+      "s-211",
+      "s-212",
+      "s-213",
+      "s-214",
+      "s-215",
+      "s-216",
+      "s-217",
+      "s-218",
+      "s-219",
+      "s-220",
+      "s-221",
+      "s-222",
+      "s-223",
+      "s-224",
+      "s-225",
+      "s-226"
     ]
   },
   {
@@ -342,7 +368,9 @@
     "relatedSections": [
       "s-2",
       "s-16",
-      "s-73"
+      "s-73",
+      "s-208",
+      "s-210"
     ]
   },
   {
@@ -367,7 +395,11 @@
       "s-129",
       "s-171",
       "s-198",
-      "s-201"
+      "s-201",
+      "s-217",
+      "s-223",
+      "s-224",
+      "s-225"
     ]
   },
   {
@@ -421,7 +453,9 @@
       "s-164",
       "s-179",
       "s-180",
-      "s-193"
+      "s-193",
+      "s-212",
+      "s-218"
     ]
   },
   {
@@ -475,7 +509,8 @@
       "s-117",
       "s-126",
       "s-156",
-      "s-171"
+      "s-171",
+      "s-221"
     ]
   },
   {
@@ -591,7 +626,9 @@
     "meaningEn": "Includes a solemn affirmation substituted by law for an oath, and any declaration that the law requires or authorises to be made before a public servant or to be used as proof, whether in a Court or not (s.2(23)).",
     "meaningHi": "शपथ — इसमें विधि द्वारा शपथ के स्थान पर रखा गया सत्यनिष्ठ प्रतिज्ञान, और ऐसी कोई घोषणा शामिल है जिसे विधि किसी लोक सेवक के समक्ष करने या सबूत के प्रयोजन के लिए प्रयोग करने की अपेक्षा या अनुमति देती है, चाहे न्यायालय में हो या नहीं (धारा 2(23))।",
     "relatedSections": [
-      "s-2"
+      "s-2",
+      "s-213",
+      "s-216"
     ]
   },
   {
@@ -799,7 +836,8 @@
       "s-109",
       "s-110",
       "s-134",
-      "s-147"
+      "s-147",
+      "s-226"
     ]
   },
   {
@@ -1029,11 +1067,12 @@
   {
     "id": "suicide",
     "term": "Suicide",
-    "meaningEn": "Intentionally ending one's own life. Attempting it is not an offence under the BNS, but abetting it is (ss.107, 108).",
-    "meaningHi": "आत्महत्या — जानबूझकर अपना जीवन समाप्त करना। भारतीय न्याय संहिता में इसका प्रयत्न अपराध नहीं है, परंतु इसका दुष्प्रेरण अपराध है (धारा 107, 108)।",
+    "meaningEn": "Intentionally ending one's own life. A general attempt to commit suicide is not an offence under the BNS (s.309 IPC was not re-enacted), except an attempt made to compel or restrain a public servant from discharging his duty (s.226). Abetting suicide is an offence (ss.107, 108).",
+    "meaningHi": "आत्महत्या — जानबूझकर अपना जीवन समाप्त करना। भा.न्या.सं. में आत्महत्या का सामान्य प्रयत्न अपराध नहीं है (भा.दं.सं. की धारा 309 दोहराई नहीं गई), सिवाय उस प्रयत्न के जो किसी लोक सेवक को उसके कर्तव्य के निर्वहन के लिए विवश करने या रोकने के आशय से किया जाए (धारा 226)। आत्महत्या का दुष्प्रेरण अपराध है (धाराएँ 107, 108)।",
     "relatedSections": [
       "s-107",
-      "s-108"
+      "s-108",
+      "s-226"
     ]
   },
   {
@@ -1587,7 +1626,9 @@
       "s-191",
       "s-192",
       "s-193",
-      "s-195"
+      "s-195",
+      "s-222",
+      "s-223"
     ]
   },
   {
@@ -1597,7 +1638,9 @@
     "meaningHi": "दंगा (मारपीट) — जब दो या अधिक व्यक्ति किसी सार्वजनिक स्थान पर लड़कर लोक शांति भंग करते हैं। इसके लिए बल्वे की तरह पाँच व्यक्तियों या सामान्य उद्देश्य की आवश्यकता नहीं होती।",
     "relatedSections": [
       "s-194",
-      "s-195"
+      "s-195",
+      "s-222",
+      "s-223"
     ]
   },
   {
@@ -1635,7 +1678,10 @@
     "meaningEn": "Data, a record or data generated, an image or sound stored, received or sent in electronic form, or microfilm or computer-generated microfiche. The BNS takes this meaning from the Information Technology Act, 2000 through s.2(39).",
     "meaningHi": "इलेक्ट्रॉनिक अभिलेख — इलेक्ट्रॉनिक रूप में संग्रहीत, प्राप्त या भेजा गया डेटा, अभिलेख, छवि या ध्वनि, अथवा माइक्रोफिल्म या कंप्यूटर-जनित माइक्रोफिश। भा.न्या.सं. की धारा 2(39) के माध्यम से इसका अर्थ सूचना प्रौद्योगिकी अधिनियम, 2000 से लिया गया है।",
     "relatedSections": [
-      "s-201"
+      "s-201",
+      "s-206",
+      "s-207",
+      "s-210"
     ]
   },
   {
@@ -1654,6 +1700,66 @@
     "meaningHi": "अधिहरण (ज़ब्ती) — विधि के आदेश से किसी व्यक्ति से संपत्ति छीनकर सरकार को सौंप देना। धारा 203 में, क्रय से वर्जित लोक सेवक द्वारा अवैध रूप से खरीदी गई संपत्ति का अधिहरण किया जाएगा।",
     "relatedSections": [
       "s-203"
+    ]
+  },
+  {
+    "id": "summons",
+    "term": "Summons",
+    "meaningEn": "A formal written direction from a court or other competent public servant requiring a person to appear at a certain place and time, or to produce a document or thing. Evading, blocking or disobeying a summons is punished by ss.206-208.",
+    "meaningHi": "समन — न्यायालय या अन्य सक्षम लोक सेवक का लिखित निदेश, जिसमें किसी व्यक्ति को नियत स्थान और समय पर उपस्थित होने या कोई दस्तावेज़ या वस्तु प्रस्तुत करने की अपेक्षा की जाती है। समन से बचना, उसकी तामील रोकना या उसकी अवज्ञा धाराएँ 206-208 में दंडनीय है।",
+    "relatedSections": [
+      "s-206",
+      "s-207",
+      "s-208"
+    ]
+  },
+  {
+    "id": "abscond",
+    "term": "Abscond",
+    "meaningEn": "To go away or hide in order to avoid legal process — for example, to avoid being served with a summons (s.206) or to escape a warrant, which can lead to a proclamation under BNSS s.84.",
+    "meaningHi": "फ़रार होना — विधिक प्रक्रिया से बचने के लिए कहीं चले जाना या छिप जाना, जैसे समन की तामील (धारा 206) या वारंट से बचना, जिसके कारण भा.ना.सु.सं. की धारा 84 में उद्घोषणा की जा सकती है।",
+    "relatedSections": [
+      "s-206",
+      "s-209"
+    ]
+  },
+  {
+    "id": "proclamation",
+    "term": "Proclamation",
+    "meaningEn": "A public written announcement made under the authority of a competent public servant. Under BNSS s.84(1), a court may publish a proclamation requiring an absconding person to appear at a specified place and time, not less than thirty days later; failing to appear is punished by s.209.",
+    "meaningHi": "उद्घोषणा — सक्षम लोक सेवक के प्राधिकार से की गई सार्वजनिक लिखित घोषणा। भा.ना.सु.सं. की धारा 84(1) में न्यायालय फ़रार व्यक्ति को कम से कम तीस दिन बाद नियत स्थान और समय पर उपस्थित होने की उद्घोषणा प्रकाशित कर सकता है; उपस्थित न होना धारा 209 में दंडनीय है।",
+    "relatedSections": [
+      "s-207",
+      "s-208",
+      "s-209"
+    ]
+  },
+  {
+    "id": "proclaimed-offender",
+    "term": "Proclaimed offender",
+    "meaningEn": "A person whom a court, after a proclamation under BNSS s.84(1), declares to be a proclaimed offender under BNSS s.84(4). If such a person fails to appear, s.209 raises the punishment to up to seven years and fine.",
+    "meaningHi": "उद्घोषित अपराधी — वह व्यक्ति जिसे न्यायालय भा.ना.सु.सं. की धारा 84(1) की उद्घोषणा के बाद धारा 84(4) में उद्घोषित अपराधी घोषित करता है। ऐसे व्यक्ति के उपस्थित न होने पर धारा 209 में दंड सात वर्ष तक और जुर्माना हो जाता है।",
+    "relatedSections": [
+      "s-209"
+    ]
+  },
+  {
+    "id": "affirmation",
+    "term": "Affirmation",
+    "meaningEn": "A solemn declaration to tell the truth made without religious form, used by a person who prefers not to take an oath. It has the same legal effect as an oath; refusing both when lawfully required is an offence (s.213), and lying under either is punishable (s.216).",
+    "meaningHi": "प्रतिज्ञान — बिना धार्मिक रूप के सत्य बोलने की गंभीर घोषणा, जो शपथ न लेना चाहने वाला व्यक्ति करता है। इसका विधिक प्रभाव शपथ के समान है; विधिवत अपेक्षा होने पर दोनों से इनकार करना अपराध है (धारा 213)।",
+    "relatedSections": [
+      "s-213",
+      "s-216"
+    ]
+  },
+  {
+    "id": "promulgated-order",
+    "term": "Order duly promulgated",
+    "meaningEn": "An order made and made known by a public servant lawfully empowered to issue it, directing people to abstain from an act or to deal with their property in a certain way — for example, a prohibitory order under BNSS s.163. Knowingly disobeying it, where harm results or is likely, is punished by s.223.",
+    "meaningHi": "विधिवत प्रख्यापित आदेश — विधिपूर्वक सशक्त लोक सेवक द्वारा जारी और प्रचारित आदेश, जो लोगों को किसी कार्य से विरत रहने या अपनी संपत्ति के संबंध में कोई व्यवस्था करने का निदेश देता है, जैसे भा.ना.सु.सं. की धारा 163 का निषेधाज्ञा आदेश। इसकी जानबूझकर अवज्ञा धारा 223 में दंडनीय है।",
+    "relatedSections": [
+      "s-223"
     ]
   }
 ]

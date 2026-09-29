@@ -100,6 +100,7 @@ Goal: prove the whole workflow on one small chapter. Definition of Done = `requi
   - [x] Chapter X (Coin, Currency-Notes, Bank-Notes and Government Stamps, s.178–188) — Gazette-verified; 11 sections, 20 MCQs, 11 exam Q&A, 5 new dictionary terms
   - [x] Chapter XI (Offences Against the Public Tranquillity, s.189–197) — Gazette-verified; 9 sections, 20 MCQs, 11 exam Q&A, 6 new dictionary terms
   - [x] Chapter XII (Offences by or Relating to Public Servants, s.198–205) — Gazette-verified; 8 sections, 18 MCQs, 10 exam Q&A, 4 new dictionary terms
+  - [x] Chapter XIII (Of Contempts of the Lawful Authority of Public Servants, s.206–226) — Gazette-verified; 21 sections, 22 MCQs, 10 exam Q&A, 6 new dictionary terms
 - [x] Dictionary check: fixed 10 one-way section↔term links; new test enforces two-way links; home page links to the full dictionary with its term count; chapter tab shows its term count
 - [x] Dark mode toggle (light/dark, persisted in localStorage) *(added on request)*
 - [x] Statutory Dictionary: all 38 terms defined in s.2, bilingual
