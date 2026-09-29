@@ -1,0 +1,44 @@
+[
+  {
+    "id": "qa-ch16-1",
+    "chapterId": "ch-16",
+    "question": "Explain Section 298 of the BNS (injuring or defiling a place of worship).",
+    "modelAnswer": "Section 298 (formerly s.295 IPC) punishes whoever destroys, damages or defiles any place of worship, or any object held sacred by any class of persons, with the intention of insulting the religion of any class of persons, or with the knowledge that any class of persons is likely to consider the destruction, damage or defilement as an insult to their religion. The ingredients are: (1) destruction, damage or defilement; (2) of a place of worship or an object held sacred by a class of persons; and (3) intention to insult the religion of a class, or knowledge that a class is likely to regard it as an insult. 'Defile' means to make impure or to dishonour, and is wider than physical damage — throwing unclean matter into a shrine can defile it without damaging it. The object held sacred need not be in a place of worship; idols, scriptures and sacred symbols are covered wherever they are. The alternative of 'knowledge' means that an accused who acts from another motive (for example, a quarrel) is still liable if he knew the act was likely to be seen as an insult to religion. The punishment is imprisonment of either description up to two years, or fine, or both. It is cognizable, non-bailable, not compoundable and triable by any Magistrate.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "qa-ch16-2",
+    "chapterId": "ch-16",
+    "question": "Discuss Section 299 of the BNS. Why is the requirement of 'deliberate and malicious intention' important?",
+    "modelAnswer": "Section 299 (formerly s.295A IPC) punishes whoever, with deliberate and malicious intention of outraging the religious feelings of any class of citizens of India, by words spoken or written, signs, visible representations, electronic means or otherwise, insults or attempts to insult the religion or religious beliefs of that class. The punishment is imprisonment of either description up to three years, or fine, or both; it is cognizable, non-bailable and triable by a Magistrate of the first class. The ingredients are: (1) an insult or attempted insult to the religion or religious beliefs of a class of citizens; (2) by any means of expression, now expressly including electronic means; and (3) a deliberate and malicious intention of outraging the religious feelings of that class. The requirement of deliberate and malicious intent is central. Freedom of speech under Article 19(1)(a) of the Constitution allows reasonable restrictions in the interest of public order under Article 19(2). The Supreme Court upheld s.295A IPC in Ramji Lal Modi v. State of U.P. (1957) because it does not punish every insult to religion, but only aggravated insults made deliberately and maliciously to outrage religious feelings, which have a tendency to disrupt public order. Unintentional or careless remarks, bona fide academic or historical criticism, and honest reformist discussion of religious practices fall outside the section. Courts judge the matter from the standpoint of a reasonable, strong-minded person, not a hypersensitive one. The BNS keeps this structure and punishment, adding only the reference to electronic means.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "qa-ch16-3",
+    "chapterId": "ch-16",
+    "question": "Distinguish between Section 299 and Section 302 of the BNS.",
+    "modelAnswer": "Both punish insults to religious sentiment, but they differ in several ways. (1) Target: s.299 protects the religious feelings of a class of citizens of India; s.302 protects the religious feelings of an individual person. (2) Mental element: s.299 requires a 'deliberate and malicious' intention of outraging the religious feelings of a class; s.302 requires a 'deliberate intention' of wounding the religious feelings of a person. (3) Mode: s.299 covers words spoken or written, signs, visible representations, electronic means or otherwise — including publications reaching a wide audience; s.302 requires a word or sound uttered in the person's hearing, or a gesture made or object placed in his sight — a face-to-face act. (4) Punishment: s.299 — up to three years, or fine, or both; s.302 — up to one year, or fine, or both. (5) Classification: s.299 is cognizable and non-bailable, triable by a Magistrate of the first class; s.302 is non-cognizable and bailable, triable by any Magistrate. (6) Compounding: s.299 is not compoundable; s.302 is compoundable by the person whose religious feelings were intended to be wounded (BNSS s.359(1)).",
+    "difficulty": "medium"
+  },
+  {
+    "id": "qa-ch16-4",
+    "chapterId": "ch-16",
+    "question": "Explain Sections 300 and 301 of the BNS.",
+    "modelAnswer": "Section 300 (formerly s.296 IPC) punishes whoever voluntarily causes disturbance to any assembly lawfully engaged in the performance of religious worship or religious ceremonies, with imprisonment up to one year, or fine, or both. The ingredients are: an assembly; lawfully engaged in religious worship or ceremonies; and voluntary disturbance of it. The assembly must be acting lawfully — for example, a procession held in breach of a lawful prohibitory order may not be protected. Section 301 (formerly s.297 IPC) punishes, where done with intention of wounding the feelings of any person or insulting his religion, or with knowledge that this is likely: (a) trespass in any place of worship, place of sepulchre, place set apart for funeral rites, or depository for the remains of the dead; (b) offering any indignity to a human corpse; or (c) causing disturbance to persons assembled for funeral ceremonies. The punishment is up to one year, or fine, or both. Section 301 recognises that respect for the dead and for burial and cremation places is part of religious sentiment in every community; digging up graves, mutilating a corpse or breaking up a funeral are typical examples. Both sections are cognizable, bailable, not compoundable and triable by any Magistrate.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "qa-ch16-5",
+    "chapterId": "ch-16",
+    "question": "Problem: P posts on a social media page a video in which he burns pages of a religious scripture, abuses its followers, and urges viewers to 'teach them a lesson'. The video leads to tension between two communities in his town. Discuss P's liability.",
+    "modelAnswer": "Section 299: by burning a scripture and abusing its followers in a publicly posted video, P has insulted the religion and religious beliefs of a class of citizens through electronic means. The content, its abusive nature and the call to 'teach them a lesson' show a deliberate and malicious intention of outraging their religious feelings. P is liable under s.299: up to three years, or fine, or both; cognizable and non-bailable. Section 298: a scripture is an object held sacred by a class of persons; destroying it, with intention of insulting their religion or knowing they will consider it an insult, also falls within s.298 (up to two years). Section 196: by urging viewers to 'teach them a lesson', P promotes feelings of enmity, hatred or ill-will between religious groups through electronic communication; since tension actually resulted, his act is also prejudicial to the maintenance of harmony and likely to disturb public tranquillity. He is liable under s.196(1)(a) and (b): up to three years, or fine, or both; cognizable and non-bailable. P may also face action under the Information Technology Act, 2000, and the platform may be required to remove the video. The prosecution would typically frame charges under ss.196, 298 and 299 together.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "qa-ch16-6",
+    "chapterId": "ch-16",
+    "question": "Why is Section 302 the only compoundable offence in Chapter XVI?",
+    "modelAnswer": "Section 302 (formerly s.298 IPC) punishes words, sounds, gestures or objects deliberately used to wound the religious feelings of a particular individual, with up to one year, or fine, or both. Because the harm is personal — the feelings of one identifiable person — rather than damage to a place of worship or an attack on the beliefs of a whole community, the law treats it as primarily a private wrong. BNSS s.359(1) therefore allows it to be compounded (settled) by the person whose religious feelings were intended to be wounded, without the court's permission. For the same reason, it is non-cognizable: the police cannot arrest without a warrant or investigate without a Magistrate's order. By contrast, ss.298 and 299 affect a class of persons and public order, so they are cognizable, non-bailable and cannot be compounded; ss.300 and 301 are also not compoundable because they concern religious assemblies, places of worship, burial places and the dead, where the interest protected is wider than one individual's.",
+    "difficulty": "medium"
+  }
+]
