@@ -1,0 +1,72 @@
+[
+  {
+    "id": "qa-ch06-1",
+    "chapterId": "ch-06",
+    "question": "Distinguish between culpable homicide (s.100) and murder (s.101) under the BNS.",
+    "modelAnswer": "Every murder is culpable homicide, but not every culpable homicide is murder. Section 100 defines culpable homicide as causing death by an act done (i) with the intention of causing death, (ii) with the intention of causing such bodily injury as is likely to cause death, or (iii) with the knowledge that the act is likely to cause death. Section 101 marks out the graver cases that are murder: (a) where the act is done with the intention of causing death; (b) with the intention of causing an injury the offender knows is likely to cause the death of the particular person harmed (for example, knowing of the victim's disease); (c) with the intention of causing an injury that is sufficient in the ordinary course of nature to cause death; or (d) with the knowledge that the act is so imminently dangerous that it must in all probability cause death, done without any excuse for taking the risk. The difference lies in the degree of probability of death: 'likely' in s.100 compared with 'sufficient in the ordinary course of nature' or 'in all probability' in s.101. Even where a clause of s.101 applies, the offence is only culpable homicide not amounting to murder if one of the five Exceptions applies. The punishment then falls under s.105 rather than s.103.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "qa-ch06-2",
+    "chapterId": "ch-06",
+    "question": "Explain the five Exceptions to Section 101 of the BNS.",
+    "modelAnswer": "Culpable homicide is not murder in five cases. Exception 1 — grave and sudden provocation: the offender, deprived of self-control, kills the person who provoked him, or another person by mistake or accident. The provocation must not be sought by the offender as an excuse, given by an act done in obedience to law or by a public servant acting lawfully, or given in lawful private defence; whether it was grave and sudden is a question of fact. Exception 2 — private defence: the offender, exercising the right of private defence of person or property in good faith, exceeds that right and causes death without premeditation and without intending more harm than necessary. Exception 3 — public servant: a public servant, or a person aiding one, acting for the advancement of public justice, exceeds his legal powers and causes death by an act he believes in good faith to be lawful and necessary, without ill-will towards the deceased. Exception 4 — sudden fight: death caused without premeditation in a sudden fight in the heat of passion on a sudden quarrel, without taking undue advantage or acting cruelly or unusually; it does not matter who struck first. Exception 5 — consent: the deceased, being above eighteen years of age, suffers death or takes the risk of death with his own consent. The burden of proving an Exception lies on the accused.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "qa-ch06-3",
+    "chapterId": "ch-06",
+    "question": "What changes has the BNS made to the punishment for murder and for causing death by negligence?",
+    "modelAnswer": "Section 103(1) keeps the IPC punishment for murder — death or life imprisonment, and fine. Section 103(2) is new: where a group of five or more persons acting in concert commits murder on the ground of race, caste or community, sex, place of birth, language, personal belief or any other similar ground, each member is punishable with death or life imprisonment and fine. This targets mob lynching. Section 104, on murder by a life-convict, replaces s.303 IPC, which prescribed a mandatory death sentence and was held unconstitutional in Mithu v. State of Punjab (1983); the BNS allows death or life imprisonment for the rest of natural life. For negligent death, s.106(1) raises the maximum from two years (s.304A IPC) to five years and fine, but caps it at two years where the act is done by a registered medical practitioner during a medical procedure. Section 106(2) would punish causing death by rash and negligent driving and escaping without reporting to the police or a Magistrate with up to ten years and fine, but it was excluded when the BNS was brought into force on 1 July 2024 and has not yet been notified.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "qa-ch06-4",
+    "chapterId": "ch-06",
+    "question": "Explain 'organised crime' under Section 111 of the BNS.",
+    "modelAnswer": "Section 111 is a new provision. Organised crime is any continuing unlawful activity — such as kidnapping, robbery, vehicle theft, extortion, land grabbing, contract killing, economic offences, cyber-crimes, or trafficking of persons, drugs, weapons or illicit goods — by any person or group acting as a member of, or on behalf of, an organised crime syndicate, by violence, threat, intimidation, coercion or other unlawful means, to obtain a direct or indirect material benefit including a financial benefit. An 'organised crime syndicate' is a group of two or more persons indulging in continuing unlawful activity. 'Continuing unlawful activity' means a cognizable offence punishable with three years or more, in respect of which more than one charge-sheet has been filed before a competent court within the preceding ten years and cognizance taken. 'Economic offence' includes criminal breach of trust, forgery, counterfeiting, hawala, mass-marketing fraud and defrauding banks. Punishment: if death results, death or life imprisonment and fine of at least ₹10 lakh; otherwise at least five years extending to life, and fine of at least ₹5 lakh. The section also punishes abetting, attempting, conspiring or facilitating; membership of a syndicate; harbouring an offender (the spouse is exempted); and possessing proceeds or unexplained property on behalf of a member. All are cognizable, non-bailable and triable by a Court of Session.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "qa-ch06-5",
+    "chapterId": "ch-06",
+    "question": "Define hurt and grievous hurt. What kinds of hurt are grievous under Section 116?",
+    "modelAnswer": "Under s.114, whoever causes bodily pain, disease or infirmity to any person causes hurt. Under s.115(1), a person voluntarily causes hurt when he does an act intending, or knowing it is likely, to cause hurt, and does cause hurt; the punishment under s.115(2) is up to one year, or fine up to ₹10,000, or both. Section 116 lists the only eight kinds of hurt that are grievous: (a) emasculation; (b) permanent privation of the sight of either eye; (c) permanent privation of the hearing of either ear; (d) privation of any member or joint; (e) destruction or permanent impairing of the powers of any member or joint; (f) permanent disfiguration of the head or face; (g) fracture or dislocation of a bone or tooth; and (h) any hurt that endangers life or causes the sufferer to be in severe bodily pain, or unable to follow his ordinary pursuits, for fifteen days. The BNS reduces the period in clause (h) from twenty to fifteen days. Voluntarily causing grievous hurt (s.117) requires both that grievous hurt is caused and that the offender intended or knew it was likely; it is punishable with up to seven years and fine.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "qa-ch06-6",
+    "chapterId": "ch-06",
+    "question": "Explain the offence of acid attack under Section 124.",
+    "modelAnswer": "Section 124(1) punishes whoever causes permanent or partial damage or deformity to, or burns, maims, disfigures or disables, any part of a person's body, or causes grievous hurt, by throwing acid on or administering acid to that person, or by using any other means, with the intention or knowledge of causing such injury, or causes a permanent vegetative state. The punishment is imprisonment of at least ten years, extending to life, and fine; the fine must be just and reasonable to meet the victim's medical treatment and is paid to the victim. Section 124(2) punishes throwing or attempting to throw acid, or attempting to administer acid or use other means, with that intention, with five to seven years and fine. 'Acid' includes any substance of acidic, corrosive or burning nature capable of causing scars, disfigurement or temporary or permanent disability, and the damage need not be irreversible. Both offences are cognizable, non-bailable and triable by a Court of Session. They correspond to ss.326A and 326B IPC.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "qa-ch06-7",
+    "chapterId": "ch-06",
+    "question": "Distinguish between force, criminal force and assault under Sections 128 to 130.",
+    "modelAnswer": "Force (s.128) is purely physical: causing motion, change of motion or cessation of motion to a person, or to a substance so that it comes into contact with his body, clothing, things carried, or something affecting his sense of feeling — by one's own bodily power, by arranging a substance so the motion follows, or by inducing an animal to move. Force by itself is not an offence. Criminal force (s.129) is the intentional use of force on a person without his consent, either to commit an offence or intending or knowing it is likely to cause injury, fear or annoyance to him — for example, pushing someone in the street to annoy him, or setting a dog on him. Assault (s.130) needs no contact at all: it is a gesture or preparation made intending or knowing it is likely to make a person present apprehend that criminal force is about to be used on him, such as shaking a fist or raising a stick. Mere words are not assault, but they may give a gesture that meaning. The basic punishment for assault or criminal force (s.131) is up to three months, or fine up to ₹1,000, or both.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "qa-ch06-8",
+    "chapterId": "ch-06",
+    "question": "Distinguish between kidnapping (s.137) and abduction (s.138).",
+    "modelAnswer": "Kidnapping has two forms. Kidnapping from India is conveying a person beyond India without his consent or that of a person legally authorised to consent for him. Kidnapping from lawful guardianship is taking or enticing a child (a person under eighteen, boy or girl) or a person of unsound mind out of the keeping of the lawful guardian without the guardian's consent. Abduction is compelling a person by force, or inducing him by deceitful means, to go from any place. The differences are: (1) kidnapping from guardianship applies only to children and persons of unsound mind, while abduction applies to anyone; (2) in kidnapping the victim's consent is irrelevant and the means need not be force or deceit, while abduction requires force or deceitful means; (3) kidnapping is complete once the child is taken out of the guardian's keeping, while abduction is a continuing act as long as the person is moved from place to place; (4) kidnapping is itself punishable under s.137(2) with up to seven years and fine, while abduction is punishable only when accompanied by a purpose set out in another section, such as ss.87 or 140. The BNS replaces the IPC's separate ages (sixteen for boys, eighteen for girls) with the single term 'child'.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "qa-ch06-9",
+    "chapterId": "ch-06",
+    "question": "Explain the offence of trafficking of persons under Section 143.",
+    "modelAnswer": "Under s.143(1), a person commits trafficking who, for the purpose of exploitation, recruits, transports, harbours, transfers or receives a person, by using threats, force or other coercion, abduction, fraud or deception, abuse of power, or inducement including giving or receiving payments or benefits to obtain the consent of a person having control over the victim. Exploitation includes physical exploitation, any form of sexual exploitation, slavery or similar practices, servitude, beggary and forced removal of organs. The consent of the victim is immaterial. Punishment is graded: trafficking of one person, rigorous imprisonment of seven to ten years and fine; of more than one person, ten years to life; of a child, ten years to life; of more than one child, fourteen years to life; a person convicted more than once of child trafficking, life for the remainder of natural life; and a public servant or police officer involved in trafficking, life for the remainder of natural life. All are cognizable, non-bailable and triable by a Court of Session. Section 144 separately punishes engaging a trafficked child (five to ten years) or trafficked person (three to seven years) for sexual exploitation.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "qa-ch06-10",
+    "chapterId": "ch-06",
+    "question": "Explain wrongful restraint and wrongful confinement and their punishments.",
+    "modelAnswer": "Wrongful restraint (s.126) is voluntarily obstructing a person so as to prevent him from going in any direction in which he has a right to go; obstructing a private way that one in good faith believes one has a right to obstruct is excepted. It is punishable with simple imprisonment up to one month, or fine up to ₹5,000, or both. Wrongful confinement (s.127) is wrongful restraint that prevents a person from going beyond certain circumscribing limits — for example, locking someone in a room, or posting armed men at the exits and threatening to shoot. Restraint blocks one direction, while confinement blocks every direction beyond a boundary. The basic punishment is up to one year, or fine up to ₹5,000, or both. It rises to up to three years (or fine up to ₹10,000) for three or more days, and up to five years with a minimum fine of ₹10,000 for ten or more days. An additional two years applies if a writ for release has been issued, and an additional three years if the confinement is kept secret. Confinement to extort property, force an illegal act, extract a confession or compel restoration of property is punishable with up to three years and fine. Restraint and several forms of confinement are compoundable by the person restrained or confined.",
+    "difficulty": "basic"
+  }
+]

@@ -31,7 +31,8 @@
     "relatedSections": [
       "s-4",
       "s-7",
-      "s-79"
+      "s-79",
+      "s-136"
     ]
   },
   {
@@ -41,7 +42,8 @@
     "meaningHi": "किसी भी प्रकार का कारावास — ऐसा प्रावधान जिसमें न्यायालय के निर्देश पर कारावास कठोर या साधारण, कोई भी हो सकता है।",
     "relatedSections": [
       "s-7",
-      "s-67"
+      "s-67",
+      "s-105"
     ]
   },
   {
@@ -57,7 +59,10 @@
       "s-66",
       "s-70",
       "s-71",
-      "s-80"
+      "s-80",
+      "s-103",
+      "s-104",
+      "s-105"
     ]
   },
   {
@@ -84,7 +89,8 @@
     "meaningEn": "A sum of money a convicted person is ordered to pay as punishment; unlimited where no maximum is fixed, but not excessive.",
     "meaningHi": "जुर्माना — दंड के रूप में दोषी व्यक्ति द्वारा देय धनराशि; जहाँ कोई अधिकतम सीमा तय नहीं है वहाँ असीमित, पर अत्यधिक नहीं।",
     "relatedSections": [
-      "s-8"
+      "s-8",
+      "s-103"
     ]
   },
   {
@@ -186,7 +192,10 @@
       "s-37",
       "s-72",
       "s-88",
-      "s-91"
+      "s-91",
+      "s-101",
+      "s-126",
+      "s-137"
     ]
   },
   {
@@ -209,7 +218,9 @@
       "s-56",
       "s-59",
       "s-64",
-      "s-68"
+      "s-68",
+      "s-121",
+      "s-132"
     ]
   },
   {
@@ -239,7 +250,8 @@
     "meaningEn": "\"Act\" includes a series of acts as well as a single act.",
     "meaningHi": "कार्य — इसमें एकल कार्य के साथ-साथ कार्यों की एक श्रृंखला भी शामिल है।",
     "relatedSections": [
-      "s-2"
+      "s-2",
+      "s-100"
     ]
   },
   {
@@ -276,7 +288,12 @@
       "s-96",
       "s-97",
       "s-98",
-      "s-99"
+      "s-99",
+      "s-107",
+      "s-137",
+      "s-139",
+      "s-143",
+      "s-144"
     ]
   },
   {
@@ -305,7 +322,9 @@
     "meaningEn": "\"Death\" means the death of a human being unless the contrary appears from the context.",
     "meaningHi": "मृत्यु — जब तक संदर्भ से विपरीत प्रकट न हो, इसका अर्थ किसी मनुष्य की मृत्यु है।",
     "relatedSections": [
-      "s-2"
+      "s-2",
+      "s-100",
+      "s-106"
     ]
   },
   {
@@ -314,7 +333,9 @@
     "meaningEn": "\"Injury\" means any harm whatever illegally caused to any person in body, mind, reputation or property.",
     "meaningHi": "क्षति — किसी व्यक्ति को उसके शरीर, मन, प्रतिष्ठा या संपत्ति में अवैध रूप से पहुँचाई गई कोई भी हानि।",
     "relatedSections": [
-      "s-2"
+      "s-2",
+      "s-100",
+      "s-129"
     ]
   },
   {
@@ -362,7 +383,8 @@
     "meaningHi": "विश्वास करने का कारण — किसी व्यक्ति को किसी बात पर 'विश्वास करने का कारण' तब है जब उसके पास उसे मानने का पर्याप्त कारण हो, अन्यथा नहीं।",
     "relatedSections": [
       "s-2",
-      "s-84"
+      "s-84",
+      "s-144"
     ]
   },
   {
@@ -375,7 +397,8 @@
       "s-45",
       "s-58",
       "s-60",
-      "s-61"
+      "s-61",
+      "s-119"
     ]
   },
   {
@@ -385,7 +408,10 @@
     "meaningHi": "मूल्यवान प्रतिभूति — ऐसा दस्तावेज़ जो किसी विधिक अधिकार का सृजन, विस्तार, अंतरण, निर्बंधन, विलोपन या मोचन करता हो, या जिसके द्वारा कोई व्यक्ति यह स्वीकार करे कि वह विधिक दायित्व के अधीन है या उसे कोई विधिक अधिकार प्राप्त नहीं है।",
     "relatedSections": [
       "s-2",
-      "s-86"
+      "s-86",
+      "s-119",
+      "s-120",
+      "s-127"
     ]
   },
   {
@@ -404,7 +430,10 @@
     "meaningHi": "स्वेच्छया — कोई व्यक्ति किसी परिणाम को 'स्वेच्छया' तब कारित करता है जब वह उसे ऐसे साधनों से कारित करे जिनसे उसका आशय उसे कारित करने का था, या ऐसे साधनों से जिनके बारे में उस समय वह जानता था या विश्वास करने का कारण रखता था कि उनसे वह परिणाम होने की संभावना है।",
     "relatedSections": [
       "s-2",
-      "s-88"
+      "s-88",
+      "s-115",
+      "s-117",
+      "s-126"
     ]
   },
   {
@@ -440,7 +469,10 @@
     "meaningEn": "Includes supplying a person with shelter, food, drink, money, clothes, arms, ammunition or means of conveyance, or helping him by any means to evade arrest (s.2(13)).",
     "meaningHi": "संश्रय देना — किसी व्यक्ति को आश्रय, भोजन, पेय, धन, वस्त्र, आयुध, गोला-बारूद या यातायात के साधन देना, या किसी भी साधन से उसे पकड़े जाने से बचने में सहायता करना (धारा 2(13))।",
     "relatedSections": [
-      "s-2"
+      "s-2",
+      "s-111",
+      "s-113",
+      "s-143"
     ]
   },
   {
@@ -573,7 +605,9 @@
       "s-22",
       "s-27",
       "s-28",
-      "s-36"
+      "s-36",
+      "s-107",
+      "s-137"
     ]
   },
   {
@@ -601,7 +635,9 @@
       "s-63",
       "s-67",
       "s-89",
-      "s-90"
+      "s-90",
+      "s-101",
+      "s-129"
     ]
   },
   {
@@ -638,7 +674,8 @@
       "s-41",
       "s-42",
       "s-43",
-      "s-44"
+      "s-44",
+      "s-101"
     ]
   },
   {
@@ -656,7 +693,9 @@
       "s-56",
       "s-57",
       "s-76",
-      "s-95"
+      "s-95",
+      "s-107",
+      "s-108"
     ]
   },
   {
@@ -697,7 +736,10 @@
     "meaningEn": "Trying to commit an offence and doing an act towards it that goes beyond mere preparation. Punishable under s.62 with up to one-half of the maximum where no specific provision exists; impossibility is no defence.",
     "meaningHi": "प्रयत्न — अपराध करने का प्रयास करना और उसकी ओर ऐसा कार्य करना जो मात्र तैयारी से आगे हो। जहाँ विशिष्ट उपबंध न हो, धारा 62 के अंतर्गत अधिकतम दंड के आधे तक दंडनीय; असंभवता बचाव नहीं है।",
     "relatedSections": [
-      "s-62"
+      "s-62",
+      "s-109",
+      "s-110",
+      "s-134"
     ]
   },
   {
@@ -739,7 +781,9 @@
     "meaningEn": "A lasting condition in which a person is awake but shows no awareness of self or surroundings. Causing it during rape attracts s.66.",
     "meaningHi": "लगातार विकृतशील दशा — ऐसी स्थायी अवस्था जिसमें व्यक्ति जागा हुआ प्रतीत होता है परंतु उसे अपने या आसपास का कोई भान नहीं होता। बलात्संग के दौरान ऐसी दशा कारित करने पर धारा 66 लागू होती है।",
     "relatedSections": [
-      "s-66"
+      "s-66",
+      "s-117",
+      "s-124"
     ]
   },
   {
@@ -757,7 +801,8 @@
     "meaningEn": "Under s.69, includes inducement for, or a false promise of, employment or promotion, and marrying by suppressing one's identity.",
     "meaningHi": "प्रवंचनापूर्ण साधन — धारा 69 के अंतर्गत इसमें नौकरी या पदोन्नति का प्रलोभन या झूठा वादा, और अपनी पहचान छिपाकर विवाह करना शामिल है।",
     "relatedSections": [
-      "s-69"
+      "s-69",
+      "s-138"
     ]
   },
   {
@@ -845,7 +890,8 @@
       "s-87",
       "s-96",
       "s-98",
-      "s-99"
+      "s-99",
+      "s-141"
     ]
   },
   {
@@ -867,6 +913,312 @@
     "relatedSections": [
       "s-88",
       "s-92"
+    ]
+  },
+  {
+    "id": "culpable-homicide",
+    "term": "Culpable homicide",
+    "meaningEn": "Causing death by an act done with intention of causing death, or of causing bodily injury likely to cause death, or with knowledge that death is likely (s.100).",
+    "meaningHi": "आपराधिक मानव वध — मृत्यु कारित करने के आशय से, या ऐसी शारीरिक क्षति कारित करने के आशय से जिससे मृत्यु संभाव्य हो, या यह ज्ञान रखते हुए कि मृत्यु संभाव्य है, कोई कार्य करके मृत्यु कारित करना (धारा 100)।",
+    "relatedSections": [
+      "s-100",
+      "s-101",
+      "s-102",
+      "s-105",
+      "s-110"
+    ]
+  },
+  {
+    "id": "murder",
+    "term": "Murder",
+    "meaningEn": "The graver form of culpable homicide, covered by one of clauses (a)-(d) of s.101 and not falling within any of its five Exceptions.",
+    "meaningHi": "हत्या — आपराधिक मानव वध का गंभीरतर रूप, जो धारा 101 के खंड (क)-(घ) में से किसी में आता हो और उसके पांच अपवादों में से किसी में न आता हो।",
+    "relatedSections": [
+      "s-101",
+      "s-102",
+      "s-103",
+      "s-104",
+      "s-109"
+    ]
+  },
+  {
+    "id": "grave-and-sudden-provocation",
+    "term": "Grave and sudden provocation",
+    "meaningEn": "Provocation serious and sudden enough to deprive a person of self-control. It can reduce murder to culpable homicide (Exception 1, s.101) and lessens punishment for hurt and assault (ss.122, 136), but not if sought, or given by lawful acts or private defence.",
+    "meaningHi": "गंभीर और अचानक प्रकोपन — इतना गंभीर और अचानक उकसावा जिससे व्यक्ति आत्म-नियंत्रण खो दे। यह हत्या को आपराधिक मानव वध में बदल सकता है (धारा 101, अपवाद 1) और उपहति व हमले के दंड को कम करता है (धारा 122, 136), परंतु तब नहीं जब वह स्वयं मांगा गया हो, या विधिपूर्ण कार्य या निजी प्रतिरक्षा से दिया गया हो।",
+    "relatedSections": [
+      "s-101",
+      "s-110",
+      "s-122",
+      "s-131",
+      "s-136"
+    ]
+  },
+  {
+    "id": "rash-and-negligent",
+    "term": "Rash or negligent act",
+    "meaningEn": "A rash act is done with awareness of the risk but in the hope it will not materialise; a negligent act is done without the care a reasonable person would take. Causing death this way, without culpable homicide, falls under s.106.",
+    "meaningHi": "उतावलापन या उपेक्षापूर्ण कार्य — उतावला कार्य जोखिम जानते हुए इस आशा में किया जाता है कि कुछ नहीं होगा; उपेक्षापूर्ण कार्य वह है जिसमें उचित व्यक्ति जैसी सावधानी न बरती जाए। इस प्रकार, आपराधिक मानव वध के बिना, मृत्यु कारित करना धारा 106 में आता है।",
+    "relatedSections": [
+      "s-106",
+      "s-125"
+    ]
+  },
+  {
+    "id": "suicide",
+    "term": "Suicide",
+    "meaningEn": "Intentionally ending one's own life. Attempting it is not an offence under the BNS, but abetting it is (ss.107, 108).",
+    "meaningHi": "आत्महत्या — जानबूझकर अपना जीवन समाप्त करना। भारतीय न्याय संहिता में इसका प्रयत्न अपराध नहीं है, परंतु इसका दुष्प्रेरण अपराध है (धारा 107, 108)।",
+    "relatedSections": [
+      "s-107",
+      "s-108"
+    ]
+  },
+  {
+    "id": "organised-crime",
+    "term": "Organised crime",
+    "meaningEn": "Continuing unlawful activity by a member of, or on behalf of, an organised crime syndicate, using violence, threats, coercion or other unlawful means, to obtain material or financial benefit (s.111).",
+    "meaningHi": "संगठित अपराध — किसी संगठित अपराध सिंडिकेट के सदस्य द्वारा या उसकी ओर से हिंसा, धमकी, प्रपीड़न या अन्य अवैध साधनों से, भौतिक या वित्तीय लाभ के लिए की गई निरंतर विधिविरुद्ध गतिविधि (धारा 111)।",
+    "relatedSections": [
+      "s-111"
+    ]
+  },
+  {
+    "id": "organised-crime-syndicate",
+    "term": "Organised crime syndicate",
+    "meaningEn": "A group of two or more persons who, singly or jointly, as a syndicate or gang, indulge in continuing unlawful activity (s.111, Explanation (i)).",
+    "meaningHi": "संगठित अपराध सिंडिकेट — दो या अधिक व्यक्तियों का समूह जो अकेले या संयुक्त रूप से, सिंडिकेट या गिरोह के रूप में, निरंतर विधिविरुद्ध गतिविधि में लिप्त हो (धारा 111, स्पष्टीकरण (i))।",
+    "relatedSections": [
+      "s-111"
+    ]
+  },
+  {
+    "id": "continuing-unlawful-activity",
+    "term": "Continuing unlawful activity",
+    "meaningEn": "A cognizable offence punishable with three years or more, done as or for a syndicate member, in respect of which more than one charge-sheet has been filed within the preceding ten years and cognizance taken (s.111, Explanation (ii)).",
+    "meaningHi": "निरंतर विधिविरुद्ध गतिविधि — तीन वर्ष या अधिक से दंडनीय संज्ञेय अपराध, जो सिंडिकेट के सदस्य के रूप में या उसकी ओर से किया गया हो, और जिसके संबंध में पिछले दस वर्षों में एक से अधिक आरोप-पत्र दाखिल हुए हों तथा संज्ञान लिया गया हो (धारा 111, स्पष्टीकरण (ii))।",
+    "relatedSections": [
+      "s-111"
+    ]
+  },
+  {
+    "id": "economic-offence",
+    "term": "Economic offence",
+    "meaningEn": "Includes criminal breach of trust, forgery, counterfeiting of currency and stamps, hawala transactions, mass-marketing fraud, schemes to defraud many persons, and acts to defraud banks or financial institutions (s.111, Explanation (iii)).",
+    "meaningHi": "आर्थिक अपराध — इसमें आपराधिक न्यासभंग, कूटरचना, करेंसी और स्टांप का कूटकरण, हवाला लेन-देन, सामूहिक विपणन धोखाधड़ी, अनेक व्यक्तियों से छल की योजनाएं, और बैंकों या वित्तीय संस्थाओं से छल के कार्य शामिल हैं (धारा 111, स्पष्टीकरण (iii))।",
+    "relatedSections": [
+      "s-111"
+    ]
+  },
+  {
+    "id": "petty-organised-crime",
+    "term": "Petty organised crime",
+    "meaningEn": "Theft, snatching, cheating, unauthorised ticket selling, betting or gambling, selling public examination papers or similar acts committed by a member of a group or gang (s.112).",
+    "meaningHi": "छोटा संगठित अपराध — किसी समूह या गिरोह के सदस्य द्वारा चोरी, झपटमारी, छल, अनधिकृत टिकट बिक्री, सट्टा या जुआ, सार्वजनिक परीक्षा के प्रश्न-पत्र बेचना या ऐसे ही कार्य (धारा 112)।",
+    "relatedSections": [
+      "s-112"
+    ]
+  },
+  {
+    "id": "terrorist-act",
+    "term": "Terrorist act",
+    "meaningEn": "An act done with intent to threaten the unity, integrity, sovereignty, security or economic security of India, or to strike terror in people, by the means listed in s.113(1).",
+    "meaningHi": "आतंकवादी कार्य — भारत की एकता, अखंडता, संप्रभुता, सुरक्षा या आर्थिक सुरक्षा को संकट में डालने, या लोगों में आतंक फैलाने के आशय से धारा 113(1) में बताए साधनों द्वारा किया गया कार्य।",
+    "relatedSections": [
+      "s-113"
+    ]
+  },
+  {
+    "id": "hurt",
+    "term": "Hurt",
+    "meaningEn": "Causing bodily pain, disease or infirmity to any person (s.114).",
+    "meaningHi": "उपहति — किसी व्यक्ति को शारीरिक पीड़ा, रोग या अंग-शैथिल्य कारित करना (धारा 114)।",
+    "relatedSections": [
+      "s-109",
+      "s-114",
+      "s-115",
+      "s-116",
+      "s-118",
+      "s-119",
+      "s-120",
+      "s-121",
+      "s-122",
+      "s-123",
+      "s-125"
+    ]
+  },
+  {
+    "id": "grievous-hurt",
+    "term": "Grievous hurt",
+    "meaningEn": "Only the eight kinds of hurt listed in s.116, such as emasculation, permanent loss of sight or hearing, fracture, permanent disfigurement of head or face, or hurt endangering life or causing severe pain for fifteen days.",
+    "meaningHi": "घोर उपहति — धारा 116 में सूचीबद्ध केवल आठ प्रकार की उपहति, जैसे पुंसत्वहरण, दृष्टि या श्रवण शक्ति की स्थायी हानि, अस्थि-भंग, सिर या चेहरे का स्थायी विद्रूपण, या ऐसी उपहति जो जीवन को संकट में डाले या पंद्रह दिन तक तीव्र पीड़ा दे।",
+    "relatedSections": [
+      "s-116",
+      "s-117",
+      "s-118",
+      "s-119",
+      "s-120",
+      "s-121",
+      "s-122",
+      "s-124",
+      "s-125",
+      "s-140"
+    ]
+  },
+  {
+    "id": "acid-attack",
+    "term": "Acid attack",
+    "meaningEn": "Causing damage, deformity, burns, disfigurement, disability or grievous hurt by throwing or administering acid (any acidic, corrosive or burning substance), or attempting to do so (s.124).",
+    "meaningHi": "अम्ल हमला — अम्ल (कोई भी अम्लीय, संक्षारक या जलाने वाला पदार्थ) फेंककर या पिलाकर क्षति, विरूपता, जलन, विद्रूपण, निःशक्तता या घोर उपहति कारित करना, या ऐसा करने का प्रयत्न (धारा 124)।",
+    "relatedSections": [
+      "s-124"
+    ]
+  },
+  {
+    "id": "wrongful-restraint",
+    "term": "Wrongful restraint",
+    "meaningEn": "Voluntarily obstructing a person so as to prevent him from going in a direction in which he has a right to go (s.126).",
+    "meaningHi": "सदोष अवरोध — किसी व्यक्ति को स्वेच्छया इस प्रकार बाधित करना कि वह उस दिशा में न जा सके जिसमें जाने का उसे अधिकार है (धारा 126)।",
+    "relatedSections": [
+      "s-126",
+      "s-127"
+    ]
+  },
+  {
+    "id": "wrongful-confinement",
+    "term": "Wrongful confinement",
+    "meaningEn": "Wrongfully restraining a person so as to prevent him from going beyond certain circumscribing limits (s.127).",
+    "meaningHi": "सदोष परिरोध — किसी व्यक्ति को इस प्रकार सदोष अवरुद्ध करना कि वह कुछ निश्चित सीमाओं से बाहर न जा सके (धारा 127)।",
+    "relatedSections": [
+      "s-127",
+      "s-135",
+      "s-140",
+      "s-142"
+    ]
+  },
+  {
+    "id": "force",
+    "term": "Force",
+    "meaningEn": "Causing motion, change of motion or cessation of motion to a person, or to a substance so that it contacts him or what he wears or carries, by bodily power, by disposing a substance, or by inducing an animal (s.128).",
+    "meaningHi": "बल — किसी व्यक्ति में, या किसी पदार्थ में जिससे वह उस व्यक्ति या उसके पहने या ले जाए गए सामान के संपर्क में आए, गति, गति-परिवर्तन या गति-निरोध कारित करना — अपनी शारीरिक शक्ति से, पदार्थ को व्यवस्थित करके, या किसी जीव-जंतु को प्रेरित करके (धारा 128)।",
+    "relatedSections": [
+      "s-128",
+      "s-129",
+      "s-138"
+    ]
+  },
+  {
+    "id": "criminal-force",
+    "term": "Criminal force",
+    "meaningEn": "Intentionally using force on a person without consent, to commit an offence or intending or knowing it likely to cause injury, fear or annoyance (s.129).",
+    "meaningHi": "आपराधिक बल — किसी व्यक्ति पर उसकी सहमति के बिना जानबूझकर बल का प्रयोग, अपराध करने के लिए, या क्षति, भय या क्षोभ कारित करने के आशय या ज्ञान से (धारा 129)।",
+    "relatedSections": [
+      "s-113",
+      "s-129",
+      "s-130",
+      "s-131",
+      "s-132",
+      "s-133",
+      "s-134",
+      "s-135",
+      "s-136"
+    ]
+  },
+  {
+    "id": "assault",
+    "term": "Assault",
+    "meaningEn": "A gesture or preparation intended or known to be likely to make a person present fear that criminal force is about to be used on him. Mere words are not assault (s.130).",
+    "meaningHi": "हमला — ऐसा इशारा या तैयारी जिससे, आशय या ज्ञान के साथ, उपस्थित व्यक्ति को यह आशंका हो कि उस पर आपराधिक बल का प्रयोग होने वाला है। केवल शब्द हमला नहीं हैं (धारा 130)।",
+    "relatedSections": [
+      "s-130",
+      "s-131",
+      "s-132",
+      "s-133",
+      "s-134",
+      "s-135",
+      "s-136"
+    ]
+  },
+  {
+    "id": "kidnapping",
+    "term": "Kidnapping",
+    "meaningEn": "Conveying a person beyond India without lawful consent, or taking or enticing a child or person of unsound mind out of the keeping of the lawful guardian without the guardian's consent (s.137).",
+    "meaningHi": "व्यपहरण — विधिपूर्ण सहमति के बिना किसी व्यक्ति को भारत की सीमा से बाहर ले जाना, या किसी बालक या विकृतचित्त व्यक्ति को संरक्षक की सहमति के बिना उसके विधिपूर्ण संरक्षण से ले जाना या फुसलाना (धारा 137)।",
+    "relatedSections": [
+      "s-137",
+      "s-139",
+      "s-140",
+      "s-142"
+    ]
+  },
+  {
+    "id": "lawful-guardian",
+    "term": "Lawful guardian",
+    "meaningEn": "For kidnapping, includes any person lawfully entrusted with the care or custody of the child or person of unsound mind (s.137, Explanation).",
+    "meaningHi": "विधिपूर्ण संरक्षक — व्यपहरण के प्रयोजन के लिए, इसमें वह कोई भी व्यक्ति शामिल है जिसे बालक या विकृतचित्त व्यक्ति की देखरेख या अभिरक्षा विधिपूर्वक सौंपी गई हो (धारा 137, स्पष्टीकरण)।",
+    "relatedSections": [
+      "s-137",
+      "s-139"
+    ]
+  },
+  {
+    "id": "abduction",
+    "term": "Abduction",
+    "meaningEn": "Compelling a person by force, or inducing him by deceitful means, to go from any place (s.138). It is an offence only when combined with a purpose in another section.",
+    "meaningHi": "अपहरण — किसी व्यक्ति को बल द्वारा विवश करके, या प्रवंचनापूर्ण साधनों से प्रेरित करके, किसी स्थान से जाने के लिए बाध्य करना (धारा 138)। यह तभी अपराध है जब किसी अन्य धारा में बताया प्रयोजन साथ हो।",
+    "relatedSections": [
+      "s-138",
+      "s-140",
+      "s-142",
+      "s-143"
+    ]
+  },
+  {
+    "id": "begging",
+    "term": "Begging",
+    "meaningEn": "Soliciting or receiving alms in public under any pretence, entering private premises for alms, exhibiting wounds or deformities to obtain alms, or using a child as an exhibit to seek alms (s.139(4)).",
+    "meaningHi": "भिक्षावृत्ति — किसी भी बहाने से सार्वजनिक स्थान पर भिक्षा मांगना या लेना, भिक्षा के लिए निजी परिसर में प्रवेश करना, भिक्षा पाने के लिए घाव या विकृति दिखाना, या भिक्षा के लिए बालक को प्रदर्शन के रूप में उपयोग करना (धारा 139(4))।",
+    "relatedSections": [
+      "s-139"
+    ]
+  },
+  {
+    "id": "trafficking",
+    "term": "Trafficking",
+    "meaningEn": "Recruiting, transporting, harbouring, transferring or receiving a person for exploitation, by threats, force, abduction, fraud, abuse of power or inducement; the victim's consent is immaterial (s.143).",
+    "meaningHi": "दुर्व्यापार — शोषण के लिए धमकी, बल, अपहरण, कपट, शक्ति के दुरुपयोग या प्रलोभन द्वारा किसी व्यक्ति की भर्ती, परिवहन, संश्रय, स्थानांतरण या प्राप्ति; पीड़ित की सहमति महत्वहीन है (धारा 143)।",
+    "relatedSections": [
+      "s-143",
+      "s-144"
+    ]
+  },
+  {
+    "id": "exploitation",
+    "term": "Exploitation",
+    "meaningEn": "For trafficking, includes physical exploitation, any form of sexual exploitation, slavery or similar practices, servitude, beggary and forced removal of organs (s.143, Explanation 1).",
+    "meaningHi": "शोषण — दुर्व्यापार के लिए, इसमें शारीरिक शोषण, किसी भी प्रकार का यौन शोषण, दासता या उसके समान प्रथाएं, दास्यता, भिक्षावृत्ति और अंगों को बलपूर्वक निकालना शामिल है (धारा 143, स्पष्टीकरण 1)।",
+    "relatedSections": [
+      "s-143",
+      "s-144"
+    ]
+  },
+  {
+    "id": "slavery",
+    "term": "Slavery",
+    "meaningEn": "The condition of a person treated as the property of another. Habitually dealing in slaves is punished by s.145, and kidnapping to subject a person to slavery by s.140(4).",
+    "meaningHi": "दासता — वह दशा जिसमें किसी व्यक्ति को दूसरे की संपत्ति के रूप में माना जाए। दासों का आभ्यासिक व्यापार धारा 145 में और दासता के लिए व्यपहरण धारा 140(4) में दंडनीय है।",
+    "relatedSections": [
+      "s-140",
+      "s-145"
+    ]
+  },
+  {
+    "id": "forced-labour",
+    "term": "Forced (compulsory) labour",
+    "meaningEn": "Unlawfully compelling a person to work against his will (s.146).",
+    "meaningHi": "बलात् श्रम — किसी व्यक्ति से उसकी इच्छा के विरुद्ध विधिविरुद्ध रूप से श्रम कराना (धारा 146)।",
+    "relatedSections": [
+      "s-146"
     ]
   }
 ]
