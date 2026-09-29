@@ -1,0 +1,74 @@
+[
+  {
+    "id": "qa-ch09-1", "chapterId": "ch-09",
+    "question": "Define 'candidate' and 'electoral right' under Section 169. Why is the definition of electoral right significant?",
+    "modelAnswer": "Under s.169(a), a 'candidate' means a person who has been nominated as a candidate at any election. Under s.169(b), an 'electoral right' means the right of a person to stand, or not to stand as, or to withdraw from being, a candidate, or to vote or refrain from voting at an election. The definition is significant because it protects the negative freedoms as well as the positive ones. A person has a protected right not to contest, to withdraw, and not to vote. So paying a rival to withdraw his nomination, bribing voters to stay at home, or threatening a candidate into not standing all interfere with an electoral right and fall within bribery (s.170) or undue influence (s.171), just as buying a vote does. The Chapter applies to 'any election', not only elections to Parliament and State legislatures. The section corresponds to s.171A IPC.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "qa-ch09-2", "chapterId": "ch-09",
+    "question": "Explain the offence of bribery at elections under Section 170 of the BNS.",
+    "modelAnswer": "Bribery under s.170(1) has two limbs. (i) Giving: whoever gives a gratification to any person with the object of inducing him or any other person to exercise any electoral right, or of rewarding any person for having exercised any such right. (ii) Accepting: whoever accepts, for himself or another, any gratification as a reward for exercising an electoral right, or for inducing or attempting to induce another person to exercise such a right. Sub-section (2) widens 'giving' to include offering, agreeing to give, and offering or attempting to procure a gratification. Sub-section (3) widens 'accepting' to include obtaining, agreeing to accept or attempting to obtain; a person who accepts a gratification as a motive for doing what he does not intend to do, or as a reward for what he has not done, is still deemed to have accepted it as a reward. The proviso excludes a declaration of public policy or a promise of public action, so manifesto promises of welfare schemes are not bribery. Bribery is punishable under s.173 with up to one year, or fine, or both, and 'treating' with fine only.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "qa-ch09-3", "chapterId": "ch-09",
+    "question": "What is 'treating'? How is it punished?",
+    "modelAnswer": "Under the Explanation to s.173, 'treating' means that form of bribery where the gratification consists of food, drink, entertainment or provision. Examples are a candidate hosting a free community feast with liquor for voters, distributing ration kits, or arranging free cinema shows to win votes. Treating is still bribery as defined in s.170 — the gratification is given to induce or reward the exercise of an electoral right — but the proviso to s.173 makes it punishable with fine only, while other bribery carries imprisonment up to one year, or fine, or both. The lighter punishment reflects the view that small hospitality is less serious than cash payments. Treating remains a corrupt practice with separate consequences under election law, such as the setting aside of an election. Like all offences in the Chapter, it is non-cognizable, bailable and triable by a Magistrate of the first class.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "qa-ch09-4", "chapterId": "ch-09",
+    "question": "Explain undue influence at elections under Section 171. What is excluded from it?",
+    "modelAnswer": "Under s.171(1), whoever voluntarily interferes or attempts to interfere with the free exercise of any electoral right commits undue influence at an election. Sub-section (2), without limiting sub-section (1), deems two kinds of conduct to be interference: (a) threatening any candidate or voter, or any person in whom a candidate or voter is interested, with injury of any kind; and (b) inducing or attempting to induce a candidate or voter to believe that he, or any person in whom he is interested, will become an object of Divine displeasure or spiritual censure. So both physical threats (such as violence or loss of a job) and spiritual threats (such as curses or excommunication) are covered. Sub-section (3) excludes a declaration of public policy, a promise of public action, and the mere exercise of a legal right without intent to interfere with an electoral right — for example, a landlord lawfully evicting a tenant for non-payment, without any electoral motive. The Gazette text prints 'the mere exercise or a legal right'; it is read as 'exercise of a legal right'. Undue influence is punishable under s.174 with up to one year, or fine, or both.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "qa-ch09-5", "chapterId": "ch-09",
+    "question": "What is personation at an election under Section 172? Give examples.",
+    "modelAnswer": "Under s.172, a person commits personation at an election who (i) applies for a voting paper or votes in the name of any other person, whether living or dead, or in a fictitious name; or (ii) having voted once at an election, applies at the same election for a voting paper in his own name; or (iii) abets, procures or attempts to procure the voting by any person in any such way. The proviso excludes a person authorised under any law to vote as a proxy for an elector, in so far as he votes as that proxy. Examples: casting a vote in the name of a neighbour who died last year; voting in the morning, removing the indelible ink and voting again; a party worker arranging for people to vote in the names of absent voters. The punishment under s.174 is up to one year, or fine, or both. The Gazette text prints 'applies for a voting paper on votes', which is read as 'or votes', as in s.171D IPC.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "qa-ch09-6", "chapterId": "ch-09",
+    "question": "Distinguish between bribery (s.170) and undue influence (s.171) at elections.",
+    "modelAnswer": "Both corrupt the free choice of a voter or candidate, but by opposite methods. Bribery works by inducement: a gratification is given or accepted to induce, or reward, the exercise of an electoral right; the voter is tempted with a benefit. Undue influence works by pressure: the free exercise of an electoral right is interfered with, typically by threatening injury of any kind or divine displeasure; the voter is made afraid of harm. Bribery involves two guilty parties — the giver and the taker — while in undue influence the voter or candidate is the victim. Both share the same exclusion for declarations of public policy and promises of public action, and undue influence also excludes the mere exercise of a legal right without intent to interfere. Punishments are similar: bribery up to one year, or fine, or both (fine only for treating) under s.173; undue influence up to one year, or fine, or both under s.174. Both are non-cognizable, bailable and triable by a Magistrate of the first class.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "qa-ch09-7", "chapterId": "ch-09",
+    "question": "Explain the offence of making a false statement in connection with an election under Section 175.",
+    "modelAnswer": "Section 175 punishes whoever, with intent to affect the result of an election, makes or publishes any statement purporting to be a statement of fact which is false, and which he either knows or believes to be false or does not believe to be true, in relation to the personal character or conduct of any candidate. The punishment is fine. The ingredients are: (1) intent to affect the result of an election; (2) a statement presented as fact, not mere opinion; (3) the statement is false; (4) the maker knows or believes it false, or does not believe it true — honest mistake is a defence; and (5) it concerns the personal character or conduct of a candidate. Criticism of a candidate's policies, public record or political views, even if harsh, is outside the section; so is a true statement. For example, falsely telling voters that a candidate has a criminal conviction is an offence, but criticising his poor attendance in the legislature is not. The offence is non-cognizable, bailable and triable by a Magistrate of the first class. It corresponds to s.171G IPC.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "qa-ch09-8", "chapterId": "ch-09",
+    "question": "Explain Section 176 on illegal payments in connection with an election. What is the purpose of the proviso?",
+    "modelAnswer": "Section 176 punishes whoever, without the general or special authority in writing of a candidate, incurs or authorises expenses on account of holding any public meeting, or upon any advertisement, circular or publication, or in any other way, for the purpose of promoting or procuring the election of that candidate. The punishment is fine up to ₹10,000 (the IPC limit under s.171H was ₹500). The purpose is to make all campaign spending traceable to, and accountable by, the candidate. Election law caps the amount a candidate may spend, and third parties spending money on his behalf without authority could be used to evade that limit. The proviso gives a small margin: if a person incurs expenses not exceeding ten rupees without authority and, within ten days, obtains the candidate's written approval, the expenses are deemed to have been authorised. This protects supporters who make minor spontaneous outlays, such as printing a few posters. The offence is non-cognizable, bailable and triable by a Magistrate of the first class.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "qa-ch09-9", "chapterId": "ch-09",
+    "question": "What is the offence under Section 177? Who can commit it?",
+    "modelAnswer": "Section 177 punishes whoever, being required by any law for the time being in force or any rule having the force of law to keep accounts of expenses incurred at or in connection with an election, fails to keep such accounts. The punishment is fine up to ₹5,000, raised from ₹500 under s.171-I IPC. The offence can be committed only by a person on whom the law places a duty to keep election accounts — typically a candidate or his election agent under election law. The offence is the failure to keep accounts; filing false accounts may attract other offences such as forgery or false statements. The provision supports the ceiling on election expenditure by making sure there is a record that can be checked. Like the rest of the Chapter, it is non-cognizable, bailable, not compoundable and triable by a Magistrate of the first class.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "qa-ch09-10", "chapterId": "ch-09",
+    "question": "Why are the punishments in Chapter IX comparatively light, and what is the procedural classification of these offences?",
+    "modelAnswer": "The punishments in Chapter IX are modest — at most one year's imprisonment for bribery, undue influence and personation, and only fines for treating, false statements about candidates, illegal payments and failure to keep accounts. There are two reasons. First, the main remedy for electoral malpractice lies in election law: under the Representation of the People Act, 1951, corrupt practices such as bribery and undue influence can lead to an election being declared void and to disqualification, which is often a heavier consequence for a politician than a short sentence. Second, many of these acts, like treating or unauthorised small expenses, are regulatory in nature. Procedurally, the BNSS First Schedule makes every offence in the Chapter non-cognizable, bailable and triable by a Magistrate of the first class, and none is compoundable under s.359. Non-cognizability means the police cannot arrest without a warrant or investigate without a Magistrate's order, which guards against misuse of police powers against political rivals during elections.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "qa-ch09-11", "chapterId": "ch-09",
+    "question": "Map Sections 169 to 177 of the BNS to the IPC and note the changes made.",
+    "modelAnswer": "Chapter IX of the BNS corresponds to Chapter IXA of the IPC section by section: s.169 = s.171A (definitions); s.170 = s.171B (bribery); s.171 = s.171C (undue influence); s.172 = s.171D (personation); s.173 = s.171E (punishment for bribery); s.174 = s.171F (punishment for undue influence or personation); s.175 = s.171G (false statement); s.176 = s.171H (illegal payments); s.177 = s.171-I (failure to keep accounts). The substance is unchanged. The main changes are: (1) the fine under s.176 is raised from ₹500 to ₹10,000; (2) the fine under s.177 is raised from ₹500 to ₹5,000; and (3) the renumbering into whole-number sections. Two apparent printing differences appear in the official Gazette text — 'the mere exercise or a legal right' in s.171(3) and 'applies for a voting paper on votes' in s.172 — where the IPC read 'of' and 'or'. They are reproduced verbatim on the platform and read in their evident sense.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "qa-ch09-12", "chapterId": "ch-09",
+    "question": "Problem: Before a municipal election, a candidate's supporter (A) distributes free liquor at a party for voters; another supporter (B) tells voters that God will punish anyone who votes for the rival; and C votes in the name of his absent brother. Discuss their liability.",
+    "modelAnswer": "A has given a gratification in the form of drink to induce voters to exercise their electoral right in favour of the candidate. This is bribery under s.170 in the form of 'treating' (Explanation to s.173), punishable with fine only under the proviso to s.173. If A also handed out cash, that part would be ordinary bribery, punishable with up to one year, or fine, or both. B has induced or attempted to induce voters to believe that they will become objects of Divine displeasure if they vote for the rival. Under s.171(2)(b) this is deemed interference with the free exercise of their electoral right, so B commits undue influence, punishable under s.174 with up to one year, or fine, or both. C has voted in the name of another living person, which is personation under s.172, punishable under s.174 with up to one year, or fine, or both, unless C was lawfully authorised as a proxy. If the candidate procured C's voting, the candidate is also guilty, since abetting or procuring personation is itself personation. All these offences are non-cognizable, bailable and triable by a Magistrate of the first class. Since a municipal election is 'any election', the Chapter applies.",
+    "difficulty": "hard"
+  }
+]

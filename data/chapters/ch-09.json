@@ -1,0 +1,101 @@
+{
+  "id": "ch-09",
+  "number": "IX",
+  "title": "Of Offences Relating to Elections",
+  "sectionRange": "169-177",
+  "shortDescription": "Offences that corrupt free and fair elections: bribery (including treating), undue influence, personation, false statements about candidates, unauthorised campaign spending and failure to keep election accounts.",
+  "subHeadings": [
+    { "id": "definitions", "label": "Definitions", "sectionIds": ["s-169"] },
+    { "id": "defined-offences", "label": "Bribery, undue influence and personation", "sectionIds": ["s-170", "s-171", "s-172"] },
+    { "id": "punishments", "label": "Punishment for bribery, undue influence and personation", "sectionIds": ["s-173", "s-174"] },
+    { "id": "campaign-conduct", "label": "False statements, illegal payments and accounts", "sectionIds": ["s-175", "s-176", "s-177"] }
+  ],
+  "summary": "Chapter IX protects the purity of elections. It corresponds to Chapter IXA of the IPC (ss.171A-171I), with the same nine provisions renumbered as ss.169-177 and some fines increased. The Gazette gives it no sub-headings; its sections fall into four groups: definitions (s.169), the three main offences defined (ss.170-172), their punishment (ss.173-174), and rules on campaign conduct and spending (ss.175-177).\n\nSection 169 defines a 'candidate' (a person nominated at any election) and an 'electoral right' — the right to stand or not to stand, to withdraw, and to vote or not to vote. Because the right includes refraining, paying someone to stay away from the poll or forcing a candidate to withdraw is just as much an offence as buying a vote.\n\nThree offences are defined first and punished afterwards. Bribery (s.170) is giving a gratification to induce or reward the exercise of an electoral right, or accepting one as such a reward; offers, agreements and attempts count, but a declaration of public policy or a promise of public action — the ordinary content of a manifesto — does not. Undue influence (s.171) is voluntarily interfering with the free exercise of an electoral right; threatening injury, or threatening divine displeasure or spiritual censure, is deemed interference. Personation (s.172) is voting or applying for a ballot paper in someone else's name, living or dead, or a fictitious name, or voting twice; an authorised proxy is excluded. Bribery is punishable with up to one year, or fine, or both, but 'treating' — bribery by food, drink, entertainment or provisions — is punishable with fine only (s.173). Undue influence and personation carry up to one year, or fine, or both (s.174).\n\nThe last three sections regulate campaign conduct. Publishing a false statement of fact about a candidate's personal character or conduct to affect the result is punishable with fine (s.175). Spending money to promote a candidate without his written authority is punishable with fine up to ₹10,000 (s.176), raised from ₹500 under the IPC. Failing to keep election accounts required by law is punishable with fine up to ₹5,000 (s.177). The punishments are light because corrupt practices also have serious consequences under the Representation of the People Act, 1951, such as setting aside an election and disqualification. Every offence in the Chapter is non-cognizable, bailable, not compoundable and triable by a Magistrate of the first class.",
+  "keyPoints": [
+    {
+      "point": "Section 169 — Definitions",
+      "subPoints": [
+        "'Candidate' — nominated as a candidate at any election",
+        "'Electoral right' — to stand or not stand, withdraw, vote or refrain from voting"
+      ]
+    },
+    {
+      "point": "Section 170 — Bribery",
+      "subPoints": [
+        "Giving a gratification to induce or reward the exercise of an electoral right",
+        "Accepting a gratification as such a reward, or for inducing others",
+        "Offering, agreeing or attempting counts as giving or accepting",
+        "Declaration of public policy or promise of public action is not bribery"
+      ]
+    },
+    {
+      "point": "Section 171 — Undue influence",
+      "subPoints": [
+        "Voluntary interference with the free exercise of an electoral right",
+        "Deemed: threat of injury of any kind; threat of divine displeasure or spiritual censure",
+        "Excluded: public policy, promise of public action, mere exercise of a legal right"
+      ]
+    },
+    {
+      "point": "Section 172 — Personation",
+      "subPoints": [
+        "Voting in another's name (living or dead) or a fictitious name",
+        "Voting twice at the same election",
+        "Abetting or procuring such voting",
+        "Authorised proxy excluded"
+      ]
+    },
+    {
+      "point": "Sections 173-174 — Punishment",
+      "subPoints": [
+        "Bribery: up to 1 year, or fine, or both",
+        "Treating (food, drink, entertainment, provision): fine only",
+        "Undue influence or personation: up to 1 year, or fine, or both"
+      ]
+    },
+    {
+      "point": "Sections 175-177 — Campaign conduct",
+      "subPoints": [
+        "s.175 — false statement about a candidate's personal character or conduct: fine",
+        "s.176 — unauthorised election expenses: fine up to ₹10,000 (was ₹500)",
+        "s.176 proviso — up to ₹10 approved in writing within 10 days is deemed authorised",
+        "s.177 — failure to keep election accounts: fine up to ₹5,000 (was ₹500)"
+      ]
+    },
+    {
+      "point": "Classification",
+      "subPoints": [
+        "All offences: non-cognizable, bailable, triable by a Magistrate of the first class",
+        "None is compoundable"
+      ]
+    }
+  ],
+  "fastRevision": [
+    "Chapter IX = offences relating to elections, ss.169-177; IPC Chapter IXA (ss.171A-171I).",
+    "s.169(a) — candidate = a person nominated as a candidate at any election.",
+    "s.169(b) — electoral right includes the right NOT to stand and NOT to vote.",
+    "s.170 — bribery: giving or accepting a gratification to induce or reward exercise of an electoral right.",
+    "s.170(2) — offering or agreeing to give is 'giving'.",
+    "s.170(3) — agreeing to accept or attempting to obtain is 'accepting'.",
+    "s.170 proviso — manifesto promises (public policy / public action) are not bribery.",
+    "s.171 — undue influence: voluntary interference with free exercise of an electoral right.",
+    "s.171(2)(a) — threat of injury of any kind to a voter, candidate or their loved ones.",
+    "s.171(2)(b) — threat of divine displeasure or spiritual censure.",
+    "s.172 — personation: voting in another's name, living or dead, or a fictitious name.",
+    "s.172 — voting twice at the same election is personation.",
+    "s.172 proviso — an authorised proxy is not guilty of personation.",
+    "s.173 — bribery: up to 1 year, or fine, or both.",
+    "s.173 — treating (food, drink, entertainment, provision): fine only.",
+    "s.174 — undue influence or personation: up to 1 year, or fine, or both.",
+    "s.175 — false statement of fact about a candidate's personal character or conduct: fine.",
+    "s.175 — needs intent to affect the result and knowledge or belief of falsity.",
+    "s.176 — unauthorised election expenses: fine up to ₹10,000.",
+    "s.176 proviso — ₹10 or less, approved in writing within 10 days, is deemed authorised.",
+    "s.177 — failure to keep election accounts: fine up to ₹5,000.",
+    "All Chapter IX offences: non-cognizable, bailable, Magistrate of the first class, not compoundable.",
+    "The Gazette prints 'mere exercise or a legal right' (s.171(3)) and 'voting paper on votes' (s.172).",
+    "IPC mapping: 169 = 171A; 170 = 171B; 171 = 171C; 172 = 171D; 173 = 171E; 174 = 171F; 175 = 171G; 176 = 171H; 177 = 171-I."
+  ],
+  "mindMap": "# Ch. IX — Offences Relating to Elections\n## Definitions (s.169)\n- Candidate\n- Electoral right\n  - Includes not voting\n## Offences defined (ss.170-172)\n- Bribery (s.170)\n  - Giving / accepting gratification\n  - Manifesto promises excluded\n- Undue influence (s.171)\n  - Threat of injury\n  - Divine displeasure\n- Personation (s.172)\n  - Another's name / fictitious\n  - Voting twice\n  - Proxy excluded\n## Punishment (ss.173-174)\n- Bribery: 1 yr / fine\n  - Treating: fine only\n- Undue influence, personation: 1 yr / fine\n## Campaign conduct (ss.175-177)\n- False statement on candidate (s.175) — fine\n- Unauthorised expenses (s.176) — ₹10,000\n- No election accounts (s.177) — ₹5,000\n## Classification\n- Non-cognizable, bailable\n- Magistrate first class",
+  "lastVerified": "2026-09-29"
+}
