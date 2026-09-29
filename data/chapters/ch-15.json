@@ -1,0 +1,114 @@
+{
+  "id": "ch-15",
+  "number": "XV",
+  "title": "Of Offences Affecting the Public Health, Safety, Convenience, Decency and Morals",
+  "sectionRange": "270-297",
+  "shortDescription": "Offences that harm the public at large: public nuisance, spreading dangerous diseases, breaking quarantine, adulterating food and drugs, fouling water and air, rash driving and navigation, negligent handling of poison, fire, explosives, machinery, buildings and animals, obscenity, and unauthorised lotteries.",
+  "subHeadings": [
+    { "id": "nuisance-health", "label": "Public nuisance and public health", "sectionIds": ["s-270", "s-271", "s-272", "s-273"] },
+    { "id": "food-drugs-environment", "label": "Food, drugs, water and air", "sectionIds": ["s-274", "s-275", "s-276", "s-277", "s-278", "s-279", "s-280"] },
+    { "id": "public-safety", "label": "Public safety: roads, water and dangerous things", "sectionIds": ["s-281", "s-282", "s-283", "s-284", "s-285", "s-286", "s-287", "s-288", "s-289", "s-290", "s-291"] },
+    { "id": "nuisance-punishment", "label": "Punishing public nuisance", "sectionIds": ["s-292", "s-293"] },
+    { "id": "decency-morals", "label": "Decency and morals", "sectionIds": ["s-294", "s-295", "s-296", "s-297"] }
+  ],
+  "summary": "Chapter XV protects the community as a whole — its health, safety, convenience, decency and morals. Most of its offences do not need a particular victim to be harmed: they punish conduct that creates common danger or annoyance. It corresponds to Chapter XIV of the IPC (ss.268-294A), and the BNS keeps the IPC order: s.270 = s.268, s.271 = s.269, and so on up to s.297 = s.294A. Most offences are minor (commonly up to six months, or a fine), and the main changes are higher fine limits and the express mention of electronic content in the obscenity provision. The Gazette gives the chapter no sub-headings; its sections fall into five groups: public nuisance and public health (ss.270-273), food, drugs, water and air (ss.274-280), public safety (ss.281-291), punishment of nuisance (ss.292-293), and decency and morals (ss.294-297).\n\nSection 270 defines public nuisance: an act or illegal omission causing common injury, danger or annoyance to the public or people in the vicinity, or necessarily causing injury, obstruction, danger or annoyance to persons using a public right. A nuisance is not excused because it brings some convenience. The general punishment is a fine up to ₹1,000 (s.292), and repeating or continuing a nuisance after a lawful injunction is punishable with up to six months (s.293). Sections 271 and 272 punish negligent (six months) and malignant (two years) acts likely to spread a disease dangerous to life, and s.273 punishes knowingly disobeying Government quarantine rules for any mode of transport.\n\nSections 274-278 protect food and medicine: adulterating food or drink to make it noxious for sale, selling noxious food, adulterating drugs so as to lessen their efficacy, change their operation or make them noxious (now up to one year, non-bailable), selling adulterated drugs, and selling one drug as another. Sections 279 and 280 punish fouling a public spring or reservoir and making the atmosphere noxious to health.\n\nSections 281-291 deal with public safety. Rash or negligent driving or riding on a public way (s.281) and rash navigation of a vessel (s.282) are punishable even if no one is hurt. Exhibiting a false light, mark or buoy to mislead navigators carries up to seven years and a minimum fine of ₹10,000 (s.283). Carrying passengers for hire in an unsafe or overloaded vessel (s.284) and causing danger or obstruction on a public way (s.285) follow. Sections 286-291 share a common pattern: rash or negligent acts with, and the knowing or negligent failure to guard against probable danger to human life from, poisonous substances, fire or combustible matter, explosives, machinery, buildings under demolition, repair or construction, and animals.\n\nSections 294-297 protect decency and morals. Section 294 defines obscenity — now expressly including content displayed in electronic form — and punishes selling, distributing, exhibiting, producing, importing, advertising or profiting from obscene material (two years; five years on repeat conviction), subject to exceptions for the public good (science, literature, art, learning), bona fide religious use, and ancient monuments and temples. Section 295 punishes selling or showing obscene objects to a child more severely. Section 296 punishes obscene acts and songs in public to the annoyance of others, and s.297 punishes keeping an office for an unauthorised lottery and publishing lottery proposals. None of the Chapter's offences is compoundable.",
+  "keyPoints": [
+    {
+      "point": "Sections 270, 292, 293 — Public nuisance",
+      "subPoints": [
+        "s.270 — act or illegal omission causing common injury, danger or annoyance to the public or persons using a public right",
+        "Harm must be common to the public; convenience or advantage is no excuse",
+        "s.292 — general punishment: fine up to ₹1,000 (non-cognizable)",
+        "s.293 — repeating or continuing after a lawful injunction: SI 6 months or ₹5,000 (cognizable)"
+      ]
+    },
+    {
+      "point": "Sections 271-273 — Disease and quarantine",
+      "subPoints": [
+        "s.271 — negligent act likely to spread a disease dangerous to life: 6 months",
+        "s.272 — malignant act likely to spread such a disease: 2 years",
+        "s.273 — knowingly disobeying a quarantine rule for any mode of transport: 6 months"
+      ]
+    },
+    {
+      "point": "Sections 274-280 — Food, drugs, water and air",
+      "subPoints": [
+        "s.274 — adulterating food or drink so as to make it noxious, for sale: 6 months or ₹5,000",
+        "s.275 — selling noxious or unfit food or drink: 6 months or ₹5,000",
+        "s.276 — adulterating drugs (lessen efficacy, change operation, make noxious): 1 year or ₹5,000; non-bailable",
+        "s.277 — selling adulterated drugs: 6 months; s.278 — selling a drug as a different drug: 6 months",
+        "s.279 — fouling water of a public spring or reservoir: 6 months or ₹5,000",
+        "s.280 — making the atmosphere noxious to health: fine up to ₹1,000"
+      ]
+    },
+    {
+      "point": "Sections 281-285 — Roads and water",
+      "subPoints": [
+        "s.281 — rash or negligent driving or riding on a public way: 6 months or ₹1,000",
+        "s.282 — rash navigation of a vessel: 6 months or ₹10,000",
+        "s.283 — false light, mark or buoy to mislead navigators: 7 years + fine not less than ₹10,000",
+        "s.284 — conveying persons for hire in an unsafe or overloaded vessel: 6 months",
+        "s.285 — danger or obstruction in a public way or line of navigation: fine up to ₹5,000"
+      ]
+    },
+    {
+      "point": "Sections 286-291 — Dangerous things",
+      "subPoints": [
+        "Common pattern: rash or negligent act, or knowing or negligent omission to guard against probable danger to life",
+        "s.286 poison; s.287 fire or combustible matter (fine ₹2,000); s.288 explosives",
+        "s.289 machinery; s.290 pulling down, repairing or constructing buildings; s.291 animals",
+        "Each: up to 6 months, or fine (₹5,000, except s.287), or both",
+        "ss.289 and 290 are non-cognizable; the rest cognizable"
+      ]
+    },
+    {
+      "point": "Sections 294-297 — Decency, morals, lotteries",
+      "subPoints": [
+        "s.294(1) — obscene: lascivious, appeals to prurient interest, or tends to deprave and corrupt; includes electronic content",
+        "s.294(2) — dealing in obscene material: 2 years + ₹5,000; repeat: 5 years + ₹10,000",
+        "Exception — public good (science, literature, art, learning), religious use, monuments and temples",
+        "s.295 — to a child: 3 years + ₹2,000; repeat: 7 years + ₹5,000",
+        "s.296 — obscene acts or songs in public, to others' annoyance: 3 months or ₹1,000",
+        "s.297 — unauthorised lottery office: 6 months; publishing lottery proposals: fine ₹5,000"
+      ]
+    }
+  ],
+  "fastRevision": [
+    "Chapter XV corresponds to IPC Chapter XIV (ss.268-294A); s.270 = s.268 ... s.297 = s.294A.",
+    "s.270 — public nuisance: act or illegal omission causing common injury, danger or annoyance to the public.",
+    "s.270 — a common nuisance is not excused because it causes some convenience or advantage.",
+    "s.292 — public nuisance not otherwise punishable: fine up to ₹1,000.",
+    "s.293 — continuing a nuisance after lawful injunction: SI 6 months, or fine up to ₹5,000, or both.",
+    "s.271 — negligent act likely to spread a disease dangerous to life: 6 months, or fine, or both.",
+    "s.272 — malignant act likely to spread such a disease: 2 years, or fine, or both.",
+    "s.273 — knowingly disobeying a quarantine rule (any mode of transport): 6 months.",
+    "s.274 — adulterating food or drink so as to make it noxious, for sale: 6 months or ₹5,000.",
+    "s.275 — selling noxious food or drink: 6 months or ₹5,000.",
+    "s.276 — adulterating drugs: 1 year or ₹5,000; non-cognizable but non-bailable.",
+    "s.276 — lessening efficacy or changing operation of a drug is enough; it need not be noxious.",
+    "s.277 — selling adulterated drugs knowingly: 6 months or ₹5,000.",
+    "s.278 — knowingly selling a drug as a different drug: 6 months or ₹5,000.",
+    "s.279 — fouling water of a public spring or reservoir: 6 months or ₹5,000; cognizable.",
+    "s.280 — making the atmosphere noxious to health: fine up to ₹1,000.",
+    "s.281 — rash or negligent driving or riding on a public way: 6 months or ₹1,000; no injury needed.",
+    "s.282 — rash navigation of a vessel: 6 months or ₹10,000.",
+    "s.283 — false light, mark or buoy: 7 years and fine not less than ₹10,000.",
+    "s.284 — conveying for hire in an unsafe or overloaded vessel: 6 months or ₹5,000.",
+    "s.285 — danger or obstruction in a public way or line of navigation: fine up to ₹5,000.",
+    "ss.286-291 — rash or negligent act, or omission to guard against probable danger, with a dangerous thing.",
+    "s.286 poison; s.287 fire or combustibles; s.288 explosives; s.289 machinery; s.290 buildings; s.291 animals.",
+    "ss.286-291 — up to 6 months, or fine up to ₹5,000 (₹2,000 for s.287), or both.",
+    "s.291 — animal: probable danger to human life or of grievous hurt.",
+    "s.294(1) — obscene: lascivious, prurient, or tending to deprave and corrupt; includes electronic content.",
+    "s.294(2) — first conviction 2 years + ₹5,000; subsequent 5 years + ₹10,000.",
+    "s.294 Exception — public good (science, literature, art, learning), bona fide religious use, ancient monuments, temples, idol-cars.",
+    "s.295 — obscene objects to a child: 3 years + ₹2,000; subsequent 7 years + ₹5,000.",
+    "s.296 — obscene act or song in or near a public place, to the annoyance of others: 3 months or ₹1,000.",
+    "s.297(1) — keeping an office for a non-State, unauthorised lottery: 6 months, or fine, or both.",
+    "s.297(2) — publishing proposals relating to such a lottery: fine up to ₹5,000.",
+    "Non-bailable in the Chapter: only s.276. Triable by first-class Magistrate: only s.283.",
+    "No Chapter XV offence is compoundable."
+  ],
+  "mindMap": "# Ch. XV — Public Health, Safety, Decency\n## Public nuisance (ss.270, 292-293)\n- Definition (s.270)\n  - Common injury, danger, annoyance\n- General punishment: fine ₹1,000 (s.292)\n- After injunction: 6 months (s.293)\n## Disease & quarantine (ss.271-273)\n- Negligent spread: 6 months (s.271)\n- Malignant spread: 2 yrs (s.272)\n- Quarantine rule (s.273)\n## Food, drugs, environment (ss.274-280)\n- Adulterating food (s.274)\n- Selling noxious food (s.275)\n- Adulterating drugs: 1 yr, non-bailable (s.276)\n- Selling adulterated / wrong drug (ss.277-278)\n- Fouling water (s.279)\n- Noxious atmosphere (s.280)\n## Public safety (ss.281-291)\n- Rash driving (s.281)\n- Rash navigation (s.282)\n- False light / buoy: 7 yrs (s.283)\n- Overloaded vessel (s.284)\n- Obstruction of public way (s.285)\n- Poison, fire, explosives, machinery, buildings, animals (ss.286-291)\n## Decency & morals (ss.294-297)\n- Obscenity (s.294)\n  - Electronic content included\n  - Exceptions: public good, religion, monuments\n- Obscene objects to child (s.295)\n- Obscene acts / songs (s.296)\n- Lottery office (s.297)",
+  "lastVerified": "2026-09-29"
+}

@@ -1,0 +1,302 @@
+[
+  {
+    "id": "mcq-ch15-1",
+    "chapterId": "ch-15",
+    "question": "Section 270 of the BNS defines—",
+    "options": ["Private nuisance", "Public nuisance", "Criminal trespass", "Mischief"],
+    "correctIndex": 1,
+    "explanation": "s.270 (formerly s.268 IPC) defines public nuisance: an act or illegal omission causing common injury, danger or annoyance to the public."
+  },
+  {
+    "id": "mcq-ch15-2",
+    "chapterId": "ch-15",
+    "question": "Under Section 270, a common nuisance—",
+    "options": [
+      "Is excused if it causes some convenience or advantage",
+      "Is not excused on the ground that it causes some convenience or advantage",
+      "Is excused if permitted by the landowner",
+      "Is an offence only if it continues for 30 days"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.270: '...but a common nuisance is not excused on the ground that it causes some convenience or advantage.'"
+  },
+  {
+    "id": "mcq-ch15-3",
+    "chapterId": "ch-15",
+    "question": "The punishment for public nuisance not otherwise provided for (s.292) is—",
+    "options": [
+      "Fine up to ₹200",
+      "Fine up to ₹1,000",
+      "Up to 6 months",
+      "Up to 1 year"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.292: fine which may extend to one thousand rupees."
+  },
+  {
+    "id": "mcq-ch15-4",
+    "chapterId": "ch-15",
+    "question": "Continuing a public nuisance after being enjoined by a competent public servant (s.293) is punishable with—",
+    "options": [
+      "Fine only",
+      "SI up to 6 months, or fine up to ₹5,000, or both",
+      "Up to 2 years",
+      "Up to 3 years and fine"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.293: simple imprisonment up to six months, or fine up to five thousand rupees, or both. It is cognizable."
+  },
+  {
+    "id": "mcq-ch15-5",
+    "chapterId": "ch-15",
+    "question": "A malignant act likely to spread infection of a disease dangerous to life is punishable under s.272 with up to—",
+    "options": ["6 months", "1 year", "2 years", "7 years"],
+    "correctIndex": 2,
+    "explanation": "s.272: up to two years, or fine, or both. The negligent form (s.271) carries six months."
+  },
+  {
+    "id": "mcq-ch15-6",
+    "chapterId": "ch-15",
+    "question": "Section 273 (disobedience to quarantine rule) in the BNS applies to rules for quarantine of—",
+    "options": [
+      "Vessels only",
+      "Any mode of transport",
+      "Hospitals only",
+      "Animals only"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.273 refers to rules 'for putting any mode of transport into a state of quarantine'."
+  },
+  {
+    "id": "mcq-ch15-7",
+    "chapterId": "ch-15",
+    "question": "Adulteration of food under s.274 requires that the adulteration make the article—",
+    "options": [
+      "Cheaper",
+      "Noxious as food or drink",
+      "Differently coloured",
+      "Unlabelled"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.274: adulterating food or drink 'so as to make such article noxious as food or drink', with intent or knowledge that it will be sold."
+  },
+  {
+    "id": "mcq-ch15-8",
+    "chapterId": "ch-15",
+    "question": "Which Chapter XV offence is non-bailable?",
+    "options": [
+      "s.274 — adulteration of food",
+      "s.276 — adulteration of drugs",
+      "s.281 — rash driving",
+      "s.294 — sale of obscene books"
+    ],
+    "correctIndex": 1,
+    "explanation": "BNSS First Schedule: s.276 is non-cognizable but non-bailable; every other offence in the Chapter is bailable."
+  },
+  {
+    "id": "mcq-ch15-9",
+    "chapterId": "ch-15",
+    "question": "Adulteration of drugs under s.276 is punishable with up to—",
+    "options": [
+      "6 months, or fine up to ₹5,000",
+      "1 year, or fine up to ₹5,000, or both",
+      "3 years and fine",
+      "7 years"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.276: imprisonment of either description up to one year, or fine up to five thousand rupees, or both."
+  },
+  {
+    "id": "mcq-ch15-10",
+    "chapterId": "ch-15",
+    "question": "Under s.276, adulteration of a drug is an offence if it—",
+    "options": [
+      "Makes the drug noxious only",
+      "Lessens its efficacy, changes its operation, or makes it noxious",
+      "Increases its price",
+      "Changes its packaging"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.276 covers adulteration 'as to lessen the efficacy or change the operation of such drug ... or to make it noxious'."
+  },
+  {
+    "id": "mcq-ch15-11",
+    "chapterId": "ch-15",
+    "question": "Making the atmosphere noxious to health (s.280) is punishable with—",
+    "options": [
+      "Fine up to ₹1,000",
+      "Up to 6 months",
+      "Up to 1 year and fine",
+      "Up to 3 years"
+    ],
+    "correctIndex": 0,
+    "explanation": "s.280: fine which may extend to one thousand rupees only."
+  },
+  {
+    "id": "mcq-ch15-12",
+    "chapterId": "ch-15",
+    "question": "For an offence under s.281 (rash driving on a public way), it is—",
+    "options": [
+      "Necessary that someone is injured",
+      "Necessary that someone dies",
+      "Enough that the manner of driving endangers human life or is likely to cause hurt",
+      "Necessary that the driver is drunk"
+    ],
+    "correctIndex": 2,
+    "explanation": "s.281 punishes driving 'in a manner so rash or negligent as to endanger human life, or to be likely to cause hurt or injury'; actual injury is not required."
+  },
+  {
+    "id": "mcq-ch15-13",
+    "chapterId": "ch-15",
+    "question": "The maximum fine for rash navigation of a vessel under s.282 is—",
+    "options": ["₹1,000", "₹2,000", "₹5,000", "₹10,000"],
+    "correctIndex": 3,
+    "explanation": "s.282: up to six months, or fine up to ten thousand rupees, or both."
+  },
+  {
+    "id": "mcq-ch15-14",
+    "chapterId": "ch-15",
+    "question": "Exhibiting a false light, mark or buoy to mislead navigators (s.283) is punishable with—",
+    "options": [
+      "Up to 6 months, or fine",
+      "Up to 7 years, and fine not less than ₹10,000",
+      "Fine up to ₹5,000",
+      "Imprisonment for life"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.283: imprisonment of either description up to seven years, and fine which shall not be less than ten thousand rupees."
+  },
+  {
+    "id": "mcq-ch15-15",
+    "chapterId": "ch-15",
+    "question": "Leaving building material unlit on a public road at night, causing danger to road users, is an offence under—",
+    "options": ["Section 281", "Section 285", "Section 290", "Section 292"],
+    "correctIndex": 1,
+    "explanation": "s.285: causing danger, obstruction or injury in a public way by an act or by omitting to take order with property in one's charge — fine up to ₹5,000."
+  },
+  {
+    "id": "mcq-ch15-16",
+    "chapterId": "ch-15",
+    "question": "Negligent conduct with respect to fire or combustible matter (s.287) carries a maximum fine of—",
+    "options": ["₹1,000", "₹2,000", "₹5,000", "₹10,000"],
+    "correctIndex": 1,
+    "explanation": "s.287: up to six months, or fine up to two thousand rupees, or both. The other sections in the group (ss.286, 288-291) have ₹5,000."
+  },
+  {
+    "id": "mcq-ch15-17",
+    "chapterId": "ch-15",
+    "question": "Section 291 punishes failure to guard against probable danger from an animal to—",
+    "options": [
+      "Property only",
+      "Human life, or of grievous hurt",
+      "Other animals",
+      "Public roads"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.291: measures sufficient to guard against probable danger to human life, or probable danger of grievous hurt, from the animal."
+  },
+  {
+    "id": "mcq-ch15-18",
+    "chapterId": "ch-15",
+    "question": "Which two sections in the group ss.286-291 are non-cognizable?",
+    "options": [
+      "ss.286 and 287",
+      "ss.288 and 291",
+      "ss.289 and 290",
+      "ss.287 and 291"
+    ],
+    "correctIndex": 2,
+    "explanation": "BNSS First Schedule: s.289 (machinery) and s.290 (buildings) are non-cognizable; ss.286, 287, 288 and 291 are cognizable."
+  },
+  {
+    "id": "mcq-ch15-19",
+    "chapterId": "ch-15",
+    "question": "The BNS definition of 'obscene' in s.294(1) expressly includes—",
+    "options": [
+      "Only printed books",
+      "Display of any content in electronic form",
+      "Only films certified by the censor board",
+      "Only paintings"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.294(1) covers any object 'including display of any content in electronic form'."
+  },
+  {
+    "id": "mcq-ch15-20",
+    "chapterId": "ch-15",
+    "question": "On a second conviction under s.294(2), the maximum punishment is—",
+    "options": [
+      "2 years and fine up to ₹5,000",
+      "5 years and fine up to ₹10,000",
+      "7 years and fine up to ₹5,000",
+      "Imprisonment for life"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.294(2): first conviction up to 2 years and ₹5,000; second or subsequent conviction up to 5 years and ₹10,000."
+  },
+  {
+    "id": "mcq-ch15-21",
+    "chapterId": "ch-15",
+    "question": "Which of these is protected by the Exception to Section 294?",
+    "options": [
+      "Obscene videos sold for profit",
+      "Sculptures on an ancient monument or in a temple",
+      "Obscene advertisements",
+      "Obscene material imported for sale"
+    ],
+    "correctIndex": 1,
+    "explanation": "Exception (b): representations on or in ancient monuments, temples, idol-cars, or kept or used for religious purposes."
+  },
+  {
+    "id": "mcq-ch15-22",
+    "chapterId": "ch-15",
+    "question": "Selling an obscene object to a child (s.295) on first conviction is punishable with up to—",
+    "options": [
+      "2 years and fine up to ₹5,000",
+      "3 years and fine up to ₹2,000",
+      "5 years and fine up to ₹10,000",
+      "7 years and fine up to ₹5,000"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.295: first conviction up to 3 years and fine up to ₹2,000; subsequent conviction up to 7 years and ₹5,000."
+  },
+  {
+    "id": "mcq-ch15-23",
+    "chapterId": "ch-15",
+    "question": "An essential element of the offence under Section 296 (obscene acts and songs) is—",
+    "options": [
+      "That it is done for money",
+      "That it is done to the annoyance of others",
+      "That a woman is present",
+      "That it is recorded electronically"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.296 applies to obscene acts or songs in or near a public place done 'to the annoyance of others'."
+  },
+  {
+    "id": "mcq-ch15-24",
+    "chapterId": "ch-15",
+    "question": "Section 297(1) punishes keeping an office for a lottery that is—",
+    "options": [
+      "Run by the State",
+      "Authorised by the State Government",
+      "Neither a State lottery nor authorised by the State Government",
+      "Run by a registered charity"
+    ],
+    "correctIndex": 2,
+    "explanation": "s.297(1): keeping an office for drawing any lottery 'not being a State lottery or a lottery authorised by the State Government'."
+  },
+  {
+    "id": "mcq-ch15-25",
+    "chapterId": "ch-15",
+    "question": "Chapter XV of the BNS corresponds to which IPC chapter?",
+    "options": [
+      "Chapter XIV (ss.268-294A)",
+      "Chapter XV (ss.295-298)",
+      "Chapter XVI (ss.299-377)",
+      "Chapter XVII (ss.378-462)"
+    ],
+    "correctIndex": 0,
+    "explanation": "IPC Chapter XIV, 'Of Offences affecting the Public Health, Safety, Convenience, Decency and Morals', ss.268-294A."
+  }
+]
