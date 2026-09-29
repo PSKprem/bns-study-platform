@@ -1,0 +1,310 @@
+[
+  {
+    "id": "s-169",
+    "chapterId": "ch-09",
+    "number": "169",
+    "title": "Candidate, electoral right defined",
+    "bareActText": "For the purposes of this Chapter— (a) “candidate” means a person who has been nominated as a candidate at any election; (b) “electoral right” means the right of a person to stand, or not to stand as, or to withdraw from being, a candidate or to vote or refrain from voting at an election.",
+    "plainMeaning": "Two words used throughout the Chapter are defined here. A 'candidate' is a person who has been nominated as a candidate at any election. An 'electoral right' is a person's right to stand or not to stand as a candidate, to withdraw from being one, and to vote or not to vote at an election. So the Chapter protects the freedom not to contest and not to vote, as well as the freedom to do so.",
+    "ingredients": [
+      "'Candidate' — a person nominated as a candidate at any election",
+      "'Electoral right' — right to stand or not stand, to withdraw, and to vote or refrain from voting"
+    ],
+    "punishment": "Not applicable — this section is a definition; punishment is set by ss.173-174.",
+    "classification": null,
+    "ipcReference": {
+      "section": "171A IPC",
+      "changeNote": "Corresponds to s.171A IPC."
+    },
+    "illustrations": [
+      "A voter who is paid to stay at home on polling day is being influenced in the exercise of an electoral right, because the right includes refraining from voting."
+    ],
+    "termRefs": [
+      "candidate",
+      "electoral-right"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.169 — bare Act text verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-170",
+    "chapterId": "ch-09",
+    "number": "170",
+    "title": "Bribery",
+    "bareActText": "(1) Whoever— (i) gives a gratification to any person with the object of inducing him or any other person to exercise any electoral right or of rewarding any person for having exercised any such right; or (ii) accepts either for himself or for any other person any gratification as a reward for exercising any such right or for inducing or attempting to induce any other person to exercise any such right, commits the offence of bribery: Provided that a declaration of public policy or a promise of public action shall not be an offence under this section. (2) A person who offers, or agrees to give, or offers or attempts to procure, a gratification shall be deemed to give a gratification. (3) A person who obtains or agrees to accept or attempts to obtain a gratification shall be deemed to accept a gratification, and a person who accepts a gratification as a motive for doing what he does not intend to do, or as a reward for doing what he has not done, shall be deemed to have accepted the gratification as a reward.",
+    "plainMeaning": "Bribery at an election has two sides. Giving a gratification to anyone to induce him or another to exercise an electoral right, or to reward someone for having exercised it, is bribery; so is accepting a gratification as a reward for exercising an electoral right or for inducing someone else to do so. Offering, agreeing to give or trying to procure a gratification counts as giving it, and trying to obtain or agreeing to accept one counts as accepting it. Accepting a gratification for doing something one does not intend to do, or for something one has not done, still counts as accepting a reward. A declaration of public policy or a promise of public action — such as a manifesto promise to build a hospital — is not bribery.",
+    "ingredients": [
+      "(i) Giving a gratification to induce any person to exercise an electoral right, or to reward him for having exercised it; or",
+      "(ii) Accepting a gratification as a reward for exercising an electoral right, or for inducing or attempting to induce another to exercise it",
+      "Offering, agreeing or attempting to give is 'giving' (sub-s.(2)); obtaining, agreeing or attempting to accept is 'accepting' (sub-s.(3))",
+      "Proviso — a declaration of public policy or promise of public action is not bribery"
+    ],
+    "punishment": "Not applicable — this section is a definition; punishment is set by s.173.",
+    "classification": null,
+    "ipcReference": {
+      "section": "171B IPC",
+      "changeNote": "Corresponds to s.171B IPC."
+    },
+    "illustrations": [
+      "A candidate's agent hands out ₹500 notes in a slum the night before polling, asking people to vote for his candidate. That is bribery by giving.",
+      "A voter asks a candidate for a new phone in return for his family's votes and accepts it. That is bribery by accepting.",
+      "A party manifesto promises free electricity to all farmers if it is elected. This is a promise of public action, not bribery."
+    ],
+    "termRefs": [
+      "election-bribery",
+      "gratification",
+      "electoral-right"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.170 — bare Act text verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-171",
+    "chapterId": "ch-09",
+    "number": "171",
+    "title": "Undue influence at elections",
+    "bareActText": "(1) Whoever voluntarily interferes or attempts to interfere with the free exercise of any electoral right commits the offence of undue influence at an election. (2) Without prejudice to the generality of the provisions of sub-section (1), whoever— (a) threatens any candidate or voter, or any person in whom a candidate or voter is interested, with injury of any kind; or (b) induces or attempts to induce a candidate or voter to believe that he or any person in whom he is interested will become or will be rendered an object of Divine displeasure or of spiritual censure, shall be deemed to interfere with the free exercise of the electoral right of such candidate or voter, within the meaning of sub-section (1). (3) A declaration of public policy or a promise of public action or the mere exercise or a legal right without intent to interfere with an electoral right, shall not be deemed to be interference within the meaning of this section.",
+    "plainMeaning": "Voluntarily interfering, or attempting to interfere, with the free exercise of any electoral right is undue influence. In particular, threatening a candidate or voter (or someone he cares about) with injury of any kind, or making him believe that he or such a person will suffer divine displeasure or spiritual censure, is treated as interference. A declaration of public policy, a promise of public action, or merely exercising a legal right without intending to interfere with an electoral right is not undue influence. (The official text reads 'the mere exercise or a legal right'; it is reproduced exactly and means 'exercise of a legal right'.)",
+    "ingredients": [
+      "Voluntary interference, or attempt to interfere, with the free exercise of an electoral right",
+      "Deemed interference: (a) threat of injury of any kind to a candidate, voter or person in whom he is interested; (b) inducing belief in divine displeasure or spiritual censure",
+      "Not interference: declaration of public policy, promise of public action, or mere exercise of a legal right without intent to interfere"
+    ],
+    "punishment": "Not applicable — this section is a definition; punishment is set by s.174.",
+    "classification": null,
+    "ipcReference": {
+      "section": "171C IPC",
+      "changeNote": "Corresponds to s.171C IPC. The IPC said 'the mere exercise of a legal right'; the Gazette text of the BNS prints 'or' in place of 'of'."
+    },
+    "illustrations": [
+      "A local strongman tells villagers that anyone who votes for a rival candidate will have his crops burnt. This is undue influence by threat of injury.",
+      "A religious leader tells his followers that they will be cursed by God if they vote for a particular candidate. This is deemed undue influence under clause (b)."
+    ],
+    "termRefs": [
+      "undue-influence",
+      "electoral-right",
+      "injury",
+      "voluntarily"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.171 — bare Act text verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-172",
+    "chapterId": "ch-09",
+    "number": "172",
+    "title": "Personation at elections",
+    "bareActText": "Whoever at an election applies for a voting paper on votes in the name of any other person, whether living or dead, or in a fictitious name, or who having voted once at such election applies at the same election for a voting paper in his own name, and whoever abets, procures or attempts to procure the voting by any person in any such way, commits the offence of personation at an election: Provided that nothing in this section shall apply to a person who has been authorised to vote as proxy for an elector under any law for the time being in force in so far as he votes as a proxy for such elector.",
+    "plainMeaning": "Personation is applying for a ballot paper, or voting, in the name of another person (living or dead) or in a fictitious name, or applying for a ballot paper in one's own name after having already voted at the same election. Abetting, procuring or attempting to procure such voting is also personation. A person lawfully authorised to vote as a proxy for an elector does not commit personation when voting as that proxy. (The official text reads 'applies for a voting paper on votes'; it is reproduced exactly and means 'or votes'.)",
+    "ingredients": [
+      "Applying for a voting paper, or voting, in the name of another person (living or dead) or in a fictitious name; or",
+      "Having voted once, applying at the same election for a voting paper in one's own name; or",
+      "Abetting, procuring or attempting to procure such voting",
+      "Proviso — an authorised proxy voting for an elector is excluded"
+    ],
+    "punishment": "Not applicable — this section is a definition; punishment is set by s.174.",
+    "classification": null,
+    "ipcReference": {
+      "section": "171D IPC",
+      "changeNote": "Corresponds to s.171D IPC, including the proviso on proxy voting. The IPC said 'applies for a voting paper or votes'; the Gazette text of the BNS prints 'on votes'."
+    },
+    "illustrations": [
+      "R goes to the polling booth and casts a vote in the name of his neighbour who died last year. R commits personation.",
+      "S votes in the morning, removes the ink mark and returns in the afternoon to vote again. S commits personation."
+    ],
+    "termRefs": [
+      "personation",
+      "abetment"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.172 — bare Act text verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-173",
+    "chapterId": "ch-09",
+    "number": "173",
+    "title": "Punishment for bribery",
+    "bareActText": "Whoever commits the offence of bribery shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both: Provided that bribery by treating shall be punished with fine only. Explanation.—“Treating” means that form of bribery where the gratification consists in food, drink, entertainment, or provision.",
+    "plainMeaning": "Bribery at an election is punishable with up to one year, or fine, or both. Where the bribery is only 'treating' — giving food, drink, entertainment or provisions — the punishment is fine only.",
+    "ingredients": [
+      "Commission of bribery as defined in s.170",
+      "If only by treating (food, drink, entertainment or provision), fine only"
+    ],
+    "punishment": "Imprisonment of either description up to 1 year, or fine, or both; bribery by treating: fine only.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Magistrate of the first class"
+    },
+    "ipcReference": {
+      "section": "171E IPC",
+      "changeNote": "Corresponds to s.171E IPC."
+    },
+    "illustrations": [
+      "A candidate throws a free feast with liquor for a whole village to win its votes. This is bribery by treating, punishable with fine only."
+    ],
+    "termRefs": [
+      "election-bribery",
+      "treating"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.173 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-174",
+    "chapterId": "ch-09",
+    "number": "174",
+    "title": "Punishment for undue influence or personation at an election",
+    "bareActText": "Whoever commits the offence of undue influence or personation at an election shall be punished with imprisonment of either description for a term which may extend to one year or with fine, or with both.",
+    "plainMeaning": "Undue influence (s.171) or personation (s.172) at an election is punishable with up to one year, or fine, or both.",
+    "ingredients": [
+      "Commission of undue influence (s.171) or personation (s.172) at an election"
+    ],
+    "punishment": "Imprisonment of either description up to 1 year, or fine, or both.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Magistrate of the first class"
+    },
+    "ipcReference": {
+      "section": "171F IPC",
+      "changeNote": "Corresponds to s.171F IPC."
+    },
+    "illustrations": [
+      "R, who voted in the name of his dead neighbour, is convicted under s.174 and may be imprisoned for up to one year."
+    ],
+    "termRefs": [
+      "undue-influence",
+      "personation"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.174 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-175",
+    "chapterId": "ch-09",
+    "number": "175",
+    "title": "False statement in connection with an election",
+    "bareActText": "Whoever with intent to affect the result of an election makes or publishes any statement purporting to be a statement of fact which is false and which he either knows or believes to be false or does not believe to be true, in relation to the personal character or conduct of any candidate shall be punished with fine.",
+    "plainMeaning": "Making or publishing a false statement of fact about the personal character or conduct of a candidate, with intent to affect the result of an election, knowing or believing it to be false or not believing it to be true, is punishable with fine. It covers statements about a candidate's personal life, not criticism of his policies or public record.",
+    "ingredients": [
+      "Intent to affect the result of an election",
+      "Making or publishing a statement purporting to be a statement of fact",
+      "The statement is false, and the maker knows or believes it false, or does not believe it true",
+      "It relates to the personal character or conduct of a candidate"
+    ],
+    "punishment": "Fine.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Magistrate of the first class"
+    },
+    "ipcReference": {
+      "section": "171G IPC",
+      "changeNote": "Corresponds to s.171G IPC."
+    },
+    "illustrations": [
+      "Days before polling, T prints pamphlets falsely claiming that a rival candidate was jailed for theft, knowing this is untrue. T is liable under s.175.",
+      "U publishes an article attacking the candidate's poor attendance record in the legislature, which is true. This is not an offence."
+    ],
+    "termRefs": [
+      "candidate"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.175 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-176",
+    "chapterId": "ch-09",
+    "number": "176",
+    "title": "Illegal payments in connection with an election",
+    "bareActText": "Whoever without the general or special authority in writing of a candidate incurs or authorises expenses on account of the holding of any public meeting, or upon any advertisement, circular or publication, or in any other way whatsoever for the purpose of promoting or procuring the election of such candidate, shall be punished with fine which may extend to ten thousand rupees: Provided that if any person having incurred any such expenses not exceeding the amount of ten rupees without authority obtains within ten days from the date on which such expenses were incurred the approval in writing of the candidate, he shall be deemed to have incurred such expenses with the authority of the candidate.",
+    "plainMeaning": "Spending money, or authorising expenses, to promote or procure a candidate's election — for public meetings, advertisements, circulars, publications or in any other way — without that candidate's general or special written authority is punishable with fine up to ₹10,000. If someone spends ten rupees or less without authority and obtains the candidate's written approval within ten days, the spending is treated as authorised. The rule keeps all campaign spending accountable to the candidate, whose expenses are limited by election law.",
+    "ingredients": [
+      "Incurring or authorising expenses for a public meeting, advertisement, circular, publication or in any other way",
+      "For the purpose of promoting or procuring the election of a candidate",
+      "Without the candidate's general or special authority in writing",
+      "Proviso — expenses up to ₹10 approved in writing by the candidate within 10 days are deemed authorised"
+    ],
+    "punishment": "Fine up to ₹10,000.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Magistrate of the first class"
+    },
+    "ipcReference": {
+      "section": "171H IPC",
+      "changeNote": "Corresponds to s.171H IPC; the fine limit is raised from ₹500 to ₹10,000."
+    },
+    "illustrations": [
+      "A businessman, without the candidate's written permission, pays for large newspaper advertisements supporting that candidate. He is liable under s.176."
+    ],
+    "termRefs": [
+      "candidate"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.176 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-177",
+    "chapterId": "ch-09",
+    "number": "177",
+    "title": "Failure to keep election accounts",
+    "bareActText": "Whoever being required by any law for the time being in force or any rule having the force of law to keep accounts of expenses incurred at or in connection with an election fails to keep such accounts shall be punished with fine which may extend to five thousand rupees.",
+    "plainMeaning": "A person who is required by law, or by a rule having the force of law, to keep accounts of election expenses and fails to keep them is punishable with fine up to ₹5,000.",
+    "ingredients": [
+      "A legal duty (by law or rule with force of law) to keep accounts of election expenses",
+      "Failure to keep such accounts"
+    ],
+    "punishment": "Fine up to ₹5,000.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Magistrate of the first class"
+    },
+    "ipcReference": {
+      "section": "171-I IPC",
+      "changeNote": "Corresponds to s.171-I IPC; the fine limit is raised from ₹500 to ₹5,000."
+    },
+    "illustrations": [
+      "A candidate, required by election rules to keep a register of campaign spending, keeps no accounts at all. He is liable under s.177."
+    ],
+    "termRefs": [
+      "candidate"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.177 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  }
+]

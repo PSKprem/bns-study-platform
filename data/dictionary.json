@@ -340,7 +340,8 @@
     "relatedSections": [
       "s-2",
       "s-100",
-      "s-129"
+      "s-129",
+      "s-171"
     ]
   },
   {
@@ -442,7 +443,8 @@
       "s-115",
       "s-117",
       "s-126",
-      "s-156"
+      "s-156",
+      "s-171"
     ]
   },
   {
@@ -718,7 +720,8 @@
       "s-161",
       "s-162",
       "s-163",
-      "s-166"
+      "s-166",
+      "s-172"
     ]
   },
   {
@@ -1380,6 +1383,77 @@
     "meaningHi": "पोशाक या प्रतीक (सशस्त्र बलों का) — सैनिकों, नौसैनिकों या वायुसैनिकों द्वारा प्रयुक्त वर्दी, बिल्ला या अन्य चिह्न जैसा कुछ। स्वयं को ऐसा व्यक्ति दिखाने के लिए इसे पहनना या रखना धारा 168 में दंडनीय है।",
     "relatedSections": [
       "s-168"
+    ]
+  },
+  {
+    "id": "candidate",
+    "term": "Candidate",
+    "meaningEn": "A person who has been nominated as a candidate at any election (s.169(a)).",
+    "meaningHi": "अभ्यर्थी — वह व्यक्ति जो किसी निर्वाचन में अभ्यर्थी के रूप में नामनिर्दिष्ट किया गया हो (धारा 169(क))।",
+    "relatedSections": [
+      "s-169",
+      "s-175",
+      "s-176",
+      "s-177"
+    ]
+  },
+  {
+    "id": "electoral-right",
+    "term": "Electoral right",
+    "meaningEn": "The right to stand, or not to stand, as a candidate, to withdraw from being a candidate, and to vote or refrain from voting at an election (s.169(b)).",
+    "meaningHi": "निर्वाचन अधिकार — अभ्यर्थी के रूप में खड़े होने या न होने, अभ्यर्थिता वापस लेने, और निर्वाचन में मत देने या न देने का अधिकार (धारा 169(ख))।",
+    "relatedSections": [
+      "s-169",
+      "s-170",
+      "s-171"
+    ]
+  },
+  {
+    "id": "gratification",
+    "term": "Gratification",
+    "meaningEn": "Any reward or benefit, in money or in kind, given or accepted to influence conduct. In election bribery it is given to induce, or reward, the exercise of an electoral right (s.170).",
+    "meaningHi": "परितोषण — आचरण को प्रभावित करने के लिए दिया या लिया गया कोई भी पुरस्कार या लाभ, धन में या वस्तु के रूप में। निर्वाचन रिश्वत में यह निर्वाचन अधिकार के प्रयोग के लिए प्रेरित करने या पुरस्कृत करने हेतु दिया जाता है (धारा 170)।",
+    "relatedSections": [
+      "s-170"
+    ]
+  },
+  {
+    "id": "election-bribery",
+    "term": "Bribery (at an election)",
+    "meaningEn": "Giving a gratification to induce or reward the exercise of an electoral right, or accepting one as such a reward (s.170). Punished under s.173; promises of public policy or action are excluded.",
+    "meaningHi": "रिश्वत (निर्वाचन में) — निर्वाचन अधिकार के प्रयोग के लिए प्रेरित करने या पुरस्कृत करने हेतु परितोषण देना, या ऐसे पुरस्कार के रूप में परितोषण लेना (धारा 170)। धारा 173 में दंडनीय; लोक नीति की घोषणा या लोक कार्य का वचन इसमें शामिल नहीं।",
+    "relatedSections": [
+      "s-170",
+      "s-173"
+    ]
+  },
+  {
+    "id": "treating",
+    "term": "Treating",
+    "meaningEn": "The form of election bribery where the gratification is food, drink, entertainment or provisions. It is punishable with fine only (s.173, Explanation).",
+    "meaningHi": "सत्कार — निर्वाचन रिश्वत का वह रूप जिसमें परितोषण भोजन, पेय, मनोरंजन या रसद के रूप में हो। यह केवल जुर्माने से दंडनीय है (धारा 173, स्पष्टीकरण)।",
+    "relatedSections": [
+      "s-173"
+    ]
+  },
+  {
+    "id": "undue-influence",
+    "term": "Undue influence (at an election)",
+    "meaningEn": "Voluntarily interfering, or attempting to interfere, with the free exercise of an electoral right, including by threats of injury or of divine displeasure (s.171).",
+    "meaningHi": "असम्यक् असर (निर्वाचन में) — निर्वाचन अधिकार के स्वतंत्र प्रयोग में स्वेच्छया हस्तक्षेप या हस्तक्षेप का प्रयत्न, जिसमें क्षति की धमकी या दैवी अप्रसाद का भय दिखाना शामिल है (धारा 171)।",
+    "relatedSections": [
+      "s-171",
+      "s-174"
+    ]
+  },
+  {
+    "id": "personation",
+    "term": "Personation (at an election)",
+    "meaningEn": "Voting or applying for a ballot paper in another person's name (living or dead) or a fictitious name, or applying again in one's own name after voting, or procuring such voting (s.172).",
+    "meaningHi": "प्रतिरूपण (निर्वाचन में) — किसी अन्य व्यक्ति (जीवित या मृत) के नाम से या काल्पनिक नाम से मत देना या मतपत्र मांगना, या एक बार मत देने के बाद फिर अपने नाम से मतपत्र मांगना, या ऐसा मतदान कराना (धारा 172)।",
+    "relatedSections": [
+      "s-172",
+      "s-174"
     ]
   }
 ]
