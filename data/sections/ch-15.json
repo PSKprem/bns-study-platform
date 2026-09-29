@@ -1,0 +1,1000 @@
+[
+  {
+    "id": "s-270",
+    "chapterId": "ch-15",
+    "number": "270",
+    "title": "Public nuisance",
+    "bareActText": "A person is guilty of a public nuisance who does any act or is guilty of an illegal omission which causes any common injury, danger or annoyance to the public or to the people in general who dwell or occupy property in the vicinity, or which must necessarily cause injury, obstruction, danger or annoyance to persons who may have occasion to use any public right but a common nuisance is not excused on the ground that it causes some convenience or advantage.",
+    "plainMeaning": "This section defines 'public nuisance'. A person commits it by doing an act, or by an illegal omission, that causes common injury, danger or annoyance to the public or to people living or occupying property nearby, or that must necessarily cause injury, obstruction, danger or annoyance to people who use a public right (such as a road or a public well). The harm must be common to the public, not just to one individual — a private wrong to a single neighbour is a civil matter. A nuisance is not excused because it also brings some convenience or benefit. The general punishment is in s.292; specific forms of nuisance are punished in ss.271-291.",
+    "ingredients": [
+      "An act, or an illegal omission",
+      "Causing common injury, danger or annoyance to the public or to people dwelling or occupying property in the vicinity; or",
+      "Necessarily causing injury, obstruction, danger or annoyance to persons using a public right",
+      "Convenience or advantage caused is no excuse"
+    ],
+    "punishment": "Not applicable — this section is a definition; the general punishment is in s.292 (and specific forms in ss.271-291 and 293).",
+    "classification": null,
+    "ipcReference": {
+      "section": "268 IPC",
+      "changeNote": "Corresponds to s.268 IPC without change of substance."
+    },
+    "illustrations": [
+      "A factory owner lets untreated effluent flow into the drain running through a residential colony, causing a stench and mosquito breeding for everyone living there. This is a public nuisance.",
+      "A shopkeeper stacks goods across a public footpath every day, forcing pedestrians onto the road. It obstructs persons using a public right, and the profit it brings him is no excuse."
+    ],
+    "termRefs": [
+      "public-nuisance",
+      "illegal",
+      "omission",
+      "injury",
+      "public"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.270 — bare Act text verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-271",
+    "chapterId": "ch-15",
+    "number": "271",
+    "title": "Negligent act likely to spread infection of disease dangerous to life",
+    "bareActText": "Whoever unlawfully or negligently does any act which is, and which he knows or has reason to believe to be, likely to spread the infection of any disease dangerous to life, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both.",
+    "plainMeaning": "A person who unlawfully or negligently does an act that is likely to spread the infection of a disease dangerous to life — and who knows or has reason to believe that it is likely to do so — is punishable with up to six months, or fine, or both. Knowingly going out in public while infected with a dangerous contagious disease, in breach of isolation, is the typical example.",
+    "ingredients": [
+      "An act done unlawfully or negligently",
+      "The act is likely to spread infection of a disease dangerous to life",
+      "The accused knows or has reason to believe it is so likely"
+    ],
+    "punishment": "Imprisonment of either description up to 6 months, or fine, or both.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "269 IPC",
+      "changeNote": "Re-enacted without change of substance or punishment."
+    },
+    "illustrations": [
+      "During an outbreak of a dangerous infectious disease, a man who has tested positive and been told to isolate travels in a crowded bus to attend a fair. He negligently does an act he has reason to believe is likely to spread the infection, and is liable under s.271."
+    ],
+    "termRefs": [
+      "reason-to-believe",
+      "rash-and-negligent"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.271 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-272",
+    "chapterId": "ch-15",
+    "number": "272",
+    "title": "Malignant act likely to spread infection of disease dangerous to life",
+    "bareActText": "Whoever malignantly does any act which is, and which he knows or has reason to believe to be, likely to spread the infection of any disease dangerous to life, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+    "plainMeaning": "The aggravated form of s.271. Where the act likely to spread a dangerous infection is done malignantly — that is, deliberately and with a bad motive, such as a wish to harm others — the punishment rises to up to two years, or fine, or both.",
+    "ingredients": [
+      "An act done malignantly",
+      "The act is likely to spread infection of a disease dangerous to life",
+      "The accused knows or has reason to believe it is so likely"
+    ],
+    "punishment": "Imprisonment of either description up to 2 years, or fine, or both.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "270 IPC",
+      "changeNote": "Re-enacted without change of substance or punishment."
+    },
+    "illustrations": [
+      "Angry at being quarantined, a patient with a dangerous contagious disease deliberately coughs into the faces of the nursing staff and spits on the ward door handles. He acts malignantly and is liable under s.272."
+    ],
+    "termRefs": [
+      "reason-to-believe"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.272 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-273",
+    "chapterId": "ch-15",
+    "number": "273",
+    "title": "Disobedience to quarantine rule",
+    "bareActText": "Whoever knowingly disobeys any rule made by the Government for putting any mode of transport into a state of quarantine, or for regulating the intercourse of any such transport in a state of quarantine or for regulating the intercourse between places where an infectious disease prevails and other places, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both.",
+    "plainMeaning": "A person who knowingly disobeys a Government rule that puts a mode of transport (a ship, aircraft, train, vehicle) into quarantine, regulates contact with such transport while it is in quarantine, or regulates contact between places where an infectious disease is prevalent and other places, is punishable with up to six months, or fine, or both. The BNS speaks of 'any mode of transport', where the IPC spoke of vessels.",
+    "ingredients": [
+      "A rule made by the Government for quarantine of a mode of transport, or regulating intercourse with it, or regulating intercourse between infected places and other places",
+      "The accused knowingly disobeys it"
+    ],
+    "punishment": "Imprisonment of either description up to 6 months, or fine, or both.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "271 IPC",
+      "changeNote": "Re-enacts s.271 IPC; the rule may now relate to 'any mode of transport' rather than only a vessel."
+    },
+    "illustrations": [
+      "A ship arriving from a port hit by a plague outbreak is placed under quarantine by Government rule. A local trader, knowing of the rule, rows out at night to buy goods from the crew. He is liable under s.273."
+    ],
+    "termRefs": [
+      "quarantine",
+      "government"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.273 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-274",
+    "chapterId": "ch-15",
+    "number": "274",
+    "title": "Adulteration of food or drink intended for sale",
+    "bareActText": "Whoever adulterates any article of food or drink, so as to make such article noxious as food or drink, intending to sell such article as food or drink, or knowing it to be likely that the same will be sold as food or drink, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+    "plainMeaning": "A person who adulterates food or drink so that it becomes noxious (harmful to health) as food or drink, intending to sell it as food or drink or knowing it is likely to be sold as such, is punishable with up to six months, or fine up to ₹5,000, or both. The adulteration must make the article harmful; merely mixing in something cheaper but harmless is not enough under this section (though it may be an offence under the Food Safety and Standards Act, 2006).",
+    "ingredients": [
+      "Adulterating an article of food or drink",
+      "So as to make it noxious as food or drink",
+      "Intending to sell it as food or drink, or knowing it is likely to be so sold"
+    ],
+    "punishment": "Imprisonment of either description up to 6 months, or fine up to ₹5,000, or both.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "272 IPC",
+      "changeNote": "Re-enacts s.272 IPC; the fine limit is raised to ₹5,000."
+    },
+    "illustrations": [
+      "A dairy owner mixes detergent and urea into milk to make it look thick and frothy before selling it to households. The mixture is harmful to health, so he is liable under s.274."
+    ],
+    "termRefs": [
+      "adulteration",
+      "noxious"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.274 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-275",
+    "chapterId": "ch-15",
+    "number": "275",
+    "title": "Sale of noxious food or drink",
+    "bareActText": "Whoever sells, or offers or exposes for sale, as food or drink, any article which has been rendered or has become noxious, or is in a state unfit for food or drink, knowing or having reason to believe that the same is noxious as food or drink, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+    "plainMeaning": "A person who sells, offers or displays for sale as food or drink any article that has been made or has become noxious, or is unfit for consumption, knowing or having reason to believe it is noxious, is punishable with up to six months, or fine up to ₹5,000, or both. It covers the seller even if he did not adulterate the article himself — for example, selling rotten or contaminated food.",
+    "ingredients": [
+      "Selling, offering or exposing for sale as food or drink",
+      "An article that has been rendered or has become noxious, or is unfit for food or drink",
+      "Knowing or having reason to believe it is noxious"
+    ],
+    "punishment": "Imprisonment of either description up to 6 months, or fine up to ₹5,000, or both.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "273 IPC",
+      "changeNote": "Re-enacts s.273 IPC; the fine limit is raised to ₹5,000."
+    },
+    "illustrations": [
+      "A roadside vendor keeps selling cooked meat that has been lying unrefrigerated for three days and smells rotten. He has reason to believe it is noxious and is liable under s.275."
+    ],
+    "termRefs": [
+      "noxious",
+      "reason-to-believe"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.275 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-276",
+    "chapterId": "ch-15",
+    "number": "276",
+    "title": "Adulteration of drugs",
+    "bareActText": "Whoever adulterates any drug or medical preparation in such a manner as to lessen the efficacy or change the operation of such drug or medical preparation, or to make it noxious, intending that it shall be sold or used for, or knowing it to be likely that it will be sold or used for, any medicinal purpose, as if it had not undergone such adulteration, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine which may extend to five thousand rupees, or with both.",
+    "plainMeaning": "A person who adulterates a drug or medical preparation so as to reduce its effectiveness, change how it works, or make it harmful, intending (or knowing it likely) that it will be sold or used for medicinal purposes as if it were unadulterated, is punishable with up to one year, or fine up to ₹5,000, or both. Unlike food adulteration, even reducing a medicine's efficacy is enough — it need not be made harmful. It is non-cognizable but non-bailable.",
+    "ingredients": [
+      "Adulterating a drug or medical preparation",
+      "So as to lessen its efficacy, change its operation, or make it noxious",
+      "Intending, or knowing it likely, that it will be sold or used for a medicinal purpose as if unadulterated"
+    ],
+    "punishment": "Imprisonment of either description up to 1 year, or fine up to ₹5,000, or both.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "274 IPC",
+      "changeNote": "Re-enacts s.274 IPC; the maximum imprisonment is raised to 1 year and the fine limit to ₹5,000."
+    },
+    "illustrations": [
+      "A small drug unit fills antibiotic capsules with half the stated dose and chalk powder to cut costs, and supplies them to pharmacies. It lessens the efficacy of the drug and the owner is liable under s.276."
+    ],
+    "termRefs": [
+      "adulteration",
+      "noxious"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.276 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-277",
+    "chapterId": "ch-15",
+    "number": "277",
+    "title": "Sale of adulterated drugs",
+    "bareActText": "Whoever, knowing any drug or medical preparation to have been adulterated in such a manner as to lessen its efficacy, to change its operation, or to render it noxious, sells the same, or offers or exposes it for sale, or issues it from any dispensary for medicinal purposes as unadulterated, or causes it to be used for medicinal purposes by any person not knowing of the adulteration, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+    "plainMeaning": "A person who knows that a drug or medical preparation has been adulterated so as to reduce its efficacy, change its operation or make it noxious, and who sells it, offers or displays it for sale, issues it from a dispensary for medicinal purposes as unadulterated, or causes someone unaware of the adulteration to use it medicinally, is punishable with up to six months, or fine up to ₹5,000, or both.",
+    "ingredients": [
+      "Knowing a drug or medical preparation has been adulterated so as to lessen efficacy, change operation or make it noxious",
+      "Selling it, offering or exposing it for sale, or issuing it from a dispensary as unadulterated; or",
+      "Causing it to be used for medicinal purposes by a person unaware of the adulteration"
+    ],
+    "punishment": "Imprisonment of either description up to 6 months, or fine up to ₹5,000, or both.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "275 IPC",
+      "changeNote": "Re-enacts s.275 IPC; the fine limit is raised to ₹5,000."
+    },
+    "illustrations": [
+      "In the example under s.276, a pharmacist who has been told by a supplier that the cheap capsules are under-dosed still sells them to patients as genuine. The pharmacist is liable under s.277."
+    ],
+    "termRefs": [
+      "adulteration",
+      "noxious"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.277 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-278",
+    "chapterId": "ch-15",
+    "number": "278",
+    "title": "Sale of drug as a different drug or preparation",
+    "bareActText": "Whoever knowingly sells, or offers or exposes for sale, or issues from a dispensary for medicinal purposes, any drug or medical preparation, as a different drug or medical preparation, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+    "plainMeaning": "A person who knowingly sells, offers or displays for sale, or issues from a dispensary for medicinal purposes, one drug or medical preparation passing it off as a different one is punishable with up to six months, or fine up to ₹5,000, or both. The drug need not be adulterated or harmful; the offence lies in the substitution.",
+    "ingredients": [
+      "Selling, offering or exposing for sale, or issuing from a dispensary for medicinal purposes",
+      "A drug or medical preparation as a different drug or medical preparation",
+      "Knowingly"
+    ],
+    "punishment": "Imprisonment of either description up to 6 months, or fine up to ₹5,000, or both.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "276 IPC",
+      "changeNote": "Re-enacts s.276 IPC; the fine limit is raised to ₹5,000."
+    },
+    "illustrations": [
+      "A chemist, out of stock of a prescribed branded heart medicine, knowingly gives a patient a different, cheaper drug in a relabelled strip, telling him it is the prescribed medicine. He is liable under s.278."
+    ],
+    "termRefs": [],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.278 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-279",
+    "chapterId": "ch-15",
+    "number": "279",
+    "title": "Fouling water of public spring or reservoir",
+    "bareActText": "Whoever voluntarily corrupts or fouls the water of any public spring or reservoir, so as to render it less fit for the purpose for which it is ordinarily used, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+    "plainMeaning": "A person who voluntarily corrupts or fouls the water of a public spring or reservoir, making it less fit for its ordinary use (such as drinking, bathing or washing), is punishable with up to six months, or fine up to ₹5,000, or both. The water must be public; it need not be made poisonous — making it less fit for use is enough.",
+    "ingredients": [
+      "The water of a public spring or reservoir",
+      "The accused voluntarily corrupts or fouls it",
+      "So as to render it less fit for its ordinary purpose"
+    ],
+    "punishment": "Imprisonment of either description up to 6 months, or fine up to ₹5,000, or both.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "277 IPC",
+      "changeNote": "Re-enacts s.277 IPC; the maximum imprisonment becomes 6 months and the fine limit ₹5,000."
+    },
+    "illustrations": [
+      "A man washes his buffaloes and dumps animal waste in the village's public drinking-water tank. He voluntarily fouls a public reservoir and is liable under s.279."
+    ],
+    "termRefs": [
+      "voluntarily",
+      "public"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.279 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-280",
+    "chapterId": "ch-15",
+    "number": "280",
+    "title": "Making atmosphere noxious to health",
+    "bareActText": "Whoever voluntarily vitiates the atmosphere in any place so as to make it noxious to the health of persons in general dwelling or carrying on business in the neighbourhood or passing along a public way, shall be punished with fine which may extend to one thousand rupees.",
+    "plainMeaning": "A person who voluntarily pollutes the air in any place so that it becomes harmful to the health of people in general who live or work nearby or pass along a public way is punishable with a fine up to ₹1,000. It is a minor, fine-only offence; serious industrial air pollution is mainly dealt with under environmental laws such as the Air (Prevention and Control of Pollution) Act, 1981.",
+    "ingredients": [
+      "Voluntarily vitiating the atmosphere in any place",
+      "Making it noxious to the health of persons in general dwelling or doing business in the neighbourhood, or passing along a public way"
+    ],
+    "punishment": "Fine up to ₹1,000.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "278 IPC",
+      "changeNote": "Re-enacts s.278 IPC; the fine limit is raised to ₹1,000."
+    },
+    "illustrations": [
+      "A scrap dealer burns plastic-coated wire every evening in an open plot next to a housing colony to recover copper, filling the area with toxic smoke. He is liable under s.280."
+    ],
+    "termRefs": [
+      "voluntarily",
+      "noxious"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.280 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-281",
+    "chapterId": "ch-15",
+    "number": "281",
+    "title": "Rash driving or riding on a public way",
+    "bareActText": "Whoever drives any vehicle, or rides, on any public way in a manner so rash or negligent as to endanger human life, or to be likely to cause hurt or injury to any other person, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to one thousand rupees, or with both.",
+    "plainMeaning": "Driving any vehicle, or riding, on a public way so rashly or negligently as to endanger human life or be likely to cause hurt or injury to someone is punishable with up to six months, or fine up to ₹1,000, or both. No accident or injury is needed — the dangerous manner of driving is itself the offence. If death results, s.106 applies; if hurt or grievous hurt results, s.125 applies.",
+    "ingredients": [
+      "Driving a vehicle, or riding, on a public way",
+      "In a manner so rash or negligent as to endanger human life or be likely to cause hurt or injury to another person"
+    ],
+    "punishment": "Imprisonment of either description up to 6 months, or fine up to ₹1,000, or both.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "279 IPC",
+      "changeNote": "Re-enacted without change of substance or punishment."
+    },
+    "illustrations": [
+      "A young man races his motorcycle at high speed through a crowded market street, weaving between pedestrians. No one is hit, but he has driven so rashly as to endanger human life and is liable under s.281."
+    ],
+    "termRefs": [
+      "rash-and-negligent",
+      "hurt",
+      "injury"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.281 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-282",
+    "chapterId": "ch-15",
+    "number": "282",
+    "title": "Rash navigation of vessel",
+    "bareActText": "Whoever navigates any vessel in a manner so rash or negligent as to endanger human life, or to be likely to cause hurt or injury to any other person, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to ten thousand rupees, or with both.",
+    "plainMeaning": "The water-borne counterpart of s.281. Navigating any vessel so rashly or negligently as to endanger human life, or be likely to cause hurt or injury to another person, is punishable with up to six months, or fine up to ₹10,000, or both.",
+    "ingredients": [
+      "Navigating a vessel",
+      "In a manner so rash or negligent as to endanger human life or be likely to cause hurt or injury to another person"
+    ],
+    "punishment": "Imprisonment of either description up to 6 months, or fine up to ₹10,000, or both.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "280 IPC",
+      "changeNote": "Re-enacts s.280 IPC; the fine limit is raised to ₹10,000."
+    },
+    "illustrations": [
+      "A motorboat operator speeds through a river ghat crowded with bathers and small boats, nearly capsizing a rowing boat. He is liable under s.282."
+    ],
+    "termRefs": [
+      "vessel",
+      "rash-and-negligent",
+      "hurt"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.282 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-283",
+    "chapterId": "ch-15",
+    "number": "283",
+    "title": "Exhibition of false light, mark or buoy",
+    "bareActText": "Whoever exhibits any false light, mark or buoy, intending or knowing it to be likely that such exhibition will mislead any navigator, shall be punished with imprisonment of either description for a term which may extend to seven years, and with fine which shall not be less than ten thousand rupees.",
+    "plainMeaning": "Displaying a false light, mark or buoy, intending or knowing it is likely to mislead a navigator, is a serious offence because it can wreck vessels and cost lives. It is punishable with up to seven years and a fine of at least ₹10,000 — both imprisonment and the minimum fine apply.",
+    "ingredients": [
+      "Exhibiting a false light, mark or buoy",
+      "Intending, or knowing it likely, that it will mislead a navigator"
+    ],
+    "punishment": "Imprisonment of either description up to 7 years, and fine not less than ₹10,000.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Magistrate of the first class"
+    },
+    "ipcReference": {
+      "section": "281 IPC",
+      "changeNote": "Re-enacts s.281 IPC with the same 7-year maximum; the fine is now mandatory with a minimum of ₹10,000."
+    },
+    "illustrations": [
+      "Smugglers put up a lamp on a rocky shore that looks like a harbour light, so that a patrol boat will steer onto the rocks. They are liable under s.283."
+    ],
+    "termRefs": [],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.283 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-284",
+    "chapterId": "ch-15",
+    "number": "284",
+    "title": "Conveying person by water for hire in unsafe or overloaded vessel",
+    "bareActText": "Whoever knowingly or negligently conveys, or causes to be conveyed for hire, any person by water in any vessel, when that vessel is in such a state or so loaded as to endanger the life of that person, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+    "plainMeaning": "A person who, knowingly or negligently, carries or causes someone to be carried by water for hire in a vessel that is in such a condition, or so overloaded, as to endanger that person's life, is punishable with up to six months, or fine up to ₹5,000, or both. Overcrowded ferries are the common example.",
+    "ingredients": [
+      "Conveying, or causing to be conveyed, a person by water for hire in a vessel",
+      "The vessel is in such a state or so loaded as to endanger that person's life",
+      "Knowingly or negligently"
+    ],
+    "punishment": "Imprisonment of either description up to 6 months, or fine up to ₹5,000, or both.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "282 IPC",
+      "changeNote": "Re-enacts s.282 IPC; the fine limit is raised to ₹5,000."
+    },
+    "illustrations": [
+      "A ferry operator licensed to carry 30 passengers packs 80 people and several motorcycles into his boat during a festival, knowing it is dangerously overloaded. He is liable under s.284."
+    ],
+    "termRefs": [
+      "vessel",
+      "rash-and-negligent"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.284 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-285",
+    "chapterId": "ch-15",
+    "number": "285",
+    "title": "Danger or obstruction in public way or line of navigation",
+    "bareActText": "Whoever, by doing any act, or by omitting to take order with any property in his possession or under his charge, causes danger, obstruction or injury to any person in any public way or public line of navigation, shall be punished with fine which may extend to five thousand rupees.",
+    "plainMeaning": "A person who, by an act or by failing to properly manage property in his possession or charge, causes danger, obstruction or injury to anyone on a public way (road, street, footpath) or in a public line of navigation is punishable with a fine up to ₹5,000. Leaving building material or a broken-down truck unlit on the road at night is a typical example.",
+    "ingredients": [
+      "Doing an act, or omitting to take order with property in one's possession or charge",
+      "Causing danger, obstruction or injury to any person",
+      "In a public way or public line of navigation"
+    ],
+    "punishment": "Fine up to ₹5,000.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "283 IPC",
+      "changeNote": "Re-enacts s.283 IPC; the fine limit is raised to ₹5,000."
+    },
+    "illustrations": [
+      "A builder dumps a heap of sand and bricks across half of a public road outside a construction site and leaves it there without any lights or warning signs; a scooter rider crashes into it at night. The builder is liable under s.285."
+    ],
+    "termRefs": [
+      "omission",
+      "injury"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.285 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-286",
+    "chapterId": "ch-15",
+    "number": "286",
+    "title": "Negligent conduct with respect to poisonous substance",
+    "bareActText": "Whoever does, with any poisonous substance, any act in a manner so rash or negligent as to endanger human life, or to be likely to cause hurt or injury to any person or knowingly or negligently omits to take such order with any poisonous substance in his possession as is sufficient to guard against any probable danger to human life from such poisonous substance, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+    "plainMeaning": "Sections 286 to 291 all follow one pattern: they punish rash or negligent handling of a dangerous thing, and the knowing or negligent failure to keep it safe. Under s.286, a person who does anything with a poisonous substance so rashly or negligently as to endanger human life or be likely to cause hurt or injury, or who knowingly or negligently fails to take enough care with poison in his possession to guard against probable danger to human life, is punishable with up to six months, or fine up to ₹5,000, or both.",
+    "ingredients": [
+      "(1) Doing an act with a poisonous substance so rashly or negligently as to endanger human life or be likely to cause hurt or injury; or",
+      "(2) Knowingly or negligently omitting to take such order with a poisonous substance in one's possession as is sufficient to guard against probable danger to human life"
+    ],
+    "punishment": "Imprisonment of either description up to 6 months, or fine up to ₹5,000, or both.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "284 IPC",
+      "changeNote": "Re-enacts s.284 IPC; the fine limit is raised to ₹5,000."
+    },
+    "illustrations": [
+      "A farmer stores pesticide in an unlabelled cold-drink bottle in the kitchen, where his children can reach it. He negligently fails to guard against probable danger to human life and is liable under s.286."
+    ],
+    "termRefs": [
+      "rash-and-negligent",
+      "hurt",
+      "omission"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.286 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-287",
+    "chapterId": "ch-15",
+    "number": "287",
+    "title": "Negligent conduct with respect to fire or combustible matter",
+    "bareActText": "Whoever does, with fire or any combustible matter, any act so rashly or negligently as to endanger human life, or to be likely to cause hurt or injury to any other person or knowingly or negligently omits to take such order with any fire or any combustible matter in his possession as is sufficient to guard against any probable danger to human life from such fire or combustible matter, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to two thousand rupees, or with both.",
+    "plainMeaning": "The same pattern as s.286, for fire or combustible matter (petrol, gas cylinders, firecrackers, dry fodder). Doing anything with fire or combustible matter so rashly or negligently as to endanger human life or be likely to cause hurt or injury, or knowingly or negligently failing to take sufficient care with such things in one's possession, is punishable with up to six months, or fine up to ₹2,000, or both.",
+    "ingredients": [
+      "(1) Doing an act with fire or combustible matter so rashly or negligently as to endanger human life or be likely to cause hurt or injury; or",
+      "(2) Knowingly or negligently omitting to take sufficient order with fire or combustible matter in one's possession to guard against probable danger to human life"
+    ],
+    "punishment": "Imprisonment of either description up to 6 months, or fine up to ₹2,000, or both.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "285 IPC",
+      "changeNote": "Re-enacts s.285 IPC; the fine limit is raised to ₹2,000."
+    },
+    "illustrations": [
+      "A shopkeeper stores dozens of LPG cylinders and loose petrol cans in a small shop on a crowded lane, with a stove burning inside. He is liable under s.287."
+    ],
+    "termRefs": [
+      "rash-and-negligent",
+      "hurt",
+      "omission"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.287 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-288",
+    "chapterId": "ch-15",
+    "number": "288",
+    "title": "Negligent conduct with respect to explosive substance",
+    "bareActText": "Whoever does, with any explosive substance, any act so rashly or negligently as to endanger human life, or to be likely to cause hurt or injury to any other person, or knowingly or negligently omits to take such order with any explosive substance in his possession as is sufficient to guard against any probable danger to human life from that substance, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+    "plainMeaning": "The same pattern for explosive substances. Rash or negligent acts with explosives that endanger human life or are likely to cause hurt or injury, or a knowing or negligent failure to store or handle explosives in one's possession safely, are punishable with up to six months, or fine up to ₹5,000, or both. Deliberate use of explosives is dealt with by far more serious provisions, including the Explosive Substances Act, 1908.",
+    "ingredients": [
+      "(1) Doing an act with an explosive substance so rashly or negligently as to endanger human life or be likely to cause hurt or injury; or",
+      "(2) Knowingly or negligently omitting to take sufficient order with an explosive substance in one's possession to guard against probable danger to human life"
+    ],
+    "punishment": "Imprisonment of either description up to 6 months, or fine up to ₹5,000, or both.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "286 IPC",
+      "changeNote": "Re-enacts s.286 IPC; the fine limit is raised to ₹5,000."
+    },
+    "illustrations": [
+      "A quarry contractor leaves boxes of blasting gelatine unguarded in an open shed next to a school playground. He is liable under s.288."
+    ],
+    "termRefs": [
+      "rash-and-negligent",
+      "hurt",
+      "omission"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.288 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-289",
+    "chapterId": "ch-15",
+    "number": "289",
+    "title": "Negligent conduct with respect to machinery",
+    "bareActText": "Whoever does, with any machinery, any act so rashly or negligently as to endanger human life or to be likely to cause hurt or injury to any other person or knowingly or negligently omits to take such order with any machinery in his possession or under his care as is sufficient to guard against any probable danger to human life from such machinery, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+    "plainMeaning": "The same pattern for machinery. Rash or negligent acts with machinery that endanger human life or are likely to cause hurt or injury, or a knowing or negligent failure to take sufficient safety measures with machinery in one's possession or care, are punishable with up to six months, or fine up to ₹5,000, or both. Unguarded moving parts, faulty lifts and badly maintained amusement rides are typical examples.",
+    "ingredients": [
+      "(1) Doing an act with machinery so rashly or negligently as to endanger human life or be likely to cause hurt or injury; or",
+      "(2) Knowingly or negligently omitting to take sufficient order with machinery in one's possession or care to guard against probable danger to human life"
+    ],
+    "punishment": "Imprisonment of either description up to 6 months, or fine up to ₹5,000, or both.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "287 IPC",
+      "changeNote": "Re-enacts s.287 IPC; the fine limit is raised to ₹5,000."
+    },
+    "illustrations": [
+      "The owner of a flour mill removes the safety guard from the grinding belt to speed up work, knowing workers pass close by. He is liable under s.289."
+    ],
+    "termRefs": [
+      "rash-and-negligent",
+      "hurt",
+      "omission"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.289 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-290",
+    "chapterId": "ch-15",
+    "number": "290",
+    "title": "Negligent conduct with respect to pulling down, repairing or constructing buildings, etc.",
+    "bareActText": "Whoever, in pulling down, repairing or constructing any building, knowingly or negligently omits to take such measures with that building as is sufficient to guard against any probable danger to human life from the fall of that building, or of any part thereof, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+    "plainMeaning": "A person who, while demolishing, repairing or constructing a building, knowingly or negligently fails to take enough measures to guard against probable danger to human life from the fall of the building or any part of it, is punishable with up to six months, or fine up to ₹5,000, or both. Missing scaffolding, shoring or barricades are common examples. If death results, s.106 may also apply.",
+    "ingredients": [
+      "Pulling down, repairing or constructing a building",
+      "Knowingly or negligently omitting to take sufficient measures with it",
+      "To guard against probable danger to human life from the fall of the building or part of it"
+    ],
+    "punishment": "Imprisonment of either description up to 6 months, or fine up to ₹5,000, or both.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "288 IPC",
+      "changeNote": "Re-enacts s.288 IPC; the fine limit is raised to ₹5,000."
+    },
+    "illustrations": [
+      "A contractor demolishing an old three-storey house next to a busy market puts up no barricades or safety nets, and chunks of masonry keep falling onto the footpath. He is liable under s.290."
+    ],
+    "termRefs": [
+      "omission"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.290 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-291",
+    "chapterId": "ch-15",
+    "number": "291",
+    "title": "Negligent conduct with respect to animal",
+    "bareActText": "Whoever knowingly or negligently omits to take such measures with any animal in his possession as is sufficient to guard against any probable danger to human life, or any probable danger of grievous hurt from such animal, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+    "plainMeaning": "A person who knowingly or negligently fails to take sufficient measures with an animal in his possession to guard against probable danger to human life, or probable danger of grievous hurt, from that animal is punishable with up to six months, or fine up to ₹5,000, or both. Letting a known aggressive dog roam unleashed in a public park is a typical example.",
+    "ingredients": [
+      "An animal in the accused's possession",
+      "He knowingly or negligently omits to take sufficient measures with it",
+      "To guard against probable danger to human life or of grievous hurt from it"
+    ],
+    "punishment": "Imprisonment of either description up to 6 months, or fine up to ₹5,000, or both.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "289 IPC",
+      "changeNote": "Re-enacts s.289 IPC; the fine limit is raised to ₹5,000."
+    },
+    "illustrations": [
+      "A man whose large dog has already bitten two neighbours lets it out unleashed and unmuzzled every morning on a lane where children walk to school. He is liable under s.291."
+    ],
+    "termRefs": [
+      "animal",
+      "grievous-hurt",
+      "omission"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.291 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-292",
+    "chapterId": "ch-15",
+    "number": "292",
+    "title": "Punishment for public nuisance in cases not otherwise provided for",
+    "bareActText": "Whoever commits a public nuisance in any case not otherwise punishable by this Sanhita shall be punished with fine which may extend to one thousand rupees.",
+    "plainMeaning": "This is the general punishment for public nuisance as defined in s.270. Where a public nuisance is not punishable under any other provision of the Sanhita, it is punishable with a fine up to ₹1,000. Repeating or continuing a nuisance after a lawful order to stop is more serious (s.293).",
+    "ingredients": [
+      "A public nuisance within the meaning of s.270",
+      "Not otherwise punishable by the Sanhita"
+    ],
+    "punishment": "Fine up to ₹1,000.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "290 IPC",
+      "changeNote": "Re-enacts s.290 IPC; the fine limit is raised to ₹1,000."
+    },
+    "illustrations": [
+      "A marriage hall plays amplified music at full volume past midnight every night, disturbing the whole neighbourhood. If no other provision covers it, the owner is liable to a fine under s.292."
+    ],
+    "termRefs": [
+      "public-nuisance"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.292 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-293",
+    "chapterId": "ch-15",
+    "number": "293",
+    "title": "Continuance of nuisance after injunction to discontinue",
+    "bareActText": "Whoever repeats or continues a public nuisance, having been enjoined by any public servant who has lawful authority to issue such injunction not to repeat or continue such nuisance, shall be punished with simple imprisonment for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+    "plainMeaning": "A person who has been directed by a public servant with lawful authority (for example, a Magistrate acting under BNSS s.152 or s.162) not to repeat or continue a public nuisance, and who repeats or continues it anyway, is punishable with simple imprisonment up to six months, or fine up to ₹5,000, or both. It is cognizable, unlike the basic nuisance offence.",
+    "ingredients": [
+      "A public nuisance",
+      "A public servant with lawful authority has enjoined the accused not to repeat or continue it",
+      "The accused repeats or continues the nuisance"
+    ],
+    "punishment": "Simple imprisonment up to 6 months, or fine up to ₹5,000, or both.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "291 IPC",
+      "changeNote": "Re-enacts s.291 IPC; a fine limit of ₹5,000 is stated."
+    },
+    "illustrations": [
+      "After a Magistrate lawfully orders a tannery to stop discharging waste into a public drain, the owner carries on discharging it. He is liable under s.293."
+    ],
+    "termRefs": [
+      "public-nuisance",
+      "public-servant",
+      "simple-imprisonment"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.293 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-294",
+    "chapterId": "ch-15",
+    "number": "294",
+    "title": "Sale, etc., of obscene books, etc.",
+    "bareActText": "(1) For the purposes of sub-section (2), a book, pamphlet, paper, writing, drawing, painting, representation, figure or any other object, including display of any content in electronic form shall be deemed to be obscene if it is lascivious or appeals to the prurient interest or if its effect, or (where it comprises two or more distinct items) the effect of any one of its items, is, if taken as a whole, such as to tend to deprave and corrupt persons who are likely, having regard to all relevant circumstances, to read, see or hear the matter contained or embodied in it. (2) Whoever— (a) sells, lets to hire, distributes, publicly exhibits or in any manner puts into circulation, or for purposes of sale, hire, distribution, public exhibition or circulation, makes, produces or has in his possession any obscene book, pamphlet, paper, drawing, painting, representation or figure or any other obscene object whatsoever in whatever manner; or (b) imports, exports or conveys any obscene object for any of the purposes aforesaid, or knowing or having reason to believe that such object will be sold, let to hire, distributed or publicly exhibited or in any manner put into circulation; or (c) takes part in or receives profits from any business in the course of which he knows or has reason to believe that any such obscene objects are, for any of the purposes aforesaid, made produced, purchased, kept, imported, exported, conveyed, publicly exhibited or in any manner put into circulation; or (d) advertises or makes known by any means whatsoever that any person is engaged or is ready to engage in any act which is an offence under this section, or that any such obscene object can be procured from or through any person; or (e) offers or attempts to do any act which is an offence under this section, shall be punished on first conviction with imprisonment of either description for a term which may extend to two years, and with fine which may extend to five thousand rupees, and, in the event of a second or subsequent conviction, with imprisonment of either description for a term which may extend to five years, and also with fine which may extend to ten thousand rupees. Exception.—This section does not extend to— (a) any book, pamphlet, paper, writing, drawing, painting, representation or figure— (i) the publication of which is proved to be justified as being for the public good on the ground that such book, pamphlet, paper, writing, drawing, painting, representation or figure is in the interest of science, literature, art or learning or other objects of general concern; or (ii) which is kept or used bona fide for religious purposes; (b) any representation sculptured, engraved, painted or otherwise represented on or in— (i) any ancient monument within the meaning of the Ancient Monuments and Archaeological Sites and Remains Act, 1958; or (ii) any temple, or on any car used for the conveyance of idols, or kept or used for any religious purpose.",
+    "plainMeaning": "Sub-section (1) defines 'obscene': a book, writing, picture, figure or any other object — now expressly including content displayed in electronic form — is obscene if it is lascivious, appeals to prurient (lustful) interest, or, taken as a whole, tends to deprave and corrupt people likely to read, see or hear it. Sub-section (2) punishes dealing in obscene material: selling, hiring out, distributing, publicly exhibiting or circulating it, or making, producing or possessing it for those purposes; importing, exporting or conveying it for them; taking part in or profiting from such a business; advertising that such material or such a person is available; and offering or attempting any of these. First conviction: up to two years and fine up to ₹5,000; second or subsequent conviction: up to five years and fine up to ₹10,000. The Exception protects material whose publication is proved to be for the public good in the interest of science, literature, art, learning or other matters of general concern; material kept or used bona fide for religious purposes; and sculptures or paintings on ancient monuments, temples, idol-cars or religious objects. Obscene content online may also attract the Information Technology Act, 2000.",
+    "ingredients": [
+      "The material is 'obscene' within sub-s. (1): lascivious, appealing to prurient interest, or tending as a whole to deprave and corrupt likely readers, viewers or listeners",
+      "(a) Selling, hiring, distributing, publicly exhibiting or circulating it, or making, producing or possessing it for those purposes; or",
+      "(b) Importing, exporting or conveying it for those purposes; or (c) taking part in or profiting from such a business; or",
+      "(d) Advertising the availability of such material or persons; or (e) offering or attempting any of these",
+      "Exception: public good (science, literature, art, learning); bona fide religious use; ancient monuments, temples and religious objects"
+    ],
+    "punishment": "First conviction: imprisonment of either description up to 2 years, and fine up to ₹5,000. Second or subsequent conviction: up to 5 years, and fine up to ₹10,000.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "292 IPC",
+      "changeNote": "Re-enacts s.292 IPC. The definition of obscenity now expressly includes 'display of any content in electronic form'."
+    },
+    "illustrations": [
+      "A shop sells pen drives loaded with pornographic films to customers. The owner puts obscene objects into circulation and is liable under s.294(2)(a).",
+      "An art gallery exhibits classical nude paintings as part of a retrospective of a renowned painter. If shown to be in the interest of art, the Exception protects the exhibition."
+    ],
+    "termRefs": [
+      "obscene",
+      "electronic-record",
+      "reason-to-believe"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.294 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-295",
+    "chapterId": "ch-15",
+    "number": "295",
+    "title": "Sale, etc., of obscene objects to child",
+    "bareActText": "Whoever sells, lets to hire, distributes, exhibits or circulates to any child any such obscene object as is referred to in section 294, or offers or attempts so to do, shall be punished on first conviction with imprisonment of either description for a term which may extend to three years, and with fine which may extend to two thousand rupees, and, in the event of a second or subsequent conviction, with imprisonment of either description for a term which may extend to seven years, and also with fine which may extend to five thousand rupees.",
+    "plainMeaning": "Selling, hiring out, distributing, exhibiting or circulating an obscene object (as described in s.294) to a child, or offering or attempting to do so, is punished more severely than the general offence: on first conviction, up to three years and fine up to ₹2,000; on a second or subsequent conviction, up to seven years and fine up to ₹5,000. 'Child' under s.2 means a person below eighteen. Using children in pornography is separately punished under the POCSO Act, 2012.",
+    "ingredients": [
+      "Selling, letting to hire, distributing, exhibiting or circulating to a child, or offering or attempting to do so",
+      "An obscene object as referred to in s.294"
+    ],
+    "punishment": "First conviction: imprisonment of either description up to 3 years, and fine up to ₹2,000. Second or subsequent conviction: up to 7 years, and fine up to ₹5,000.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "293 IPC",
+      "changeNote": "Re-enacts s.293 IPC; the BNS uses 'child' (a person under 18, s.2) in place of 'young person' under twenty."
+    },
+    "illustrations": [
+      "A cyber-café operator shows obscene videos to schoolboys of fourteen for a fee. He exhibits obscene objects to children and is liable under s.295."
+    ],
+    "termRefs": [
+      "obscene",
+      "child"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.295 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-296",
+    "chapterId": "ch-15",
+    "number": "296",
+    "title": "Obscene acts and songs",
+    "bareActText": "Whoever, to the annoyance of others,— (a) does any obscene act in any public place; or (b) sings, recites or utters any obscene song, ballad or words, in or near any public place, shall be punished with imprisonment of either description for a term which may extend to three months, or with fine which may extend to one thousand rupees, or with both.",
+    "plainMeaning": "A person who, to the annoyance of others, does an obscene act in a public place, or sings, recites or utters obscene songs, ballads or words in or near a public place, is punishable with up to three months, or fine up to ₹1,000, or both. Annoyance to others is an essential element — the conduct must cause annoyance, not merely be vulgar in private. Words or gestures aimed at insulting a woman's modesty are separately punishable under s.79.",
+    "ingredients": [
+      "(a) An obscene act in a public place; or (b) singing, reciting or uttering obscene songs, ballads or words in or near a public place",
+      "Done to the annoyance of others"
+    ],
+    "punishment": "Imprisonment of either description up to 3 months, or fine up to ₹1,000, or both.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "294 IPC",
+      "changeNote": "Re-enacts s.294 IPC; a fine limit of ₹1,000 is stated."
+    },
+    "illustrations": [
+      "A group of drunk men sing obscene songs loudly at a bus stop, making the people waiting there uncomfortable and forcing some to move away. They are liable under s.296(b)."
+    ],
+    "termRefs": [
+      "obscene",
+      "public"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.296 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-297",
+    "chapterId": "ch-15",
+    "number": "297",
+    "title": "Keeping lottery office",
+    "bareActText": "(1) Whoever keeps any office or place for the purpose of drawing any lottery not being a State lottery or a lottery authorised by the State Government, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both. (2) Whoever publishes any proposal to pay any sum, or to deliver any goods, or to do or forbear from doing anything for the benefit of any person, on any event or contingency relative or applicable to the drawing of any ticket, lot, number or figure in any such lottery, shall be punished with fine which may extend to five thousand rupees.",
+    "plainMeaning": "Sub-section (1) punishes keeping an office or place for drawing a lottery that is neither a State lottery nor authorised by the State Government, with up to six months, or fine, or both. Sub-section (2) punishes publishing any offer to pay money, deliver goods, or do or not do anything for anyone's benefit depending on the draw of a ticket, lot, number or figure in such an unauthorised lottery, with a fine up to ₹5,000. Government-run and government-authorised lotteries are outside the section.",
+    "ingredients": [
+      "(1) Keeping an office or place for drawing a lottery",
+      "(1) The lottery is not a State lottery nor authorised by the State Government",
+      "(2) Publishing a proposal to pay money, deliver goods, or do or forbear from anything, dependent on the draw in such a lottery"
+    ],
+    "punishment": "(1) Imprisonment of either description up to 6 months, or fine, or both. (2) Fine up to ₹5,000.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "294A IPC",
+      "changeNote": "Re-enacts s.294A IPC; the fine under sub-s. (2) is raised to ₹5,000."
+    },
+    "illustrations": [
+      "A man runs a back-room 'lucky number' draw every evening, selling tickets to labourers, without any State Government authorisation. He is liable under s.297(1); printing handbills announcing prizes for the draw is an offence under s.297(2)."
+    ],
+    "termRefs": [
+      "lottery"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.297 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  }
+]

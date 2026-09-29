@@ -45,7 +45,8 @@
       "s-203",
       "s-206",
       "s-261",
-      "s-267"
+      "s-267",
+      "s-293"
     ]
   },
   {
@@ -301,7 +302,8 @@
       "s-260",
       "s-261",
       "s-264",
-      "s-267"
+      "s-267",
+      "s-293"
     ]
   },
   {
@@ -346,7 +348,15 @@
       "s-46",
       "s-150",
       "s-3",
-      "s-187"
+      "s-187",
+      "s-270",
+      "s-285",
+      "s-286",
+      "s-287",
+      "s-288",
+      "s-289",
+      "s-290",
+      "s-291"
     ]
   },
   {
@@ -355,7 +365,8 @@
     "meaningEn": "\"Animal\" means any living creature other than a human being.",
     "meaningHi": "जीव-जंतु — मनुष्य के अतिरिक्त कोई भी जीवित प्राणी।",
     "relatedSections": [
-      "s-2"
+      "s-2",
+      "s-291"
     ]
   },
   {
@@ -378,7 +389,8 @@
       "s-137",
       "s-139",
       "s-143",
-      "s-144"
+      "s-144",
+      "s-295"
     ]
   },
   {
@@ -439,7 +451,10 @@
       "s-225",
       "s-232",
       "s-248",
-      "s-256"
+      "s-256",
+      "s-270",
+      "s-281",
+      "s-285"
     ]
   },
   {
@@ -478,7 +493,10 @@
     "relatedSections": [
       "s-2",
       "s-57",
-      "s-194"
+      "s-194",
+      "s-270",
+      "s-279",
+      "s-296"
     ]
   },
   {
@@ -500,7 +518,11 @@
       "s-239",
       "s-240",
       "s-249",
-      "s-254"
+      "s-254",
+      "s-271",
+      "s-272",
+      "s-275",
+      "s-294"
     ]
   },
   {
@@ -517,7 +539,8 @@
       "s-119",
       "s-150",
       "s-3",
-      "s-192"
+      "s-192",
+      "s-270"
     ]
   },
   {
@@ -539,7 +562,9 @@
     "meaningEn": "\"Vessel\" means anything made for the conveyance by water of human beings or of property.",
     "meaningHi": "जलयान — जल के द्वारा मनुष्यों या संपत्ति के परिवहन के लिए बनी कोई भी वस्तु।",
     "relatedSections": [
-      "s-2"
+      "s-2",
+      "s-282",
+      "s-284"
     ]
   },
   {
@@ -555,7 +580,9 @@
       "s-126",
       "s-156",
       "s-171",
-      "s-221"
+      "s-221",
+      "s-279",
+      "s-280"
     ]
   },
   {
@@ -582,7 +609,8 @@
     "meaningEn": "\"Government\" means the Central Government or a State Government.",
     "meaningHi": "सरकार — इसका अर्थ केंद्र सरकार या राज्य सरकार है।",
     "relatedSections": [
-      "s-2"
+      "s-2",
+      "s-273"
     ]
   },
   {
@@ -1110,7 +1138,15 @@
     "meaningHi": "उतावलापन या उपेक्षापूर्ण कार्य — उतावला कार्य जोखिम जानते हुए इस आशा में किया जाता है कि कुछ नहीं होगा; उपेक्षापूर्ण कार्य वह है जिसमें उचित व्यक्ति जैसी सावधानी न बरती जाए। इस प्रकार, आपराधिक मानव वध के बिना, मृत्यु कारित करना धारा 106 में आता है।",
     "relatedSections": [
       "s-106",
-      "s-125"
+      "s-125",
+      "s-271",
+      "s-281",
+      "s-282",
+      "s-284",
+      "s-286",
+      "s-287",
+      "s-288",
+      "s-289"
     ]
   },
   {
@@ -1194,7 +1230,13 @@
       "s-121",
       "s-122",
       "s-123",
-      "s-125"
+      "s-125",
+      "s-281",
+      "s-282",
+      "s-286",
+      "s-287",
+      "s-288",
+      "s-289"
     ]
   },
   {
@@ -1212,7 +1254,8 @@
       "s-122",
       "s-124",
       "s-125",
-      "s-140"
+      "s-140",
+      "s-291"
     ]
   },
   {
@@ -1741,7 +1784,8 @@
       "s-207",
       "s-210",
       "s-228",
-      "s-241"
+      "s-241",
+      "s-294"
     ]
   },
   {
@@ -1938,6 +1982,70 @@
     "meaningHi": "असेसर (निर्धारक) — वह सामान्य व्यक्ति जो किसी मामले के निर्णय में सहायता के लिए न्यायाधीश के साथ बैठता है। विधिक रूप से हकदार न होते हुए स्वयं को असेसर के रूप में नामित या शपथित कराना धारा 268 में दंडनीय है।",
     "relatedSections": [
       "s-268"
+    ]
+  },
+  {
+    "id": "public-nuisance",
+    "term": "Public nuisance",
+    "meaningEn": "An act or illegal omission that causes common injury, danger or annoyance to the public or to people living or occupying property nearby, or that necessarily causes injury, obstruction, danger or annoyance to people using a public right (s.270). The harm must be common to the public; convenience or advantage is no excuse. Punished under s.292 (and s.293 if continued after an injunction).",
+    "meaningHi": "लोक न्यूसेंस (लोक उपताप) — ऐसा कार्य या अवैध लोप जो जनता को या आस-पास रहने वालों को सामान्य क्षति, संकट या क्षोभ कारित करे, या किसी लोक अधिकार का उपयोग करने वालों को आवश्यक रूप से क्षति, बाधा, संकट या क्षोभ कारित करे (धारा 270)। इससे होने वाली सुविधा या लाभ कोई बचाव नहीं है।",
+    "relatedSections": [
+      "s-270",
+      "s-292",
+      "s-293"
+    ]
+  },
+  {
+    "id": "noxious",
+    "term": "Noxious",
+    "meaningEn": "Harmful or injurious to health. Food or drink is 'noxious' under ss.274-275 if consuming it is likely to harm health; a drug is made noxious under s.276 if it becomes harmful to use. Air made noxious to health is covered by s.280.",
+    "meaningHi": "अपायकर (हानिकारक) — स्वास्थ्य के लिए हानिकारक। धाराएँ 274-275 में खाद्य या पेय तब अपायकर है जब उसका सेवन स्वास्थ्य को हानि पहुँचा सकता हो; धारा 280 में स्वास्थ्य के लिए अपायकर वायुमंडल आता है।",
+    "relatedSections": [
+      "s-274",
+      "s-275",
+      "s-276",
+      "s-277",
+      "s-280"
+    ]
+  },
+  {
+    "id": "adulteration",
+    "term": "Adulteration",
+    "meaningEn": "Mixing a substance into, or tampering with, an article so that it is no longer pure or genuine. For food and drink (s.274), the adulteration must make it noxious; for drugs (s.276), it is enough that it lessens the drug's efficacy or changes its operation.",
+    "meaningHi": "अपमिश्रण (मिलावट) — किसी वस्तु में कुछ मिलाना या उसमें छेड़छाड़ करना जिससे वह शुद्ध या असली न रहे। खाद्य या पेय (धारा 274) में मिलावट से उसका अपायकर होना आवश्यक है; औषधि (धारा 276) में उसकी प्रभावकारिता कम होना या क्रिया बदलना पर्याप्त है।",
+    "relatedSections": [
+      "s-274",
+      "s-276",
+      "s-277"
+    ]
+  },
+  {
+    "id": "quarantine",
+    "term": "Quarantine",
+    "meaningEn": "Isolation of a person, place or mode of transport, and restriction of contact with it, to prevent the spread of an infectious disease. Knowingly disobeying a Government quarantine rule is punished by s.273.",
+    "meaningHi": "संगरोध (क्वारंटीन) — संक्रामक रोग के प्रसार को रोकने के लिए किसी व्यक्ति, स्थान या परिवहन साधन को अलग रखना और उससे संपर्क पर रोक लगाना। सरकार के संगरोध नियम की जानबूझकर अवज्ञा धारा 273 में दंडनीय है।",
+    "relatedSections": [
+      "s-273"
+    ]
+  },
+  {
+    "id": "obscene",
+    "term": "Obscene",
+    "meaningEn": "Material — including any content displayed in electronic form — that is lascivious, appeals to prurient (lustful) interest, or, taken as a whole, tends to deprave and corrupt people likely to read, see or hear it (s.294(1)). Dealing in it is punished by ss.294-295, subject to exceptions for the public good, religious use, and monuments and temples.",
+    "meaningHi": "अश्लील — कोई सामग्री, जिसमें इलेक्ट्रॉनिक रूप में प्रदर्शित सामग्री भी शामिल है, जो कामुक हो, कामुक रुचि को आकर्षित करे, या समग्र रूप से देखने-पढ़ने-सुनने वालों को भ्रष्ट और दूषित करने की प्रवृत्ति रखे (धारा 294(1))।",
+    "relatedSections": [
+      "s-294",
+      "s-295",
+      "s-296"
+    ]
+  },
+  {
+    "id": "lottery",
+    "term": "Lottery",
+    "meaningEn": "A scheme in which prizes are distributed by chance, usually by drawing tickets, lots or numbers. Keeping an office for a lottery that is neither run nor authorised by the State Government, and publishing offers connected with it, are punished by s.297.",
+    "meaningHi": "लॉटरी — ऐसी योजना जिसमें पुरस्कार संयोग से, प्रायः टिकट, पर्ची या अंक निकालकर, बाँटे जाते हैं। ऐसी लॉटरी का कार्यालय रखना जो न तो राज्य की है और न राज्य सरकार द्वारा प्राधिकृत, धारा 297 में दंडनीय है।",
+    "relatedSections": [
+      "s-297"
     ]
   }
 ]
