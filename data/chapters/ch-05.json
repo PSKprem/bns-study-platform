@@ -1,0 +1,148 @@
+{
+  "id": "ch-05",
+  "number": "V",
+  "title": "Of Offences Against Woman and Child",
+  "sectionRange": "63-99",
+  "shortDescription": "A new chapter that brings together sexual offences, assault on women, offences relating to marriage, causing miscarriage, and offences against children.",
+  "subHeadings": [
+    { "id": "sexual-offences", "label": "Of sexual offences", "sectionIds": ["s-63", "s-64", "s-65", "s-66", "s-67", "s-68", "s-69", "s-70", "s-71", "s-72", "s-73"] },
+    { "id": "criminal-force-woman", "label": "Of criminal force and assault against woman", "sectionIds": ["s-74", "s-75", "s-76", "s-77", "s-78", "s-79"] },
+    { "id": "marriage", "label": "Of offences relating to marriage", "sectionIds": ["s-80", "s-81", "s-82", "s-83", "s-84", "s-85", "s-86", "s-87"] },
+    { "id": "miscarriage", "label": "Of causing miscarriage, etc.", "sectionIds": ["s-88", "s-89", "s-90", "s-91", "s-92"] },
+    { "id": "against-child", "label": "Of offences against child", "sectionIds": ["s-93", "s-94", "s-95", "s-96", "s-97", "s-98", "s-99"] }
+  ],
+  "summary": "Chapter V has no counterpart in the IPC as a single chapter. The BNS takes offences that were scattered across the IPC (mainly ss.312-318, 354-354D, 366-366A, 369-373, 375-376E, 493-498A and 509) and places them together at the start of the specific offences, ahead of offences affecting the human body. The Gazette divides it into five parts: sexual offences (ss.63-73), criminal force and assault against woman (ss.74-79), offences relating to marriage (ss.80-87), causing miscarriage (ss.88-92) and offences against child (ss.93-99).\n\nSection 63 defines rape. It covers four kinds of act by a man on a woman — penetration by the penis, insertion of an object or other body part, manipulation to cause penetration, and application of the mouth — done in one of seven circumstances, including without her consent and whenever she is under eighteen. Consent must be an unequivocal voluntary agreement, and not resisting physically is not consent. Sexual acts by a man with his own wife are not rape unless she is under eighteen. Sections 64 to 66 set the punishments: a minimum of ten years for rape and for rape in aggravated situations (by police, public servants, custodians, relatives, persons in authority and others), a minimum of twenty years for rape of a girl under sixteen, death as an option for a girl under twelve, and twenty years to death where rape causes death or a persistent vegetative state. Section 70 deems every member of a group to have committed gang rape, and allows death for any victim under eighteen; s.71 makes a repeat offender liable to life for the rest of natural life, or death.\n\nSections 67 to 69 cover sexual intercourse that does not amount to rape: by a husband with his separated wife without consent (s.67), by a person abusing authority or a fiduciary position (s.68), and — new in the BNS — by deceitful means or a false promise of marriage (s.69). Sections 72 and 73 protect the victim's identity and the privacy of court proceedings.\n\nSections 74 to 79 protect a woman's bodily integrity, dignity and privacy: assault to outrage modesty (s.74), sexual harassment (s.75), assault to disrobe (s.76), voyeurism (s.77), stalking (s.78) and words or gestures to insult modesty (s.79). Voyeurism and stalking carry higher punishment on a second conviction.\n\nThe marriage offences include dowry death, where the husband or his relative is deemed to have caused a woman's death within seven years of marriage if she was treated with cruelty for dowry soon before it (s.80); deceitfully inducing belief of a lawful marriage (s.81); bigamy (s.82); a fraudulent marriage ceremony (s.83); enticing away a married woman (s.84); cruelty by the husband or his relatives (ss.85-86); and kidnapping a woman to compel marriage (s.87). Adultery (s.497 IPC) and unnatural offences (s.377 IPC) have no equivalent in the BNS.\n\nSections 88 to 92 punish causing miscarriage, with heavier punishment where the woman is quick with child, where she does not consent, or where she dies, and also acts that prevent a child being born alive or kill a quick unborn child. Sections 93 to 99 protect children: abandoning a child under twelve, concealing a birth, hiring a child to commit an offence (new), procuring a child for illicit intercourse, kidnapping a child under ten to steal from it, and selling or buying a child for prostitution. Most offences in the chapter are cognizable and non-bailable and triable by a Court of Session; the main exceptions are the marriage offences in ss.81-84, which are non-cognizable, and causing miscarriage under s.88.",
+  "keyPoints": [
+    {
+      "point": "Section 63 — Rape (definition)",
+      "subPoints": [
+        "A man, a woman, and one of the acts in clauses (a)-(d)",
+        "Seven circumstances, e.g. against her will, without consent, consent by fear or deception, under 18, unable to communicate consent",
+        "Consent = unequivocal voluntary agreement; lack of physical resistance is not consent",
+        "Exceptions: medical procedure; own wife not under 18"
+      ]
+    },
+    {
+      "point": "Sections 64-66, 70-71 — Punishment for rape",
+      "subPoints": [
+        "s.64(1) — RI 10 years to life + fine",
+        "s.64(2) — aggravated (police, public servant, custodian, relative, authority, etc.): RI 10 years to life for natural life + fine",
+        "s.65 — under 16: RI 20 years to life (natural life); under 12: same, or death",
+        "s.66 — death or persistent vegetative state: RI 20 years to life (natural life), or death",
+        "s.70 — gang rape: RI 20 years to life (natural life); under 18: life (natural life) or death",
+        "s.71 — repeat offender: life (natural life) or death"
+      ]
+    },
+    {
+      "point": "Sections 67-69 — Intercourse not amounting to rape",
+      "subPoints": [
+        "s.67 — husband with separated wife without consent: 2-7 years; cognizable only on the victim's complaint",
+        "s.68 — person in authority abusing position: RI 5-10 years",
+        "s.69 — NEW: deceitful means or false promise to marry: up to 10 years"
+      ]
+    },
+    {
+      "point": "Sections 72-73 — Protecting the victim",
+      "subPoints": [
+        "s.72 — disclosing identity of victim of ss.64-71: up to 2 years + fine",
+        "Allowed only for police investigation, with the victim's written authorisation, or next of kin's authorisation to a recognised welfare body",
+        "s.73 — publishing court proceedings without permission; HC/SC judgments excluded"
+      ]
+    },
+    {
+      "point": "Sections 74-79 — Assault and insult to women",
+      "subPoints": [
+        "s.74 — outraging modesty: 1-5 years",
+        "s.75 — sexual harassment: RI up to 3 years; remarks up to 1 year",
+        "s.76 — intent to disrobe: 3-7 years",
+        "s.77 — voyeurism: 1-3 years; repeat 3-7 years",
+        "s.78 — stalking (physical or electronic): up to 3 years; repeat up to 5 years",
+        "s.79 — words or gestures insulting modesty: SI up to 3 years; compoundable by the woman with court's permission"
+      ]
+    },
+    {
+      "point": "Sections 80-87 — Offences relating to marriage",
+      "subPoints": [
+        "s.80 — dowry death: death within 7 years of marriage + cruelty for dowry soon before; 7 years to life",
+        "s.81 — deceit about a lawful marriage: up to 10 years",
+        "s.82 — bigamy: up to 7 years; with concealment up to 10 years",
+        "s.83 — fraudulent marriage ceremony: up to 7 years",
+        "s.84 — enticing away a married woman: up to 2 years; compoundable by husband and woman",
+        "ss.85-86 — cruelty by husband or relatives: up to 3 years + fine",
+        "s.87 — kidnapping to compel marriage: up to 10 years"
+      ]
+    },
+    {
+      "point": "Sections 88-92 — Miscarriage and unborn child",
+      "subPoints": [
+        "s.88 — causing miscarriage: up to 3 years; quick with child up to 7 years",
+        "s.89 — without her consent: life or up to 10 years",
+        "s.90 — death caused: up to 10 years; without consent, life",
+        "s.91 — preventing live birth or causing death after birth: up to 10 years",
+        "s.92 — death of quick unborn child by an act amounting to culpable homicide: up to 10 years"
+      ]
+    },
+    {
+      "point": "Sections 93-99 — Offences against child",
+      "subPoints": [
+        "s.93 — abandoning child under 12: up to 7 years",
+        "s.94 — concealing birth by secret disposal: up to 2 years",
+        "s.95 — NEW: hiring a child to commit an offence: 3-10 years, plus the offence's punishment",
+        "s.96 — procuring a child: up to 10 years",
+        "s.97 — kidnapping child under 10 to steal: up to 7 years",
+        "s.98 — selling child for prostitution: up to 10 years",
+        "s.99 — buying child for prostitution: 7-14 years"
+      ]
+    }
+  ],
+  "fastRevision": [
+    "Chapter V is new: offences against woman and child, ss.63-99, in five Gazette sub-headings.",
+    "s.63 — rape: a man, one of four acts, seven circumstances.",
+    "s.63 — any sexual act with a girl under 18 is rape, with or without consent.",
+    "s.63 Expl. 2 — consent = unequivocal voluntary agreement; not resisting is not consent.",
+    "s.63 Exception 2 — marital exception applies only if the wife is not under 18.",
+    "s.64(1) — rape: RI 10 years to life + fine.",
+    "s.64(2) — aggravated rape: RI 10 years to life for the remainder of natural life + fine.",
+    "s.65(1) — rape of girl under 16: RI minimum 20 years.",
+    "s.65(2) — rape of girl under 12: RI minimum 20 years, or death.",
+    "ss.65 and 70 — fine must meet medical expenses and rehabilitation and is paid to the victim.",
+    "s.66 — rape causing death or persistent vegetative state: RI 20 years to life, or death.",
+    "s.67 — husband with separated wife without consent: 2-7 years; cognizable only on her complaint; bailable.",
+    "s.68 — person in authority or fiduciary relationship: RI 5-10 years.",
+    "s.69 — NEW: sexual intercourse by deceitful means or false promise to marry: up to 10 years.",
+    "s.69 — deceitful means include false promise of a job or promotion, and marrying by suppressing identity.",
+    "s.70(1) — gang rape: each member deemed guilty; RI minimum 20 years.",
+    "s.70(2) — gang rape of a woman under 18: life (natural life) or death.",
+    "s.71 — repeat offender under ss.64, 65, 66, 70: life (natural life) or death.",
+    "s.72 — disclosing identity of victim: up to 2 years; cognizable, bailable, any Magistrate.",
+    "s.73 — publishing court proceedings without permission; HC and SC judgments may be published.",
+    "s.74 — outraging modesty: 1-5 years; non-bailable.",
+    "s.75 — sexual harassment: four acts; RI up to 3 years; remarks up to 1 year.",
+    "s.76 — assault with intent to disrobe: 3-7 years.",
+    "s.77 — voyeurism: 1-3 years; second conviction 3-7 years.",
+    "s.77 Expl. 2 — consent to capture is not consent to share.",
+    "s.78 — stalking includes monitoring a woman's internet or e-mail use.",
+    "s.78 — stalking: up to 3 years; second conviction up to 5 years (non-bailable).",
+    "s.79 — insulting modesty by words or gestures: SI up to 3 years + fine.",
+    "s.80 — dowry death: within 7 years of marriage, cruelty soon before death for dowry.",
+    "s.80 — husband or relative deemed to have caused death; 7 years to life.",
+    "s.81 — deceitfully inducing belief of lawful marriage: up to 10 years; non-cognizable.",
+    "s.82(1) — bigamy: up to 7 years; s.82(2) with concealment: up to 10 years.",
+    "s.82 Exception — spouse absent and unheard of for 7 years, and facts disclosed.",
+    "s.83 — fraudulent marriage ceremony: up to 7 years.",
+    "s.84 — enticing away a married woman: up to 2 years; compoundable by the husband and the woman.",
+    "s.85 — cruelty by husband or relative: up to 3 years + fine; s.86 defines cruelty.",
+    "s.87 — kidnapping a woman to compel marriage: up to 10 years.",
+    "s.88 — causing miscarriage: up to 3 years; quick with child up to 7 years.",
+    "s.89 — miscarriage without consent: life or up to 10 years.",
+    "s.90 — death caused by act intended to cause miscarriage: up to 10 years; without consent, life.",
+    "s.93 — abandoning a child under 12: up to 7 years.",
+    "s.95 — NEW: hiring a child to commit an offence: 3-10 years.",
+    "s.97 — kidnapping a child under 10 to steal from its person: up to 7 years.",
+    "s.99 — buying a child for prostitution: 7-14 years.",
+    "No BNS equivalent: adultery (s.497 IPC) and unnatural offences (s.377 IPC).",
+    "IPC mapping: s.63 = 375; s.64 = 376; s.70 = 376D; s.74-78 = 354-354D; s.79 = 509; s.80 = 304B; s.85 = 498A."
+  ],
+  "mindMap": "# Ch. V — Offences Against Woman and Child\n## Of sexual offences (ss.63-73)\n- Rape defined (s.63)\n  - 4 acts, 7 circumstances\n  - Under 18 = rape\n  - Consent = unequivocal agreement\n- Punishment\n  - 10 yrs to life (s.64)\n  - Under 16 / under 12 (s.65)\n  - Death or PVS (s.66)\n  - Gang rape (s.70)\n  - Repeat offender (s.71)\n- Not amounting to rape\n  - Separated wife (s.67)\n  - Person in authority (s.68)\n  - Deceit / false promise — NEW (s.69)\n- Protecting victim\n  - Identity (s.72)\n  - Court proceedings (s.73)\n## Assault against woman (ss.74-79)\n- Outrage modesty (s.74)\n- Sexual harassment (s.75)\n- Disrobe (s.76)\n- Voyeurism (s.77)\n- Stalking (s.78)\n- Insult modesty (s.79)\n## Relating to marriage (ss.80-87)\n- Dowry death (s.80)\n- Deceitful marriage (s.81)\n- Bigamy (s.82)\n- Fraudulent ceremony (s.83)\n- Enticing married woman (s.84)\n- Cruelty (ss.85-86)\n- Kidnap to compel marriage (s.87)\n## Causing miscarriage (ss.88-92)\n- Miscarriage (s.88)\n- Without consent (s.89)\n- Death caused (s.90)\n- Prevent live birth (s.91)\n- Quick unborn child (s.92)\n## Offences against child (ss.93-99)\n- Abandonment under 12 (s.93)\n- Concealing birth (s.94)\n- Hiring child — NEW (s.95)\n- Procuration (s.96)\n- Kidnap under 10 to steal (s.97)\n- Selling / buying for prostitution (ss.98-99)",
+  "lastVerified": "2026-09-29"
+}

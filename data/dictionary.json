@@ -16,7 +16,11 @@
     "relatedSections": [
       "s-4",
       "s-7",
-      "s-11"
+      "s-11",
+      "s-64",
+      "s-65",
+      "s-68",
+      "s-75"
     ]
   },
   {
@@ -26,7 +30,8 @@
     "meaningHi": "साधारण कारावास — बिना किसी कठोर श्रम के भोगा जाने वाला कारावास।",
     "relatedSections": [
       "s-4",
-      "s-7"
+      "s-7",
+      "s-79"
     ]
   },
   {
@@ -35,7 +40,8 @@
     "meaningEn": "A punishment provision that allows the imprisonment to be either rigorous or simple, at the court's direction.",
     "meaningHi": "किसी भी प्रकार का कारावास — ऐसा प्रावधान जिसमें न्यायालय के निर्देश पर कारावास कठोर या साधारण, कोई भी हो सकता है।",
     "relatedSections": [
-      "s-7"
+      "s-7",
+      "s-67"
     ]
   },
   {
@@ -45,7 +51,13 @@
     "meaningHi": "आजीवन कारावास — धारा 4(ख) में सूचीबद्ध दंड। सामान्यतः इसका अर्थ दोषी के शेष प्राकृतिक जीवन तक का कारावास है; BNS की कुछ धाराएँ यह स्पष्ट रूप से कहती हैं। केवल अवधि के अंश की गणना के लिए धारा 6 इसे बीस वर्ष मानती है, जब तक अन्यथा उपबंधित न हो।",
     "relatedSections": [
       "s-4",
-      "s-6"
+      "s-6",
+      "s-64",
+      "s-65",
+      "s-66",
+      "s-70",
+      "s-71",
+      "s-80"
     ]
   },
   {
@@ -109,7 +121,8 @@
     "meaningEn": "An earlier conviction that can trigger a heavier sentence for a later, similar offence.",
     "meaningHi": "पूर्व दोषसिद्धि — पहले हुई दोषसिद्धि जो बाद के समान अपराध के लिए भारी दंड का आधार बन सकती है।",
     "relatedSections": [
-      "s-13"
+      "s-13",
+      "s-71"
     ]
   },
   {
@@ -138,7 +151,9 @@
     "meaningEn": "Doing something with the intention of causing wrongful gain to one person or wrongful loss to another.",
     "meaningHi": "बेईमानी से — किसी को अनुचित लाभ या किसी अन्य को अनुचित हानि पहुँचाने के आशय से कोई कार्य करना।",
     "relatedSections": [
-      "s-2"
+      "s-2",
+      "s-83",
+      "s-97"
     ]
   },
   {
@@ -147,7 +162,8 @@
     "meaningEn": "Doing anything with the intention to defraud, but not otherwise (s.2(9)). Courts have read 'defraud' as involving deceit together with an intention to cause some injury to another.",
     "meaningHi": "कपटपूर्वक — धोखा देने (कपट करने) के आशय से कोई भी कार्य करना, अन्यथा नहीं (धारा 2(9))। न्यायालयों ने 'कपट' को छल और किसी अन्य को क्षति पहुँचाने के आशय से युक्त माना है।",
     "relatedSections": [
-      "s-2"
+      "s-2",
+      "s-83"
     ]
   },
   {
@@ -167,7 +183,10 @@
       "s-27",
       "s-30",
       "s-31",
-      "s-37"
+      "s-37",
+      "s-72",
+      "s-88",
+      "s-91"
     ]
   },
   {
@@ -188,7 +207,9 @@
       "s-2",
       "s-37",
       "s-56",
-      "s-59"
+      "s-59",
+      "s-64",
+      "s-68"
     ]
   },
   {
@@ -198,7 +219,8 @@
     "meaningHi": "चल संपत्ति — भूमि तथा पृथ्वी से जुड़ी या पृथ्वी से जुड़ी किसी वस्तु से स्थायी रूप से बँधी वस्तुओं को छोड़कर, हर प्रकार की संपत्ति।",
     "relatedSections": [
       "s-2",
-      "s-35"
+      "s-35",
+      "s-97"
     ]
   },
   {
@@ -245,7 +267,16 @@
     "meaningEn": "\"Child\" means any person below the age of eighteen years.",
     "meaningHi": "बालक — अठारह वर्ष से कम आयु का कोई भी व्यक्ति।",
     "relatedSections": [
-      "s-2"
+      "s-2",
+      "s-72",
+      "s-91",
+      "s-93",
+      "s-94",
+      "s-95",
+      "s-96",
+      "s-97",
+      "s-98",
+      "s-99"
     ]
   },
   {
@@ -264,7 +295,8 @@
     "meaningHi": "न्यायालय — ऐसा न्यायाधीश जो विधि द्वारा अकेले न्यायिक रूप से कार्य करने को सशक्त हो, या न्यायाधीशों का ऐसा निकाय जो सामूहिक रूप से न्यायिक कार्य करने को सशक्त हो, जब वह न्यायिक रूप से कार्य कर रहा हो।",
     "relatedSections": [
       "s-2",
-      "s-16"
+      "s-16",
+      "s-73"
     ]
   },
   {
@@ -329,7 +361,8 @@
     "meaningEn": "A person has 'reason to believe' a thing if he has sufficient cause to believe it, but not otherwise.",
     "meaningHi": "विश्वास करने का कारण — किसी व्यक्ति को किसी बात पर 'विश्वास करने का कारण' तब है जब उसके पास उसे मानने का पर्याप्त कारण हो, अन्यथा नहीं।",
     "relatedSections": [
-      "s-2"
+      "s-2",
+      "s-84"
     ]
   },
   {
@@ -351,7 +384,8 @@
     "meaningEn": "A document which creates, extends, transfers, restricts, extinguishes or releases a legal right, or by which a person acknowledges a legal liability or that he has not a certain legal right.",
     "meaningHi": "मूल्यवान प्रतिभूति — ऐसा दस्तावेज़ जो किसी विधिक अधिकार का सृजन, विस्तार, अंतरण, निर्बंधन, विलोपन या मोचन करता हो, या जिसके द्वारा कोई व्यक्ति यह स्वीकार करे कि वह विधिक दायित्व के अधीन है या उसे कोई विधिक अधिकार प्राप्त नहीं है।",
     "relatedSections": [
-      "s-2"
+      "s-2",
+      "s-86"
     ]
   },
   {
@@ -369,7 +403,8 @@
     "meaningEn": "A person causes an effect 'voluntarily' when he causes it by means by which he intended to cause it, or by means which, at the time, he knew or had reason to believe were likely to cause it.",
     "meaningHi": "स्वेच्छया — कोई व्यक्ति किसी परिणाम को 'स्वेच्छया' तब कारित करता है जब वह उसे ऐसे साधनों से कारित करे जिनसे उसका आशय उसे कारित करने का था, या ऐसे साधनों से जिनके बारे में उस समय वह जानता था या विश्वास करने का कारण रखता था कि उनसे वह परिणाम होने की संभावना है।",
     "relatedSections": [
-      "s-2"
+      "s-2",
+      "s-88"
     ]
   },
   {
@@ -432,7 +467,8 @@
     "meaningEn": "A male human being of any age (s.2(19)).",
     "meaningHi": "पुरुष — किसी भी आयु का नर मानव (धारा 2(19))।",
     "relatedSections": [
-      "s-2"
+      "s-2",
+      "s-63"
     ]
   },
   {
@@ -441,7 +477,17 @@
     "meaningEn": "A female human being of any age (s.2(35)).",
     "meaningHi": "स्त्री — किसी भी आयु की नारी मानव (धारा 2(35))।",
     "relatedSections": [
-      "s-2"
+      "s-2",
+      "s-63",
+      "s-69",
+      "s-74",
+      "s-75",
+      "s-76",
+      "s-77",
+      "s-78",
+      "s-79",
+      "s-81",
+      "s-87"
     ]
   },
   {
@@ -551,7 +597,11 @@
       "s-27",
       "s-28",
       "s-29",
-      "s-30"
+      "s-30",
+      "s-63",
+      "s-67",
+      "s-89",
+      "s-90"
     ]
   },
   {
@@ -604,7 +654,9 @@
       "s-49",
       "s-55",
       "s-56",
-      "s-57"
+      "s-57",
+      "s-76",
+      "s-95"
     ]
   },
   {
@@ -657,6 +709,164 @@
       "s-58",
       "s-59",
       "s-60"
+    ]
+  },
+  {
+    "id": "rape",
+    "term": "Rape",
+    "meaningEn": "Any of the sexual acts in s.63(a)-(d) done by a man to a woman in one of seven circumstances, such as against her will, without her consent, or when she is under eighteen.",
+    "meaningHi": "बलात्संग — धारा 63(क)-(घ) में बताए गए यौन कृत्यों में से कोई कृत्य, जो पुरुष द्वारा स्त्री के साथ सात परिस्थितियों में से किसी में किया जाए, जैसे उसकी इच्छा के विरुद्ध, उसकी सहमति के बिना, या जब वह अठारह वर्ष से कम आयु की हो।",
+    "relatedSections": [
+      "s-63",
+      "s-64",
+      "s-65",
+      "s-66",
+      "s-70"
+    ]
+  },
+  {
+    "id": "gang-rape",
+    "term": "Gang rape",
+    "meaningEn": "Rape of a woman by one or more persons forming a group or acting in furtherance of a common intention; each of them is deemed to have committed rape (s.70).",
+    "meaningHi": "सामूहिक बलात्संग — किसी समूह के रूप में या सामान्य आशय को अग्रसर करने में एक या अधिक व्यक्तियों द्वारा स्त्री से बलात्संग; उनमें से प्रत्येक को बलात्संग का दोषी माना जाता है (धारा 70)।",
+    "relatedSections": [
+      "s-70"
+    ]
+  },
+  {
+    "id": "persistent-vegetative-state",
+    "term": "Persistent vegetative state",
+    "meaningEn": "A lasting condition in which a person is awake but shows no awareness of self or surroundings. Causing it during rape attracts s.66.",
+    "meaningHi": "लगातार विकृतशील दशा — ऐसी स्थायी अवस्था जिसमें व्यक्ति जागा हुआ प्रतीत होता है परंतु उसे अपने या आसपास का कोई भान नहीं होता। बलात्संग के दौरान ऐसी दशा कारित करने पर धारा 66 लागू होती है।",
+    "relatedSections": [
+      "s-66"
+    ]
+  },
+  {
+    "id": "fiduciary-relationship",
+    "term": "Fiduciary relationship",
+    "meaningEn": "A relationship of trust in which one person is expected to act in the other's interest, such as guardian and ward or doctor and patient. Abusing it to obtain sexual intercourse is punished by s.68.",
+    "meaningHi": "वैश्वासिक संबंध — विश्वास का ऐसा संबंध जिसमें एक व्यक्ति से दूसरे के हित में कार्य करने की अपेक्षा हो, जैसे संरक्षक और आश्रित, या चिकित्सक और रोगी। इसका दुरुपयोग कर यौन संबंध बनाना धारा 68 में दंडनीय है।",
+    "relatedSections": [
+      "s-68"
+    ]
+  },
+  {
+    "id": "deceitful-means",
+    "term": "Deceitful means",
+    "meaningEn": "Under s.69, includes inducement for, or a false promise of, employment or promotion, and marrying by suppressing one's identity.",
+    "meaningHi": "प्रवंचनापूर्ण साधन — धारा 69 के अंतर्गत इसमें नौकरी या पदोन्नति का प्रलोभन या झूठा वादा, और अपनी पहचान छिपाकर विवाह करना शामिल है।",
+    "relatedSections": [
+      "s-69"
+    ]
+  },
+  {
+    "id": "modesty",
+    "term": "Modesty (of a woman)",
+    "meaningEn": "A woman's sense of decency and dignity attached to her sex. Outraging it by assault (s.74) or insulting it by words or gestures (s.79) is an offence.",
+    "meaningHi": "लज्जा (स्त्री की) — स्त्री की उसके स्त्रीत्व से जुड़ी शालीनता और गरिमा की भावना। हमला करके इसे भंग करना (धारा 74) या शब्दों या इशारों से इसका अनादर करना (धारा 79) अपराध है।",
+    "relatedSections": [
+      "s-74",
+      "s-79"
+    ]
+  },
+  {
+    "id": "sexual-harassment",
+    "term": "Sexual harassment",
+    "meaningEn": "By a man: unwelcome physical contact and explicit sexual advances, demanding sexual favours, showing pornography against a woman's will, or making sexually coloured remarks (s.75).",
+    "meaningHi": "लैंगिक उत्पीड़न — पुरुष द्वारा अवांछित शारीरिक संपर्क और स्पष्ट यौन प्रस्ताव, यौन अनुग्रह की मांग, स्त्री की इच्छा के विरुद्ध अश्लील सामग्री दिखाना, या यौन रंग वाली टिप्पणियां करना (धारा 75)।",
+    "relatedSections": [
+      "s-75"
+    ]
+  },
+  {
+    "id": "voyeurism",
+    "term": "Voyeurism",
+    "meaningEn": "Watching or capturing the image of a woman engaged in a private act where she expects not to be observed, or spreading such an image (s.77).",
+    "meaningHi": "दृश्यरतिकता — किसी स्त्री को निजी कार्य करते समय, जब उसे न देखे जाने की अपेक्षा हो, देखना या उसकी छवि लेना, या ऐसी छवि फैलाना (धारा 77)।",
+    "relatedSections": [
+      "s-77"
+    ]
+  },
+  {
+    "id": "stalking",
+    "term": "Stalking",
+    "meaningEn": "By a man: repeatedly following and contacting a woman despite her clear disinterest, or monitoring her internet, e-mail or electronic communication (s.78).",
+    "meaningHi": "पीछा करना — पुरुष द्वारा स्त्री की स्पष्ट अरुचि के बावजूद बार-बार उसका पीछा करना और उससे संपर्क करना, या उसके इंटरनेट, ई-मेल या इलेक्ट्रॉनिक संचार की निगरानी करना (धारा 78)।",
+    "relatedSections": [
+      "s-78"
+    ]
+  },
+  {
+    "id": "dowry",
+    "term": "Dowry",
+    "meaningEn": "Property or valuable security given or agreed to be given in connection with a marriage, as defined in s.2 of the Dowry Prohibition Act, 1961 (adopted by s.80).",
+    "meaningHi": "दहेज — विवाह के संबंध में दी गई या देने के लिए सहमत संपत्ति या मूल्यवान प्रतिभूति, जैसा दहेज प्रतिषेध अधिनियम, 1961 की धारा 2 में परिभाषित है (धारा 80 द्वारा अपनाया गया)।",
+    "relatedSections": [
+      "s-80"
+    ]
+  },
+  {
+    "id": "dowry-death",
+    "term": "Dowry death",
+    "meaningEn": "Death of a woman by burns, injury or in abnormal circumstances within seven years of marriage, where soon before death she was treated with cruelty for dowry by her husband or his relative; they are deemed to have caused it (s.80).",
+    "meaningHi": "दहेज मृत्यु — विवाह के सात वर्ष के भीतर जलने, शारीरिक क्षति या असामान्य परिस्थितियों में स्त्री की मृत्यु, जहां मृत्यु से कुछ पहले पति या उसके नातेदार ने दहेज के लिए उसके साथ क्रूरता की हो; उन्हें मृत्यु कारित करने वाला माना जाता है (धारा 80)।",
+    "relatedSections": [
+      "s-80"
+    ]
+  },
+  {
+    "id": "cruelty",
+    "term": "Cruelty",
+    "meaningEn": "For s.85: wilful conduct likely to drive a woman to suicide or cause grave injury or danger to her life, limb or health, or harassment to force her or her relatives to meet an unlawful demand for property (s.86).",
+    "meaningHi": "क्रूरता — धारा 85 के लिए: ऐसा जानबूझकर किया गया आचरण जो स्त्री को आत्महत्या के लिए प्रेरित करे या उसके जीवन, अंग या स्वास्थ्य को गंभीर क्षति या खतरा पहुंचाए, या संपत्ति की अवैध मांग पूरी कराने के लिए उसे या उसके नातेदारों को तंग करना (धारा 86)।",
+    "relatedSections": [
+      "s-80",
+      "s-85",
+      "s-86"
+    ]
+  },
+  {
+    "id": "bigamy",
+    "term": "Bigamy",
+    "meaningEn": "Marrying again while a husband or wife is living, where the second marriage is void for that reason (s.82).",
+    "meaningHi": "द्विविवाह — पति या पत्नी के जीवित रहते फिर से विवाह करना, जहां इसी कारण दूसरा विवाह शून्य हो (धारा 82)।",
+    "relatedSections": [
+      "s-82"
+    ]
+  },
+  {
+    "id": "illicit-intercourse",
+    "term": "Illicit intercourse",
+    "meaningEn": "Sexual intercourse between persons not united by marriage or by a union recognised by their personal law or custom as a quasi-marital relation (s.98, Explanation 2).",
+    "meaningHi": "अयुक्त संभोग — ऐसे व्यक्तियों के बीच यौन संबंध जो विवाह द्वारा, या उनकी स्वीय विधि या रूढ़ि द्वारा अर्ध-वैवाहिक संबंध के रूप में मान्य किसी बंधन द्वारा, जुड़े न हों (धारा 98, स्पष्टीकरण 2)।",
+    "relatedSections": [
+      "s-84",
+      "s-87",
+      "s-96",
+      "s-98",
+      "s-99"
+    ]
+  },
+  {
+    "id": "miscarriage",
+    "term": "Miscarriage",
+    "meaningEn": "The premature expulsion or ending of a pregnancy. Voluntarily causing it, except in good faith to save the woman's life, is an offence (ss.88-90).",
+    "meaningHi": "गर्भपात — गर्भ का समय से पहले समाप्त होना। स्त्री के जीवन को बचाने के सद्भावपूर्ण प्रयोजन के सिवाय स्वेच्छया गर्भपात कारित करना अपराध है (धारा 88-90)।",
+    "relatedSections": [
+      "s-88",
+      "s-89",
+      "s-90"
+    ]
+  },
+  {
+    "id": "quick-with-child",
+    "term": "Quick with child",
+    "meaningEn": "The stage of pregnancy when the movement of the unborn child can be felt. Causing miscarriage at this stage carries higher punishment (s.88); causing the death of a quick unborn child is dealt with in s.92.",
+    "meaningHi": "स्पंदनगर्भा — गर्भावस्था का वह चरण जब गर्भस्थ शिशु की हलचल महसूस की जा सके। इस अवस्था में गर्भपात कारित करने पर अधिक दंड है (धारा 88); सजीव अजात शिशु की मृत्यु कारित करना धारा 92 में है।",
+    "relatedSections": [
+      "s-88",
+      "s-92"
     ]
   }
 ]
