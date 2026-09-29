@@ -8,7 +8,8 @@
       "s-4",
       "s-202",
       "s-209",
-      "s-226"
+      "s-226",
+      "s-303"
     ]
   },
   {
@@ -26,7 +27,12 @@
       "s-75",
       "s-199",
       "s-230",
-      "s-254"
+      "s-254",
+      "s-307",
+      "s-309",
+      "s-310",
+      "s-313",
+      "s-332"
     ]
   },
   {
@@ -185,7 +191,20 @@
       "s-2",
       "s-83",
       "s-97",
-      "s-246"
+      "s-246",
+      "s-303",
+      "s-308",
+      "s-314",
+      "s-315",
+      "s-316",
+      "s-317",
+      "s-318",
+      "s-320",
+      "s-321",
+      "s-322",
+      "s-323",
+      "s-328",
+      "s-334"
     ]
   },
   {
@@ -203,7 +222,12 @@
       "s-244",
       "s-245",
       "s-246",
-      "s-247"
+      "s-247",
+      "s-318",
+      "s-320",
+      "s-321",
+      "s-322",
+      "s-323"
     ]
   },
   {
@@ -230,7 +254,8 @@
       "s-101",
       "s-126",
       "s-137",
-      "s-227"
+      "s-227",
+      "s-314"
     ]
   },
   {
@@ -303,7 +328,9 @@
       "s-261",
       "s-264",
       "s-267",
-      "s-293"
+      "s-293",
+      "s-316",
+      "s-326"
     ]
   },
   {
@@ -315,7 +342,10 @@
       "s-2",
       "s-35",
       "s-97",
-      "s-252"
+      "s-252",
+      "s-303",
+      "s-304",
+      "s-314"
     ]
   },
   {
@@ -366,7 +396,8 @@
     "meaningHi": "जीव-जंतु — मनुष्य के अतिरिक्त कोई भी जीवित प्राणी।",
     "relatedSections": [
       "s-2",
-      "s-291"
+      "s-291",
+      "s-325"
     ]
   },
   {
@@ -454,7 +485,8 @@
       "s-256",
       "s-270",
       "s-281",
-      "s-285"
+      "s-285",
+      "s-308"
     ]
   },
   {
@@ -522,7 +554,8 @@
       "s-271",
       "s-272",
       "s-275",
-      "s-294"
+      "s-294",
+      "s-317"
     ]
   },
   {
@@ -553,7 +586,9 @@
       "s-86",
       "s-119",
       "s-120",
-      "s-127"
+      "s-127",
+      "s-308",
+      "s-318"
     ]
   },
   {
@@ -564,7 +599,9 @@
     "relatedSections": [
       "s-2",
       "s-282",
-      "s-284"
+      "s-284",
+      "s-327",
+      "s-328"
     ]
   },
   {
@@ -601,7 +638,8 @@
     "meaningEn": "The loss by unlawful means of property to which the person losing it is legally entitled.",
     "meaningHi": "अनुचित हानि — अवैध साधनों से ऐसी संपत्ति की हानि जिसका खोने वाला व्यक्ति विधितः हकदार है।",
     "relatedSections": [
-      "s-2"
+      "s-2",
+      "s-324"
     ]
   },
   {
@@ -611,7 +649,9 @@
     "meaningHi": "सरकार — इसका अर्थ केंद्र सरकार या राज्य सरकार है।",
     "relatedSections": [
       "s-2",
-      "s-273"
+      "s-273",
+      "s-305",
+      "s-324"
     ]
   },
   {
@@ -1237,7 +1277,10 @@
       "s-286",
       "s-287",
       "s-288",
-      "s-289"
+      "s-289",
+      "s-307",
+      "s-309",
+      "s-333"
     ]
   },
   {
@@ -1256,7 +1299,10 @@
       "s-124",
       "s-125",
       "s-140",
-      "s-291"
+      "s-291",
+      "s-308",
+      "s-311",
+      "s-331"
     ]
   },
   {
@@ -1278,7 +1324,10 @@
     "relatedSections": [
       "s-126",
       "s-127",
-      "s-151"
+      "s-151",
+      "s-307",
+      "s-309",
+      "s-333"
     ]
   },
   {
@@ -1324,7 +1373,8 @@
       "s-151",
       "s-189",
       "s-195",
-      "s-196"
+      "s-196",
+      "s-330"
     ]
   },
   {
@@ -1751,7 +1801,9 @@
     "meaningHi": "घातक आयुध — ऐसा हथियार या कोई वस्तु जो आक्रमण के हथियार के रूप में प्रयोग किए जाने पर मृत्यु कारित कर सकती है, जैसे तलवार, चाकू या आग्नेयास्त्र। इससे सज्जित होना विधिविरुद्ध जमाव की सदस्यता और बल्वे को गंभीर बनाता है।",
     "relatedSections": [
       "s-189",
-      "s-191"
+      "s-191",
+      "s-311",
+      "s-312"
     ]
   },
   {
@@ -1771,7 +1823,8 @@
     "relatedSections": [
       "s-198",
       "s-199",
-      "s-255"
+      "s-255",
+      "s-316"
     ]
   },
   {
@@ -2056,7 +2109,8 @@
     "meaningHi": "उपासना स्थल — किसी वर्ग के व्यक्तियों द्वारा धार्मिक उपासना के लिए प्रयुक्त कोई स्थान, जैसे मंदिर, मस्जिद, गिरजाघर, गुरुद्वारा या तीर्थस्थल। किसी धर्म का अपमान करने के लिए उसे नष्ट, क्षतिग्रस्त या अपवित्र करना धारा 298 में दंडनीय है।",
     "relatedSections": [
       "s-298",
-      "s-301"
+      "s-301",
+      "s-305"
     ]
   },
   {
@@ -2086,6 +2140,150 @@
     "meaningHi": "समाधि स्थल (कब्रिस्तान) — दफ़नाने का स्थान, जैसे कब्र, मकबरा या कब्रिस्तान। अंत्येष्टि स्थलों के साथ इस पर भावनाओं को आहत करने के आशय से अतिचार धारा 301 में दंडनीय है।",
     "relatedSections": [
       "s-301"
+    ]
+  },
+  {
+    "id": "theft",
+    "term": "Theft",
+    "meaningEn": "Dishonestly moving movable property out of the possession of another without his consent, intending to take it (s.303). Possession, not ownership, is protected; the offence is complete on moving the property.",
+    "meaningHi": "चोरी — किसी व्यक्ति के कब्ज़े से उसकी सहमति के बिना चल संपत्ति को बेईमानी से ले जाने के आशय से हटाना (धारा 303)। स्वामित्व नहीं, कब्ज़ा संरक्षित है; संपत्ति हटाते ही अपराध पूर्ण हो जाता है।",
+    "relatedSections": [
+      "s-303",
+      "s-304",
+      "s-305",
+      "s-306",
+      "s-307",
+      "s-309",
+      "s-313",
+      "s-328",
+      "s-331",
+      "s-332"
+    ]
+  },
+  {
+    "id": "snatching",
+    "term": "Snatching",
+    "meaningEn": "Theft committed by suddenly, quickly or forcibly seizing, grabbing or taking away movable property from a person or his possession — such as chain-snatching (s.304, new in the BNS).",
+    "meaningHi": "झपटमारी (छीनना) — किसी व्यक्ति से या उसके कब्ज़े से चल संपत्ति को अचानक, तेज़ी से या बलपूर्वक छीनकर की गई चोरी, जैसे चेन-स्नैचिंग (धारा 304, भा.न्या.सं. में नया)।",
+    "relatedSections": [
+      "s-304"
+    ]
+  },
+  {
+    "id": "extortion",
+    "term": "Extortion",
+    "meaningEn": "Intentionally putting a person in fear of injury and thereby dishonestly inducing him to deliver property, a valuable security, or anything signed or sealed convertible into one (s.308). The victim hands over the property, but his consent is obtained by fear.",
+    "meaningHi": "उद्दापन (जबरन वसूली) — किसी व्यक्ति को क्षति के भय में डालकर बेईमानी से उसे संपत्ति या मूल्यवान प्रतिभूति देने के लिए उत्प्रेरित करना (धारा 308)।",
+    "relatedSections": [
+      "s-308",
+      "s-309"
+    ]
+  },
+  {
+    "id": "robbery",
+    "term": "Robbery",
+    "meaningEn": "Theft or extortion aggravated by immediate violence: in theft, causing or attempting death, hurt or wrongful restraint, or fear of instant harm, to commit it or carry away the property; in extortion, being present and putting the victim in fear of instant harm so that he delivers then and there (s.309).",
+    "meaningHi": "लूट — तात्कालिक हिंसा से गंभीर हुई चोरी या उद्दापन: चोरी में मृत्यु, उपहति या सदोष अवरोध कारित करना या तात्कालिक भय उत्पन्न करना; उद्दापन में उपस्थित रहकर तात्कालिक क्षति का भय दिखाकर तुरंत संपत्ति लेना (धारा 309)।",
+    "relatedSections": [
+      "s-309",
+      "s-310",
+      "s-311",
+      "s-312",
+      "s-313"
+    ]
+  },
+  {
+    "id": "dacoity",
+    "term": "Dacoity",
+    "meaningEn": "Robbery committed or attempted conjointly by five or more persons, counting those present and aiding; every one of them commits dacoity (s.310).",
+    "meaningHi": "डकैती — पाँच या अधिक व्यक्तियों द्वारा मिलकर की गई या प्रयत्न की गई लूट, जिसमें उपस्थित रहकर सहायता करने वाले भी गिने जाते हैं (धारा 310)।",
+    "relatedSections": [
+      "s-310",
+      "s-311",
+      "s-312",
+      "s-317"
+    ]
+  },
+  {
+    "id": "criminal-misappropriation",
+    "term": "Criminal (dishonest) misappropriation",
+    "meaningEn": "Dishonestly misappropriating or converting to one's own use movable property that came into one's hands innocently — for example by finding it — including temporary misappropriation (s.314).",
+    "meaningHi": "आपराधिक दुर्विनियोग — ऐसी चल संपत्ति को, जो निर्दोष रूप से हाथ आई हो (जैसे पाई गई), बेईमानी से अपने उपयोग में लेना या हड़प लेना (धारा 314)।",
+    "relatedSections": [
+      "s-314"
+    ]
+  },
+  {
+    "id": "criminal-breach-of-trust",
+    "term": "Criminal breach of trust",
+    "meaningEn": "Dishonestly misappropriating, converting, using or disposing of property that has been entrusted to one (or over which one has dominion), in violation of law or of a contract about the trust (s.316). Employers who deduct but do not deposit employees' PF or ESI contributions are deemed to commit it.",
+    "meaningHi": "आपराधिक न्यासभंग — सौंपी गई संपत्ति को बेईमानी से हड़पना, अपने उपयोग में लेना, या न्यास के संबंध में विधि या संविदा का उल्लंघन करते हुए उसका उपयोग या निपटान करना (धारा 316)।",
+    "relatedSections": [
+      "s-316"
+    ]
+  },
+  {
+    "id": "stolen-property",
+    "term": "Stolen property",
+    "meaningEn": "Property whose possession has been transferred by theft, extortion, robbery or cheating, or which has been criminally misappropriated or subject to criminal breach of trust, in or outside India — until it returns to a person legally entitled to it (s.317(1)).",
+    "meaningHi": "चुराई हुई संपत्ति — चोरी, उद्दापन, लूट या छल द्वारा अंतरित, अथवा आपराधिक दुर्विनियोग या न्यासभंग की विषय संपत्ति, जब तक वह विधिक रूप से हकदार व्यक्ति के पास वापस न आ जाए (धारा 317(1))।",
+    "relatedSections": [
+      "s-317"
+    ]
+  },
+  {
+    "id": "cheating",
+    "term": "Cheating",
+    "meaningEn": "Deceiving a person and thereby fraudulently or dishonestly inducing him to deliver or let another retain property, or intentionally inducing him to do or omit something he otherwise would not, causing or likely to cause him harm (s.318). The dishonest intention must exist at the outset.",
+    "meaningHi": "छल — किसी व्यक्ति को प्रवंचित कर कपटपूर्वक या बेईमानी से उसे संपत्ति देने के लिए, या ऐसा कार्य या लोप करने के लिए उत्प्रेरित करना जो वह अन्यथा न करता और जिससे उसे हानि हो (धारा 318)।",
+    "relatedSections": [
+      "s-318",
+      "s-319"
+    ]
+  },
+  {
+    "id": "mischief",
+    "term": "Mischief",
+    "meaningEn": "Destroying property, or changing it or its situation so as to destroy or diminish its value or utility or affect it injuriously, with intent or knowledge of causing wrongful loss or damage to the public or any person (s.324). It can be committed on one's own property.",
+    "meaningHi": "रिष्टि — जनता या किसी व्यक्ति को सदोष हानि पहुँचाने के आशय या ज्ञान से संपत्ति को नष्ट करना या उसमें ऐसा परिवर्तन करना जिससे उसका मूल्य या उपयोगिता नष्ट या कम हो जाए (धारा 324)।",
+    "relatedSections": [
+      "s-324",
+      "s-325",
+      "s-326",
+      "s-327",
+      "s-334"
+    ]
+  },
+  {
+    "id": "criminal-trespass",
+    "term": "Criminal trespass",
+    "meaningEn": "Entering property in another's possession with intent to commit an offence or to intimidate, insult or annoy the possessor — or, having entered lawfully, unlawfully remaining with such intent (s.329(1)).",
+    "meaningHi": "आपराधिक अतिचार — किसी अपराध को करने या कब्ज़ाधारी को अभित्रस्त, अपमानित या क्षुब्ध करने के आशय से दूसरे के कब्ज़े की संपत्ति में प्रवेश करना, या विधिपूर्वक प्रवेश के बाद ऐसे आशय से अवैध रूप से रुके रहना (धारा 329(1))।",
+    "relatedSections": [
+      "s-329"
+    ]
+  },
+  {
+    "id": "house-trespass",
+    "term": "House-trespass",
+    "meaningEn": "Criminal trespass by entering or remaining in a building, tent or vessel used as a human dwelling, or a building used for worship or for custody of property; introducing any part of the body is enough (s.329(2)).",
+    "meaningHi": "गृह-अतिचार — मानव निवास के रूप में प्रयुक्त भवन, तंबू या जलयान, या उपासना या संपत्ति की अभिरक्षा के भवन में प्रवेश करके या रहकर किया गया आपराधिक अतिचार; शरीर के किसी भाग का प्रवेश पर्याप्त है (धारा 329(2))।",
+    "relatedSections": [
+      "s-329",
+      "s-330",
+      "s-331",
+      "s-332",
+      "s-333"
+    ]
+  },
+  {
+    "id": "house-breaking",
+    "term": "House-breaking",
+    "meaningEn": "House-trespass in which the offender enters or leaves in one of six ways listed in s.330(2) — through a passage he made, a passage not meant for people or by climbing, a passage opened by unintended means, by opening a lock, by using or threatening force, or through a fastening he undid. Lurking house-trespass is house-trespass with precautions to conceal it (s.330(1)).",
+    "meaningHi": "गृह-भेदन — गृह-अतिचार जिसमें अपराधी धारा 330(2) में बताए छह तरीकों में से किसी से प्रवेश करता या निकलता है, जैसे स्वयं बनाए रास्ते से, ताला खोलकर या बल का प्रयोग करके। प्रच्छन्न गृह-अतिचार वह है जिसमें छिपाने की सावधानी बरती जाए (धारा 330(1))।",
+    "relatedSections": [
+      "s-330",
+      "s-331"
     ]
   }
 ]

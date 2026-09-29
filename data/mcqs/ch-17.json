@@ -1,0 +1,348 @@
+[
+  {
+    "id": "mcq-ch17-1",
+    "chapterId": "ch-17",
+    "question": "Theft under Section 303 can be committed only in respect of—",
+    "options": ["Immovable property", "Movable property", "Any property, movable or immovable", "Valuable securities only"],
+    "correctIndex": 1,
+    "explanation": "s.303(1): 'intending to take dishonestly any movable property out of the possession of any person'. A thing attached to earth becomes movable once severed (Expl. 1)."
+  },
+  {
+    "id": "mcq-ch17-2",
+    "chapterId": "ch-17",
+    "question": "A pawns his watch with Z and later takes it back without Z's consent and without repaying the loan. A has committed—",
+    "options": ["No offence, as it is his own watch", "Theft", "Criminal breach of trust", "Cheating"],
+    "correctIndex": 1,
+    "explanation": "Illustration (k) to s.303: A commits theft though the watch is his own, since he takes it dishonestly out of Z's possession."
+  },
+  {
+    "id": "mcq-ch17-3",
+    "chapterId": "ch-17",
+    "question": "A finds a ring lying on the highroad, not in anyone's possession, and takes it. A commits—",
+    "options": ["Theft", "No theft, though possibly criminal misappropriation", "Robbery", "Extortion"],
+    "correctIndex": 1,
+    "explanation": "Illustration (g) to s.303: property not in anyone's possession cannot be stolen; dishonest appropriation may be criminal misappropriation (s.314)."
+  },
+  {
+    "id": "mcq-ch17-4",
+    "chapterId": "ch-17",
+    "question": "On a second or subsequent conviction for theft, Section 303(2) prescribes—",
+    "options": [
+      "Up to 3 years, or fine",
+      "Rigorous imprisonment not less than 1 year, up to 5 years, and fine",
+      "Up to 7 years and fine",
+      "Imprisonment for life"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.303(2): second or subsequent conviction — rigorous imprisonment of not less than one year, which may extend to five years, and fine."
+  },
+  {
+    "id": "mcq-ch17-5",
+    "chapterId": "ch-17",
+    "question": "For a first-time theft of property worth less than ₹5,000, where the property is returned, the punishment is—",
+    "options": ["Fine only", "Community service", "Simple imprisonment for 1 month", "Admonition"],
+    "correctIndex": 1,
+    "explanation": "Proviso to s.303(2): upon return of the value of property or restoration of the stolen property, the person shall be punished with community service."
+  },
+  {
+    "id": "mcq-ch17-6",
+    "chapterId": "ch-17",
+    "question": "'Snatching' under Section 304 is—",
+    "options": [
+      "A form of robbery",
+      "A new offence: theft by suddenly, quickly or forcibly seizing property",
+      "A form of extortion",
+      "Carried over from s.379A IPC"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.304 is new: theft is snatching if the offender suddenly or quickly or forcibly seizes, secures, grabs or takes away property — up to 3 years and fine."
+  },
+  {
+    "id": "mcq-ch17-7",
+    "chapterId": "ch-17",
+    "question": "Which of these is NOT covered by Section 305 (aggravated theft)?",
+    "options": [
+      "Theft in a dwelling house",
+      "Theft of an idol from a place of worship",
+      "Theft of Government property",
+      "Theft of a book from a friend's bag in a park"
+    ],
+    "correctIndex": 3,
+    "explanation": "s.305 covers theft in a dwelling or store, of or from a means of transport, of idols or icons in places of worship, and of Government or local authority property."
+  },
+  {
+    "id": "mcq-ch17-8",
+    "chapterId": "ch-17",
+    "question": "The punishment for extortion under Section 308(2) is—",
+    "options": [
+      "Up to 3 years, or fine, or both",
+      "Up to 7 years, or fine, or both",
+      "Up to 10 years and fine",
+      "Imprisonment for life"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.308(2): imprisonment of either description up to seven years, or fine, or both (s.384 IPC was three years)."
+  },
+  {
+    "id": "mcq-ch17-9",
+    "chapterId": "ch-17",
+    "question": "A threatens Z by an electronic message that Z's child will be killed unless Z sends ₹1 lakh. Z pays. A has committed—",
+    "options": ["Robbery", "Extortion", "Theft", "Dacoity"],
+    "correctIndex": 1,
+    "explanation": "Illustration (e) to s.308 (new). It is not robbery because A is not present and the fear is not of instant death (compare s.309 Illustration (d))."
+  },
+  {
+    "id": "mcq-ch17-10",
+    "chapterId": "ch-17",
+    "question": "Extortion becomes robbery when the offender—",
+    "options": [
+      "Uses a telephone",
+      "Is present and puts the victim in fear of instant death, hurt or wrongful restraint, inducing delivery then and there",
+      "Obtains a valuable security",
+      "Acts with five others"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.309(3): presence, fear of instant death, hurt or wrongful restraint, and delivery then and there."
+  },
+  {
+    "id": "mcq-ch17-11",
+    "chapterId": "ch-17",
+    "question": "Robbery committed on a highway between sunset and sunrise is punishable with rigorous imprisonment up to—",
+    "options": ["7 years", "10 years", "14 years", "Life"],
+    "correctIndex": 2,
+    "explanation": "s.309(4): RI up to 10 years and fine; on the highway between sunset and sunrise, up to 14 years."
+  },
+  {
+    "id": "mcq-ch17-12",
+    "chapterId": "ch-17",
+    "question": "The minimum number of persons required for dacoity is—",
+    "options": ["Two", "Three", "Five", "Seven"],
+    "correctIndex": 2,
+    "explanation": "s.310(1): five or more persons conjointly committing or attempting robbery, counting those present and aiding."
+  },
+  {
+    "id": "mcq-ch17-13",
+    "chapterId": "ch-17",
+    "question": "If one of five dacoits commits murder in the course of dacoity, under s.310(3)—",
+    "options": [
+      "Only the murderer is liable for murder",
+      "Every dacoit is punishable with death, life, or RI not less than 10 years, and fine",
+      "The others get 7 years",
+      "The others are liable only for dacoity"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.310(3): every one of those persons shall be punished with death, or imprisonment for life, or rigorous imprisonment not less than ten years, and fine."
+  },
+  {
+    "id": "mcq-ch17-14",
+    "chapterId": "ch-17",
+    "question": "Under Section 312, if an offender is armed with a deadly weapon while attempting robbery or dacoity, the minimum imprisonment is—",
+    "options": ["3 years", "5 years", "7 years", "10 years"],
+    "correctIndex": 2,
+    "explanation": "s.312: the imprisonment shall not be less than seven years."
+  },
+  {
+    "id": "mcq-ch17-15",
+    "chapterId": "ch-17",
+    "question": "Dishonest misappropriation of movable property (s.314) is punishable with—",
+    "options": [
+      "Up to 2 years, or fine, or both",
+      "Not less than 6 months, up to 2 years, and fine",
+      "Up to 3 years",
+      "Up to 7 years"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.314: imprisonment not less than six months, which may extend to two years, and fine (new minimum)."
+  },
+  {
+    "id": "mcq-ch17-16",
+    "chapterId": "ch-17",
+    "question": "The essential feature that distinguishes criminal breach of trust from theft is—",
+    "options": [
+      "Use of force",
+      "Entrustment of the property to the accused",
+      "Value of the property",
+      "Number of offenders"
+    ],
+    "correctIndex": 1,
+    "explanation": "CBT (s.316) requires that the accused was entrusted with the property or dominion over it; theft involves taking out of another's possession."
+  },
+  {
+    "id": "mcq-ch17-17",
+    "chapterId": "ch-17",
+    "question": "An employer deducts PF contributions from employees' wages but does not deposit them. Under s.316 he is—",
+    "options": [
+      "Liable only civilly",
+      "Deemed to have committed criminal breach of trust",
+      "Guilty of cheating",
+      "Guilty of extortion"
+    ],
+    "correctIndex": 1,
+    "explanation": "Explanation 1 to s.316(1): such an employer is deemed entrusted with the amount and deemed to have dishonestly used it."
+  },
+  {
+    "id": "mcq-ch17-18",
+    "chapterId": "ch-17",
+    "question": "Criminal breach of trust by a public servant or banker (s.316(5)) is punishable with—",
+    "options": [
+      "Up to 5 years",
+      "Up to 7 years",
+      "Imprisonment for life, or up to 10 years, and fine",
+      "Death"
+    ],
+    "correctIndex": 2,
+    "explanation": "s.316(5): imprisonment for life, or imprisonment of either description up to ten years, and fine."
+  },
+  {
+    "id": "mcq-ch17-19",
+    "chapterId": "ch-17",
+    "question": "Which of the following is NEWLY included in the definition of 'stolen property' under s.317(1)?",
+    "options": ["Theft", "Extortion", "Cheating", "Robbery"],
+    "correctIndex": 2,
+    "explanation": "s.317(1) now includes property whose possession has been transferred by cheating; s.410 IPC did not."
+  },
+  {
+    "id": "mcq-ch17-20",
+    "chapterId": "ch-17",
+    "question": "Habitually dealing in stolen property (s.317(4)) is punishable with—",
+    "options": [
+      "Up to 3 years",
+      "Up to 7 years",
+      "Imprisonment for life, or up to 10 years, and fine",
+      "Fine only"
+    ],
+    "correctIndex": 2,
+    "explanation": "s.317(4): imprisonment for life, or imprisonment of either description up to ten years, and fine."
+  },
+  {
+    "id": "mcq-ch17-21",
+    "chapterId": "ch-17",
+    "question": "Under Illustration (g) to s.318, a person who took money intending to deliver goods but later broke the contract—",
+    "options": [
+      "Commits cheating",
+      "Does not cheat, but is liable to a civil action for breach of contract",
+      "Commits criminal breach of trust",
+      "Commits extortion"
+    ],
+    "correctIndex": 1,
+    "explanation": "The dishonest intention must exist at the time of inducement; a later breach alone is a civil wrong."
+  },
+  {
+    "id": "mcq-ch17-22",
+    "chapterId": "ch-17",
+    "question": "The offence formerly under s.420 IPC (cheating and dishonestly inducing delivery of property) is now—",
+    "options": ["s.316(2)", "s.318(2)", "s.318(4)", "s.319(2)"],
+    "correctIndex": 2,
+    "explanation": "s.318(4): cheating and dishonestly inducing delivery of property or making, altering or destroying a valuable security — up to 7 years and fine."
+  },
+  {
+    "id": "mcq-ch17-23",
+    "chapterId": "ch-17",
+    "question": "Simple cheating under s.318(2) is punishable with up to—",
+    "options": ["1 year", "3 years, or fine, or both", "5 years", "7 years and fine"],
+    "correctIndex": 1,
+    "explanation": "s.318(2): up to three years, or fine, or both (s.417 IPC was one year)."
+  },
+  {
+    "id": "mcq-ch17-24",
+    "chapterId": "ch-17",
+    "question": "Cheating by personation (s.319) can be committed by impersonating—",
+    "options": [
+      "Only a living person",
+      "A real or an imaginary person",
+      "Only a public servant",
+      "Only a relative"
+    ],
+    "correctIndex": 1,
+    "explanation": "Explanation to s.319(1): the offence is committed whether the individual personated is a real or imaginary person."
+  },
+  {
+    "id": "mcq-ch17-25",
+    "chapterId": "ch-17",
+    "question": "Under Explanation 2 to Section 324, mischief can be committed in respect of—",
+    "options": [
+      "Only another person's property",
+      "Property belonging to the offender himself, or jointly to him and others",
+      "Only Government property",
+      "Only immovable property"
+    ],
+    "correctIndex": 1,
+    "explanation": "Expl. 2 to s.324: mischief may be committed by an act affecting property belonging to the offender, or to him and others jointly."
+  },
+  {
+    "id": "mcq-ch17-26",
+    "chapterId": "ch-17",
+    "question": "Mischief causing loss or damage of ₹1 lakh or more is punishable under s.324(5) with up to—",
+    "options": ["6 months", "1 year", "2 years", "5 years, or fine, or both"],
+    "correctIndex": 3,
+    "explanation": "s.324(5): up to five years, or fine, or both; ₹20,000 to under ₹1 lakh is up to two years (s.324(4))."
+  },
+  {
+    "id": "mcq-ch17-27",
+    "chapterId": "ch-17",
+    "question": "Mischief by fire intending to destroy a house used as a human dwelling (s.326(g)) is punishable with—",
+    "options": [
+      "Up to 7 years and fine",
+      "Imprisonment for life, or up to 10 years, and fine",
+      "Up to 5 years",
+      "Death"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.326(g): imprisonment for life, or imprisonment of either description up to ten years, and fine."
+  },
+  {
+    "id": "mcq-ch17-28",
+    "chapterId": "ch-17",
+    "question": "For house-trespass, the Explanation to s.329 provides that entry is sufficient if—",
+    "options": [
+      "The whole body enters",
+      "Any part of the trespasser's body is introduced",
+      "The door is broken",
+      "It is at night"
+    ],
+    "correctIndex": 1,
+    "explanation": "Explanation to s.329(2): the introduction of any part of the criminal trespasser's body is entering sufficient to constitute house-trespass."
+  },
+  {
+    "id": "mcq-ch17-29",
+    "chapterId": "ch-17",
+    "question": "Entering a house by opening its door with a key the owner had lost is—",
+    "options": ["Mere criminal trespass", "House-breaking", "Not an offence", "Lurking house-trespass only"],
+    "correctIndex": 1,
+    "explanation": "Illustration (f) to s.330: entering Z's house having opened the door with Z's lost key is house-breaking (opening a lock, clause (d))."
+  },
+  {
+    "id": "mcq-ch17-30",
+    "chapterId": "ch-17",
+    "question": "House-breaking by night in order to commit theft (s.331(4)) is punishable with up to—",
+    "options": ["3 years", "5 years", "10 years", "14 years"],
+    "correctIndex": 3,
+    "explanation": "s.331(4): up to five years and fine; if the offence intended is theft, up to fourteen years."
+  },
+  {
+    "id": "mcq-ch17-31",
+    "chapterId": "ch-17",
+    "question": "Which of these is compoundable only with the permission of the Court under BNSS s.359(2)?",
+    "options": [
+      "Theft (s.303(2))",
+      "Criminal breach of trust (s.316(2))",
+      "Criminal trespass (s.329(3))",
+      "Cheating (s.318(2))"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.316(2) is in the s.359(2) table (with Court's permission); ss.303(2), 318(2) and 329(3) are in the s.359(1) table."
+  },
+  {
+    "id": "mcq-ch17-32",
+    "chapterId": "ch-17",
+    "question": "Mischief by killing or maiming an animal (s.325) applies—",
+    "options": [
+      "Only if the animal is worth ₹50 or more",
+      "To any animal, regardless of value",
+      "Only to cattle",
+      "Only to stray animals"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.325 covers 'any animal' with a uniform maximum of 5 years; the IPC's value thresholds (ss.428-429) are dropped."
+  }
+]

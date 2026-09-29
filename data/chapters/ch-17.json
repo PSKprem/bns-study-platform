@@ -1,0 +1,141 @@
+{
+  "id": "ch-17",
+  "number": "XVII",
+  "title": "Of Offences Against Property",
+  "sectionRange": "303-334",
+  "shortDescription": "The core property offences: theft and the new offence of snatching, extortion, robbery and dacoity, criminal misappropriation, criminal breach of trust, receiving stolen property, cheating, fraudulent dealings to defeat creditors, mischief, and criminal trespass, house-trespass and house-breaking.",
+  "subHeadings": [
+    { "id": "theft", "label": "Of theft", "sectionIds": ["s-303", "s-304", "s-305", "s-306", "s-307"] },
+    { "id": "extortion", "label": "Of extortion", "sectionIds": ["s-308"] },
+    { "id": "robbery-dacoity", "label": "Of robbery and dacoity", "sectionIds": ["s-309", "s-310", "s-311", "s-312", "s-313"] },
+    { "id": "misappropriation", "label": "Of criminal misappropriation of property", "sectionIds": ["s-314", "s-315"] },
+    { "id": "cbt", "label": "Of criminal breach of trust", "sectionIds": ["s-316"] },
+    { "id": "stolen-property", "label": "Of receiving stolen property", "sectionIds": ["s-317"] },
+    { "id": "cheating", "label": "Of cheating", "sectionIds": ["s-318", "s-319"] },
+    { "id": "fraudulent-deeds", "label": "Of fraudulent deeds and dispositions of property", "sectionIds": ["s-320", "s-321", "s-322", "s-323"] },
+    { "id": "mischief", "label": "Of mischief", "sectionIds": ["s-324", "s-325", "s-326", "s-327", "s-328"] },
+    { "id": "trespass", "label": "Of criminal trespass", "sectionIds": ["s-329", "s-330", "s-331", "s-332", "s-333", "s-334"] }
+  ],
+  "summary": "Chapter XVII is the most frequently used chapter in everyday criminal practice. It protects property against dishonest taking, taking by fear or force, misuse of trust, deception, damage and unlawful entry. It corresponds to Chapter XVII of the IPC (ss.378-462) but compresses some eighty-five IPC sections into thirty-two, usually by putting a definition and its graded punishments into one section — theft into s.303, extortion into s.308, robbery into s.309, criminal breach of trust into s.316, cheating into s.318 and mischief into s.324. Unlike most chapters, the Gazette keeps sub-headings here, and the platform follows them.\n\nTheft (s.303) is dishonestly moving movable property out of another's possession without consent; possession, not ownership, is the key, so an owner can steal from a pawnee. The BNS adds a minimum of one year on a second theft conviction and community service for a first-time theft under ₹5,000 once the property is returned. Snatching (s.304) is a new offence for sudden or forcible seizure of property, such as chain-snatching. Aggravated theft covers dwellings, vehicles, idols in places of worship and Government property (s.305), theft by clerks and servants (s.306), and theft after preparation for violence (s.307).\n\nExtortion (s.308) is obtaining property by dishonestly putting a person in fear of injury; basic extortion now carries seven years. Robbery (s.309) is theft or extortion accompanied by immediate violence or the fear of instant death, hurt or restraint, and dacoity (s.310) is robbery by five or more. Minimum sentences apply where deadly weapons are used or grievous hurt is caused (ss.311-312), and belonging to gangs of thieves, robbers or dacoits is itself punishable (ss.310(6), 313).\n\nWhere property comes into a person's hands innocently, later dishonest appropriation is criminal misappropriation (ss.314-315), now with a minimum of six months. Where it is entrusted to him, dishonest misuse is criminal breach of trust (s.316), graded from five years up to life for public servants, bankers and agents; employers who withhold employees' PF or ESI contributions are deemed to commit it. Section 317 defines stolen property — now including property obtained by cheating — and punishes receiving, habitually dealing in and concealing it. Cheating (s.318) is inducing delivery of property or a harmful act by deception, with dishonest intent present at the outset; the old s.420 IPC is now s.318(4), and simple cheating now carries three years. Cheating by personation (s.319) now carries five years. Sections 320-323 punish fraudulent transfers and concealment meant to defeat creditors.\n\nMischief (s.324) is causing wrongful loss by destroying or damaging property, with new value-based tiers (₹20,000 and ₹1 lakh) and an express reference to Government property. Aggravated forms cover animals (s.325), water supply, roads, drainage, navigation marks, landmarks, fire and explosives (s.326), rail, aircraft and vessels (s.327) and running a vessel aground to steal (s.328). The chapter ends with criminal trespass and house-trespass (s.329), lurking house-trespass and house-breaking (s.330), their graded punishments (ss.331-333) and breaking open closed receptacles (s.334). Many of the less serious offences are compoundable by the owner or the person affected under BNSS s.359.",
+  "keyPoints": [
+    {
+      "point": "Sections 303-307 — Theft",
+      "subPoints": [
+        "s.303 — dishonest intention + movable property + possession of another + without consent + moving",
+        "Possession, not ownership — an owner can steal from a pawnee (Illus. (k))",
+        "3 years; second conviction: RI 1-5 years (NEW); first theft under ₹5,000 returned: community service (NEW)",
+        "s.304 — NEW snatching: sudden, quick or forcible seizure: 3 years + fine",
+        "s.305 — theft in dwelling, of or from vehicles, of idols, of Government property: 7 years",
+        "s.306 — by clerk or servant: 7 years; s.307 — after preparation for death, hurt or restraint: RI 10 years"
+      ]
+    },
+    {
+      "point": "Sections 308-313 — Extortion, robbery, dacoity",
+      "subPoints": [
+        "s.308 — extortion: fear of injury + dishonest inducement to deliver property: 7 years (IPC: 3)",
+        "s.309 — robbery: theft or extortion + instant death, hurt or restraint (or fear of it); RI 10; highway at night 14",
+        "s.309(6) — hurt caused in robbery: life or RI 10 for all jointly concerned",
+        "s.310 — dacoity: 5 or more; life or RI 10; with murder: death, life or min RI 10 years",
+        "ss.311-312 — deadly weapon or grievous hurt: minimum 7 years",
+        "s.313 — gang of thieves or robbers: RI 7 years"
+      ]
+    },
+    {
+      "point": "Sections 314-317 — Misappropriation, trust, stolen property",
+      "subPoints": [
+        "s.314 — dishonest misappropriation: 6 months to 2 years + fine (NEW minimum); finder rules in Expl. 2",
+        "s.315 — property of a deceased person: 3 years; by his servant: 7 years",
+        "s.316 — criminal breach of trust: entrustment + dishonest misuse; 5 years (IPC: 3)",
+        "s.316 — carrier or warehouse-keeper and clerk or servant: 7 years; public servant, banker, agent: life or 10",
+        "Expl. 1-2 — unpaid PF / ESI deductions are deemed CBT",
+        "s.317 — stolen property now includes property obtained by cheating; receiving: 3 years; from dacoity or habitual: life or 10"
+      ]
+    },
+    {
+      "point": "Sections 318-323 — Cheating and fraudulent dealings",
+      "subPoints": [
+        "s.318 — cheating: deception + inducement to deliver property or to act or omit to one's harm",
+        "Dishonest intention must exist at the outset; later breach alone is civil (Illus. (g))",
+        "s.318(2) 3 years (IPC: 1); (3) 5 years (IPC: 3); (4) = old s.420, 7 years + fine",
+        "s.319 — cheating by personation: 5 years (IPC: 3)",
+        "ss.320-323 — defeating creditors, false deeds, fraudulent concealment"
+      ]
+    },
+    {
+      "point": "Sections 324-328 — Mischief",
+      "subPoints": [
+        "s.324 — intent or knowledge of wrongful loss + destruction or damage of property",
+        "Tiers: 6 months; any property incl. Government: 1 year; ₹20,000-1 lakh: 2 years; ₹1 lakh+: 5 years",
+        "s.325 — killing or maiming any animal: 5 years (no value threshold)",
+        "s.326 — water, roads, drainage, navigation marks, landmarks; fire or explosives; house by fire: life or 10",
+        "s.327 — rail, aircraft or vessel: 10 years; by fire or explosives: life",
+        "s.328 — running vessel aground to steal: 10 years"
+      ]
+    },
+    {
+      "point": "Sections 329-334 — Trespass",
+      "subPoints": [
+        "s.329 — criminal trespass: entry or remaining with intent to commit offence, intimidate, insult or annoy: 3 months",
+        "House-trespass: dwelling, place of worship or custody of property: 1 year",
+        "s.330 — lurking house-trespass (concealment) and house-breaking (six modes of entry or exit)",
+        "s.331 — graded: 2 years up to 14 years and life; by night and for theft are aggravating",
+        "s.332 — house-trespass to commit an offence: by gravity of the intended offence",
+        "s.333 — after preparation for hurt: 7 years; s.334 — breaking open a closed receptacle: 2 / 3 years"
+      ]
+    }
+  ],
+  "fastRevision": [
+    "Chapter XVII corresponds to IPC Chapter XVII (ss.378-462); ~85 IPC sections become 32.",
+    "The Gazette keeps sub-headings: theft, extortion, robbery and dacoity, misappropriation, CBT, stolen property, cheating, fraudulent deeds, mischief, trespass.",
+    "s.303 — theft: dishonestly moving movable property out of another's possession without consent.",
+    "s.303 Expl. 1 — things attached to the earth become subject of theft once severed.",
+    "s.303 Illus. (k) — an owner who takes his pawned watch back without paying commits theft.",
+    "s.303 Illus. (p) — taking property in good faith believing it one's own is not theft.",
+    "s.303(2) — 3 years; second conviction: RI not less than 1 year up to 5 years + fine.",
+    "s.303 proviso — first theft under ₹5,000, property returned: community service.",
+    "s.304 — NEW snatching: sudden, quick or forcible seizure: 3 years + fine; non-bailable.",
+    "s.305 — theft in dwelling, of/from vehicles, of idols, of Government property: 7 years + fine.",
+    "s.306 — theft by clerk or servant: 7 years + fine.",
+    "s.307 — theft after preparation for death, hurt or restraint: RI 10 years + fine.",
+    "s.308 — extortion: dishonestly inducing delivery by putting in fear of injury: 7 years.",
+    "s.308(5) — extortion by fear of death or grievous hurt: 10 years + fine.",
+    "s.309(2) — theft is robbery if death, hurt or wrongful restraint (or fear of instant) is caused for that end.",
+    "s.309(3) — extortion is robbery if offender is present and fear is of instant harm, delivery then and there.",
+    "s.309(4) — robbery: RI 10 years; highway between sunset and sunrise: 14 years.",
+    "s.309(6) — hurt caused in robbery: life or RI 10 for all jointly concerned.",
+    "s.310(1) — dacoity: 5 or more persons conjointly committing or attempting robbery (incl. those aiding).",
+    "s.310(3) — murder in dacoity: death, life, or RI not less than 10 years for every dacoit.",
+    "s.310(4)-(6) — preparation 10 years; assembling 7 years; habitual dacoit gang life or 10.",
+    "ss.311-312 — deadly weapon / grievous hurt in robbery or dacoity: minimum 7 years.",
+    "s.313 — gang habitually committing theft or robbery: RI 7 years.",
+    "s.314 — dishonest misappropriation: not less than 6 months, up to 2 years, and fine.",
+    "s.314 Expl. 2 — a finder must use reasonable means to find the owner before appropriating.",
+    "s.315 — misappropriating a deceased person's property: 3 years; by his servant: 7 years.",
+    "s.316(1) — CBT: entrusted property dishonestly misappropriated or used against law or contract.",
+    "s.316 Expl. 1-2 — employer not depositing deducted PF / ESI contributions commits CBT.",
+    "s.316 — ordinary 5 years; carrier / warehouse-keeper 7; clerk / servant 7; public servant, banker, agent life or 10.",
+    "s.317(1) — stolen property: by theft, extortion, robbery, cheating, misappropriation or CBT.",
+    "s.317 — receiving 3 years; from dacoity life or 10; habitual dealing life or 10; concealing 3 years.",
+    "s.318(1) — cheating: deception inducing delivery of property, or a harmful act or omission.",
+    "s.318 Expl. — dishonest concealment of facts is deception.",
+    "s.318(2) 3 years; (3) 5 years; (4) delivery of property or valuable security: 7 years + fine (= old s.420).",
+    "s.319 — cheating by personation (real or imaginary person): 5 years.",
+    "ss.320-323 — defeating creditors: min 6 months (s.320); 2 years (s.321); 3 years (ss.322-323).",
+    "s.324 — mischief: wrongful loss by destroying or damaging property; own property can be the subject.",
+    "s.324 — 6 months; 1 year (incl. Government property); 2 years (₹20,000-1 lakh); 5 years (₹1 lakh+).",
+    "s.325 — killing, poisoning or maiming any animal: 5 years.",
+    "s.326(g) — fire or explosives to destroy a dwelling, place of worship or store: life or 10 years.",
+    "s.327 — mischief to rail, aircraft or vessel: 10 years; by fire or explosives: life.",
+    "s.329 — criminal trespass 3 months or ₹5,000; house-trespass 1 year or ₹5,000.",
+    "s.329 Expl. — introduction of any part of the body is entry for house-trespass.",
+    "s.330(1) — lurking house-trespass: precautions to conceal.",
+    "s.330(2) — house-breaking: six modes of entry or exit, incl. opening a lock or using force.",
+    "s.331(4) — house-breaking by night to commit theft: up to 14 years.",
+    "s.332 — house-trespass to commit an offence punishable with death: life or RI 10.",
+    "s.334 — breaking open a closed receptacle: 2 years; if entrusted with it: 3 years.",
+    "Compoundable without permission: 303(2), 314, 316(3), 317(2), 317(5), 318(2), 319(2), 320-323, 324(2), 324(4), 325, 326(a), 329(3), 329(4), 332(c).",
+    "Compoundable with Court's permission: 306, 316(2), 316(4), 318(3), 318(4)."
+  ],
+  "mindMap": "# Ch. XVII — Offences Against Property\n## Theft (ss.303-307)\n- Theft (s.303)\n  - Possession, not ownership\n  - 2nd conviction: min 1 yr — NEW\n  - < ₹5,000 returned: community service — NEW\n- Snatching (s.304) — NEW\n- Dwelling, vehicle, idol, Govt property (s.305)\n- Clerk / servant (s.306)\n- Preparation for violence (s.307)\n## Extortion (s.308)\n- Fear of injury → delivery\n- 7 yrs; death / GH fear 10 yrs\n## Robbery & dacoity (ss.309-313)\n- Robbery: instant violence or fear\n- Dacoity: 5 or more\n  - With murder: death / life / min 10\n- Deadly weapon: min 7 yrs\n- Gangs\n## Misappropriation & trust (ss.314-317)\n- Dishonest misappropriation: min 6 months (s.314)\n- Deceased's property (s.315)\n- Criminal breach of trust (s.316)\n  - PF / ESI deemed CBT\n- Stolen property (s.317)\n## Cheating (ss.318-323)\n- Cheating (s.318)\n  - s.318(4) = old s.420\n- Personation (s.319)\n- Defeating creditors (ss.320-323)\n## Mischief (ss.324-328)\n- Value tiers: ₹20,000 / ₹1 lakh\n- Animals (s.325)\n- Water, roads, fire, explosives (s.326)\n- Rail, aircraft, vessel (s.327)\n## Trespass (ss.329-334)\n- Criminal / house-trespass (s.329)\n- Lurking / house-breaking (s.330)\n- Graded punishments (ss.331-333)\n- Breaking receptacle (s.334)",
+  "lastVerified": "2026-09-30"
+}
