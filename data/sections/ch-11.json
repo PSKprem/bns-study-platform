@@ -1,0 +1,365 @@
+[
+  {
+    "id": "s-189",
+    "chapterId": "ch-11",
+    "number": "189",
+    "title": "Unlawful assembly",
+    "bareActText": "(1) An assembly of five or more persons is designated an “unlawful assembly”, if the common object of the persons composing that assembly is— (a) to overawe by criminal force, or show of criminal force, the Central Government or any State Government or Parliament or the Legislature of any State, or any public servant in the exercise of the lawful power of such public servant; or (b) to resist the execution of any law, or of any legal process; or (c) to commit any mischief or criminal trespass, or other offence; or (d) by means of criminal force, or show of criminal force, to any person, to take or obtain possession of any property, or to deprive any person of the enjoyment of a right of way, or of the use of water or other incorporeal right of which he is in possession or enjoyment, or to enforce any right or supposed right; or (e) by means of criminal force, or show of criminal force, to compel any person to do what he is not legally bound to do, or to omit to do what he is legally entitled to do. Explanation.—An assembly which was not unlawful when it assembled, may subsequently become an unlawful assembly. (2) Whoever, being aware of facts which render any assembly an unlawful assembly, intentionally joins that assembly, or continues in it, is said to be a member of an unlawful assembly and such member shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both. (3) Whoever joins or continues in an unlawful assembly, knowing that such unlawful assembly has been commanded in the manner prescribed by law to disperse, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both. (4) Whoever, being armed with any deadly weapon, or with anything which, used as a weapon of offence, is likely to cause death, is a member of an unlawful assembly, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both. (5) Whoever knowingly joins or continues in any assembly of five or more persons likely to cause a disturbance of the public peace, after such assembly has been lawfully commanded to disperse, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both. Explanation.—If the assembly is an unlawful assembly within the meaning of sub-section (1), the offender shall be punishable under sub-section (3). (6) Whoever hires or engages, or employs, or promotes, or connives at the hiring, engagement or employment of any person to join or become a member of any unlawful assembly, shall be punishable as a member of such unlawful assembly, and for any offence which may be committed by any such person as a member of such unlawful assembly in pursuance of such hiring, engagement or employment, in the same manner as if he had been a member of such unlawful assembly, or himself had committed such offence. (7) Whoever harbours, receives or assembles, in any house or premises in his occupation or charge, or under his control any persons knowing that such persons have been hired, engaged or employed, or are about to be hired, engaged or employed, to join or become members of an unlawful assembly, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both. (8) Whoever is engaged, or hired, or offers or attempts to be hired or engaged, to do or assist in doing any of the acts specified in sub-section (1), shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both. (9) Whoever, being so engaged or hired as referred to in sub-section (8), goes armed, or engages or offers to go armed, with any deadly weapon or with anything which used as a weapon of offence is likely to cause death, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+    "plainMeaning": "A gathering of five or more people becomes an 'unlawful assembly' when what they share as their common object is one of five listed aims: overawing a Government, Parliament, a State Legislature or a public servant by criminal force or show of it; resisting the carrying out of a law or legal process; committing mischief, criminal trespass or any other offence; using criminal force to seize property, block a right of way or water use, or enforce a claimed right; or using criminal force to make someone do or not do something against their legal position. A crowd that met lawfully can turn unlawful later. The section then creates a ladder of offences: knowingly joining or staying in such an assembly (6 months); staying on after a lawful order to disperse (2 years); being a member while carrying a deadly weapon (2 years); staying in any crowd of five or more likely to disturb the peace after an order to disperse (6 months); hiring people to join (punished as if a member, and for their offences); sheltering hired members (6 months); being hired for these purposes (6 months), or going armed when hired (2 years).",
+    "ingredients": [
+      "An assembly of five or more persons",
+      "A common object falling within one of clauses (a) to (e) of sub-section (1)",
+      "For membership (sub-s. (2)): awareness of the facts making it unlawful, and intentionally joining or continuing in it",
+      "Aggravated forms: continuing after a lawful command to disperse (3); being armed with a deadly weapon (4)",
+      "Related offences: hiring members (6), harbouring hired persons (7), being hired (8), going armed when hired (9)"
+    ],
+    "punishment": "(2) Imprisonment of either description up to 6 months, or fine, or both. (3) Up to 2 years, or fine, or both. (4) Up to 2 years, or fine, or both. (5) Up to 6 months, or fine, or both. (6) The same as for a member of the assembly, and for any offence committed by a hired member. (7) Up to 6 months, or fine, or both. (8) Up to 6 months, or fine, or both. (9) Up to 2 years, or fine, or both.",
+    "classification": {
+      "cognizable": "Cognizable (all sub-sections)",
+      "bailable": "Bailable; (6) according as the offence is bailable or non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate; (6) the Court by which the offence is triable"
+    },
+    "ipcReference": {
+      "section": "141-145, 150, 151, 157, 158 IPC",
+      "changeNote": "Gathers nine separate IPC sections into one: the definition (s.141), membership (ss.142-143), armed membership (s.144), continuing after an order to disperse (s.145), hiring (s.150), refusing to disperse a crowd likely to disturb the peace (s.151), harbouring hired persons (s.157) and being hired (s.158). Clause (a) now refers to 'the Central Government' instead of 'the Government of India'. Punishments are unchanged."
+    },
+    "illustrations": [
+      "Seven villagers gather at a neighbour's field with lathis, agreeing to drive him off the land by force and take possession. Their common object falls within clause (d), so the gathering is an unlawful assembly, and each person who knowingly joined it is a member under sub-s. (2).",
+      "A peaceful protest of fifty people outside a municipal office turns into an agreement to force their way in and damage files. Under the Explanation, the lawful assembly has become unlawful from that point on.",
+      "A contractor pays twenty labourers to join a crowd that is going to block a road and overawe officials by force. Under sub-s. (6), the contractor is punishable as a member, and also for any offence those labourers commit in carrying out the plan."
+    ],
+    "termRefs": [
+      "unlawful-assembly",
+      "common-object",
+      "criminal-force",
+      "overawe",
+      "public-servant",
+      "deadly-weapon",
+      "harbour"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.189 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-190",
+    "chapterId": "ch-11",
+    "number": "190",
+    "title": "Every member of unlawful assembly guilty of offence committed in prosecution of common object",
+    "bareActText": "If an offence is committed by any member of an unlawful assembly in prosecution of the common object of that assembly, or such as the members of that assembly knew to be likely to be committed in prosecution of that object, every person who, at the time of the committing of that offence, is a member of the same assembly, is guilty of that offence.",
+    "plainMeaning": "This is a rule of shared (vicarious) liability, not a separate offence. When one member of an unlawful assembly commits an offence, every person who was a member at that moment is guilty of the same offence if either (i) it was committed to carry out the common object, or (ii) the members knew it was likely to be committed in carrying out that object. A member need not have done the act himself; being part of the assembly with that object or that knowledge is enough. An offence that falls outside both limbs is the doer's alone.",
+    "ingredients": [
+      "An unlawful assembly within s.189(1)",
+      "An offence committed by one of its members",
+      "The offence was committed in prosecution of the common object, or the members knew it was likely to be committed in prosecution of that object",
+      "The accused was a member of the assembly at the time the offence was committed"
+    ],
+    "punishment": "The same as for the offence committed.",
+    "classification": {
+      "cognizable": "According as the offence is cognizable or non-cognizable",
+      "bailable": "According as the offence is bailable or non-bailable",
+      "compoundable": "Only if the offence itself is compoundable — BNSS s.359(3) lets an accused liable under s.190 compound in like manner",
+      "triableBy": "The Court by which the offence is triable"
+    },
+    "ipcReference": {
+      "section": "149 IPC",
+      "changeNote": "Re-enacted without change of substance."
+    },
+    "illustrations": [
+      "Eight men form an unlawful assembly to beat up a rival with sticks. During the attack one of them strikes the rival's head and causes grievous hurt. Since grievous hurt was likely in carrying out the object, all eight members present are guilty of that offence under s.190.",
+      "Six people assemble to occupy a disputed plot by force. While they are there, one of them, on his own impulse, steals a phone from a passer-by. The theft was neither part of the common object nor known to be likely, so only the thief is liable for it."
+    ],
+    "termRefs": [
+      "unlawful-assembly",
+      "common-object"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.190 — bare Act text verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette); compounding from BNSS s.359(3)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-191",
+    "chapterId": "ch-11",
+    "number": "191",
+    "title": "Rioting",
+    "bareActText": "(1) Whenever force or violence is used by an unlawful assembly, or by any member thereof, in prosecution of the common object of such assembly, every member of such assembly is guilty of the offence of rioting. (2) Whoever is guilty of rioting, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both. (3) Whoever is guilty of rioting, being armed with a deadly weapon or with anything which, used as a weapon of offence, is likely to cause death, shall be punished with imprisonment of either description for a term which may extend to five years, or with fine, or with both.",
+    "plainMeaning": "Rioting is an unlawful assembly in action. The moment the assembly, or even one of its members, uses force or violence to carry out the common object, every member becomes guilty of rioting, whether or not he personally used force. Rioting is punishable with up to two years, or fine, or both. If the rioter is armed with a deadly weapon, or anything likely to cause death when used as a weapon, the maximum rises to five years.",
+    "ingredients": [
+      "An unlawful assembly of five or more persons (s.189(1))",
+      "Force or violence used by the assembly or any member of it",
+      "The force or violence was used in prosecution of the common object",
+      "The accused was a member of the assembly",
+      "For sub-s. (3): the accused was armed with a deadly weapon or a thing likely to cause death"
+    ],
+    "punishment": "(2) Imprisonment of either description up to 2 years, or fine, or both. (3) Armed with a deadly weapon: imprisonment of either description up to 5 years, or fine, or both.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "(2) Any Magistrate; (3) Magistrate of the first class"
+    },
+    "ipcReference": {
+      "section": "146-148 IPC",
+      "changeNote": "Merges the definition (s.146) and punishments (ss.147-148). Armed rioting now carries up to 5 years, up from 3 years under s.148 IPC."
+    },
+    "illustrations": [
+      "A crowd of twelve assembles to stop a demolition drive by force, and two of them push and hit the demolition workers. Every member of that assembly is guilty of rioting under s.191(2), even those who only stood by chanting.",
+      "In the same crowd, one member carries a sword. He is liable to the higher punishment for armed rioting under s.191(3)."
+    ],
+    "termRefs": [
+      "rioting",
+      "unlawful-assembly",
+      "common-object",
+      "force",
+      "deadly-weapon"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.191 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-192",
+    "chapterId": "ch-11",
+    "number": "192",
+    "title": "Wantonly giving provocation with intent to cause riot—if rioting be committed; if not committed",
+    "bareActText": "Whoever malignantly, or wantonly by doing anything which is illegal, gives provocation to any person intending or knowing it to be likely that such provocation will cause the offence of rioting to be committed, shall, if the offence of rioting be committed in consequence of such provocation, be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both; and if the offence of rioting be not committed, with imprisonment of either description for a term which may extend to six months, or with fine, or with both.",
+    "plainMeaning": "A person who, out of malice or by a reckless illegal act, provokes someone, intending or knowing it likely that a riot will follow, is punished even though he does not take part in the riot himself. If a riot actually results from the provocation, the maximum is one year; if no riot takes place, it is six months. In both cases fine can be imposed instead of, or with, imprisonment.",
+    "ingredients": [
+      "Giving provocation to any person",
+      "Doing so malignantly, or wantonly by doing an illegal act",
+      "Intending, or knowing it to be likely, that the provocation will cause rioting",
+      "Punishment depends on whether rioting actually follows as a result"
+    ],
+    "punishment": "If rioting is committed: imprisonment of either description up to 1 year, or fine, or both. If rioting is not committed: up to 6 months, or fine, or both.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "153 IPC",
+      "changeNote": "Re-enacted without change of substance or punishment."
+    },
+    "illustrations": [
+      "During a tense local dispute, P deliberately sets fire to an effigy of a rival group's leader outside their meeting hall, expecting the group to rush out and fight. A riot breaks out. P is liable under s.192 to up to one year.",
+      "If the rival group instead ignores P's act and no riot occurs, P is still liable, but to the lower maximum of six months."
+    ],
+    "termRefs": [
+      "rioting",
+      "illegal"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.192 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-193",
+    "chapterId": "ch-11",
+    "number": "193",
+    "title": "Liability of owner, occupier, etc., of land on which an unlawful assembly or riot takes place",
+    "bareActText": "(1) Whenever any unlawful assembly or riot takes place, the owner or occupier of the land upon which such unlawful assembly is held, or such riot is committed, and any person having or claiming an interest in such land, shall be punishable with fine not exceeding one thousand rupees, if he or his agent or manager, knowing that such offence is being or has been committed, or having reason to believe it is likely to be committed, do not give the earliest notice thereof in his or their power to the officer in charge at the nearest police station, and do not, in the case of his or their having reason to believe that it was about to be committed, use all lawful means in his or their power to prevent it and, in the event of its taking place, do not use all lawful means in his or their power to disperse or suppress the riot or unlawful assembly. (2) Whenever a riot is committed for the benefit or on behalf of any person who is the owner or occupier of any land respecting which such riot takes place or who claims any interest in such land, or in the subject of any dispute which gave rise to the riot, or who has accepted or derived any benefit therefrom, such person shall be punishable with fine, if he or his agent or manager, having reason to believe that such riot was likely to be committed or that the unlawful assembly by which such riot was committed was likely to be held, shall not respectively use all lawful means in his or their power to prevent such assembly or riot from taking place, and for suppressing and dispersing the same. (3) Whenever a riot is committed for the benefit or on behalf of any person who is the owner or occupier of any land respecting which such riot takes place, or who claims any interest in such land, or in the subject of any dispute which gave rise to the riot, or who has accepted or derived any benefit therefrom, the agent or manager of such person shall be punishable with fine, if such agent or manager, having reason to believe that such riot was likely to be committed, or that the unlawful assembly by which such riot was committed was likely to be held, shall not use all lawful means in his power to prevent such riot or assembly from taking place and for suppressing and dispersing the same.",
+    "plainMeaning": "The law places a duty on people connected with land to help keep the peace on it. Under sub-s. (1), when an unlawful assembly or riot happens on land, its owner, occupier or anyone claiming an interest in it is liable to a fine of up to ₹1,000 if he (or his agent or manager) knew or had reason to believe of it but failed to inform the nearest police station as early as possible, and failed to use all lawful means to prevent, disperse or suppress it. Sub-sections (2) and (3) deal with a riot carried out for the benefit of such a person — for example, a riot over his disputed land: he, and separately his agent or manager, are liable to a fine if they had reason to expect the riot or assembly and did not use all lawful means to prevent and suppress it. These are omissions punished with fine only.",
+    "ingredients": [
+      "An unlawful assembly or riot has taken place",
+      "(1) The accused is the owner or occupier of, or claims an interest in, the land where it happened",
+      "(1) He or his agent or manager knew of it or had reason to believe it was likely",
+      "(1) Failure to give the earliest possible notice to the nearest police station, and to use all lawful means to prevent, disperse or suppress it",
+      "(2)-(3) A riot committed for the benefit or on behalf of such a person; he (2) or his agent or manager (3) had reason to expect it and did not use all lawful means to prevent or suppress it"
+    ],
+    "punishment": "(1) Fine up to ₹1,000. (2) Fine. (3) Fine.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "154-156 IPC",
+      "changeNote": "Merges three IPC sections into one; the fine under sub-s. (1) stays at up to ₹1,000."
+    },
+    "illustrations": [
+      "L, the owner of a farmhouse, learns that a group of men are gathering on his premises that night to attack a neighbouring family. L neither informs the police nor takes any step to stop them, and the attack takes place. L is liable to a fine under s.193(1).",
+      "A riot is fought over a plot claimed by M, to drive away rival claimants. M's manager had been told the fight was planned but did nothing to prevent it. The manager is liable to a fine under s.193(3), and M under s.193(2) if he too had reason to expect it and did nothing."
+    ],
+    "termRefs": [
+      "unlawful-assembly",
+      "rioting",
+      "reason-to-believe"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.193 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-194",
+    "chapterId": "ch-11",
+    "number": "194",
+    "title": "Affray",
+    "bareActText": "(1) When two or more persons, by fighting in a public place, disturb the public peace, they are said to commit an affray. (2) Whoever commits an affray, shall be punished with imprisonment of either description for a term which may extend to one month, or with fine which may extend to one thousand rupees, or with both.",
+    "plainMeaning": "An affray is a fight between two or more people in a public place that disturbs the public peace. Unlike rioting, no assembly of five, no common object and no unlawful assembly is needed — only a fight, in public, disturbing the peace. It is a minor offence: up to one month, or a fine up to ₹1,000, or both.",
+    "ingredients": [
+      "Two or more persons",
+      "Fighting (not just quarrelling or abusing each other)",
+      "In a public place",
+      "The fight disturbs the public peace"
+    ],
+    "punishment": "Imprisonment of either description up to 1 month, or fine up to ₹1,000, or both.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "159-160 IPC",
+      "changeNote": "Merges the definition (s.159) and punishment (s.160). The maximum fine rises from ₹100 to ₹1,000."
+    },
+    "illustrations": [
+      "Two auto-rickshaw drivers come to blows at a crowded bus stand over a passenger, scattering the people waiting there. Both commit an affray.",
+      "The same two drivers fight inside a closed private garage with nobody around. It is not an affray, because it is not in a public place and does not disturb the public peace (though it may still be hurt)."
+    ],
+    "termRefs": [
+      "affray",
+      "public"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.194 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-195",
+    "chapterId": "ch-11",
+    "number": "195",
+    "title": "Assaulting or obstructing public servant when suppressing riot, etc.",
+    "bareActText": "(1) Whoever assaults or obstructs any public servant or uses criminal force on any public servant in the discharge of his duty as such public servant in endeavouring to disperse an unlawful assembly, or to suppress a riot or affray, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine which shall not be less than twenty-five thousand rupees, or with both. (2) Whoever threatens to assault or attempts to obstruct any public servant or threatens or attempts to use criminal force to any public servant in the discharge of his duty as such public servant in endeavouring to disperse an unlawful assembly, or to suppress a riot or affray, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both.",
+    "plainMeaning": "This section protects police and other public servants while they are dispersing an unlawful assembly or putting down a riot or affray. Actually assaulting, obstructing or using criminal force on such a public servant is punishable with up to three years, or a fine of at least ₹25,000, or both. Merely threatening to assault or use criminal force on him, or attempting to obstruct him, is a lesser offence punishable with up to one year, or fine, or both.",
+    "ingredients": [
+      "The victim is a public servant discharging his duty",
+      "He is trying to disperse an unlawful assembly or suppress a riot or affray",
+      "(1) The accused assaults, obstructs, or uses criminal force on him",
+      "(2) The accused threatens to assault or use criminal force, or attempts to obstruct or use criminal force"
+    ],
+    "punishment": "(1) Imprisonment of either description up to 3 years, or fine not less than ₹25,000, or both. (2) Imprisonment of either description up to 1 year, or fine, or both.",
+    "classification": {
+      "cognizable": "(1) Cognizable; (2) Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "(1) Magistrate of the first class; (2) Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "152 IPC",
+      "changeNote": "Section 152 IPC punished both actual assault or obstruction and threats or attempts with the same 3 years. The BNS splits them: actual assault or obstruction keeps 3 years but any fine must be at least ₹25,000; threats and attempts move to sub-s. (2) with a lower 1-year maximum."
+    },
+    "illustrations": [
+      "Police officers order a rioting mob to disperse. R grabs a constable's baton and shoves him to the ground to stop him from making arrests. R is liable under s.195(1).",
+      "While the police are dispersing an unlawful assembly, S shouts at an inspector that he will beat him up if he comes any closer, but does nothing more. S is liable under s.195(2)."
+    ],
+    "termRefs": [
+      "public-servant",
+      "assault",
+      "criminal-force",
+      "unlawful-assembly",
+      "rioting",
+      "affray"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.195 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-196",
+    "chapterId": "ch-11",
+    "number": "196",
+    "title": "Promoting enmity between different groups on grounds of religion, race, place of birth, residence, language, etc., and doing acts prejudicial to maintenance of harmony",
+    "bareActText": "(1) Whoever— (a) by words, either spoken or written, or by signs or by visible representations or through electronic communication or otherwise, promotes or attempts to promote, on grounds of religion, race, place of birth, residence, language, caste or community or any other ground whatsoever, disharmony or feelings of enmity, hatred or ill-will between different religious, racial, language or regional groups or castes or communities; or (b) commits any act which is prejudicial to the maintenance of harmony between different religious, racial, language or regional groups or castes or communities, and which disturbs or is likely to disturb the public tranquillity; or (c) organises any exercise, movement, drill or other similar activity intending that the participants in such activity shall use or be trained to use criminal force or violence or knowing it to be likely that the participants in such activity will use or be trained to use criminal force or violence, or participates in such activity intending to use or be trained to use criminal force or violence or knowing it to be likely that the participants in such activity will use or be trained to use criminal force or violence, against any religious, racial, language or regional group or caste or community and such activity for any reason whatsoever causes or is likely to cause fear or alarm or a feeling of insecurity amongst members of such religious, racial, language or regional group or caste or community, shall be punished with imprisonment which may extend to three years, or with fine, or with both. (2) Whoever commits an offence specified in sub-section (1) in any place of worship or in any assembly engaged in the performance of religious worship or religious ceremonies, shall be punished with imprisonment which may extend to five years and shall also be liable to fine.",
+    "plainMeaning": "This section guards social harmony between groups. It covers three kinds of conduct: (a) promoting, or trying to promote, disharmony, enmity, hatred or ill-will between religious, racial, language or regional groups, castes or communities, on the ground of religion, race, place of birth, residence, language, caste, community or any other ground — by speech, writing, signs, pictures, electronic communication or any other means; (b) any act that harms harmony between such groups and disturbs, or is likely to disturb, public tranquillity; and (c) organising or taking part in drills or similar training meant for (or likely to lead to) the use of criminal force or violence against such a group, where it causes or is likely to cause fear, alarm or insecurity among its members. The punishment is up to three years, or fine, or both. If done in a place of worship or at a religious gathering, it rises to up to five years plus fine.",
+    "ingredients": [
+      "(a) Words, signs, visible representations, electronic communication or other means",
+      "(a) Promoting or attempting to promote disharmony, enmity, hatred or ill-will between groups, castes or communities, on grounds such as religion, race, place of birth, residence, language, caste or community",
+      "(b) An act prejudicial to harmony between groups that disturbs or is likely to disturb public tranquillity",
+      "(c) Organising or participating in an exercise, drill or movement for use of (or training in) criminal force or violence against a group, causing or likely to cause fear, alarm or insecurity",
+      "(2) Aggravated when committed in a place of worship or a religious assembly"
+    ],
+    "punishment": "(1) Imprisonment up to 3 years, or fine, or both. (2) In a place of worship or religious assembly: imprisonment up to 5 years and fine.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Magistrate of the first class"
+    },
+    "ipcReference": {
+      "section": "153A IPC",
+      "changeNote": "Re-enacts s.153A IPC and expressly adds 'electronic communication' as a means of promoting enmity. Punishments are unchanged."
+    },
+    "illustrations": [
+      "T posts a series of videos on social media telling viewers that members of a particular community are traitors who must be driven out of the city. T promotes enmity through electronic communication and is liable under s.196(1)(a).",
+      "U organises weekend training camps where participants practise attacks with sticks and knives, openly announcing that they are preparing to 'deal with' a named caste group, and members of that group become fearful. U is liable under s.196(1)(c).",
+      "V delivers a speech inciting hatred against another religious group while standing inside a temple during a festival gathering. The aggravated offence under s.196(2) applies."
+    ],
+    "termRefs": [
+      "public-tranquillity",
+      "criminal-force"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.196 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-197",
+    "chapterId": "ch-11",
+    "number": "197",
+    "title": "Imputations, assertions prejudicial to national integration",
+    "bareActText": "(1) Whoever, by words either spoken or written or by signs or by visible representations or through electronic communication or otherwise,— (a) makes or publishes any imputation that any class of persons cannot, by reason of their being members of any religious, racial, language or regional group or caste or community, bear true faith and allegiance to the Constitution of India as by law established or uphold the sovereignty and integrity of India; or (b) asserts, counsels, advises, propagates or publishes that any class of persons shall, by reason of their being members of any religious, racial, language or regional group or caste or community, be denied, or deprived of their rights as citizens of India; or (c) makes or publishes any assertion, counsel, plea or appeal concerning the obligation of any class of persons, by reason of their being members of any religious, racial, language or regional group or caste or community, and such assertion, counsel, plea or appeal causes or is likely to cause disharmony or feelings of enmity or hatred or ill-will between such members and other persons; or (d) makes or publishes false or misleading information, jeopardising the sovereignty, unity and integrity or security of India, shall be punished with imprisonment which may extend to three years, or with fine, or with both. (2) Whoever commits an offence specified in sub-section (1) in any place of worship or in any assembly engaged in the performance of religious worship or religious ceremonies, shall be punished with imprisonment which may extend to five years and shall also be liable to fine.",
+    "plainMeaning": "This section protects national integration. By any means of expression, including electronic communication, it is an offence to: (a) claim that a class of people cannot be loyal to the Constitution or uphold India's sovereignty and integrity merely because they belong to a particular religious, racial, language or regional group, caste or community; (b) advocate that such a class should be denied their rights as citizens; (c) make an assertion or appeal about the obligations of such a class that causes, or is likely to cause, disharmony or hatred between them and others; or (d) make or publish false or misleading information that jeopardises the sovereignty, unity, integrity or security of India. The punishment is up to three years, or fine, or both; in a place of worship or religious gathering, up to five years and fine.",
+    "ingredients": [
+      "Words, signs, visible representations, electronic communication or other means",
+      "(a) Imputing that a class, because of its group, cannot bear allegiance to the Constitution or uphold India's sovereignty and integrity; or",
+      "(b) Asserting or propagating that a class, because of its group, should be denied citizens' rights; or",
+      "(c) An assertion or appeal about the obligation of a class, causing or likely to cause disharmony or hatred; or",
+      "(d) Making or publishing false or misleading information jeopardising India's sovereignty, unity, integrity or security",
+      "(2) Aggravated when committed in a place of worship or a religious assembly"
+    ],
+    "punishment": "(1) Imprisonment up to 3 years, or fine, or both. (2) In a place of worship or religious assembly: imprisonment up to 5 years and fine.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Magistrate of the first class"
+    },
+    "ipcReference": {
+      "section": "153B IPC",
+      "changeNote": "Re-enacts s.153B IPC, adds 'electronic communication', and adds a NEW clause (d) punishing false or misleading information that jeopardises the sovereignty, unity, integrity or security of India."
+    },
+    "illustrations": [
+      "W writes a pamphlet claiming that no member of a particular linguistic group can ever be loyal to the Constitution and circulates it widely. W is liable under s.197(1)(a).",
+      "X runs a campaign urging that people of a certain caste should be struck off the voters' list and denied citizens' rights. X is liable under s.197(1)(b).",
+      "Y knowingly publishes a fabricated news report online claiming that a border State has seceded and that the army has surrendered, spreading panic. This false information jeopardises the unity and security of India under s.197(1)(d)."
+    ],
+    "termRefs": [
+      "sovereignty"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.197 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  }
+]

@@ -1,0 +1,97 @@
+{
+  "id": "ch-11",
+  "number": "XI",
+  "title": "Of Offences Against the Public Tranquillity",
+  "sectionRange": "189-197",
+  "shortDescription": "Offences that threaten public peace and social harmony: unlawful assembly, shared liability for its offences, rioting, provoking riots, duties of landowners, affray, obstructing officials who quell riots, promoting enmity between groups and statements against national integration.",
+  "subHeadings": [
+    { "id": "assembly-riot", "label": "Unlawful assembly and rioting", "sectionIds": ["s-189", "s-190", "s-191", "s-192", "s-193"] },
+    { "id": "affray-officials", "label": "Affray and protecting officials", "sectionIds": ["s-194", "s-195"] },
+    { "id": "harmony", "label": "Group harmony and national integration", "sectionIds": ["s-196", "s-197"] }
+  ],
+  "summary": "Chapter XI protects public peace — the ordinary calm of public life that group violence and hate campaigns destroy. It corresponds to Chapter VIII of the IPC (ss.141-160), but the BNS compresses about twenty IPC sections into nine. Most of the change is consolidation: the definition of unlawful assembly and its many punishment sections now sit in one long s.189, and rioting's definition and punishments sit in s.191. The Gazette gives the chapter no sub-headings; its sections fall into three groups: unlawful assembly and rioting (ss.189-193), affray and protecting officials (ss.194-195), and group harmony and national integration (ss.196-197).\n\nSection 189(1) defines an unlawful assembly: five or more persons whose common object is to overawe a Government, legislature or public servant by criminal force; to resist the execution of law or legal process; to commit mischief, criminal trespass or any offence; to take property or enforce a right by criminal force; or to compel a person by criminal force to act against his legal position. A lawful gathering can become unlawful later. Sub-sections (2) to (9) punish knowingly joining such an assembly, staying on after an order to disperse, being armed, hiring or harbouring members, and being hired. Section 190 is the key rule of constructive liability: every member is guilty of an offence committed by any member in prosecution of the common object, or which the members knew to be likely. Section 191 makes every member guilty of rioting when the assembly uses force or violence for its common object; armed rioting now carries up to five years instead of three. Section 192 punishes wanton provocation to riot, and s.193 fines landowners, occupiers and their agents who fail to report or prevent an assembly or riot on their land.\n\nSection 194 defines affray — two or more persons fighting in a public place and disturbing the public peace — and raises its fine to ₹1,000. Section 195 protects public servants dispersing an assembly or suppressing a riot or affray; the BNS now separates actual assault or obstruction (three years, or a minimum fine of ₹25,000) from mere threats or attempts (one year).\n\nSections 196 and 197 carry forward ss.153A and 153B IPC. Section 196 punishes promoting enmity between religious, racial, language or regional groups, castes or communities, acts prejudicial to their harmony, and drills aimed at violence against them. Section 197 punishes imputations and assertions against national integration and adds a new clause (d): making or publishing false or misleading information that jeopardises the sovereignty, unity, integrity or security of India. Both expressly cover electronic communication, and both carry up to three years, rising to five years and fine if committed in a place of worship or religious assembly. Both are cognizable and non-bailable. The assembly, rioting and affray offences are cognizable and bailable; only s.193 and s.195(2) are non-cognizable. None of the Chapter's offences is listed as compoundable.",
+  "keyPoints": [
+    {
+      "point": "Section 189 — Unlawful assembly",
+      "subPoints": [
+        "Five or more persons with a common object listed in clauses (a)-(e)",
+        "A lawful assembly may later become unlawful (Explanation)",
+        "(2) Member: 6 months; (3) continuing after order to disperse: 2 years; (4) armed: 2 years",
+        "(5) Any crowd of 5+ likely to disturb the peace, after order to disperse: 6 months",
+        "(6) Hiring members: punished as a member; (7) harbouring hired persons: 6 months",
+        "(8) Being hired: 6 months; (9) going armed when hired: 2 years"
+      ]
+    },
+    {
+      "point": "Section 190 — Constructive liability",
+      "subPoints": [
+        "Every member guilty of an offence committed by any member",
+        "Offence committed in prosecution of the common object, or known to be likely",
+        "Not a separate offence — punishment and classification follow the offence committed"
+      ]
+    },
+    {
+      "point": "Sections 191-193 — Rioting",
+      "subPoints": [
+        "s.191(1) — force or violence used by the assembly or any member for the common object: all members riot",
+        "s.191(2) — 2 years; s.191(3) armed with deadly weapon — 5 years (was 3 under IPC)",
+        "s.192 — wanton provocation to riot: 1 year if riot occurs, 6 months if not",
+        "s.193 — owner, occupier, claimant or agent not reporting or preventing: fine (up to ₹1,000 under (1))"
+      ]
+    },
+    {
+      "point": "Sections 194-195 — Affray and officials",
+      "subPoints": [
+        "s.194 — two or more persons fighting in a public place, disturbing public peace",
+        "Affray: 1 month, or fine up to ₹1,000 (was ₹100), or both",
+        "s.195(1) — assaulting or obstructing a public servant suppressing a riot: 3 years, or fine of at least ₹25,000, or both",
+        "s.195(2) — NEW split: threats or attempts: 1 year; non-cognizable"
+      ]
+    },
+    {
+      "point": "Sections 196-197 — Harmony and national integration",
+      "subPoints": [
+        "s.196 — promoting enmity between groups; acts against harmony; violent drills against a group",
+        "s.197 — imputations or assertions against national integration",
+        "s.197(1)(d) — NEW: false or misleading information jeopardising sovereignty, unity, integrity or security",
+        "Both cover 'electronic communication'",
+        "3 years, or fine, or both; in a place of worship: 5 years + fine",
+        "Cognizable, non-bailable, Magistrate of the first class"
+      ]
+    }
+  ],
+  "fastRevision": [
+    "Chapter XI corresponds to IPC Chapter VIII (ss.141-160) — about 20 sections compressed into 9.",
+    "s.189(1) — unlawful assembly: 5 or more persons with a common object in clauses (a)-(e).",
+    "s.189(1)(a) — overawing Central or State Government, Parliament, State Legislature or a public servant by criminal force.",
+    "s.189(1)(b) — resisting the execution of any law or legal process.",
+    "s.189(1)(c) — committing mischief, criminal trespass or other offence.",
+    "s.189 Explanation — an assembly lawful at the start may later become unlawful.",
+    "s.189(2) — knowingly joining or continuing in an unlawful assembly: 6 months, or fine, or both.",
+    "s.189(3) — continuing after a lawful command to disperse: 2 years.",
+    "s.189(4) — member armed with a deadly weapon: 2 years.",
+    "s.189(6) — hirer is punished as a member and for offences of hired members.",
+    "s.190 — every member is guilty of an offence committed in prosecution of the common object, or known to be likely.",
+    "s.190 = s.149 IPC; it creates liability, not a separate offence.",
+    "s.191(1) — force or violence by any member for the common object = rioting by every member.",
+    "s.191(2) — rioting: 2 years, or fine, or both.",
+    "s.191(3) — armed rioting: 5 years (IPC s.148 was 3 years).",
+    "s.192 — wantonly giving provocation to riot: 1 year if riot occurs; 6 months if not.",
+    "s.193 — landowner, occupier or agent failing to report or prevent: fine only; non-cognizable.",
+    "s.194 — affray: two or more persons fighting in a public place, disturbing the public peace.",
+    "s.194(2) — affray: 1 month, or fine up to ₹1,000, or both (IPC fine was ₹100).",
+    "Rioting needs 5+ and a common object; affray needs only 2+ fighting in a public place.",
+    "s.195(1) — assaulting or obstructing a public servant suppressing a riot: 3 years, or fine not less than ₹25,000, or both.",
+    "s.195(2) — threats or attempts: 1 year, or fine, or both; non-cognizable.",
+    "s.196 = s.153A IPC — promoting enmity between groups; now expressly covers electronic communication.",
+    "s.196(1)(c) — organising or joining drills for violence against a group.",
+    "s.197 = s.153B IPC — imputations and assertions prejudicial to national integration.",
+    "s.197(1)(d) — NEW: false or misleading information jeopardising India's sovereignty, unity, integrity or security.",
+    "ss.196-197 — 3 years; in a place of worship or religious assembly: 5 years + fine.",
+    "ss.196-197 — cognizable, non-bailable, Magistrate of the first class.",
+    "No Chapter XI offence is listed as compoundable in BNSS s.359.",
+    "IPC mapping: 189 ≈ 141-145, 150, 151, 157, 158; 190 = 149; 191 ≈ 146-148; 192 = 153; 193 ≈ 154-156; 194 ≈ 159-160; 195 = 152; 196 = 153A; 197 = 153B."
+  ],
+  "mindMap": "# Ch. XI — Public Tranquillity\n## Unlawful assembly & rioting (ss.189-193)\n- Unlawful assembly (s.189)\n  - 5+ persons, common object (a)-(e)\n  - Member 6 months; armed 2 yrs\n  - Hiring, harbouring, being hired\n- Constructive liability (s.190)\n  - Common object or known likely\n- Rioting (s.191)\n  - Force or violence → all members\n  - 2 yrs; armed 5 yrs\n- Provocation to riot (s.192)\n- Duties of landowners (s.193)\n  - Fine only\n## Affray & officials (ss.194-195)\n- Affray (s.194)\n  - 2+ fighting in public place\n- Obstructing public servant (s.195)\n  - Assault: 3 yrs / fine ≥ ₹25,000\n  - Threat: 1 yr\n## Harmony & integration (ss.196-197)\n- Promoting enmity (s.196)\n- National integration (s.197)\n  - False information — NEW\n- Place of worship → 5 yrs + fine",
+  "lastVerified": "2026-09-29"
+}

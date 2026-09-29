@@ -1,0 +1,232 @@
+[
+  {
+    "id": "mcq-ch11-1",
+    "chapterId": "ch-11",
+    "question": "The minimum number of persons needed to form an unlawful assembly under Section 189 is—",
+    "options": ["Two", "Three", "Five", "Ten"],
+    "correctIndex": 2,
+    "explanation": "s.189(1): an assembly of five or more persons with a common object listed in clauses (a)-(e)."
+  },
+  {
+    "id": "mcq-ch11-2",
+    "chapterId": "ch-11",
+    "question": "Under the Explanation to Section 189(1), an assembly that was lawful when it gathered—",
+    "options": [
+      "Can never become unlawful",
+      "May subsequently become an unlawful assembly",
+      "Becomes unlawful only on a Magistrate's order",
+      "Becomes unlawful only if it exceeds ten persons"
+    ],
+    "correctIndex": 1,
+    "explanation": "The Explanation says an assembly which was not unlawful when it assembled may subsequently become an unlawful assembly."
+  },
+  {
+    "id": "mcq-ch11-3",
+    "chapterId": "ch-11",
+    "question": "The punishment for being a member of an unlawful assembly under Section 189(2) is—",
+    "options": [
+      "Up to 6 months, or fine, or both",
+      "Up to 2 years, or fine, or both",
+      "Up to 3 years and fine",
+      "Fine only"
+    ],
+    "correctIndex": 0,
+    "explanation": "s.189(2): imprisonment of either description up to six months, or fine, or both."
+  },
+  {
+    "id": "mcq-ch11-4",
+    "chapterId": "ch-11",
+    "question": "Section 190 of the BNS corresponds to which IPC section?",
+    "options": ["Section 34", "Section 141", "Section 149", "Section 120B"],
+    "correctIndex": 2,
+    "explanation": "s.190 re-enacts s.149 IPC: every member of an unlawful assembly is guilty of an offence committed in prosecution of the common object."
+  },
+  {
+    "id": "mcq-ch11-5",
+    "chapterId": "ch-11",
+    "question": "Under Section 190, a member of an unlawful assembly is guilty of an offence committed by another member if the offence was—",
+    "options": [
+      "Committed anywhere, at any time",
+      "Committed in prosecution of the common object, or known by the members to be likely in prosecution of it",
+      "Committed only with his personal participation",
+      "Planned in advance at a meeting he attended"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.190 has two limbs: offences committed in prosecution of the common object, and offences the members knew were likely to be committed in prosecution of that object."
+  },
+  {
+    "id": "mcq-ch11-6",
+    "chapterId": "ch-11",
+    "question": "Rioting is committed when—",
+    "options": [
+      "Two or more persons fight in a public place",
+      "Force or violence is used by an unlawful assembly, or any member of it, in prosecution of its common object",
+      "Five persons assemble without police permission",
+      "A person provokes another to fight"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.191(1): when force or violence is used by an unlawful assembly or any member in prosecution of the common object, every member is guilty of rioting."
+  },
+  {
+    "id": "mcq-ch11-7",
+    "chapterId": "ch-11",
+    "question": "The maximum punishment for rioting armed with a deadly weapon under Section 191(3) is—",
+    "options": ["2 years", "3 years", "5 years", "7 years"],
+    "correctIndex": 2,
+    "explanation": "s.191(3): up to five years, or fine, or both. Under s.148 IPC it was three years."
+  },
+  {
+    "id": "mcq-ch11-8",
+    "chapterId": "ch-11",
+    "question": "Which of these is NOT an ingredient of affray under Section 194?",
+    "options": [
+      "Two or more persons",
+      "Fighting in a public place",
+      "Disturbance of the public peace",
+      "A common object shared by five or more persons"
+    ],
+    "correctIndex": 3,
+    "explanation": "Affray needs only two or more persons fighting in a public place and disturbing the public peace. A common object of five or more is needed for unlawful assembly and rioting, not affray."
+  },
+  {
+    "id": "mcq-ch11-9",
+    "chapterId": "ch-11",
+    "question": "The maximum fine for affray under Section 194(2) is—",
+    "options": ["₹100", "₹500", "₹1,000", "₹25,000"],
+    "correctIndex": 2,
+    "explanation": "s.194(2): up to one month, or fine up to ₹1,000, or both. The IPC fine (s.160) was ₹100."
+  },
+  {
+    "id": "mcq-ch11-10",
+    "chapterId": "ch-11",
+    "question": "Under Section 195(1), a person who assaults a public servant suppressing a riot may be punished with fine which—",
+    "options": [
+      "May extend to ₹1,000",
+      "Shall not be less than ₹25,000",
+      "Shall not be less than ₹10,000",
+      "Is unlimited but has no minimum"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.195(1): imprisonment up to three years, or fine which shall not be less than twenty-five thousand rupees, or both."
+  },
+  {
+    "id": "mcq-ch11-11",
+    "chapterId": "ch-11",
+    "question": "Threatening to assault a public servant who is dispersing an unlawful assembly (s.195(2)) is—",
+    "options": [
+      "Cognizable and non-bailable",
+      "Non-cognizable and bailable",
+      "Cognizable and bailable",
+      "Non-cognizable and non-bailable"
+    ],
+    "correctIndex": 1,
+    "explanation": "BNSS First Schedule: s.195(2) is non-cognizable, bailable, triable by any Magistrate; s.195(1) is cognizable."
+  },
+  {
+    "id": "mcq-ch11-12",
+    "chapterId": "ch-11",
+    "question": "Under Section 192, if wanton provocation to riot does NOT result in rioting, the maximum punishment is—",
+    "options": ["No punishment", "6 months", "1 year", "2 years"],
+    "correctIndex": 1,
+    "explanation": "s.192: one year if rioting is committed; six months, or fine, or both, if it is not."
+  },
+  {
+    "id": "mcq-ch11-13",
+    "chapterId": "ch-11",
+    "question": "The owner of land who fails to inform the police of an unlawful assembly on his land is liable under Section 193(1) to—",
+    "options": [
+      "Imprisonment up to 6 months",
+      "Fine not exceeding ₹1,000",
+      "Imprisonment up to 1 year and fine",
+      "Forfeiture of the land"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.193(1): fine not exceeding one thousand rupees. It is non-cognizable and bailable."
+  },
+  {
+    "id": "mcq-ch11-14",
+    "chapterId": "ch-11",
+    "question": "Section 196 of the BNS corresponds to—",
+    "options": ["Section 153 IPC", "Section 153A IPC", "Section 153B IPC", "Section 295A IPC"],
+    "correctIndex": 1,
+    "explanation": "s.196 (promoting enmity between groups) re-enacts s.153A IPC; s.197 corresponds to s.153B."
+  },
+  {
+    "id": "mcq-ch11-15",
+    "chapterId": "ch-11",
+    "question": "Promoting enmity between groups inside a place of worship (s.196(2)) is punishable with—",
+    "options": [
+      "Up to 3 years, or fine, or both",
+      "Up to 5 years and fine",
+      "Up to 7 years and fine",
+      "Imprisonment for life"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.196(2): imprisonment up to five years and also fine."
+  },
+  {
+    "id": "mcq-ch11-16",
+    "chapterId": "ch-11",
+    "question": "Which clause of Section 197 is NEW in the BNS compared with Section 153B IPC?",
+    "options": [
+      "Clause (a) — imputations about allegiance to the Constitution",
+      "Clause (b) — denial of citizens' rights",
+      "Clause (c) — assertions about obligations of a class",
+      "Clause (d) — false or misleading information jeopardising sovereignty, unity, integrity or security of India"
+    ],
+    "correctIndex": 3,
+    "explanation": "s.197(1)(d) is new: making or publishing false or misleading information jeopardising the sovereignty, unity and integrity or security of India."
+  },
+  {
+    "id": "mcq-ch11-17",
+    "chapterId": "ch-11",
+    "question": "Offences under Sections 196 and 197 are—",
+    "options": [
+      "Non-cognizable and bailable",
+      "Cognizable and bailable",
+      "Cognizable and non-bailable",
+      "Compoundable by the aggrieved group"
+    ],
+    "correctIndex": 2,
+    "explanation": "BNSS First Schedule: ss.196-197 are cognizable, non-bailable and triable by a Magistrate of the first class."
+  },
+  {
+    "id": "mcq-ch11-18",
+    "chapterId": "ch-11",
+    "question": "A person who hires others to join an unlawful assembly is, under Section 189(6)—",
+    "options": [
+      "Not liable, since he was not present",
+      "Liable only to a fine",
+      "Punishable as a member, and for offences committed by the hired persons as members",
+      "Liable only if he personally used force"
+    ],
+    "correctIndex": 2,
+    "explanation": "s.189(6): the hirer is punishable as a member of the unlawful assembly and for any offence committed by the hired person as a member, as if he had committed it himself."
+  },
+  {
+    "id": "mcq-ch11-19",
+    "chapterId": "ch-11",
+    "question": "Which is NOT a listed common object making an assembly unlawful under Section 189(1)?",
+    "options": [
+      "Resisting the execution of any law or legal process",
+      "Committing mischief or criminal trespass",
+      "Peacefully petitioning the Government for a change in law",
+      "Overawing a State Government by show of criminal force"
+    ],
+    "correctIndex": 2,
+    "explanation": "Clauses (a)-(e) all involve an offence, resisting law, or criminal force. A peaceful petition is not a listed object."
+  },
+  {
+    "id": "mcq-ch11-20",
+    "chapterId": "ch-11",
+    "question": "The IPC chapter that Chapter XI of the BNS replaces is—",
+    "options": [
+      "Chapter VI (ss.121-130)",
+      "Chapter VIII (ss.141-160)",
+      "Chapter XV (ss.295-298)",
+      "Chapter XXII (ss.503-510)"
+    ],
+    "correctIndex": 1,
+    "explanation": "IPC Chapter VIII, 'Of Offences against the Public Tranquillity', ss.141-160."
+  }
+]

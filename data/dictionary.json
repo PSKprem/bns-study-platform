@@ -226,7 +226,9 @@
       "s-121",
       "s-132",
       "s-156",
-      "s-157"
+      "s-157",
+      "s-189",
+      "s-195"
     ]
   },
   {
@@ -387,7 +389,8 @@
     "meaningHi": "लोक (जनता) — इसमें जनता का कोई भी वर्ग या कोई भी समुदाय शामिल है।",
     "relatedSections": [
       "s-2",
-      "s-57"
+      "s-57",
+      "s-194"
     ]
   },
   {
@@ -401,7 +404,8 @@
       "s-144",
       "s-164",
       "s-179",
-      "s-180"
+      "s-180",
+      "s-193"
     ]
   },
   {
@@ -417,7 +421,8 @@
       "s-61",
       "s-119",
       "s-150",
-      "s-3"
+      "s-3",
+      "s-192"
     ]
   },
   {
@@ -495,7 +500,8 @@
       "s-113",
       "s-143",
       "s-158",
-      "s-164"
+      "s-164",
+      "s-189"
     ]
   },
   {
@@ -1143,7 +1149,8 @@
     "relatedSections": [
       "s-128",
       "s-129",
-      "s-138"
+      "s-138",
+      "s-191"
     ]
   },
   {
@@ -1162,7 +1169,10 @@
       "s-135",
       "s-136",
       "s-148",
-      "s-151"
+      "s-151",
+      "s-189",
+      "s-195",
+      "s-196"
     ]
   },
   {
@@ -1180,7 +1190,8 @@
       "s-136",
       "s-151",
       "s-161",
-      "s-162"
+      "s-162",
+      "s-195"
     ]
   },
   {
@@ -1284,7 +1295,8 @@
     "meaningHi": "आतंकित करना — बल या श्रेष्ठ शक्ति के प्रदर्शन से डराकर या दबाकर किसी के कार्यों को नियंत्रित करना; सरकार (धारा 148) या राष्ट्रपति या राज्यपाल (धारा 151) को आतंकित करने के संबंध में प्रयुक्त।",
     "relatedSections": [
       "s-148",
-      "s-151"
+      "s-151",
+      "s-189"
     ]
   },
   {
@@ -1293,7 +1305,8 @@
     "meaningEn": "India's supreme authority over its territory and its existence as one undivided nation. Exciting secession, armed rebellion or subversive activities that endanger it is punished by s.152.",
     "meaningHi": "भारत की संप्रभुता, एकता और अखंडता — अपने क्षेत्र पर भारत का सर्वोच्च प्राधिकार और एक अविभाजित राष्ट्र के रूप में उसका अस्तित्व। इसे संकट में डालने वाले पृथक्करण, सशस्त्र विद्रोह या विध्वंसक गतिविधियों को उत्तेजित करना धारा 152 में दंडनीय है।",
     "relatedSections": [
-      "s-152"
+      "s-152",
+      "s-197"
     ]
   },
   {
@@ -1517,6 +1530,71 @@
     "relatedSections": [
       "s-187",
       "s-188"
+    ]
+  },
+  {
+    "id": "unlawful-assembly",
+    "term": "Unlawful assembly",
+    "meaningEn": "A gathering of five or more persons whose common object is one of those listed in s.189(1): overawing a Government, legislature or public servant by criminal force; resisting the execution of law or legal process; committing mischief, criminal trespass or any offence; taking property or enforcing a right by criminal force; or compelling a person by criminal force to act against his legal position.",
+    "meaningHi": "विधिविरुद्ध जमाव — पाँच या अधिक व्यक्तियों का ऐसा जमाव जिसका सामान्य उद्देश्य धारा 189(1) में बताए गए उद्देश्यों में से कोई हो, जैसे आपराधिक बल द्वारा सरकार या लोक सेवक को आतंकित करना, विधि के निष्पादन का प्रतिरोध करना, या कोई अपराध करना।",
+    "relatedSections": [
+      "s-189",
+      "s-190",
+      "s-191",
+      "s-193",
+      "s-195"
+    ]
+  },
+  {
+    "id": "common-object",
+    "term": "Common object",
+    "meaningEn": "The purpose shared by the members of an assembly. It need not be agreed in advance and may form on the spot; it is what turns a gathering into an unlawful assembly (s.189) and makes every member liable for offences committed to achieve it (s.190). It differs from 'common intention', which requires a prior meeting of minds.",
+    "meaningHi": "सामान्य उद्देश्य — किसी जमाव के सदस्यों का साझा प्रयोजन। इसके लिए पहले से सहमति आवश्यक नहीं है; यह मौके पर भी बन सकता है। यही जमाव को विधिविरुद्ध बनाता है और प्रत्येक सदस्य को उसके अनुसरण में किए गए अपराध का दोषी बनाता है।",
+    "relatedSections": [
+      "s-189",
+      "s-190",
+      "s-191"
+    ]
+  },
+  {
+    "id": "rioting",
+    "term": "Rioting",
+    "meaningEn": "The offence committed by every member of an unlawful assembly when force or violence is used by the assembly, or by any of its members, in prosecution of its common object (s.191). A member is guilty even if he personally used no force.",
+    "meaningHi": "बल्वा — जब किसी विधिविरुद्ध जमाव या उसके किसी सदस्य द्वारा सामान्य उद्देश्य के अनुसरण में बल या हिंसा का प्रयोग किया जाता है, तो उस जमाव का प्रत्येक सदस्य बल्वे का दोषी होता है, भले ही उसने स्वयं बल का प्रयोग न किया हो।",
+    "relatedSections": [
+      "s-191",
+      "s-192",
+      "s-193",
+      "s-195"
+    ]
+  },
+  {
+    "id": "affray",
+    "term": "Affray",
+    "meaningEn": "A fight between two or more persons in a public place that disturbs the public peace (s.194). Unlike rioting, it needs no assembly of five and no common object.",
+    "meaningHi": "दंगा (मारपीट) — जब दो या अधिक व्यक्ति किसी सार्वजनिक स्थान पर लड़कर लोक शांति भंग करते हैं। इसके लिए बल्वे की तरह पाँच व्यक्तियों या सामान्य उद्देश्य की आवश्यकता नहीं होती।",
+    "relatedSections": [
+      "s-194",
+      "s-195"
+    ]
+  },
+  {
+    "id": "deadly-weapon",
+    "term": "Deadly weapon",
+    "meaningEn": "A weapon, or anything which, used as a weapon of offence, is likely to cause death — for example a sword, knife or firearm. Being armed with one aggravates membership of an unlawful assembly (s.189(4), (9)) and rioting (s.191(3)).",
+    "meaningHi": "घातक आयुध — ऐसा हथियार या कोई वस्तु जो आक्रमण के हथियार के रूप में प्रयोग किए जाने पर मृत्यु कारित कर सकती है, जैसे तलवार, चाकू या आग्नेयास्त्र। इससे सज्जित होना विधिविरुद्ध जमाव की सदस्यता और बल्वे को गंभीर बनाता है।",
+    "relatedSections": [
+      "s-189",
+      "s-191"
+    ]
+  },
+  {
+    "id": "public-tranquillity",
+    "term": "Public tranquillity",
+    "meaningEn": "The general peace and calm of society — the state in which people can go about public life without fear of disorder or group violence. Chapter XI protects it; s.196(1)(b) punishes acts against harmony between groups that disturb or are likely to disturb it.",
+    "meaningHi": "लोक प्रशांति — समाज की सामान्य शांति और सुव्यवस्था, जिसमें लोग अव्यवस्था या सामूहिक हिंसा के भय के बिना सार्वजनिक जीवन जी सकें। अध्याय 11 इसकी रक्षा करता है।",
+    "relatedSections": [
+      "s-196"
     ]
   }
 ]

@@ -98,6 +98,7 @@ Goal: prove the whole workflow on one small chapter. Definition of Done = `requi
   - [x] Chapter VIII (Offences Relating to the Army, Navy and Air Force, s.159–168) — Gazette-verified; 10 sections, 11 MCQs, 5 exam Q&A, 6 new dictionary terms
   - [x] Chapter IX (Offences Relating to Elections, s.169–177) — Gazette-verified; 9 sections, 16 MCQs, 12 exam Q&A, 7 new dictionary terms
   - [x] Chapter X (Coin, Currency-Notes, Bank-Notes and Government Stamps, s.178–188) — Gazette-verified; 11 sections, 20 MCQs, 11 exam Q&A, 5 new dictionary terms
+  - [x] Chapter XI (Offences Against the Public Tranquillity, s.189–197) — Gazette-verified; 9 sections, 20 MCQs, 11 exam Q&A, 6 new dictionary terms
 - [x] Dictionary check: fixed 10 one-way section↔term links; new test enforces two-way links; home page links to the full dictionary with its term count; chapter tab shows its term count
 - [x] Dark mode toggle (light/dark, persisted in localStorage) *(added on request)*
 - [x] Statutory Dictionary: all 38 terms defined in s.2, bilingual
