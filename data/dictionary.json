@@ -204,7 +204,11 @@
       "s-322",
       "s-323",
       "s-328",
-      "s-334"
+      "s-334",
+      "s-335",
+      "s-339",
+      "s-340",
+      "s-343"
     ]
   },
   {
@@ -227,7 +231,11 @@
       "s-320",
       "s-321",
       "s-322",
-      "s-323"
+      "s-323",
+      "s-335",
+      "s-339",
+      "s-340",
+      "s-343"
     ]
   },
   {
@@ -268,7 +276,8 @@
       "s-201",
       "s-210",
       "s-228",
-      "s-241"
+      "s-241",
+      "s-335"
     ]
   },
   {
@@ -330,7 +339,10 @@
       "s-267",
       "s-293",
       "s-316",
-      "s-326"
+      "s-326",
+      "s-337",
+      "s-347",
+      "s-350"
     ]
   },
   {
@@ -345,7 +357,9 @@
       "s-252",
       "s-303",
       "s-304",
-      "s-314"
+      "s-314",
+      "s-338",
+      "s-345"
     ]
   },
   {
@@ -434,7 +448,12 @@
       "s-178",
       "s-179",
       "s-180",
-      "s-181"
+      "s-181",
+      "s-341",
+      "s-342",
+      "s-347",
+      "s-348",
+      "s-349"
     ]
   },
   {
@@ -450,7 +469,8 @@
       "s-210",
       "s-236",
       "s-241",
-      "s-246"
+      "s-246",
+      "s-337"
     ]
   },
   {
@@ -486,7 +506,9 @@
       "s-270",
       "s-281",
       "s-285",
-      "s-308"
+      "s-308",
+      "s-336",
+      "s-346"
     ]
   },
   {
@@ -555,7 +577,8 @@
       "s-272",
       "s-275",
       "s-294",
-      "s-317"
+      "s-317",
+      "s-340"
     ]
   },
   {
@@ -588,7 +611,11 @@
       "s-120",
       "s-127",
       "s-308",
-      "s-318"
+      "s-318",
+      "s-338",
+      "s-342",
+      "s-343",
+      "s-344"
     ]
   },
   {
@@ -755,7 +782,9 @@
     "meaningEn": "Any testamentary document (s.2(34)).",
     "meaningHi": "वसीयत — कोई भी वसीयती दस्तावेज़ (धारा 2(34))।",
     "relatedSections": [
-      "s-2"
+      "s-2",
+      "s-338",
+      "s-343"
     ]
   },
   {
@@ -1839,7 +1868,11 @@
       "s-210",
       "s-228",
       "s-241",
-      "s-294"
+      "s-294",
+      "s-335",
+      "s-336",
+      "s-337",
+      "s-344"
     ]
   },
   {
@@ -2238,7 +2271,8 @@
     "meaningHi": "छल — किसी व्यक्ति को प्रवंचित कर कपटपूर्वक या बेईमानी से उसे संपत्ति देने के लिए, या ऐसा कार्य या लोप करने के लिए उत्प्रेरित करना जो वह अन्यथा न करता और जिससे उसे हानि हो (धारा 318)।",
     "relatedSections": [
       "s-318",
-      "s-319"
+      "s-319",
+      "s-336"
     ]
   },
   {
@@ -2251,7 +2285,8 @@
       "s-325",
       "s-326",
       "s-327",
-      "s-334"
+      "s-334",
+      "s-343"
     ]
   },
   {
@@ -2284,6 +2319,62 @@
     "relatedSections": [
       "s-330",
       "s-331"
+    ]
+  },
+  {
+    "id": "false-document",
+    "term": "False document",
+    "meaningEn": "A document or electronic record made, signed, sealed or electronically signed so that it appears to come from someone who did not make or authorise it; or dishonestly altered in a material part without authority; or signed by a person who, because of unsoundness of mind, intoxication or deception, did not know its contents (s.335).",
+    "meaningHi": "मिथ्या दस्तावेज़ — ऐसा दस्तावेज़ या इलेक्ट्रॉनिक अभिलेख जो इस प्रकार बनाया, हस्ताक्षरित या मुद्रांकित किया जाए कि वह किसी ऐसे व्यक्ति का प्रतीत हो जिसने उसे नहीं बनाया; या बिना प्राधिकार के तात्त्विक भाग में बदला जाए; या ऐसे व्यक्ति से हस्ताक्षर कराया जाए जो उसकी विषयवस्तु नहीं जानता (धारा 335)।",
+    "relatedSections": [
+      "s-335",
+      "s-336"
+    ]
+  },
+  {
+    "id": "forgery",
+    "term": "Forgery",
+    "meaningEn": "Making a false document or false electronic record with intent to cause damage or injury, to support a claim or title, to make a person part with property or enter a contract, or to commit fraud (s.336). Punished more severely for public records and ID documents (s.337) and for valuable securities and wills (s.338).",
+    "meaningHi": "कूटरचना (जालसाज़ी) — क्षति पहुँचाने, किसी दावे या हक का समर्थन करने, किसी से संपत्ति छुड़वाने या संविदा कराने, या कपट करने के आशय से मिथ्या दस्तावेज़ या इलेक्ट्रॉनिक अभिलेख बनाना (धारा 336)।",
+    "relatedSections": [
+      "s-336",
+      "s-337",
+      "s-338",
+      "s-340",
+      "s-341",
+      "s-342"
+    ]
+  },
+  {
+    "id": "forged-document",
+    "term": "Forged document",
+    "meaningEn": "A false document or electronic record made wholly or partly by forgery (s.340(1)). Possessing one to use as genuine (s.339) or using one as genuine (s.340(2)) is punished.",
+    "meaningHi": "कूटरचित दस्तावेज़ — पूर्णतः या अंशतः कूटरचना द्वारा बनाया गया मिथ्या दस्तावेज़ या इलेक्ट्रॉनिक अभिलेख (धारा 340(1))। उसे असली के रूप में उपयोग करना या इस आशय से रखना दंडनीय है।",
+    "relatedSections": [
+      "s-339",
+      "s-340"
+    ]
+  },
+  {
+    "id": "electronic-signature",
+    "term": "Electronic signature",
+    "meaningEn": "Authentication of an electronic record by a subscriber using an electronic technique recognised by the Information Technology Act, 2000. 'Affixing electronic signature' has the meaning in s.2(1)(d) of that Act (s.335, Expl. 3); falsely affixing one can make a false document.",
+    "meaningHi": "इलेक्ट्रॉनिक हस्ताक्षर — सूचना प्रौद्योगिकी अधिनियम, 2000 द्वारा मान्य इलेक्ट्रॉनिक तकनीक से किसी इलेक्ट्रॉनिक अभिलेख का प्रमाणीकरण। मिथ्या रूप से इसे लगाना मिथ्या दस्तावेज़ बनाना हो सकता है (धारा 335)।",
+    "relatedSections": [
+      "s-335"
+    ]
+  },
+  {
+    "id": "property-mark",
+    "term": "Property mark",
+    "meaningEn": "A mark used to denote that movable property belongs to a particular person, such as a brand on cattle or a name on sacks (s.345(1)). Using a false one, tampering with one, counterfeiting one, and selling goods with a counterfeit one are offences (ss.345-349).",
+    "meaningHi": "संपत्ति-चिह्न — ऐसा चिह्न जो यह दर्शाता है कि कोई चल संपत्ति किसी विशेष व्यक्ति की है, जैसे पशु पर दागा गया निशान (धारा 345(1))। मिथ्या संपत्ति-चिह्न का उपयोग, छेड़छाड़ और कूटकरण अपराध हैं।",
+    "relatedSections": [
+      "s-345",
+      "s-346",
+      "s-347",
+      "s-348",
+      "s-349"
     ]
   }
 ]

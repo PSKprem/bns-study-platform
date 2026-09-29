@@ -1,0 +1,600 @@
+[
+  {
+    "id": "s-335",
+    "chapterId": "ch-18",
+    "number": "335",
+    "title": "Making a false document",
+    "bareActText": "A person is said to make a false document or false electronic record— (A) Who dishonestly or fraudulently— (i) makes, signs, seals or executes a document or part of a document; (ii) makes or transmits any electronic record or part of any electronic record; (iii) affixes any electronic signature on any electronic record; (iv) makes any mark denoting the execution of a document or the authenticity of the electronic signature, with the intention of causing it to be believed that such document or part of document, electronic record or electronic signature was made, signed, sealed, executed, transmitted or affixed by or by the authority of a person by whom or by whose authority he knows that it was not made, signed, sealed, executed or affixed; or (B) Who without lawful authority, dishonestly or fraudulently, by cancellation or otherwise, alters a document or an electronic record in any material part thereof, after it has been made, executed or affixed with electronic signature either by himself or by any other person, whether such person be living or dead at the time of such alteration; or (C) Who dishonestly or fraudulently causes any person to sign, seal, execute or alter a document or an electronic record or to affix his electronic signature on any electronic record knowing that such person by reason of unsoundness of mind or intoxication cannot, or that by reason of deception practised upon him, he does not know the contents of the document or electronic record or the nature of the alteration. Illustrations. (a) A has a letter of credit upon B for rupees 10,000, written by Z. A, in order to defraud B, adds cipher to the 10,000, and makes the sum 1,00,000 intending that it may be believed by B that Z so wrote the letter. A has committed forgery. (b) A, without Z’s authority, affixes Z’s seal to a document purporting to be a conveyance of an estate from Z to A, with the intention of selling the estate to B and thereby of obtaining from B the purchase-money. A has committed forgery. (c) A picks up a cheque on a banker signed by B, payable to bearer, but without any sum having been inserted in the cheque. A fraudulently fills up the cheque by inserting the sum of ten thousand rupees. A commits forgery. (d) A leaves with B, his agent, a cheque on a banker, signed by A, without inserting the sum payable and authorises B to fill up the cheque by inserting a sum not exceeding ten thousand rupees for the purpose of making certain payments. B fraudulently fills up the cheque by inserting the sum of twenty thousand rupees. B commits forgery. (e) A draws a bill of exchange on himself in the name of B without B’s authority, intending to discount it as a genuine bill with a banker and intending to take up the bill on its maturity. Here, as A draws the bill with intent to deceive the banker by leading him to suppose that he had the security of B, and thereby to discount the bill, A is guilty of forgery. (f) Z’s will contains these words—“I direct that all my remaining property be equally divided between A, B and C”. A dishonestly scratches out B’s name, intending that it may be believed that the whole was left to himself and C. A has committed forgery. (g) A endorses a Government promissory note and makes it payable to Z or his order by writing on the bill the words “Pay to Z or his order” and signing the endorsement. B dishonestly erases the words “Pay to Z or his order”, and thereby converts the special endorsement into a blank endorsement. B commits forgery. (h) A sells and conveys an estate to Z. A afterwards, in order to defraud Z of his estate, executes a conveyance of the same estate to B, dated six months earlier than the date of the conveyance to Z, intending it to be believed that he had conveyed the estate to B before he conveyed it to Z. A has committed forgery. (i) Z dictates his will to A. A intentionally writes down a different legatee from the legatee named by Z, and by representing to Z that he has prepared the will according to his instructions, induces Z to sign the will. A has committed forgery. (j) A writes a letter and signs it with B’s name without B’s authority, certifying that A is a man of good character and in distressed circumstances from unforeseen misfortune, intending by means of such letter to obtain alms from Z and other persons. Here, as A made a false document in order to induce Z to part with property, A has committed forgery. (k) A without B’s authority writes a letter and signs it in B’s name certifying to A’s character, intending thereby to obtain employment under Z. A has committed forgery in as much as he intended to deceive Z by the forged certificate, and thereby to induce Z to enter into an express or implied contract for service. Explanation 1.—A man’s signature of his own name may amount to forgery. Illustrations. (a) A signs his own name to a bill of exchange, intending that it may be believed that the bill was drawn by another person of the same name. A has committed forgery. (b) A writes the word “accepted” on a piece of paper and signs it with Z’s name, in order that B may afterwards write on the paper a bill of exchange drawn by B upon Z, and negotiate the bill as though it had been accepted by Z. A is guilty of forgery; and if B, knowing the fact, draws the bill upon the paper pursuant to A’s intention, B is also guilty of forgery. (c) A picks up a bill of exchange payable to the order of a different person of the same name. A endorses the bill in his own name, intending to cause it to be believed that it was endorsed by the person to whose order it was payable; here A has committed forgery. (d) A purchases an estate sold under execution of a decree against B. B, after the seizure of the estate, in collusion with Z, executes a lease of the estate, to Z at a nominal rent and for a long period and dates the lease six months prior to the seizure, with intent to defraud A, and to cause it to be believed that the lease was granted before the seizure. B, though he executes the lease in his own name, commits forgery by antedating it. (e) A, a trader, in anticipation of insolvency, lodges effects with B for A’s benefit, and with intent to defraud his creditors; and in order to give a colour to the transaction, writes a promissory note binding himself to pay to B a sum for value received, and antedates the note, intending that it may be believed to have been made before A was on the point of insolvency. A has committed forgery under the first head of the definition. Explanation 2.—The making of a false document in the name of a fictitious person, intending it to be believed that the document was made by a real person, or in the name of a deceased person, intending it to be believed that the document was made by the person in his lifetime, may amount to forgery. Illustration. A draws a bill of exchange upon a fictitious person, and fraudulently accepts the bill in the name of such fictitious person with intent to negotiate it. A commits forgery. Explanation 3.—For the purposes of this section, the expression “affixing electronic signature” shall have the meaning assigned to it in clause (d) of sub-section (1) of section 2 of the Information Technology Act, 2000.",
+    "plainMeaning": "This section defines when a person 'makes a false document or false electronic record' — the core act behind forgery. There are three ways. (A) Dishonestly or fraudulently making, signing, sealing or executing a document (or part of one), making or transmitting an electronic record, affixing an electronic signature, or making a mark of execution or authenticity — intending it to be believed that it was made or authorised by someone who, he knows, did not make or authorise it. (B) Without lawful authority, dishonestly or fraudulently altering a document or electronic record in a material part after it was made or signed, whether by himself or another, living or dead. (C) Dishonestly or fraudulently getting a person to sign, seal, execute or alter a document or affix an electronic signature, knowing that the person, because of unsoundness of mind, intoxication or deception, does not know its contents or the nature of the alteration. A person can forge by signing his own name if he intends it to pass as another person's (Expl. 1), and a document in the name of a fictitious or dead person can be false (Expl. 2). Making a false document is not itself punished; it becomes forgery under s.336 when done with one of the intents listed there.",
+    "ingredients": [
+      "(A) Dishonestly or fraudulently making, signing, sealing, executing, transmitting or affixing an electronic signature to a document or electronic record, intending it to be believed it was made or authorised by a person who did not make or authorise it; or",
+      "(B) Without lawful authority, dishonestly or fraudulently altering a document or electronic record in a material part after its execution; or",
+      "(C) Dishonestly or fraudulently causing a person to sign, seal, execute or alter it, knowing he cannot understand it because of unsoundness of mind, intoxication or deception",
+      "Signing one's own name can suffice (Expl. 1); fictitious or deceased persons are covered (Expl. 2)"
+    ],
+    "punishment": "Not applicable — this section is a definition; punishment is set by ss.336-344.",
+    "classification": null,
+    "ipcReference": {
+      "section": "463, 464 IPC",
+      "changeNote": "Corresponds to s.464 IPC (making a false document), with its Explanations and Illustrations. Electronic records and electronic signatures are covered throughout."
+    },
+    "illustrations": [
+      "A clerk scans his manager's signature and pastes it onto a leave-sanction letter for himself, intending the office to believe the manager signed it. He makes a false document under clause (A).",
+      "After a cheque for ₹5,000 is signed and handed over, the payee adds a zero to make it ₹50,000. Altering a material part without authority is making a false document under clause (B) (as in Illustration (a))."
+    ],
+    "termRefs": [
+      "false-document",
+      "document",
+      "electronic-record",
+      "electronic-signature",
+      "dishonestly",
+      "fraudulently"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.335 — bare Act text verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023). The Gazette prints \"signed byA\" in Illustration (d) without a space; it is shown here as \"by A\"."
+    },
+    "lastVerified": "2026-09-30"
+  },
+  {
+    "id": "s-336",
+    "chapterId": "ch-18",
+    "number": "336",
+    "title": "Forgery",
+    "bareActText": "(1) Whoever makes any false document or false electronic record or part of a document or electronic record, with intent to cause damage or injury, to the public or to any person, or to support any claim or title, or to cause any person to part with property, or to enter into any express or implied contract, or with intent to commit fraud or that fraud may be committed, commits forgery. (2) Whoever commits forgery shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both. (3) Whoever commits forgery, intending that the document or electronic record forged shall be used for the purpose of cheating, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine. (4) Whoever commits forgery, intending that the document or electronic record forged shall harm the reputation of any party, or knowing that it is likely to be used for that purpose, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine.",
+    "plainMeaning": "Forgery is making a false document or false electronic record (as defined in s.335), or part of one, with any of these intents: to cause damage or injury to the public or any person; to support any claim or title; to make any person part with property; to make any person enter into an express or implied contract; or to commit fraud or enable fraud to be committed. Basic forgery: up to two years, or fine, or both. Forgery intending the forged document to be used for cheating: up to seven years and fine. Forgery intending, or knowing it likely, that the forged document will harm someone's reputation: up to three years and fine. More serious forms, based on the kind of document forged, are in ss.337-338.",
+    "ingredients": [
+      "Making a false document or false electronic record, or part of one (s.335)",
+      "With intent to cause damage or injury to the public or any person; or to support a claim or title; or to cause a person to part with property; or to cause a person to enter into a contract; or to commit fraud or enable fraud",
+      "Aggravated: intent that it be used for cheating (3); intent or knowledge that it will harm reputation (4)"
+    ],
+    "punishment": "(2) Imprisonment of either description up to 2 years, or fine, or both. (3) For the purpose of cheating: up to 7 years, and fine. (4) For harming reputation: up to 3 years, and fine.",
+    "classification": {
+      "cognizable": "(2) Non-cognizable; (3), (4) Cognizable",
+      "bailable": "(2), (4) Bailable; (3) Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Magistrate of the first class"
+    },
+    "ipcReference": {
+      "section": "463, 465, 468, 469 IPC",
+      "changeNote": "Merges the definition of forgery (s.463) with its punishments (ss.465, 468, 469). Punishments are unchanged."
+    },
+    "illustrations": [
+      "A job applicant creates a fake experience certificate on a real company's letterhead to get a job. He makes a false document to induce the employer to enter into a contract of service, which is forgery under s.336.",
+      "B forges a bank statement showing a large balance so that a car dealer will hand over a car on credit. Since the forged document is meant to be used for cheating, s.336(3) applies."
+    ],
+    "termRefs": [
+      "forgery",
+      "false-document",
+      "electronic-record",
+      "cheating",
+      "injury"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.336 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette); compounding from BNSS s.359."
+    },
+    "lastVerified": "2026-09-30"
+  },
+  {
+    "id": "s-337",
+    "chapterId": "ch-18",
+    "number": "337",
+    "title": "Forgery of record of Court or of public register, etc.",
+    "bareActText": "Whoever forges a document or an electronic record, purporting to be a record or proceeding of or in a Court or an identity document issued by Government including voter identity card or Aadhaar Card, or a register of birth, marriage or burial, or a register kept by a public servant as such, or a certificate or document purporting to be made by a public servant in his official capacity, or an authority to institute or defend a suit, or to take any proceedings therein, or to confess judgment, or a power of attorney, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine. Explanation.—For the purposes of this section, “register” includes any list, data or record of any entries maintained in the electronic form as defined in clause (r) of sub-section (1) of section 2 of the Information Technology Act, 2000.",
+    "plainMeaning": "Forgery is punished more severely — up to seven years and fine — where the forged document or electronic record purports to be: a court record or proceeding; an identity document issued by the Government, expressly including a voter identity card or Aadhaar card; a register of birth, marriage or burial; a register kept by a public servant; a certificate or document made by a public servant in his official capacity; an authority to bring or defend a suit, take proceedings in it or confess judgment; or a power of attorney. 'Register' includes electronic lists, data and records. The express mention of Government ID documents such as Aadhaar and voter ID is new.",
+    "ingredients": [
+      "Forgery (s.336)",
+      "Of a document or electronic record purporting to be a court record or proceeding, a Government-issued identity document (incl. voter ID or Aadhaar), a register of birth, marriage or burial, a register kept by a public servant, an official certificate or document of a public servant, an authority relating to a suit, or a power of attorney",
+      "'Register' includes electronic data and records (Expl.)"
+    ],
+    "punishment": "Imprisonment of either description up to 7 years, and fine.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Magistrate of the first class"
+    },
+    "ipcReference": {
+      "section": "466 IPC",
+      "changeNote": "Re-enacts s.466 IPC and expressly adds identity documents issued by Government, including voter identity cards and Aadhaar cards; electronic registers are covered by the Explanation."
+    },
+    "illustrations": [
+      "A cyber-café operator prints fake Aadhaar cards with made-up numbers and customers' photos for ₹200 each. He forges identity documents issued by Government and is liable under s.337.",
+      "A person forges a municipal birth certificate to show his son is two years younger for a sports competition. He forges a certificate purporting to be made by a public servant."
+    ],
+    "termRefs": [
+      "forgery",
+      "public-servant",
+      "court",
+      "electronic-record"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.337 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette); compounding from BNSS s.359."
+    },
+    "lastVerified": "2026-09-30"
+  },
+  {
+    "id": "s-338",
+    "chapterId": "ch-18",
+    "number": "338",
+    "title": "Forgery of valuable security, will, etc.",
+    "bareActText": "Whoever forges a document which purports to be a valuable security or a will, or an authority to adopt a son, or which purports to give authority to any person to make or transfer any valuable security, or to receive the principal, interest or dividends thereon, or to receive or deliver any money, movable property, or valuable security, or any document purporting to be an acquittance or receipt acknowledging the payment of money, or an acquittance or receipt for the delivery of any movable property or valuable security, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+    "plainMeaning": "The most serious form of forgery, punishable with life imprisonment or up to ten years and fine, covers forged documents that purport to be: a valuable security (a cheque, promissory note, share certificate, bond); a will; an authority to adopt a son; an authority to make or transfer a valuable security or to receive its principal, interest or dividends; an authority to receive or deliver money, movable property or a valuable security; or a receipt or acquittance for payment of money or delivery of movable property or a valuable security. These documents directly create or transfer rights in property, so forging them is treated almost as seriously as the gravest property crimes. Forgery of a Central Government promissory note is cognizable; otherwise the offence is non-cognizable.",
+    "ingredients": [
+      "Forgery (s.336)",
+      "Of a document purporting to be a valuable security, a will, an authority to adopt a son, an authority to make or transfer a valuable security or receive its proceeds, an authority to receive or deliver money, movable property or a valuable security, or a receipt or acquittance for money, movable property or a valuable security"
+    ],
+    "punishment": "Imprisonment for life, or imprisonment of either description up to 10 years, and fine.",
+    "classification": {
+      "cognizable": "Non-cognizable; cognizable when the valuable security is a promissory note of the Central Government",
+      "bailable": "Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Magistrate of the first class"
+    },
+    "ipcReference": {
+      "section": "467 IPC",
+      "changeNote": "Re-enacted without change of substance or punishment."
+    },
+    "illustrations": [
+      "After his uncle's death, C types out a will in which the uncle leaves all his property to C, and traces the uncle's signature on it. C forges a will and is liable under s.338.",
+      "D forges his employer's signature on a cheque for ₹3 lakh and presents it at the bank. D forges a valuable security (and, by presenting it, also uses a forged document as genuine under s.340)."
+    ],
+    "termRefs": [
+      "forgery",
+      "valuable-security",
+      "will",
+      "movable-property"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.338 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette); compounding from BNSS s.359."
+    },
+    "lastVerified": "2026-09-30"
+  },
+  {
+    "id": "s-339",
+    "chapterId": "ch-18",
+    "number": "339",
+    "title": "Having possession of document described in section 337 or 338, knowing it to be forged and intending to use it as genuine",
+    "bareActText": "Whoever has in his possession any document or electronic record, knowing the same to be forged and intending that the same shall fraudulently or dishonestly be used as genuine, shall, if the document or electronic record is one of the description mentioned in section 337 of this Sanhita, be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine; and if the document is one of the description mentioned in section 338, shall be punished with imprisonment for life, or with imprisonment of either description, for a term which may extend to seven years, and shall also be liable to fine.",
+    "plainMeaning": "A person who possesses a document or electronic record knowing it is forged, and intending that it be fraudulently or dishonestly used as genuine, is punished according to the kind of document. If it is of a kind described in s.337 (court records, Government ID such as Aadhaar or voter ID, public registers, official certificates, powers of attorney), up to seven years and fine. If it is of a kind described in s.338 (valuable securities, wills, adoption authorities, receipts), life imprisonment or up to seven years, and fine. Possession alone, with knowledge and intent to use, is enough; the document need not have been used.",
+    "ingredients": [
+      "Possession of a document or electronic record",
+      "Knowing it to be forged",
+      "Intending that it be fraudulently or dishonestly used as genuine",
+      "The document is of a description in s.337 or s.338"
+    ],
+    "punishment": "Document described in s.337: imprisonment of either description up to 7 years, and fine. Document described in s.338: imprisonment for life, or imprisonment of either description up to 7 years, and fine.",
+    "classification": {
+      "cognizable": "s.337 documents: Cognizable; s.338 documents: Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Magistrate of the first class"
+    },
+    "ipcReference": {
+      "section": "474 IPC",
+      "changeNote": "Re-enacts s.474 IPC; the punishment follows the kind of document (s.337 or s.338) as under the IPC."
+    },
+    "illustrations": [
+      "Police find a bundle of fake voter ID cards at E's house, which he was keeping to hand out for bogus voting. E possesses forged s.337 documents intending their use as genuine and is liable under s.339."
+    ],
+    "termRefs": [
+      "forged-document",
+      "dishonestly",
+      "fraudulently"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.339 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette); compounding from BNSS s.359."
+    },
+    "lastVerified": "2026-09-30"
+  },
+  {
+    "id": "s-340",
+    "chapterId": "ch-18",
+    "number": "340",
+    "title": "Forged document or electronic record and using it as genuine",
+    "bareActText": "(1) A false document or electronic record made wholly or in part by forgery is designated a forged document or electronic record. (2) Whoever fraudulently or dishonestly uses as genuine any document or electronic record which he knows or has reason to believe to be a forged document or electronic record, shall be punished in the same manner as if he had forged such document or electronic record.",
+    "plainMeaning": "Sub-section (1) defines a 'forged document or electronic record': a false document or electronic record made wholly or partly by forgery. Sub-section (2) punishes whoever fraudulently or dishonestly uses as genuine a document or electronic record that he knows or has reason to believe is forged. He is punished in the same manner as if he had forged it himself — so using a forged will attracts the s.338 punishment, and using a forged Aadhaar card the s.337 punishment. The user need not be the forger.",
+    "ingredients": [
+      "A forged document or electronic record (sub-s. (1))",
+      "Using it as genuine",
+      "Fraudulently or dishonestly",
+      "Knowing or having reason to believe it to be forged"
+    ],
+    "punishment": "The same punishment as for forging that document or electronic record.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Magistrate of the first class"
+    },
+    "ipcReference": {
+      "section": "470, 471 IPC",
+      "changeNote": "Merges the definition of a forged document (s.470) and the offence of using it as genuine (s.471)."
+    },
+    "illustrations": [
+      "F buys a fake engineering degree certificate from an agent and submits it with a government job application, knowing it is forged. F uses a forged document as genuine and is punished as if he had forged it."
+    ],
+    "termRefs": [
+      "forged-document",
+      "forgery",
+      "reason-to-believe",
+      "dishonestly",
+      "fraudulently"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.340 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette); compounding from BNSS s.359."
+    },
+    "lastVerified": "2026-09-30"
+  },
+  {
+    "id": "s-341",
+    "chapterId": "ch-18",
+    "number": "341",
+    "title": "Making or possessing counterfeit seal, etc., with intent to commit forgery punishable under section 338",
+    "bareActText": "(1) Whoever makes or counterfeits any seal, plate or other instrument for making an impression, intending that the same shall be used for the purpose of committing any forgery which would be punishable under section 338 of this Sanhita, or, with such intent, has in his possession any such seal, plate or other instrument, knowing the same to be counterfeit, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine. (2) Whoever makes or counterfeits any seal, plate or other instrument for making an impression, intending that the same shall be used for the purpose of committing any forgery which would be punishable under any section of this Chapter other than section 338, or, with such intent, has in his possession any such seal, plate or other instrument, knowing the same to be counterfeit, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine. (3) Whoever possesses any seal, plate or other instrument knowing the same to be counterfeit, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine. (4) Whoever fraudulently or dishonestly uses as genuine any seal, plate or other instrument knowing or having reason to believe the same to be counterfeit, shall be punished in the same manner as if he had made or counterfeited such seal, plate or other instrument.",
+    "plainMeaning": "This section punishes the tools of forgery. (1) Making or counterfeiting a seal, plate or other instrument for making an impression, intending it to be used for a forgery punishable under s.338 (valuable securities, wills and similar documents), or possessing one with that intent knowing it to be counterfeit: life or up to seven years, and fine. (2) The same for a forgery punishable under any other section of the Chapter: up to seven years and fine. (3) Merely possessing a seal, plate or instrument knowing it to be counterfeit: up to three years and fine. (4) Fraudulently or dishonestly using as genuine a seal, plate or instrument known or believed to be counterfeit: punished as if one had made or counterfeited it.",
+    "ingredients": [
+      "Making or counterfeiting a seal, plate or other instrument for making an impression, or possessing one knowing it to be counterfeit",
+      "(1) Intending its use for a forgery punishable under s.338; (2) intending its use for any other forgery in the Chapter",
+      "(3) Possession knowing it to be counterfeit (no further intent needed)",
+      "(4) Fraudulently or dishonestly using it as genuine, knowing or having reason to believe it counterfeit"
+    ],
+    "punishment": "(1) Imprisonment for life, or imprisonment of either description up to 7 years, and fine. (2) Up to 7 years, and fine. (3) Up to 3 years, and fine. (4) The same as for making or counterfeiting the seal, plate or instrument.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Magistrate of the first class"
+    },
+    "ipcReference": {
+      "section": "472, 473 IPC",
+      "changeNote": "Merges ss.472-473 IPC and adds two new offences: bare possession of a counterfeit seal or instrument (sub-s. (3)) and using one as genuine (sub-s. (4))."
+    },
+    "illustrations": [
+      "G has a rubber stamp made that copies the round seal of a sub-registrar's office, so that he can prepare fake sale deeds of land. G is liable under s.341(2); if he were preparing fake cheques or wills, s.341(1) would apply."
+    ],
+    "termRefs": [
+      "counterfeit",
+      "forgery"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.341 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette); compounding from BNSS s.359."
+    },
+    "lastVerified": "2026-09-30"
+  },
+  {
+    "id": "s-342",
+    "chapterId": "ch-18",
+    "number": "342",
+    "title": "Counterfeiting device or mark used for authenticating documents described in section 338, or possessing counterfeit marked material",
+    "bareActText": "(1) Whoever counterfeits upon, or in the substance of, any material, any device or mark used for the purpose of authenticating any document described in section 338, intending that such device or mark shall be used for the purpose of giving the appearance of authenticity to any document then forged or thereafter to be forged on such material, or who, with such intent, has in his possession any material upon or in the substance of which any such device or mark has been counterfeited, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine. (2) Whoever counterfeits upon, or in the substance of, any material, any device or mark used for the purpose of authenticating any document or electronic record other than the documents described in section 338, intending that such device or mark shall be used for the purpose of giving the appearance of authenticity to any document then forged or thereafter to be forged on such material, or who with such intent, has in his possession any material upon or in the substance of which any such device or mark has been counterfeited, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+    "plainMeaning": "A person who counterfeits, on or in any material, a device or mark used to authenticate documents — such as a watermark, hologram or security design on cheque paper or stamp paper — intending that it will give an appearance of authenticity to a document forged then or later on that material, or who possesses such counterfeit-marked material with that intent, is punishable. For documents described in s.338 (valuable securities, wills and similar): life or up to seven years, and fine. For other documents or electronic records: up to seven years and fine.",
+    "ingredients": [
+      "Counterfeiting, on or in the substance of any material, a device or mark used to authenticate documents; or possessing material bearing such a counterfeit device or mark",
+      "Intending that it be used to give the appearance of authenticity to a document forged then or later on that material",
+      "(1) Documents described in s.338; (2) other documents or electronic records"
+    ],
+    "punishment": "(1) Imprisonment for life, or imprisonment of either description up to 7 years, and fine. (2) Up to 7 years, and fine.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "(1) Bailable; (2) Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Magistrate of the first class"
+    },
+    "ipcReference": {
+      "section": "475, 476 IPC",
+      "changeNote": "Merges ss.475-476 IPC and extends sub-s. (2) to electronic records."
+    },
+    "illustrations": [
+      "H prints blank cheque leaves carrying a copy of a bank's security watermark and micro-lettering, intending to use them to forge cheques. H is liable under s.342(1)."
+    ],
+    "termRefs": [
+      "counterfeit",
+      "forgery",
+      "valuable-security"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.342 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette); compounding from BNSS s.359."
+    },
+    "lastVerified": "2026-09-30"
+  },
+  {
+    "id": "s-343",
+    "chapterId": "ch-18",
+    "number": "343",
+    "title": "Fraudulent cancellation, destruction, etc., of will, authority to adopt, or valuable security",
+    "bareActText": "Whoever fraudulently or dishonestly, or with intent to cause damage or injury to the public or to any person, cancels, destroys or defaces, or attempts to cancel, destroy or deface, or secretes or attempts to secrete any document which is or purports to be a will, or an authority to adopt a son, or any valuable security, or commits mischief in respect of such document, shall be punished with imprisonment for life, or with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+    "plainMeaning": "A person who, fraudulently or dishonestly, or intending to cause damage or injury to the public or any person, cancels, destroys, defaces or secretes (hides) — or attempts any of these — a document that is or purports to be a will, an authority to adopt a son, or a valuable security, or who commits mischief in respect of such a document, is punishable with life imprisonment or up to seven years, and fine. Destroying a will to disinherit someone is the classic case.",
+    "ingredients": [
+      "A document that is or purports to be a will, an authority to adopt a son, or a valuable security",
+      "Cancelling, destroying, defacing or secreting it, or attempting to; or committing mischief in respect of it",
+      "Fraudulently or dishonestly, or with intent to cause damage or injury to the public or any person"
+    ],
+    "punishment": "Imprisonment for life, or imprisonment of either description up to 7 years, and fine.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Magistrate of the first class"
+    },
+    "ipcReference": {
+      "section": "477 IPC",
+      "changeNote": "Re-enacted without change of substance or punishment."
+    },
+    "illustrations": [
+      "On finding his father's registered will leaving the house to his sister, I burns it so that the house will pass to him as well on intestacy. I is liable under s.343."
+    ],
+    "termRefs": [
+      "will",
+      "valuable-security",
+      "mischief",
+      "dishonestly",
+      "fraudulently"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.343 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette); compounding from BNSS s.359."
+    },
+    "lastVerified": "2026-09-30"
+  },
+  {
+    "id": "s-344",
+    "chapterId": "ch-18",
+    "number": "344",
+    "title": "Falsification of accounts",
+    "bareActText": "Whoever, being a clerk, officer or servant, or employed or acting in the capacity of a clerk, officer or servant, wilfully, and with intent to defraud, destroys, alters, mutilates or falsifies any book, electronic record, paper, writing, valuable security or account which belongs to or is in the possession of his employer, or has been received by him for or on behalf of his employer, or wilfully, and with intent to defraud, makes or abets the making of any false entry in, or omits or alters or abets the omission or alteration of any material particular from or in, any such book, electronic record, paper, writing, valuable security or account, shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both. Explanation.—It shall be sufficient in any charge under this section to allege a general intent to defraud without naming any particular person intended to be defrauded or specifying any particular sum of money intended to be the subject of the fraud, or any particular day on which the offence was committed.",
+    "plainMeaning": "A clerk, officer or servant (or a person employed or acting in that capacity) who, wilfully and with intent to defraud, destroys, alters, mutilates or falsifies any book, electronic record, paper, writing, valuable security or account belonging to or held for his employer — or who makes, omits or alters (or helps to make, omit or alter) a material entry in it — is punishable with up to seven years, or fine, or both. Under the Explanation, it is enough to allege a general intent to defraud; the charge need not name a particular victim, sum or date. It targets employees who cook the books.",
+    "ingredients": [
+      "The accused is a clerk, officer or servant, or employed or acting in that capacity",
+      "Destroying, altering, mutilating or falsifying a book, electronic record, paper, writing, valuable security or account of or held for the employer; or making, omitting or altering (or abetting) a material entry in it",
+      "Wilfully and with intent to defraud",
+      "A general intent to defraud is sufficient in the charge (Expl.)"
+    ],
+    "punishment": "Imprisonment of either description up to 7 years, or fine, or both.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Magistrate of the first class"
+    },
+    "ipcReference": {
+      "section": "477A IPC",
+      "changeNote": "Re-enacts s.477A IPC and expressly includes electronic records."
+    },
+    "illustrations": [
+      "A cashier at a cooperative bank records fake withdrawals from dormant accounts in the bank's software and pockets the cash. He falsifies electronic records of his employer with intent to defraud and is liable under s.344 (and also for criminal breach of trust)."
+    ],
+    "termRefs": [
+      "electronic-record",
+      "valuable-security"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.344 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette); compounding from BNSS s.359."
+    },
+    "lastVerified": "2026-09-30"
+  },
+  {
+    "id": "s-345",
+    "chapterId": "ch-18",
+    "number": "345",
+    "title": "Property mark",
+    "bareActText": "(1) A mark used for denoting that movable property belongs to a particular person is called a property mark. (2) Whoever marks any movable property or goods or any case, package or other receptacle containing movable property or goods, or uses any case, package or other receptacle having any mark thereon, in a manner reasonably calculated to cause it to be believed that the property or goods so marked, or any property or goods contained in any such receptacle so marked, belong to a person to whom they do not belong, is said to use a false property mark. (3) Whoever uses any false property mark shall, unless he proves that he acted without intent to defraud, be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both.",
+    "plainMeaning": "Sub-section (1) defines a 'property mark': a mark used to show that movable property belongs to a particular person — for example, a brand on cattle, a name stencilled on sacks, or an owner's mark on crates. Sub-section (2) defines 'using a false property mark': marking goods or their container, or using a marked container, in a way reasonably calculated to make people believe the goods belong to someone to whom they do not belong. Sub-section (3) punishes using a false property mark with up to one year, or fine, or both, unless the accused proves he acted without intent to defraud — the burden is on him.",
+    "ingredients": [
+      "A property mark: a mark denoting that movable property belongs to a particular person",
+      "Marking movable property or goods, or their case, package or receptacle, or using a marked receptacle",
+      "In a manner reasonably calculated to cause belief that the goods belong to a person to whom they do not belong",
+      "The accused must prove he acted without intent to defraud"
+    ],
+    "punishment": "(3) Imprisonment of either description up to 1 year, or fine, or both.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Compoundable by the person to whom loss or injury is caused by such use (BNSS s.359(1))",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "479, 481, 482 IPC",
+      "changeNote": "Merges the definition of property mark (s.479), using a false property mark (s.481) and its punishment (s.482)."
+    },
+    "illustrations": [
+      "J stencils a large dairy cooperative's name on sacks of his own cattle feed so that buyers will think the sacks belong to, and come from, the cooperative. J uses a false property mark."
+    ],
+    "termRefs": [
+      "property-mark",
+      "movable-property"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.345 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette); compounding from BNSS s.359."
+    },
+    "lastVerified": "2026-09-30"
+  },
+  {
+    "id": "s-346",
+    "chapterId": "ch-18",
+    "number": "346",
+    "title": "Tampering with property mark with intent to cause injury",
+    "bareActText": "Whoever removes, destroys, defaces or adds to any property mark, intending or knowing it to be likely that he may thereby cause injury to any person, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both.",
+    "plainMeaning": "A person who removes, destroys, defaces or adds to a property mark, intending or knowing it likely to cause injury to any person, is punishable with up to one year, or fine, or both. Rubbing out the brand on stolen cattle is a typical example.",
+    "ingredients": [
+      "A property mark",
+      "Removing, destroying, defacing or adding to it",
+      "Intending, or knowing it likely, to cause injury to any person"
+    ],
+    "punishment": "Imprisonment of either description up to 1 year, or fine, or both.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "489 IPC",
+      "changeNote": "Re-enacted without change of substance or punishment."
+    },
+    "illustrations": [
+      "K scrapes off the owner's name painted on a set of rented scaffolding pipes and paints his own, to pass them off as his. K tampers with a property mark and is liable under s.346."
+    ],
+    "termRefs": [
+      "property-mark",
+      "injury"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.346 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette); compounding from BNSS s.359."
+    },
+    "lastVerified": "2026-09-30"
+  },
+  {
+    "id": "s-347",
+    "chapterId": "ch-18",
+    "number": "347",
+    "title": "Counterfeiting a property mark",
+    "bareActText": "(1) Whoever counterfeits any property mark used by any other person shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both. (2) Whoever counterfeits any property mark used by a public servant, or any mark used by a public servant to denote that any property has been manufactured by a particular person or at a particular time or place, or that the property is of a particular quality or has passed through a particular office, or that it is entitled to any exemption, or uses as genuine any such mark knowing the same to be counterfeit, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine.",
+    "plainMeaning": "(1) Counterfeiting a property mark used by any other person is punishable with up to two years, or fine, or both. (2) Counterfeiting a property mark used by a public servant, or any mark a public servant uses to show that property was made by a particular person or at a particular time or place, is of a particular quality, has passed through a particular office, or is entitled to an exemption — or knowingly using such a counterfeit mark as genuine — is punishable with up to three years and fine. Government quality and inspection marks (for example on weights, bullion or excise goods) are protected by sub-s. (2).",
+    "ingredients": [
+      "(1) Counterfeiting a property mark used by another person",
+      "(2) Counterfeiting a property mark used by a public servant, or a public servant's mark of manufacture, time, place, quality, passage through an office or exemption; or using such a counterfeit mark as genuine, knowing it to be counterfeit"
+    ],
+    "punishment": "(1) Imprisonment of either description up to 2 years, or fine, or both. (2) Up to 3 years, and fine.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "(1) compoundable by the person to whom loss or injury is caused by such use (BNSS s.359(1)); (2) not compoundable",
+      "triableBy": "(1) Any Magistrate; (2) Magistrate of the first class"
+    },
+    "ipcReference": {
+      "section": "483, 484 IPC",
+      "changeNote": "Merges ss.483-484 IPC. Punishments are unchanged."
+    },
+    "illustrations": [
+      "L copies the inspection stamp that the Weights and Measures department puts on certified scales, and stamps it on his uncertified shop scales. L counterfeits a mark used by a public servant to denote quality and is liable under s.347(2)."
+    ],
+    "termRefs": [
+      "property-mark",
+      "counterfeit",
+      "public-servant"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.347 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette); compounding from BNSS s.359."
+    },
+    "lastVerified": "2026-09-30"
+  },
+  {
+    "id": "s-348",
+    "chapterId": "ch-18",
+    "number": "348",
+    "title": "Making or possession of any instrument for counterfeiting a property mark",
+    "bareActText": "Whoever makes or has in his possession any die, plate or other instrument for the purpose of counterfeiting a property mark, or has in his possession a property mark for the purpose of denoting that any goods belong to a person to whom they do not belong, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+    "plainMeaning": "A person who makes or possesses any die, plate or other instrument for counterfeiting a property mark, or who possesses a property mark in order to show that goods belong to someone to whom they do not belong, is punishable with up to three years, or fine, or both.",
+    "ingredients": [
+      "Making or possessing a die, plate or other instrument for the purpose of counterfeiting a property mark; or",
+      "Possessing a property mark for the purpose of denoting that goods belong to a person to whom they do not belong"
+    ],
+    "punishment": "Imprisonment of either description up to 3 years, or fine, or both.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Magistrate of the first class"
+    },
+    "ipcReference": {
+      "section": "485 IPC",
+      "changeNote": "Re-enacted without change of substance or punishment."
+    },
+    "illustrations": [
+      "M keeps a set of branding irons that copy the brand of a neighbouring cattle farm, to mark stolen calves. M is liable under s.348."
+    ],
+    "termRefs": [
+      "property-mark",
+      "counterfeit"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.348 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette); compounding from BNSS s.359."
+    },
+    "lastVerified": "2026-09-30"
+  },
+  {
+    "id": "s-349",
+    "chapterId": "ch-18",
+    "number": "349",
+    "title": "Selling goods marked with a counterfeit property mark",
+    "bareActText": "Whoever sells, or exposes, or has in possession for sale, any goods or things with a counterfeit property mark affixed to or impressed upon the same or to or upon any case, package or other receptacle in which such goods are contained, shall, unless he proves— (a) that, having taken all reasonable precautions against committing an offence against this section, he had at the time of the commission of the alleged offence no reason to suspect the genuineness of the mark; and (b) that, on demand made by or on behalf of the prosecutor, he gave all the information in his power with respect to the persons from whom he obtained such goods or things; or (c) that otherwise he had acted innocently, be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both.",
+    "plainMeaning": "A person who sells, displays for sale, or possesses for sale goods bearing a counterfeit property mark (on the goods or their container) is punishable with up to one year, or fine, or both — unless he proves that (a) he took all reasonable precautions and had no reason to suspect the mark was not genuine, and (b) on the prosecutor's demand he gave all the information he could about who supplied the goods, or (c) that he otherwise acted innocently. The burden of proving innocence is on the seller.",
+    "ingredients": [
+      "Selling, exposing, or possessing for sale",
+      "Goods or things with a counterfeit property mark on them or on their container",
+      "Unless the accused proves (a) reasonable precautions and no reason to suspect, and (b) full disclosure of his suppliers; or (c) that he otherwise acted innocently"
+    ],
+    "punishment": "Imprisonment of either description up to 1 year, or fine, or both.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Compoundable by the person to whom loss or injury is caused by such use (BNSS s.359(1))",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "486 IPC",
+      "changeNote": "Re-enacted without change of substance or punishment."
+    },
+    "illustrations": [
+      "A trader stocks and sells crates of fruit bearing a well-known orchard owner's counterfeit mark. If he cannot show that he took reasonable precautions and disclosed his supplier, or otherwise acted innocently, he is liable under s.349."
+    ],
+    "termRefs": [
+      "property-mark",
+      "counterfeit"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.349 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette); compounding from BNSS s.359."
+    },
+    "lastVerified": "2026-09-30"
+  },
+  {
+    "id": "s-350",
+    "chapterId": "ch-18",
+    "number": "350",
+    "title": "Making a false mark upon any receptacle containing goods",
+    "bareActText": "(1) Whoever makes any false mark upon any case, package or other receptacle containing goods, in a manner reasonably calculated to cause any public servant or any other person to believe that such receptacle contains goods which it does not contain or that it does not contain goods which it does contain, or that the goods contained in such receptacle are of a nature or quality different from the real nature or quality thereof, shall, unless he proves that he acted without intent to defraud, be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both. (2) Whoever makes use of any false mark in any manner prohibited under sub-section (1) shall, unless he proves that he acted without intent to defraud, be punished as if he had committed the offence under sub-section (1).",
+    "plainMeaning": "A person who makes a false mark on a case, package or other container of goods in a way reasonably calculated to make a public servant or anyone else believe that it contains goods it does not contain, or does not contain goods it does contain, or that the goods are of a different nature or quality, is punishable with up to three years, or fine, or both — unless he proves he acted without intent to defraud. Making use of such a false mark is punished the same way. Mislabelling consignments to evade customs checks is a common example.",
+    "ingredients": [
+      "(1) Making a false mark on a case, package or other receptacle containing goods",
+      "Reasonably calculated to make a public servant or any other person believe it contains goods it does not, or does not contain goods it does, or that the goods are of a different nature or quality",
+      "(2) Making use of such a false mark",
+      "The accused must prove he acted without intent to defraud"
+    ],
+    "punishment": "(1) Imprisonment of either description up to 3 years, or fine, or both. (2) The same as under sub-s. (1).",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "487, 488 IPC",
+      "changeNote": "Merges ss.487-488 IPC. Punishments are unchanged."
+    },
+    "illustrations": [
+      "An exporter labels cartons 'cotton garments' when they actually contain prohibited wildlife products, so that customs officers will not inspect them closely. He makes a false mark on a receptacle and is liable under s.350(1)."
+    ],
+    "termRefs": [
+      "public-servant"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.350 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette); compounding from BNSS s.359."
+    },
+    "lastVerified": "2026-09-30"
+  }
+]

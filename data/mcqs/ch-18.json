@@ -1,0 +1,217 @@
+[
+  {
+    "id": "mcq-ch18-1",
+    "chapterId": "ch-18",
+    "question": "Section 335 of the BNS defines—",
+    "options": ["Forgery", "Making a false document", "Forged document", "Counterfeiting"],
+    "correctIndex": 1,
+    "explanation": "s.335 defines when a person is said to make a false document or false electronic record; forgery is defined in s.336(1)."
+  },
+  {
+    "id": "mcq-ch18-2",
+    "chapterId": "ch-18",
+    "question": "Under Explanation 1 to s.335, a man's signature of his own name—",
+    "options": [
+      "Can never be forgery",
+      "May amount to forgery",
+      "Is forgery only on a will",
+      "Is forgery only if made abroad"
+    ],
+    "correctIndex": 1,
+    "explanation": "Expl. 1 to s.335: 'A man's signature of his own name may amount to forgery.'"
+  },
+  {
+    "id": "mcq-ch18-3",
+    "chapterId": "ch-18",
+    "question": "B, authorised by A to fill in a signed cheque up to ₹10,000, fraudulently fills in ₹20,000. B has committed—",
+    "options": ["Only cheating", "Forgery", "Criminal breach of trust only", "No offence"],
+    "correctIndex": 1,
+    "explanation": "Illustration (d) to s.335: B commits forgery by filling up the cheque beyond his authority."
+  },
+  {
+    "id": "mcq-ch18-4",
+    "chapterId": "ch-18",
+    "question": "Basic forgery under s.336(2) is punishable with—",
+    "options": [
+      "Up to 2 years, or fine, or both",
+      "Up to 3 years and fine",
+      "Up to 7 years and fine",
+      "Imprisonment for life"
+    ],
+    "correctIndex": 0,
+    "explanation": "s.336(2): imprisonment of either description up to two years, or fine, or both."
+  },
+  {
+    "id": "mcq-ch18-5",
+    "chapterId": "ch-18",
+    "question": "Forgery intending the forged document to be used for cheating (s.336(3)) is punishable with—",
+    "options": ["Up to 2 years", "Up to 3 years", "Up to 7 years and fine", "Life"],
+    "correctIndex": 2,
+    "explanation": "s.336(3): imprisonment of either description up to seven years, and fine (formerly s.468 IPC)."
+  },
+  {
+    "id": "mcq-ch18-6",
+    "chapterId": "ch-18",
+    "question": "Which document is expressly NEWLY mentioned in Section 337 (forgery of public records)?",
+    "options": ["Power of attorney", "Register of births", "Aadhaar card", "Court record"],
+    "correctIndex": 2,
+    "explanation": "s.337 now includes 'an identity document issued by Government including voter identity card or Aadhaar Card'."
+  },
+  {
+    "id": "mcq-ch18-7",
+    "chapterId": "ch-18",
+    "question": "Forgery of a will is punishable under s.338 with—",
+    "options": [
+      "Up to 7 years",
+      "Imprisonment for life, or up to 10 years, and fine",
+      "Up to 3 years",
+      "Fine only"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.338 (valuable security, will, etc.): imprisonment for life, or imprisonment of either description up to ten years, and fine."
+  },
+  {
+    "id": "mcq-ch18-8",
+    "chapterId": "ch-18",
+    "question": "Forgery of a valuable security under s.338 is cognizable only when—",
+    "options": [
+      "It exceeds ₹1 lakh",
+      "The valuable security is a promissory note of the Central Government",
+      "It is committed by a public servant",
+      "It is used in court"
+    ],
+    "correctIndex": 1,
+    "explanation": "BNSS First Schedule: s.338 is non-cognizable, except when the valuable security is a Central Government promissory note."
+  },
+  {
+    "id": "mcq-ch18-9",
+    "chapterId": "ch-18",
+    "question": "A person who uses a forged document as genuine, knowing it to be forged, is punished under s.340(2)—",
+    "options": [
+      "With fine only",
+      "In the same manner as if he had forged it",
+      "With up to 6 months",
+      "Only if he forged it himself"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.340(2): 'shall be punished in the same manner as if he had forged such document or electronic record'."
+  },
+  {
+    "id": "mcq-ch18-10",
+    "chapterId": "ch-18",
+    "question": "Possessing a forged Aadhaar card, knowing it to be forged and intending to use it as genuine, is punishable under s.339 with up to—",
+    "options": ["2 years", "3 years", "7 years and fine", "Life"],
+    "correctIndex": 2,
+    "explanation": "s.339: for a document described in s.337 (which includes Aadhaar), up to seven years and fine."
+  },
+  {
+    "id": "mcq-ch18-11",
+    "chapterId": "ch-18",
+    "question": "Merely possessing a seal knowing it to be counterfeit (without further intent) is punishable under—",
+    "options": ["s.341(1)", "s.341(2)", "s.341(3)", "s.342(1)"],
+    "correctIndex": 2,
+    "explanation": "s.341(3): whoever possesses any seal, plate or other instrument knowing it to be counterfeit — up to three years and fine."
+  },
+  {
+    "id": "mcq-ch18-12",
+    "chapterId": "ch-18",
+    "question": "Fraudulently destroying a will to cause injury to a beneficiary is an offence under—",
+    "options": ["s.336", "s.338", "s.343", "s.344"],
+    "correctIndex": 2,
+    "explanation": "s.343: fraudulently cancelling, destroying, defacing or secreting a will, authority to adopt or valuable security — life or up to 7 years, and fine."
+  },
+  {
+    "id": "mcq-ch18-13",
+    "chapterId": "ch-18",
+    "question": "Falsification of accounts (s.344) can be committed by—",
+    "options": [
+      "Any person",
+      "A clerk, officer or servant (or person acting as such) in respect of the employer's records",
+      "Only a public servant",
+      "Only an auditor"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.344 applies to a clerk, officer or servant, or a person employed or acting in that capacity."
+  },
+  {
+    "id": "mcq-ch18-14",
+    "chapterId": "ch-18",
+    "question": "Under the Explanation to s.344, a charge of falsification of accounts—",
+    "options": [
+      "Must name the person defrauded",
+      "May allege a general intent to defraud without naming a person, sum or date",
+      "Must specify the exact sum",
+      "Requires proof of actual loss"
+    ],
+    "correctIndex": 1,
+    "explanation": "Explanation to s.344: it is sufficient to allege a general intent to defraud."
+  },
+  {
+    "id": "mcq-ch18-15",
+    "chapterId": "ch-18",
+    "question": "A 'property mark' under s.345(1) is a mark denoting that—",
+    "options": [
+      "Goods are manufactured by a company",
+      "Movable property belongs to a particular person",
+      "Land belongs to the Government",
+      "Goods are of a certain quality"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.345(1): a mark used for denoting that movable property belongs to a particular person is called a property mark."
+  },
+  {
+    "id": "mcq-ch18-16",
+    "chapterId": "ch-18",
+    "question": "Under s.345(3), a person using a false property mark escapes punishment if—",
+    "options": [
+      "The prosecution fails to prove loss",
+      "He proves that he acted without intent to defraud",
+      "The goods are cheap",
+      "The mark is removed later"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.345(3): punishable 'unless he proves that he acted without intent to defraud' — the burden is on the accused."
+  },
+  {
+    "id": "mcq-ch18-17",
+    "chapterId": "ch-18",
+    "question": "Counterfeiting a mark used by a public servant to denote the quality of property (s.347(2)) is punishable with up to—",
+    "options": ["1 year", "2 years", "3 years and fine", "7 years"],
+    "correctIndex": 2,
+    "explanation": "s.347(2): up to three years, and fine; counterfeiting another person's property mark (s.347(1)) is up to two years."
+  },
+  {
+    "id": "mcq-ch18-18",
+    "chapterId": "ch-18",
+    "question": "Which of these Chapter XVIII offences is compoundable?",
+    "options": [
+      "s.336(3) — forgery for cheating",
+      "s.338 — forgery of a will",
+      "s.349 — selling goods with a counterfeit property mark",
+      "s.343 — destroying a will"
+    ],
+    "correctIndex": 2,
+    "explanation": "BNSS s.359(1): ss.345(3), 347(1) and 349 are compoundable by the person to whom loss or injury is caused."
+  },
+  {
+    "id": "mcq-ch18-19",
+    "chapterId": "ch-18",
+    "question": "Falsely labelling a carton so that customs officers believe it contains goods different from its real contents is an offence under—",
+    "options": ["s.345", "s.348", "s.349", "s.350"],
+    "correctIndex": 3,
+    "explanation": "s.350(1): making a false mark on a receptacle to cause a public servant or any person to believe it contains different goods — up to 3 years."
+  },
+  {
+    "id": "mcq-ch18-20",
+    "chapterId": "ch-18",
+    "question": "The IPC offences on currency-notes and bank-notes (ss.489A-489E) are now found in—",
+    "options": [
+      "BNS Chapter XVIII",
+      "BNS Chapter X (ss.178-182)",
+      "BNS Chapter XVII",
+      "They are repealed"
+    ],
+    "correctIndex": 1,
+    "explanation": "The BNS moved currency and bank-note offences to Chapter X (coin, currency-notes, bank-notes and Government stamps)."
+  }
+]
