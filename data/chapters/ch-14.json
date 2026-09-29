@@ -1,0 +1,148 @@
+{
+  "id": "ch-14",
+  "number": "XIV",
+  "title": "Of False Evidence and Offences Against Public Justice",
+  "sectionRange": "227-269",
+  "shortDescription": "Offences that corrupt the justice system: perjury and fabricated evidence, false certificates and declarations, destroying evidence and screening offenders, fraud on courts, false criminal charges, harbouring offenders, public servants who pervert justice or let prisoners escape, resisting arrest and escape, breaking remission conditions, insulting courts and jumping bail.",
+  "subHeadings": [
+    { "id": "false-evidence", "label": "False evidence and false statements", "sectionIds": ["s-227", "s-228", "s-229", "s-230", "s-231", "s-232", "s-233", "s-234", "s-235", "s-236", "s-237"] },
+    { "id": "evidence-information", "label": "Destroying evidence and withholding information", "sectionIds": ["s-238", "s-239", "s-240", "s-241"] },
+    { "id": "fraud-on-courts", "label": "Fraud on courts and false charges", "sectionIds": ["s-242", "s-243", "s-244", "s-245", "s-246", "s-247", "s-248"] },
+    { "id": "screening", "label": "Harbouring and screening offenders", "sectionIds": ["s-249", "s-250", "s-251", "s-252", "s-253", "s-254"] },
+    { "id": "public-servants", "label": "Public servants perverting justice or allowing escape", "sectionIds": ["s-255", "s-256", "s-257", "s-258", "s-259", "s-260", "s-261"] },
+    { "id": "custody-courts", "label": "Resisting arrest, escape, remission, court insult and bail", "sectionIds": ["s-262", "s-263", "s-264", "s-265", "s-266", "s-267", "s-268", "s-269"] }
+  ],
+  "summary": "Chapter XIV is the largest chapter on the administration of justice. It protects the truth-finding process of courts and the machinery of arrest, custody and punishment. It corresponds to Chapter XI of the IPC (ss.191-229A), and the BNS sections follow the IPC order closely: s.227 = s.191, s.228 = s.192, and so on up to s.269 = s.229A. The Gazette gives the chapter no sub-headings; its 43 sections fall into six groups: false evidence (ss.227-237), destroying evidence and withholding information (ss.238-241), fraud on courts and false charges (ss.242-248), harbouring and screening offenders (ss.249-254), public servants perverting justice or allowing escape (ss.255-261), and resisting arrest, escape and related offences (ss.262-269).\n\nSections 227 and 228 are definitions. Giving false evidence (perjury) is making a false statement, known or believed to be false, while legally bound to tell the truth by oath, law or a duty to make a declaration; a false statement about one's own belief counts. Fabricating false evidence is creating a false circumstance, entry, document or electronic record intending it to mislead a court, public servant or arbitrator on a material point. Section 229 punishes both — up to seven years and fine up to ₹10,000 in a judicial proceeding (widely defined to include court-martials and court-directed investigations), and up to three years and fine up to ₹5,000 otherwise. False evidence aimed at a capital conviction carries life or ten years (s.230), and death if an innocent person is executed; aimed at a conviction for an offence punishable with life or seven years or more, the offender faces that offence's punishment (s.231). Threatening a witness into giving false evidence carries up to seven years (s.232). Sections 233-237 apply the false-evidence punishment to knowingly using false evidence, issuing or using false certificates, and making or using false declarations receivable as evidence.\n\nSections 238-241 deal with cover-ups: causing evidence to disappear or giving false information to screen an offender (graded by the gravity of the original offence), failing to give legally required information about an offence, giving false information about an offence, and destroying documents or electronic records to prevent their production. Sections 242-247 target fraud on the courts: false personation in a suit or prosecution, hiding or transferring property to defeat forfeiture, fines or decrees, fraudulent claims to such property, collusive or false decrees, and knowingly false claims in court. Section 248 punishes instituting criminal proceedings or making a false charge with intent to injure, knowing there is no just ground — now up to five years (or a ₹2 lakh fine), and up to ten years for false charges of grave offences.\n\nSections 249-254 punish those who help offenders escape justice: harbouring an offender, taking or giving gratification to conceal an offence (not applicable to compoundable offences), taking a fee to recover stolen property without helping catch the thief, harbouring escapees or persons ordered to be arrested, and harbouring robbers or dacoits. Spouses are exempt from the harbouring offences. Sections 255-261 address public servants: disobeying the law or framing incorrect records to save an offender, corruptly making judicial orders contrary to law, unlawful commitment or confinement, and intentionally or negligently allowing an accused or convict to escape. Sections 262-265 punish resisting one's own or another's lawful arrest, escaping, and rescuing prisoners. The chapter closes with breach of conditional remission (s.266), insulting or interrupting a public servant sitting in a judicial proceeding (s.267), personation of an assessor (s.268), and failure of a person released on bail to appear in court (s.269), which is cognizable and non-bailable. None of the Chapter's offences is listed as compoundable.",
+  "keyPoints": [
+    {
+      "point": "Sections 227-229 — False evidence",
+      "subPoints": [
+        "s.227 — giving false evidence: false statement while legally bound to state the truth, known or believed false",
+        "A false statement about one's belief or knowledge counts (Expl. 2)",
+        "s.228 — fabricating false evidence: false circumstance, entry, document or electronic record meant to mislead a court, public servant or arbitrator",
+        "s.229(1) — in a judicial proceeding: 7 years + fine up to ₹10,000",
+        "s.229(2) — other cases: 3 years + fine up to ₹5,000",
+        "Judicial proceeding includes court-martial and investigations directed by law or by a court"
+      ]
+    },
+    {
+      "point": "Sections 230-237 — Aggravated and related forms",
+      "subPoints": [
+        "s.230 — to procure conviction of a capital offence: life or RI 10 years + fine up to ₹50,000",
+        "s.230(2) — innocent person executed: death, or as above",
+        "s.231 — to procure conviction of an offence punishable with life or 7 years+: same as that offence",
+        "s.232 — threatening a person to give false evidence: 7 years; same sentence as innocent person if convicted",
+        "ss.233-237 — using false evidence, false certificates, false declarations: punished as false evidence"
+      ]
+    },
+    {
+      "point": "Sections 238-241 — Evidence and information",
+      "subPoints": [
+        "s.238 — causing disappearance of evidence or false information to screen offender: 7 / 3 years / one-fourth",
+        "s.239 — omitting legally required information about an offence: 6 months or ₹5,000",
+        "s.240 — giving false information about an offence: 2 years",
+        "s.241 — secreting or destroying a document or electronic record to prevent its production: 3 years or ₹5,000"
+      ]
+    },
+    {
+      "point": "Sections 242-248 — Fraud on courts and false charges",
+      "subPoints": [
+        "s.242 — false personation in a suit or prosecution (incl. becoming bail): 3 years",
+        "ss.243-244 — hiding or fraudulently claiming property to defeat forfeiture, fine or decree",
+        "ss.245, 247 — suffering or obtaining a decree for a sum not due, or executing a satisfied decree: 2 years",
+        "s.246 — knowingly false claim in Court: 2 years + fine",
+        "s.248 — false charge or criminal proceeding with intent to injure: 5 years or ₹2 lakh; 10 years for grave offences"
+      ]
+    },
+    {
+      "point": "Sections 249-254 — Harbouring and screening",
+      "subPoints": [
+        "s.249 — harbouring an offender: 5 / 3 years / one-fourth; spouse exempt",
+        "ss.250-251 — taking or giving gratification to screen an offender: 7 / 3 years / one-fourth",
+        "Exception — ss.250-251 do not apply where the offence is lawfully compoundable",
+        "s.252 — fee for recovering stolen property without helping catch the offender: 2 years",
+        "s.253 — harbouring an escapee or person ordered to be arrested: 7 / 3 years / one-fourth; spouse exempt",
+        "s.254 — harbouring robbers or dacoits: RI 7 years + fine; spouse exempt"
+      ]
+    },
+    {
+      "point": "Sections 255-261 — Public servants",
+      "subPoints": [
+        "s.255 — disobeying law to save a person from punishment or property from forfeiture: 2 years",
+        "s.256 — framing incorrect record to save an offender or cause loss: 3 years; cognizable",
+        "s.257 — corruptly or maliciously making judicial order contrary to law: 7 years",
+        "s.258 — corrupt or malicious commitment or confinement contrary to law: 7 years",
+        "s.259 — intentionally letting an accused escape: 7 / 3 / 2 years",
+        "s.260 — intentionally letting a convict escape: life or 14 years if under sentence of death",
+        "s.261 — negligently suffering escape: SI 2 years"
+      ]
+    },
+    {
+      "point": "Sections 262-269 — Custody, remission, courts, bail",
+      "subPoints": [
+        "s.262 — resisting one's own lawful arrest or escaping: 2 years, in addition to original sentence",
+        "s.263 — resisting arrest of or rescuing another: 2 years up to life, by gravity",
+        "ss.264-265 — residuary cases (e.g., civil arrest)",
+        "s.266 — breaking condition of remission: original or unexpired sentence",
+        "s.267 — insulting or interrupting a public servant sitting in a judicial proceeding: SI 6 months or ₹5,000",
+        "s.268 — personation of an assessor: 2 years",
+        "s.269 — failure to appear when on bail: 1 year; cognizable, non-bailable"
+      ]
+    }
+  ],
+  "fastRevision": [
+    "Chapter XIV corresponds to IPC Chapter XI (ss.191-229A); s.227 = s.191 ... s.269 = s.229A.",
+    "s.227 — giving false evidence: false statement while legally bound to tell the truth, known or believed to be false.",
+    "s.227 Expl. 2 — falsely stating one's belief, or claiming knowledge one lacks, is false evidence.",
+    "s.227 Illus. (c) — an honest but mistaken belief is not false evidence.",
+    "s.228 — fabricating false evidence: false circumstance, entry, document or electronic record to mislead on a material point.",
+    "s.228 applies to judicial proceedings, legal proceedings before a public servant, and arbitration.",
+    "s.229(1) — false evidence in a judicial proceeding: up to 7 years + fine up to ₹10,000.",
+    "s.229(2) — in other cases: up to 3 years + fine up to ₹5,000.",
+    "s.229 Expl. — court-martial is a judicial proceeding; investigations directed by law or court are stages of it.",
+    "s.230 — false evidence to procure a capital conviction: life or RI 10 years + fine up to ₹50,000.",
+    "s.230(2) — if innocent person convicted and executed: death, or as above.",
+    "s.231 — false evidence to procure conviction for offence punishable with life or 7+ years: same as that offence.",
+    "s.232 — threatening to make someone give false evidence: 7 years; cognizable and non-bailable.",
+    "s.233 — corruptly using evidence known to be false: as for false evidence.",
+    "ss.234-235 — issuing or using a false certificate: as for false evidence.",
+    "ss.236-237 — false statement in, or using, a false declaration receivable as evidence: as for false evidence.",
+    "s.238 — causing evidence to disappear to screen offender: 7 years (death offence), 3 years (life/10 years), one-fourth otherwise.",
+    "s.239 — omitting legally required information of an offence: 6 months or ₹5,000.",
+    "s.240 — giving false information about an offence: 2 years.",
+    "s.240 Expl. — 'offence' in ss.238-240 includes listed acts committed outside India.",
+    "s.241 — secreting or destroying a document or electronic record to prevent production: 3 years or ₹5,000.",
+    "s.242 — false personation in a suit or prosecution, including becoming bail: 3 years.",
+    "s.243 — fraudulently removing or concealing property to defeat forfeiture, fine or decree: 3 years or ₹5,000.",
+    "s.244 — fraudulently claiming such property: 2 years.",
+    "s.245 — fraudulently suffering a decree for a sum not due: 2 years.",
+    "s.246 — knowingly false claim in Court: 2 years + fine.",
+    "s.247 — fraudulently obtaining a decree for a sum not due: 2 years.",
+    "s.248(a) — false charge with intent to injure: up to 5 years, or fine up to ₹2 lakh, or both.",
+    "s.248(b) — false charge of offence punishable with death, life or 10+ years: up to 10 years + fine.",
+    "s.249 — harbouring offender: 5 / 3 years / one-fourth; cognizable; spouse exempt.",
+    "ss.250-251 — taking or giving gratification to screen offender: 7 / 3 years / one-fourth.",
+    "Exception to s.251 — ss.250-251 do not apply where the offence may lawfully be compounded.",
+    "s.252 — taking gift to help recover stolen property without helping catch the offender: 2 years.",
+    "s.253 — harbouring an escapee or person ordered to be apprehended: 7 / 3 years / one-fourth.",
+    "s.254 — harbouring robbers or dacoits: RI 7 years + fine.",
+    "Spouse exemption: ss.249, 253 and 254.",
+    "s.255 — public servant disobeying law to save a person from punishment: 2 years.",
+    "s.256 — public servant framing incorrect record to save offender: 3 years; cognizable.",
+    "s.257 — public servant corruptly or maliciously making judicial order contrary to law: 7 years.",
+    "s.258 — corrupt or malicious commitment or confinement contrary to law: 7 years.",
+    "s.259 — public servant intentionally letting an accused escape: 7 / 3 / 2 years.",
+    "s.260 — public servant intentionally letting a convict escape: life or 14 years (death sentence).",
+    "s.261 — negligently suffering escape: SI 2 years.",
+    "s.262 — resisting own arrest or escaping: 2 years, in addition to original sentence.",
+    "s.263 — resisting arrest of or rescuing another: 2 years up to life (rescuing a death-row prisoner).",
+    "ss.264-265 — residuary omission and resistance provisions.",
+    "s.266 — breaking condition of remission: original or unexpired sentence; non-bailable.",
+    "s.267 — insulting or interrupting a public servant in a judicial proceeding: SI 6 months or ₹5,000.",
+    "s.268 — personation of an assessor: 2 years.",
+    "s.269 — jumping bail: 1 year, in addition to original sentence; cognizable, non-bailable.",
+    "No Chapter XIV offence is listed as compoundable."
+  ],
+  "mindMap": "# Ch. XIV — False Evidence & Public Justice\n## False evidence (ss.227-237)\n- Giving false evidence (s.227)\n- Fabricating false evidence (s.228)\n- Punishment (s.229)\n  - Judicial: 7 yrs; other: 3 yrs\n- Capital offence (s.230)\n- Life / 7+ yrs offence (s.231)\n- Threatening witness (s.232)\n- Using false evidence, certificates, declarations (ss.233-237)\n## Evidence & information (ss.238-241)\n- Disappearance of evidence (s.238)\n- Omitting information (s.239)\n- False information (s.240)\n- Destroying documents (s.241)\n## Fraud on courts (ss.242-248)\n- False personation (s.242)\n- Defeating forfeiture / decree (ss.243-244)\n- False decrees (ss.245, 247)\n- False claim in Court (s.246)\n- False charge (s.248)\n  - 5 yrs; grave: 10 yrs\n## Harbouring & screening (ss.249-254)\n- Harbouring offender (s.249)\n- Gratification to screen (ss.250-251)\n- Recovering stolen property (s.252)\n- Harbouring escapee (s.253)\n- Harbouring robbers / dacoits (s.254)\n- Spouse exempt\n## Public servants (ss.255-261)\n- Saving offender (ss.255-256)\n- Corrupt judicial order (s.257)\n- Unlawful confinement (s.258)\n- Letting escape (ss.259-261)\n## Custody & courts (ss.262-269)\n- Resisting arrest / escape (ss.262-265)\n- Remission breach (s.266)\n- Insulting court (s.267)\n- Assessor personation (s.268)\n- Jumping bail (s.269)",
+  "lastVerified": "2026-09-29"
+}

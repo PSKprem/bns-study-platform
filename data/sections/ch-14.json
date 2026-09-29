@@ -1,0 +1,1578 @@
+[
+  {
+    "id": "s-227",
+    "chapterId": "ch-14",
+    "number": "227",
+    "title": "Giving false evidence",
+    "bareActText": "Whoever, being legally bound by an oath or by an express provision of law to state the truth, or being bound by law to make a declaration upon any subject, makes any statement which is false, and which he either knows or believes to be false or does not believe to be true, is said to give false evidence. Explanation 1.—A statement is within the meaning of this section, whether it is made verbally or otherwise. Explanation 2.—A false statement as to the belief of the person attesting is within the meaning of this section, and a person may be guilty of giving false evidence by stating that he believes a thing which he does not believe, as well as by stating that he knows a thing which he does not know. Illustrations. (a) A, in support of a just claim which B has against Z for one thousand rupees, falsely swears on a trial that he heard Z admit the justice of B’s claim. A has given false evidence. (b) A, being bound by an oath to state the truth, states that he believes a certain signature to be the handwriting of Z, when he does not believe it to be the handwriting of Z. Here A states that which he knows to be false, and therefore gives false evidence. (c) A, knowing the general character of Z’s handwriting, states that he believes a certain signature to be the handwriting of Z; A in good faith believing it to be so. Here A’s statement is merely as to his belief, and is true as to his belief, and therefore, although the signature may not be the handwriting of Z, A has not given false evidence. (d) A, being bound by an oath to state the truth, states that he knows that Z was at a particular place on a particular day, not knowing anything upon the subject. A gives false evidence whether Z was at that place on the day named or not. (e) A, an interpreter or translator, gives or certifies as a true interpretation or translation of a statement or document which he is bound by oath to interpret or translate truly, that which is not and which he does not believe to be a true interpretation or translation. A has given false evidence.",
+    "plainMeaning": "This section defines 'giving false evidence' (commonly called perjury). A person gives false evidence when three things come together: he is under a legal obligation to tell the truth — because of an oath, an express provision of law, or a legal duty to make a declaration; he makes a statement that is false; and he knows or believes it is false, or does not believe it is true. The statement can be spoken, written or made in any other way. A person can also lie about his own belief: saying 'I believe this is Z's signature' when he does not believe it is false evidence, and so is claiming to know something he does not know — even if it turns out to be true. But an honest belief that turns out to be mistaken is not false evidence. This section only defines the offence; punishment is under ss.229-231.",
+    "ingredients": [
+      "The accused is legally bound to state the truth — by an oath, by an express provision of law, or by a legal duty to make a declaration on the subject",
+      "He makes a statement (verbal or otherwise)",
+      "The statement is false",
+      "He knows or believes it to be false, or does not believe it to be true",
+      "A false statement about one's own belief or knowledge is covered (Expl. 2)"
+    ],
+    "punishment": "Not applicable — this section is a definition; punishment is set by ss.229-231.",
+    "classification": null,
+    "ipcReference": {
+      "section": "191 IPC",
+      "changeNote": "Corresponds to s.191 IPC; the definition, Explanations and Illustrations are retained."
+    },
+    "illustrations": [
+      "A witness in a motor accident case swears that he saw the car jump the red light, although he was not at the crossing that day. Even if the car did jump the light, he stated that he knew something he did not know, and has given false evidence (as in Illustration (d)).",
+      "A handwriting witness honestly but wrongly identifies a signature as the accused's. He has not given false evidence, because his statement is true as to his belief."
+    ],
+    "termRefs": [
+      "false-evidence",
+      "oath",
+      "good-faith"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.227 — bare Act text verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-228",
+    "chapterId": "ch-14",
+    "number": "228",
+    "title": "Fabricating false evidence",
+    "bareActText": "Whoever causes any circumstance to exist or makes any false entry in any book or record, or electronic record or makes any document or electronic record containing a false statement, intending that such circumstance, false entry or false statement may appear in evidence in a judicial proceeding, or in a proceeding taken by law before a public servant as such, or before an arbitrator, and that such circumstance, false entry or false statement, so appearing in evidence, may cause any person who in such proceeding is to form an opinion upon the evidence, to entertain an erroneous opinion touching any point material to the result of such proceeding is said “to fabricate false evidence”. Illustrations. (a) A puts jewels into a box belonging to Z, with the intention that they may be found in that box, and that this circumstance may cause Z to be convicted of theft. A has fabricated false evidence. (b) A makes a false entry in his shop-book for the purpose of using it as corroborative evidence in a Court. A has fabricated false evidence. (c) A, with the intention of causing Z to be convicted of a criminal conspiracy, writes a letter in imitation of Z’s handwriting, purporting to be addressed to an accomplice in such criminal conspiracy, and puts the letter in a place which he knows that the officers of the police are likely to search. A has fabricated false evidence.",
+    "plainMeaning": "Section 227 is about lying in words; s.228 is about manufacturing false proof. A person fabricates false evidence when he creates a misleading circumstance (such as planting stolen goods), makes a false entry in a book, record or electronic record, or makes a document or electronic record containing a false statement — intending that it will be used as evidence in a judicial proceeding, a legal proceeding before a public servant, or an arbitration, and that it will mislead the judge, officer or arbitrator on a point material to the outcome. The fabricated evidence need not actually be used or succeed; the intention is enough. Punishment is under ss.229-231.",
+    "ingredients": [
+      "Causing a circumstance to exist; or making a false entry in a book, record or electronic record; or making a document or electronic record containing a false statement",
+      "Intending that it may appear in evidence in a judicial proceeding, a legal proceeding before a public servant, or before an arbitrator",
+      "Intending that it may cause the person who is to form an opinion on the evidence to form an erroneous opinion",
+      "On a point material to the result of the proceeding"
+    ],
+    "punishment": "Not applicable — this section is a definition; punishment is set by ss.229-231.",
+    "classification": null,
+    "ipcReference": {
+      "section": "192 IPC",
+      "changeNote": "Corresponds to s.192 IPC; the definition and Illustrations are retained."
+    },
+    "illustrations": [
+      "To frame a rival for drug possession, B hides a packet of heroin in the rival's car and tips off the police. B has fabricated false evidence (causing a circumstance to exist).",
+      "A trader edits his accounting software to create back-dated invoices so that he can rely on them in a pending recovery suit. He has fabricated false evidence in an electronic record."
+    ],
+    "termRefs": [
+      "fabricate-false-evidence",
+      "judicial-proceeding",
+      "document",
+      "electronic-record",
+      "public-servant"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.228 — bare Act text verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-229",
+    "chapterId": "ch-14",
+    "number": "229",
+    "title": "Punishment for false evidence",
+    "bareActText": "(1) Whoever intentionally gives false evidence in any stage of a judicial proceeding, or fabricates false evidence for the purpose of being used in any stage of a judicial proceeding, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine which may extend to ten thousand rupees. (2) Whoever intentionally gives or fabricates false evidence in any case other than that referred to in sub-section (1), shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine which may extend to five thousand rupees. Explanation 1.—A trial before a Court-martial is a judicial proceeding. Explanation 2.—An investigation directed by law preliminary to a proceeding before a Court, is a stage of a judicial proceeding, though that investigation may not take place before a Court. Illustration. A, in an enquiry before a Magistrate for the purpose of ascertaining whether Z ought to be committed for trial, makes on oath a statement which he knows to be false. As this enquiry is a stage of a judicial proceeding, A has given false evidence. Explanation 3.—An investigation directed by a Court according to law, and conducted under the authority of a Court, is a stage of a judicial proceeding, though that investigation may not take place before a Court. Illustration. A, in an enquiry before an officer deputed by a Court to ascertain on the spot the boundaries of land, makes on oath a statement which he knows to be false. As this enquiry is a stage of a judicial proceeding, A has given false evidence.",
+    "plainMeaning": "This is the main punishment section for perjury. Intentionally giving false evidence at any stage of a judicial proceeding, or fabricating false evidence for use at any stage of one, is punishable with up to seven years and fine up to ₹10,000. Giving or fabricating false evidence in any other case (for example, before a public servant in a non-judicial legal proceeding) is punishable with up to three years and fine up to ₹5,000. The Explanations widen 'judicial proceeding': a court-martial trial counts, and so does an investigation directed by law as a preliminary to court proceedings, or an investigation directed by a court and conducted under its authority, even if not held before the court itself.",
+    "ingredients": [
+      "Giving false evidence (s.227) or fabricating false evidence (s.228)",
+      "Intentionally",
+      "(1) In, or for use in, any stage of a judicial proceeding — including a court-martial and investigations described in Expl. 2 and 3",
+      "(2) In any other case"
+    ],
+    "punishment": "(1) In a judicial proceeding: imprisonment of either description up to 7 years, and fine up to ₹10,000. (2) In any other case: imprisonment of either description up to 3 years, and fine up to ₹5,000.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "(1) Magistrate of the first class; (2) Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "193 IPC",
+      "changeNote": "Re-enacts s.193 IPC with the same terms of imprisonment. The fine, which had no fixed limit under the IPC, is now capped at ₹10,000 under sub-s. (1) and ₹5,000 under sub-s. (2)."
+    },
+    "illustrations": [
+      "In a divorce case, a witness swears in court that she saw the wife with another man at a hotel, knowing this never happened. She is liable under s.229(1).",
+      "A commissioner appointed by a civil court visits a disputed plot to record the boundaries. A neighbour, on oath, knowingly points out the wrong boundary stone. Under Explanation 3 this is a stage of a judicial proceeding, so s.229(1) applies."
+    ],
+    "termRefs": [
+      "false-evidence",
+      "fabricate-false-evidence",
+      "judicial-proceeding",
+      "either-description"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.229 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-230",
+    "chapterId": "ch-14",
+    "number": "230",
+    "title": "Giving or fabricating false evidence with intent to procure conviction of capital offence",
+    "bareActText": "(1) Whoever gives or fabricates false evidence, intending thereby to cause, or knowing it to be likely that he will thereby cause, any person to be convicted of an offence which is capital by the law for the time being in force in India shall be punished with imprisonment for life, or with rigorous imprisonment for a term which may extend to ten years, and shall also be liable to fine which may extend to fifty thousand rupees. (2) If an innocent person be convicted and executed in consequence of false evidence referred to in sub-section (1), the person who gives such false evidence shall be punished either with death or the punishment specified in sub-section (1).",
+    "plainMeaning": "False evidence aimed at getting someone convicted of a capital offence (an offence punishable with death, such as murder) is punished far more severely than ordinary perjury: imprisonment for life, or rigorous imprisonment up to ten years, and fine up to ₹50,000. It is enough that the accused intended, or knew it likely, that the false evidence would cause a conviction — the conviction need not happen. If an innocent person is actually convicted and executed because of it, the false witness can himself be punished with death.",
+    "ingredients": [
+      "Giving or fabricating false evidence",
+      "Intending, or knowing it likely, to cause a person to be convicted",
+      "Of an offence which is capital (punishable with death) under Indian law",
+      "(2) An innocent person is convicted and executed as a result"
+    ],
+    "punishment": "(1) Imprisonment for life, or rigorous imprisonment up to 10 years, and fine up to ₹50,000. (2) If an innocent person is convicted and executed: death, or the punishment in sub-s. (1).",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Court of Session"
+    },
+    "ipcReference": {
+      "section": "194 IPC",
+      "changeNote": "Re-enacts s.194 IPC with the same terms of imprisonment. The fine, which had no fixed limit, is now capped at ₹50,000."
+    },
+    "illustrations": [
+      "To take revenge on his cousin, C falsely testifies in a murder trial that he saw the cousin stab the victim. C intends the cousin to be convicted of murder, a capital offence, and is liable under s.230(1) whether or not the cousin is convicted."
+    ],
+    "termRefs": [
+      "false-evidence",
+      "fabricate-false-evidence",
+      "capital-offence",
+      "rigorous-imprisonment"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.230 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-231",
+    "chapterId": "ch-14",
+    "number": "231",
+    "title": "Giving or fabricating false evidence with intent to procure conviction of offence punishable with imprisonment for life or imprisonment",
+    "bareActText": "Whoever gives or fabricates false evidence intending thereby to cause, or knowing it to be likely that he will thereby cause, any person to be convicted of an offence which by the law for the time being in force in India is not capital, but punishable with imprisonment for life, or imprisonment for a term of seven years or upwards, shall be punished as a person convicted of that offence would be liable to be punished. Illustration. A gives false evidence before a Court, intending thereby to cause Z to be convicted of a dacoity. The punishment of dacoity is imprisonment for life, or rigorous imprisonment for a term which may extend to ten years, with or without fine. A, therefore, is liable to imprisonment for life or imprisonment, with or without fine.",
+    "plainMeaning": "Where false evidence is aimed at getting someone convicted of a serious offence that is not capital but is punishable with life imprisonment or with imprisonment of seven years or more, the false witness is punished exactly as a person convicted of that offence would be. The punishment mirrors the offence he tried to pin on the victim. As the Illustration explains, false evidence to procure a dacoity conviction makes the false witness liable to the punishment for dacoity.",
+    "ingredients": [
+      "Giving or fabricating false evidence",
+      "Intending, or knowing it likely, to cause a person to be convicted",
+      "Of an offence that is not capital but is punishable with life imprisonment or imprisonment of 7 years or more"
+    ],
+    "punishment": "The same punishment as for the offence of which the person was intended to be convicted.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Court of Session"
+    },
+    "ipcReference": {
+      "section": "195 IPC",
+      "changeNote": "Re-enacted without change of substance."
+    },
+    "illustrations": [
+      "D plants forged documents in E's office and gives false evidence to have E convicted of a serious cheating offence carrying up to seven years. D is liable to the same punishment as E would have faced."
+    ],
+    "termRefs": [
+      "false-evidence",
+      "fabricate-false-evidence"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.231 — bare Act text verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-232",
+    "chapterId": "ch-14",
+    "number": "232",
+    "title": "Threatening any person to give false evidence",
+    "bareActText": "(1) Whoever threatens another with any injury to his person, reputation or property or to the person or reputation of any one in whom that person is interested, with intent to cause that person to give false evidence shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both. (2) If innocent person is convicted and sentenced in consequence of false evidence referred to in sub-section (1), with death or imprisonment for more than seven years, the person who threatens shall be punished with the same punishment and sentence in the same manner and to the same extent such innocent person is punished and sentenced.",
+    "plainMeaning": "Intimidating a witness into lying is punished in its own right. A person who threatens another with injury to his person, reputation or property — or to the person or reputation of someone he cares about — intending to make him give false evidence, is punishable with up to seven years, or fine, or both. If, as a result of the coerced false evidence, an innocent person is convicted and sentenced to death or to more than seven years, the person who made the threat receives the same punishment and sentence as that innocent person. Unlike most offences in this Chapter, it is cognizable.",
+    "ingredients": [
+      "Threatening a person with injury to his person, reputation or property, or to the person or reputation of someone in whom he is interested",
+      "With intent to cause that person to give false evidence",
+      "(2) An innocent person is convicted and sentenced to death or more than 7 years as a result of that false evidence"
+    ],
+    "punishment": "(1) Imprisonment of either description up to 7 years, or fine, or both. (2) If an innocent person is convicted and sentenced to death or more than 7 years as a result: the same punishment and sentence as the innocent person received.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "The Court by which the offence of giving false evidence is triable"
+    },
+    "ipcReference": {
+      "section": "195A IPC",
+      "changeNote": "Re-enacted without change of substance or punishment."
+    },
+    "illustrations": [
+      "F, facing trial for extortion, tells the main eyewitness that his shop will be burnt down unless he tells the court he saw someone else. F is liable under s.232(1) even if the witness refuses."
+    ],
+    "termRefs": [
+      "false-evidence",
+      "injury"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.232 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-233",
+    "chapterId": "ch-14",
+    "number": "233",
+    "title": "Using evidence known to be false",
+    "bareActText": "Whoever corruptly uses or attempts to use as true or genuine evidence any evidence which he knows to be false or fabricated, shall be punished in the same manner as if he gave or fabricated false evidence.",
+    "plainMeaning": "A person who did not himself create the false evidence, but knowingly and corruptly uses it — or tries to use it — as if it were true or genuine, is punished just as if he had given or fabricated it. A litigant who files a forged receipt he knows to be fake is the typical case. 'Corruptly' points to a dishonest or improper purpose.",
+    "ingredients": [
+      "Using, or attempting to use, evidence as true or genuine",
+      "The accused knows the evidence to be false or fabricated",
+      "He does so corruptly"
+    ],
+    "punishment": "The same as for giving or fabricating false evidence (ss.229-231).",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "According as the offence of giving such evidence is bailable or non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "The Court by which the offence of giving or fabricating false evidence is triable"
+    },
+    "ipcReference": {
+      "section": "196 IPC",
+      "changeNote": "Re-enacted without change of substance."
+    },
+    "illustrations": [
+      "G's brother forges a sale agreement. G, knowing it is forged, produces it in court to resist eviction and relies on it as genuine. G is liable under s.233 as if he had fabricated it."
+    ],
+    "termRefs": [
+      "false-evidence",
+      "fabricate-false-evidence"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.233 — bare Act text verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-234",
+    "chapterId": "ch-14",
+    "number": "234",
+    "title": "Issuing or signing false certificate",
+    "bareActText": "Whoever issues or signs any certificate required by law to be given or signed, or relating to any fact of which such certificate is by law admissible in evidence, knowing or believing that such certificate is false in any material point, shall be punished in the same manner as if he gave false evidence.",
+    "plainMeaning": "A person who issues or signs a certificate that the law requires to be given or signed, or a certificate that the law makes admissible as evidence of a fact, knowing or believing it is false in a material point, is punished as if he had given false evidence. False medical certificates, false birth or death certificates, and false certificates under evidence law are common examples.",
+    "ingredients": [
+      "Issuing or signing a certificate",
+      "The certificate is required by law, or relates to a fact of which it is admissible in evidence by law",
+      "The accused knows or believes it is false in a material point"
+    ],
+    "punishment": "The same as for giving false evidence.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "The Court by which the offence of giving false evidence is triable"
+    },
+    "ipcReference": {
+      "section": "197 IPC",
+      "changeNote": "Re-enacted without change of substance."
+    },
+    "illustrations": [
+      "A doctor issues a certificate stating that a patient was admitted to hospital with fever for ten days, knowing the patient was never admitted, so that the patient can get a court hearing adjourned. The doctor is liable under s.234."
+    ],
+    "termRefs": [
+      "false-evidence"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.234 — bare Act text verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-235",
+    "chapterId": "ch-14",
+    "number": "235",
+    "title": "Using as true a certificate known to be false",
+    "bareActText": "Whoever corruptly uses or attempts to use any such certificate as a true certificate, knowing the same to be false in any material point, shall be punished in the same manner as if he gave false evidence.",
+    "plainMeaning": "The companion of s.234: a person who corruptly uses, or tries to use, such a certificate as true, knowing it is false in a material point, is punished as if he had given false evidence. The person who uses the certificate is liable even though someone else issued it.",
+    "ingredients": [
+      "Using, or attempting to use, a certificate of the kind described in s.234 as true",
+      "Knowing it to be false in a material point",
+      "Doing so corruptly"
+    ],
+    "punishment": "The same as for giving false evidence.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "The Court by which the offence of giving false evidence is triable"
+    },
+    "ipcReference": {
+      "section": "198 IPC",
+      "changeNote": "Re-enacted without change of substance."
+    },
+    "illustrations": [
+      "In the example under s.234, the patient who knowingly files the false hospital certificate in court to get an adjournment is liable under s.235."
+    ],
+    "termRefs": [
+      "false-evidence"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.235 — bare Act text verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-236",
+    "chapterId": "ch-14",
+    "number": "236",
+    "title": "False statement made in declaration which is by law receivable as evidence",
+    "bareActText": "Whoever, in any declaration made or subscribed by him, which declaration any Court or any public servant or other person, is bound or authorised by law to receive as evidence of any fact, makes any statement which is false, and which he either knows or believes to be false or does not believe to be true, touching any point material to the object for which the declaration is made or used, shall be punished in the same manner as if he gave false evidence.",
+    "plainMeaning": "Many laws allow written declarations — such as affidavits or statutory declarations — to be received as evidence by a court, a public servant or another authorised person. A person who makes a false statement in such a declaration, knowing or believing it to be false or not believing it to be true, on a point material to the declaration's purpose, is punished as if he had given false evidence.",
+    "ingredients": [
+      "A declaration made or subscribed by the accused",
+      "A Court, public servant or other person is bound or authorised by law to receive it as evidence of a fact",
+      "It contains a false statement that the accused knows or believes to be false, or does not believe to be true",
+      "The statement touches a point material to the object of the declaration"
+    ],
+    "punishment": "The same as for giving false evidence.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "The Court by which the offence of giving false evidence is triable"
+    },
+    "ipcReference": {
+      "section": "199 IPC",
+      "changeNote": "Re-enacted without change of substance."
+    },
+    "illustrations": [
+      "In an affidavit filed with a bail application, H states that he has no other criminal cases pending, knowing that two are pending. H is liable under s.236."
+    ],
+    "termRefs": [
+      "false-evidence",
+      "public-servant",
+      "court"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.236 — bare Act text verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-237",
+    "chapterId": "ch-14",
+    "number": "237",
+    "title": "Using as true such declaration knowing it to be false",
+    "bareActText": "Whoever corruptly uses or attempts to use as true any such declaration, knowing the same to be false in any material point, shall be punished in the same manner as if he gave false evidence. Explanation.—A declaration which is inadmissible merely upon the ground of some informality, is a declaration within the meaning of section 236 and this section.",
+    "plainMeaning": "Corruptly using, or trying to use, such a declaration as true, knowing it is false in a material point, is punished as if the person had given false evidence. The Explanation closes a loophole for both s.236 and s.237: a declaration does not escape these sections merely because some technical informality makes it inadmissible.",
+    "ingredients": [
+      "Using, or attempting to use, a declaration of the kind in s.236 as true",
+      "Knowing it to be false in a material point",
+      "Doing so corruptly",
+      "A declaration inadmissible only because of an informality is still covered (Expl.)"
+    ],
+    "punishment": "The same as for giving false evidence.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "The Court by which the offence of giving false evidence is triable"
+    },
+    "ipcReference": {
+      "section": "200 IPC",
+      "changeNote": "Re-enacted without change of substance, with its Explanation."
+    },
+    "illustrations": [
+      "An employer files in a labour court a worker's affidavit, which the employer knows the worker was pressured into signing and which is false, to show the worker resigned voluntarily. The employer corruptly uses a false declaration and is liable under s.237."
+    ],
+    "termRefs": [
+      "false-evidence"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.237 — bare Act text verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-238",
+    "chapterId": "ch-14",
+    "number": "238",
+    "title": "Causing disappearance of evidence of offence, or giving false information to screen offender",
+    "bareActText": "Whoever, knowing or having reason to believe that an offence has been committed, causes any evidence of the commission of that offence to disappear, with the intention of screening the offender from legal punishment, or with that intention gives any information respecting the offence which he knows or believes to be false shall,— (a) if the offence which he knows or believes to have been committed is punishable with death, be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine; (b) if the offence is punishable with imprisonment for life, or with imprisonment which may extend to ten years, be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine; (c) if the offence is punishable with imprisonment for any term not extending to ten years, be punished with imprisonment of the description provided for the offence, for a term which may extend to one-fourth part of the longest term of the imprisonment provided for the offence, or with fine, or with both. Illustration. A, knowing that B has murdered Z, assists B to hide the body with the intention of screening B from punishment. A is liable to imprisonment of either description for seven years, and also to fine.",
+    "plainMeaning": "This section punishes covering up a crime. A person who knows or has reason to believe an offence has been committed, and — intending to shield the offender from legal punishment — either makes evidence of it disappear (hiding a body, washing blood-stains, destroying a weapon or CCTV footage) or gives information about it that he knows or believes is false, is liable. The punishment is graded by the seriousness of the original offence: up to seven years and fine if it is punishable with death; up to three years and fine if punishable with life or up to ten years; and up to one-fourth of the maximum term for the offence, or fine, or both, for lesser offences. The offender himself can also be charged under this section for destroying evidence of his own crime.",
+    "ingredients": [
+      "An offence has been committed",
+      "The accused knows or has reason to believe it has been committed",
+      "He causes evidence of it to disappear, or gives information about it which he knows or believes to be false",
+      "With the intention of screening the offender from legal punishment",
+      "Punishment depends on the gravity of the original offence"
+    ],
+    "punishment": "(a) Offence punishable with death: imprisonment of either description up to 7 years, and fine. (b) Offence punishable with life or up to 10 years: up to 3 years, and fine. (c) Offence punishable with less than 10 years: imprisonment of the description provided for the offence, up to one-fourth of its longest term, or fine, or both.",
+    "classification": {
+      "cognizable": "(a) According as the offence in relation to which evidence is caused to disappear is cognizable or non-cognizable; (b), (c) Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "(a) Court of Session; (b) Magistrate of the first class; (c) The Court by which the offence is triable"
+    },
+    "ipcReference": {
+      "section": "201 IPC",
+      "changeNote": "Re-enacted without change of substance, with its Illustration."
+    },
+    "illustrations": [
+      "After his friend kills a man in a brawl, J helps him wash the blood-stained clothes and throw the knife into a river, so that the police find nothing. J is liable under s.238(a), since murder is punishable with death.",
+      "A shop manager deletes CCTV footage showing his employee stealing from a customer, to protect the employee. He causes evidence to disappear and is liable under s.238(c)."
+    ],
+    "termRefs": [
+      "screening-offender",
+      "reason-to-believe",
+      "offence"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.238 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-239",
+    "chapterId": "ch-14",
+    "number": "239",
+    "title": "Intentional omission to give information of offence by person bound to inform",
+    "bareActText": "Whoever, knowing or having reason to believe that an offence has been committed, intentionally omits to give any information respecting that offence which he is legally bound to give, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+    "plainMeaning": "A person who knows or has reason to believe that an offence has been committed, and who is legally bound to give information about it, commits this offence if he intentionally fails to do so. The legal duty must come from some law — for example BNSS s.33, which requires the public to inform the police or a Magistrate of certain serious offences. The punishment is up to six months, or fine up to ₹5,000, or both. Under the Explanation to s.240, 'offence' here includes listed grave acts committed outside India.",
+    "ingredients": [
+      "An offence has been committed",
+      "The accused knows or has reason to believe it",
+      "He is legally bound to give information about it",
+      "He intentionally omits to give that information"
+    ],
+    "punishment": "Imprisonment of either description up to 6 months, or fine up to ₹5,000, or both.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "202 IPC",
+      "changeNote": "Re-enacts s.202 IPC. The BNS states the fine limit as ₹5,000."
+    },
+    "illustrations": [
+      "A village headman legally required to report serious crimes learns that a dacoity was committed in his village the previous night, but deliberately stays silent. He is liable under s.239."
+    ],
+    "termRefs": [
+      "reason-to-believe",
+      "offence"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.239 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-240",
+    "chapterId": "ch-14",
+    "number": "240",
+    "title": "Giving false information respecting an offence committed",
+    "bareActText": "Whoever, knowing or having reason to believe that an offence has been committed, gives any information respecting that offence which he knows or believes to be false, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both. Explanation.—In sections 238 and 239 and in this section the word “offence” includes any act committed at any place out of India, which, if committed in India, would be punishable under any of the following sections, namely, 103, 105, 307, sub-sections (2), (3) and (4) of section 309, sub-sections (2), (3), (4) and (5) of section 310, 311, 312, clauses (f) and (g) of section 326, sub-sections (4), (6), (7) and (8) of section 331, clauses (a) and (b) of section 332.",
+    "plainMeaning": "A person who knows or has reason to believe that an offence has been committed, and gives information about it that he knows or believes to be false, is punishable with up to two years, or fine, or both. Unlike s.238, no intention to screen the offender is required, and unlike s.239, no legal duty to inform is required — anyone who knowingly gives false information about a committed offence is covered. The Explanation, which applies to ss.238, 239 and 240, extends 'offence' to acts committed outside India that would be punishable in India under the listed sections — murder, culpable homicide, theft after preparation for causing death or hurt, robbery, dacoity, mischief by fire or explosives, and aggravated house-trespass and house-breaking.",
+    "ingredients": [
+      "An offence has been committed",
+      "The accused knows or has reason to believe it",
+      "He gives information respecting that offence",
+      "He knows or believes the information to be false"
+    ],
+    "punishment": "Imprisonment of either description up to 2 years, or fine, or both.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "203 IPC",
+      "changeNote": "Re-enacts s.203 IPC. The Explanation now lists the corresponding BNS sections."
+    },
+    "illustrations": [
+      "After a hit-and-run, K, who saw the accident, tells the investigating officer that the car was blue when he knows it was white, simply because he dislikes the police. K is liable under s.240."
+    ],
+    "termRefs": [
+      "reason-to-believe",
+      "offence"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.240 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-241",
+    "chapterId": "ch-14",
+    "number": "241",
+    "title": "Destruction of document or electronic record to prevent its production as evidence",
+    "bareActText": "Whoever secretes or destroys any document or electronic record which he may be lawfully compelled to produce as evidence in a Court or in any proceeding lawfully held before a public servant, as such, or obliterates or renders illegible the whole or any part of such document or electronic record with the intention of preventing the same from being produced or used as evidence before such Court or public servant as aforesaid, or after he shall have been lawfully summoned or required to produce the same for that purpose, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine which may extend to five thousand rupees, or with both.",
+    "plainMeaning": "A person who hides or destroys a document or electronic record that he could lawfully be compelled to produce as evidence in a court or in a lawful proceeding before a public servant, or who erases or makes it illegible in whole or part, commits this offence if he does so intending to prevent it from being produced or used as evidence, or after he has been lawfully summoned or required to produce it. Deleting emails or wiping a phone after receiving a notice to produce them is a modern example. The punishment is up to three years, or fine up to ₹5,000, or both.",
+    "ingredients": [
+      "A document or electronic record the accused may be lawfully compelled to produce as evidence in a Court or lawful proceeding before a public servant",
+      "He secretes or destroys it, or obliterates or renders illegible the whole or part of it",
+      "With intent to prevent its production or use as evidence, or after being lawfully summoned or required to produce it"
+    ],
+    "punishment": "Imprisonment of either description up to 3 years, or fine up to ₹5,000, or both.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Magistrate of the first class"
+    },
+    "ipcReference": {
+      "section": "204 IPC",
+      "changeNote": "Re-enacts s.204 IPC. The BNS punishment is up to 3 years, or fine up to ₹5,000, or both."
+    },
+    "illustrations": [
+      "A company director who has been served with a court order to produce the board's minute books shreds them the next day. He is liable under s.241.",
+      "An accused, knowing the police will seek his phone's chats as evidence, factory-resets the phone. He destroys an electronic record he could be compelled to produce."
+    ],
+    "termRefs": [
+      "document",
+      "electronic-record",
+      "public-servant",
+      "court"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.241 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-242",
+    "chapterId": "ch-14",
+    "number": "242",
+    "title": "False personation for purpose of act or proceeding in suit or prosecution",
+    "bareActText": "Whoever falsely personates another, and in such assumed character makes any admission or statement, or confesses judgment, or causes any process to be issued or becomes bail or security, or does any other act in any suit or criminal prosecution, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+    "plainMeaning": "A person who falsely pretends to be someone else, and in that assumed identity does something in a civil suit or criminal prosecution — makes an admission or statement, confesses judgment, gets process issued, stands bail or surety, or does any other act — commits this offence. Standing in court as a 'dummy' accused or a fake surety are classic examples. The punishment is up to three years, or fine, or both.",
+    "ingredients": [
+      "Falsely personating another person",
+      "In that assumed character, making an admission or statement, confessing judgment, causing process to issue, becoming bail or security, or doing any other act",
+      "In a suit or criminal prosecution"
+    ],
+    "punishment": "Imprisonment of either description up to 3 years, or fine, or both.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Magistrate of the first class"
+    },
+    "ipcReference": {
+      "section": "205 IPC",
+      "changeNote": "Re-enacted without change of substance."
+    },
+    "illustrations": [
+      "L appears before a Magistrate claiming to be M, the real owner of a house, and signs a bail bond as M's surety using M's property papers. L falsely personates M to become security and is liable under s.242."
+    ],
+    "termRefs": [
+      "bail-bond"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.242 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-243",
+    "chapterId": "ch-14",
+    "number": "243",
+    "title": "Fraudulent removal or concealment of property to prevent its seizure as forfeited or in execution",
+    "bareActText": "Whoever fraudulently removes, conceals, transfers or delivers to any person any property or any interest therein, intending thereby to prevent that property or interest therein from being taken as a forfeiture or in satisfaction of a fine, under a sentence which has been pronounced, or which he knows to be likely to be pronounced, by a Court or other competent authority, or from being taken in execution of a decree or order which has been made, or which he knows to be likely to be made by a Court in a civil suit, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine which may extend to five thousand rupees, or with both.",
+    "plainMeaning": "A person who fraudulently removes, hides, transfers or hands over property (or an interest in it) to stop it from being taken as a forfeiture or to pay a fine under a sentence — already passed, or which he knows is likely to be passed — or from being taken in execution of a civil court decree or order — already made, or which he knows is likely to be made — commits this offence. It targets people who move assets out of reach before a court can reach them. The punishment is up to three years, or fine up to ₹5,000, or both.",
+    "ingredients": [
+      "Fraudulently removing, concealing, transferring or delivering to any person any property or interest in it",
+      "Intending to prevent it from being taken as a forfeiture or in satisfaction of a fine under a sentence pronounced or known to be likely; or",
+      "From being taken in execution of a decree or order of a civil court made or known to be likely"
+    ],
+    "punishment": "Imprisonment of either description up to 3 years, or fine up to ₹5,000, or both.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "206 IPC",
+      "changeNote": "Re-enacts s.206 IPC. The BNS punishment is up to 3 years, or fine up to ₹5,000, or both."
+    },
+    "illustrations": [
+      "N, sensing that a bank's recovery suit against him will soon end in a decree, secretly transfers his flat to his brother-in-law for no real price. N is liable under s.243."
+    ],
+    "termRefs": [
+      "fraudulently",
+      "forfeiture"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.243 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-244",
+    "chapterId": "ch-14",
+    "number": "244",
+    "title": "Fraudulent claim to property to prevent its seizure as forfeited or in execution",
+    "bareActText": "Whoever fraudulently accepts, receives or claims any property or any interest therein, knowing that he has no right or rightful claim to such property or interest, or practises any deception touching any right to any property or any interest therein, intending thereby to prevent that property or interest therein from being taken as a forfeiture or in satisfaction of a fine, under a sentence which has been pronounced, or which he knows to be likely to be pronounced by a Court or other competent authority, or from being taken in execution of a decree or order which has been made, or which he knows to be likely to be made by a Court in a civil suit, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+    "plainMeaning": "Section 243 punishes the person who moves his assets away; s.244 punishes the person on the receiving end, and anyone who deceives about ownership. A person who fraudulently accepts, receives or claims property knowing he has no right to it, or practises any deception about rights in property, intending to stop it being taken as a forfeiture, for a fine, or in execution of a civil decree (passed or known to be likely), is punishable with up to two years, or fine, or both.",
+    "ingredients": [
+      "Fraudulently accepting, receiving or claiming property or an interest in it, knowing he has no right or rightful claim; or practising deception touching any right to property",
+      "Intending to prevent it being taken as a forfeiture, in satisfaction of a fine, or in execution of a civil decree or order",
+      "The sentence, decree or order is already pronounced or made, or known to be likely"
+    ],
+    "punishment": "Imprisonment of either description up to 2 years, or fine, or both.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "207 IPC",
+      "changeNote": "Re-enacted without change of substance."
+    },
+    "illustrations": [
+      "In the example under s.243, the brother-in-law who knowingly accepts the flat, and later files an objection in execution claiming to be its true owner, is liable under s.244."
+    ],
+    "termRefs": [
+      "fraudulently",
+      "forfeiture"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.244 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-245",
+    "chapterId": "ch-14",
+    "number": "245",
+    "title": "Fraudulently suffering decree for sum not due",
+    "bareActText": "Whoever fraudulently causes or suffers a decree or order to be passed against him at the suit of any person for a sum not due or for a larger sum than is due to such person or for any property or interest in property to which such person is not entitled, or fraudulently causes or suffers a decree or order to be executed against him after it has been satisfied, or for anything in respect of which it has been satisfied, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both. Illustration. A institutes a suit against Z. Z, knowing that A is likely to obtain a decree against him, fraudulently suffers a judgment to pass against him for a larger amount at the suit of B, who has no just claim against him, in order that B, either on his own account or for the benefit of Z, may share in the proceeds of any sale of Z’s property which may be made under A’s decree. Z has committed an offence under this section.",
+    "plainMeaning": "This section punishes a judgment-debtor who colludes to have a false decree passed against himself. A person who fraudulently causes or allows a decree or order to be passed against him for a sum not due, a larger sum than is due, or property the other party is not entitled to — or who fraudulently causes or allows a decree to be executed against him after it has been satisfied — is punishable with up to two years, or fine, or both. The usual purpose, as the Illustration shows, is to let a friendly 'creditor' share in the sale proceeds and cheat the genuine creditors.",
+    "ingredients": [
+      "Fraudulently causing or suffering a decree or order to be passed against oneself for a sum not due, a larger sum than due, or property the plaintiff is not entitled to; or",
+      "Fraudulently causing or suffering a decree or order to be executed against oneself after it has been satisfied, or for anything already satisfied"
+    ],
+    "punishment": "Imprisonment of either description up to 2 years, or fine, or both.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Magistrate of the first class"
+    },
+    "ipcReference": {
+      "section": "208 IPC",
+      "changeNote": "Re-enacted without change of substance, with its Illustration."
+    },
+    "illustrations": [
+      "Facing a genuine creditor's suit, P arranges for his cousin to file a sham suit for ₹10 lakh that P does not contest, so the cousin gets a decree and can share in the auction of P's shop. P is liable under s.245 (and the cousin under s.247)."
+    ],
+    "termRefs": [
+      "fraudulently"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.245 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-246",
+    "chapterId": "ch-14",
+    "number": "246",
+    "title": "Dishonestly making false claim in Court",
+    "bareActText": "Whoever fraudulently or dishonestly, or with intent to injure or annoy any person, makes in a Court any claim which he knows to be false, shall be punished with imprisonment of either description for a term which may extend to two years, and shall also be liable to fine.",
+    "plainMeaning": "A person who makes in a court a claim he knows to be false, acting fraudulently, dishonestly, or with intent to injure or annoy someone, is punishable with up to two years and fine. It targets knowingly false civil claims — for example, a suit for a debt that the plaintiff knows was never owed. A claim that merely fails because the claimant was honestly mistaken is not covered.",
+    "ingredients": [
+      "Making a claim in a Court",
+      "Knowing the claim to be false",
+      "Fraudulently or dishonestly, or with intent to injure or annoy any person"
+    ],
+    "punishment": "Imprisonment of either description up to 2 years, and fine.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Magistrate of the first class"
+    },
+    "ipcReference": {
+      "section": "209 IPC",
+      "changeNote": "Re-enacted without change of substance."
+    },
+    "illustrations": [
+      "Q files a recovery suit claiming that his neighbour borrowed ₹5 lakh from him, knowing no loan was ever made, to harass the neighbour into selling him a plot. Q is liable under s.246."
+    ],
+    "termRefs": [
+      "fraudulently",
+      "dishonestly",
+      "court"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.246 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-247",
+    "chapterId": "ch-14",
+    "number": "247",
+    "title": "Fraudulently obtaining decree for sum not due",
+    "bareActText": "Whoever fraudulently obtains a decree or order against any person for a sum not due, or for a larger sum than is due or for any property or interest in property to which he is not entitled, or fraudulently causes a decree or order to be executed against any person after it has been satisfied or for anything in respect of which it has been satisfied, or fraudulently suffers or permits any such act to be done in his name, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+    "plainMeaning": "The mirror image of s.245, this time punishing the decree-holder. A person who fraudulently obtains a decree or order against another for a sum not due, a larger sum than due, or property he is not entitled to — or fraudulently has a decree executed after it has been satisfied — or fraudulently allows any such act to be done in his name, is punishable with up to two years, or fine, or both.",
+    "ingredients": [
+      "Fraudulently obtaining a decree or order for a sum not due, a larger sum than due, or property one is not entitled to; or",
+      "Fraudulently causing a decree or order to be executed after it has been satisfied, or for anything already satisfied; or",
+      "Fraudulently suffering or permitting any such act to be done in one's name"
+    ],
+    "punishment": "Imprisonment of either description up to 2 years, or fine, or both.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Magistrate of the first class"
+    },
+    "ipcReference": {
+      "section": "210 IPC",
+      "changeNote": "Re-enacted without change of substance."
+    },
+    "illustrations": [
+      "R obtains a money decree against S. S pays the full amount, but R, hiding the payment, applies to the court to execute the decree and attach S's car. R fraudulently causes a satisfied decree to be executed and is liable under s.247."
+    ],
+    "termRefs": [
+      "fraudulently"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.247 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-248",
+    "chapterId": "ch-14",
+    "number": "248",
+    "title": "False charge of offence made with intent to injure",
+    "bareActText": "Whoever, with intent to cause injury to any person, institutes or causes to be instituted any criminal proceeding against that person, or falsely charges any person with having committed an offence, knowing that there is no just or lawful ground for such proceeding or charge against that person,— (a) shall be punished with imprisonment of either description for a term which may extend to five years, or with fine which may extend to two lakh rupees, or with both; (b) if such criminal proceeding be instituted on a false charge of an offence punishable with death, imprisonment for life, or imprisonment for ten years or upwards, shall be punishable with imprisonment of either description for a term which may extend to ten years, and shall also be liable to fine.",
+    "plainMeaning": "This section punishes false criminal cases. A person who, intending to cause injury to someone, institutes (or has someone else institute) a criminal proceeding against him, or falsely charges him with an offence, knowing there is no just or lawful ground for it, is punishable with up to five years, or fine up to ₹2 lakh, or both. If the criminal proceeding is instituted on a false charge of an offence punishable with death, life imprisonment, or imprisonment of ten years or more, the punishment rises to up to ten years and fine. 'Falsely charging' can be complete once a false complaint is made to the police or a Magistrate; 'instituting a proceeding' requires a proceeding to be set in motion.",
+    "ingredients": [
+      "Instituting, or causing to be instituted, a criminal proceeding against a person; or falsely charging a person with an offence",
+      "Knowing there is no just or lawful ground for the proceeding or charge",
+      "With intent to cause injury to that person",
+      "(b) The proceeding is on a false charge of an offence punishable with death, life imprisonment, or 10 years or more"
+    ],
+    "punishment": "(a) Imprisonment of either description up to 5 years, or fine up to ₹2 lakh, or both. (b) Criminal proceeding on a false charge of an offence punishable with death, life imprisonment or 10 years or more: imprisonment of either description up to 10 years, and fine.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "(a) Magistrate of the first class; (b) Court of Session"
+    },
+    "ipcReference": {
+      "section": "211 IPC",
+      "changeNote": "Re-enacts s.211 IPC with higher punishments: the basic offence rises from 2 years to 5 years (with a fine limit of ₹2 lakh), and the aggravated form — which now applies to false charges of offences punishable with 10 years or more, instead of 7 years or more — rises from 7 years to 10 years."
+    },
+    "illustrations": [
+      "After a property dispute, T files a complaint with the police alleging that his brother attempted to murder him, knowing the allegation is invented, so that the brother is arrested. A criminal proceeding is instituted on a false charge of an offence punishable with ten years or more, so T is liable under s.248(b).",
+      "U lodges a false theft complaint against her domestic help to avoid paying her dues. U is liable under s.248(a)."
+    ],
+    "termRefs": [
+      "false-charge",
+      "injury",
+      "offence"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.248 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-249",
+    "chapterId": "ch-14",
+    "number": "249",
+    "title": "Harbouring offender",
+    "bareActText": "Whenever an offence has been committed, whoever harbours or conceals a person whom he knows or has reason to believe to be the offender, with the intention of screening him from legal punishment shall,— (a) if the offence is punishable with death, be punished with imprisonment of either description for a term which may extend to five years, and shall also be liable to fine; (b) if the offence is punishable with imprisonment for life, or with imprisonment which may extend to ten years, be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine; (c) if the offence is punishable with imprisonment which may extend to one year, and not to ten years, be punished with imprisonment of the description provided for the offence for a term which may extend to one-fourth part of the longest term of imprisonment provided for the offence, or with fine, or with both. Explanation.—“Offence” in this section includes any act committed at any place out of India, which, if committed in India, would be punishable under any of the following sections, namely, 103, 105, 307, sub-sections (2), (3) and (4) of section 309, sub-sections (2), (3), (4) and (5) of section 310, 311, 312, clauses (f) and (g) of section 326, sub-sections (4), (6), (7) and (8) of section 331, clauses (a) and (b) of section 332 and every such act shall, for the purposes of this section, be deemed to be punishable as if the accused person had been guilty of it in India. Exception.—This section shall not extend to any case in which the harbour or concealment is by the spouse of the offender. Illustration. A, knowing that B has committed dacoity, knowingly conceals B in order to screen him from legal punishment. Here, as B is liable to imprisonment for life, A is liable to imprisonment of either description for a term not exceeding three years, and is also liable to fine.",
+    "plainMeaning": "Once an offence has been committed, a person who harbours or conceals someone he knows or has reason to believe is the offender, intending to screen him from legal punishment, is liable. 'Harbour' has the wide meaning in s.2 — supplying shelter, food, money, clothes, transport and similar help. The punishment is graded by the original offence: up to five years and fine if it is punishable with death; up to three years and fine if punishable with life or up to ten years; and up to one-fourth of the maximum term, or fine, or both, if punishable with one year but less than ten years. The Explanation covers listed grave acts committed outside India. By the Exception, a spouse who harbours or conceals the offender commits no offence under this section.",
+    "ingredients": [
+      "An offence has been committed",
+      "The accused harbours or conceals a person",
+      "He knows or has reason to believe that person to be the offender",
+      "With the intention of screening him from legal punishment",
+      "Exception: not applicable where the harbourer is the offender's spouse"
+    ],
+    "punishment": "(a) Offence punishable with death: imprisonment of either description up to 5 years, and fine. (b) Offence punishable with life or up to 10 years: up to 3 years, and fine. (c) Offence punishable with 1 year but less than 10 years: imprisonment of the description provided for the offence, up to one-fourth of its longest term, or fine, or both.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Magistrate of the first class"
+    },
+    "ipcReference": {
+      "section": "212 IPC",
+      "changeNote": "Re-enacted without change of substance, with its Explanation, Exception and Illustration; the Explanation now lists the corresponding BNS sections."
+    },
+    "illustrations": [
+      "V's friend commits murder and asks for help. V hides him in a farmhouse and brings him food for a week, knowing the police are searching for him. V is liable under s.249(a).",
+      "If the person hiding the murderer is his wife, the Exception applies and she commits no offence under s.249."
+    ],
+    "termRefs": [
+      "harbour",
+      "screening-offender",
+      "reason-to-believe",
+      "offence"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.249 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-250",
+    "chapterId": "ch-14",
+    "number": "250",
+    "title": "Taking gift, etc., to screen an offender from punishment",
+    "bareActText": "Whoever accepts or attempts to obtain, or agrees to accept, any gratification for himself or any other person, or any restitution of property to himself or any other person, in consideration of his concealing an offence or of his screening any person from legal punishment for any offence, or of his not proceeding against any person for the purpose of bringing him to legal punishment shall,— (a) if the offence is punishable with death, be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine; (b) if the offence is punishable with imprisonment for life, or with imprisonment which may extend to ten years, be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine; (c) if the offence is punishable with imprisonment not extending to ten years, be punished with imprisonment of the description provided for the offence for a term which may extend to one-fourth part of the longest term of imprisonment provided for the offence, or with fine, or with both.",
+    "plainMeaning": "A person who accepts, tries to obtain, or agrees to accept any gratification (for himself or anyone else), or any return of property, as the price for concealing an offence, screening someone from legal punishment, or not taking steps to bring someone to justice, commits this offence. It punishes 'selling silence' — for example, a victim or witness who takes money to drop a complaint in a serious case. The punishment is graded by the offence concealed: up to seven years and fine if it is punishable with death; up to three years and fine if punishable with life or up to ten years; and up to one-fourth of the maximum term, or fine, or both, for lesser offences. Under the Exception in s.251, the section does not apply where the offence can lawfully be compounded.",
+    "ingredients": [
+      "Accepting, attempting to obtain, or agreeing to accept any gratification, or restitution of property, for oneself or another",
+      "In consideration of concealing an offence, screening a person from legal punishment, or not proceeding against a person to bring him to legal punishment",
+      "Not applicable where the offence may lawfully be compounded (Exception to s.251)"
+    ],
+    "punishment": "(a) Offence punishable with death: imprisonment of either description up to 7 years, and fine. (b) Offence punishable with life or up to 10 years: up to 3 years, and fine. (c) Offence punishable with less than 10 years: imprisonment of the description provided for the offence, up to one-fourth of its longest term, or fine, or both.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Magistrate of the first class"
+    },
+    "ipcReference": {
+      "section": "213 IPC",
+      "changeNote": "Re-enacted without change of substance."
+    },
+    "illustrations": [
+      "W witnesses a robbery and recognises the robber. He agrees to accept ₹50,000 from the robber's family in return for not telling the police what he saw. W is liable under s.250(b), since robbery is punishable with up to ten years."
+    ],
+    "termRefs": [
+      "gratification",
+      "screening-offender",
+      "offence"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.250 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-251",
+    "chapterId": "ch-14",
+    "number": "251",
+    "title": "Offering gift or restoration of property in consideration of screening offender",
+    "bareActText": "Whoever gives or causes, or offers or agrees to give or cause, any gratification to any person, or restores or causes the restoration of any property to any person, in consideration of that person’s concealing an offence, or of his screening any person from legal punishment for any offence, or of his not proceeding against any person for the purpose of bringing him to legal punishment shall,— (a) if the offence is punishable with death, be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine; (b) if the offence is punishable with imprisonment for life or with imprisonment which may extend to ten years, be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine; (c) if the offence is punishable with imprisonment not extending to ten years, be punished with imprisonment of the description provided for the offence for a term which may extend to one-fourth part of the longest term of imprisonment provided for the offence, or with fine, or with both. Exception.—The provisions of this section and section 250 do not extend to any case in which the offence may lawfully be compounded.",
+    "plainMeaning": "The giving side of s.250. A person who gives, offers or agrees to give any gratification, or restores or causes the restoration of property, to someone in return for that person concealing an offence, screening anyone from legal punishment, or not proceeding against anyone, is punished on the same graded scale: seven years and fine, three years and fine, or one-fourth of the maximum term. The Exception applies to both s.250 and s.251: where the offence may lawfully be compounded (settled between the parties under BNSS s.359), paying or receiving money to settle it is not an offence under these sections.",
+    "ingredients": [
+      "Giving, causing, offering or agreeing to give or cause any gratification, or restoring or causing restoration of property, to any person",
+      "In consideration of that person concealing an offence, screening a person from legal punishment, or not proceeding against a person",
+      "Exception: not applicable where the offence may lawfully be compounded"
+    ],
+    "punishment": "(a) Offence punishable with death: imprisonment of either description up to 7 years, and fine. (b) Offence punishable with life or up to 10 years: up to 3 years, and fine. (c) Offence punishable with less than 10 years: imprisonment of the description provided for the offence, up to one-fourth of its longest term, or fine, or both.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Magistrate of the first class"
+    },
+    "ipcReference": {
+      "section": "214 IPC",
+      "changeNote": "Re-enacted without change of substance, with the Exception covering both this section and s.250."
+    },
+    "illustrations": [
+      "In the example under s.250, the robber's family who pay W to stay silent are liable under s.251(b).",
+      "A person who pays a neighbour an agreed sum to withdraw a complaint of simple hurt under s.115(2) — an offence compoundable by the injured person — is protected by the Exception."
+    ],
+    "termRefs": [
+      "gratification",
+      "screening-offender",
+      "offence"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.251 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-252",
+    "chapterId": "ch-14",
+    "number": "252",
+    "title": "Taking gift to help to recover stolen property, etc.",
+    "bareActText": "Whoever takes or agrees or consents to take any gratification under pretence or on account of helping any person to recover any movable property of which he shall have been deprived by any offence punishable under this Sanhita, shall, unless he uses all means in his power to cause the offender to be apprehended and convicted of the offence, be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+    "plainMeaning": "This section targets 'middlemen' who charge a fee to get stolen property back from thieves without bringing the thieves to justice. A person who takes, or agrees or consents to take, any gratification on the pretext or on account of helping someone recover movable property lost through an offence under the Sanhita is punishable with up to two years, or fine, or both — unless he uses all means in his power to have the offender caught and convicted.",
+    "ingredients": [
+      "Taking, or agreeing or consenting to take, any gratification",
+      "Under pretence or on account of helping a person recover movable property",
+      "Of which that person was deprived by an offence punishable under the Sanhita",
+      "The accused does not use all means in his power to cause the offender to be apprehended and convicted"
+    ],
+    "punishment": "Imprisonment of either description up to 2 years, or fine, or both.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Magistrate of the first class"
+    },
+    "ipcReference": {
+      "section": "215 IPC",
+      "changeNote": "Re-enacted without change of substance; the reference is now to offences punishable under 'this Sanhita'."
+    },
+    "illustrations": [
+      "After X's motorcycle is stolen, a local fixer tells X he 'knows the people' and can get it back for ₹10,000. He takes the money, returns the motorcycle, and does nothing to help identify the thieves. The fixer is liable under s.252."
+    ],
+    "termRefs": [
+      "gratification",
+      "movable-property"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.252 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-253",
+    "chapterId": "ch-14",
+    "number": "253",
+    "title": "Harbouring offender who has escaped from custody or whose apprehension has been ordered",
+    "bareActText": "Whenever any person convicted of or charged with an offence, being in lawful custody for that offence, escapes from such custody, or whenever a public servant, in the exercise of the lawful powers of such public servant, orders a certain person to be apprehended for an offence, whoever, knowing of such escape or order for apprehension, harbours or conceals that person with the intention of preventing him from being apprehended, shall be punished in the manner following, namely:— (a) if the offence for which the person was in custody or is ordered to be apprehended is punishable with death, he shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine; (b) if the offence is punishable with imprisonment for life or imprisonment for ten years, he shall be punished with imprisonment of either description for a term which may extend to three years, with or without fine; (c) if the offence is punishable with imprisonment which may extend to one year and not to ten years, he shall be punished with imprisonment of the description provided for the offence for a term which may extend to one-fourth part of the longest term of the imprisonment provided for such offence, or with fine, or with both. Explanation.—“Offence” in this section includes also any act or omission of which a person is alleged to have been guilty out of India, which, if he had been guilty of it in India, would have been punishable as an offence, and for which he is, under any law relating to extradition, or otherwise, liable to be apprehended or detained in custody in India, and every such act or omission shall, for the purposes of this section, be deemed to be punishable as if the accused person had been guilty of it in India. Exception.—The provisions of this section do not extend to the case in which the harbour or concealment is by the spouse of the person to be apprehended.",
+    "plainMeaning": "Section 249 covers hiding an offender after an offence; s.253 is more specific and more serious at the top end. It applies where a person convicted of or charged with an offence escapes from lawful custody, or where a public servant has lawfully ordered a person's arrest for an offence. Anyone who, knowing of the escape or the arrest order, harbours or conceals that person to prevent his arrest is punishable: up to seven years and fine if the offence is punishable with death; up to three years, with or without fine, if punishable with life or ten years; and up to one-fourth of the maximum term, or fine, or both, for offences punishable with one year but less than ten years. The Explanation covers persons liable to be arrested in India under extradition law for acts abroad. A spouse is exempt.",
+    "ingredients": [
+      "A person convicted of or charged with an offence escapes from lawful custody; or a public servant lawfully orders a person's apprehension for an offence",
+      "The accused knows of the escape or the order",
+      "He harbours or conceals that person",
+      "With the intention of preventing his apprehension",
+      "Exception: not applicable to the spouse of the person to be apprehended"
+    ],
+    "punishment": "(a) Offence punishable with death: imprisonment of either description up to 7 years, and fine. (b) Offence punishable with life or 10 years: up to 3 years, with or without fine. (c) Offence punishable with 1 year but less than 10 years: imprisonment of the description provided for the offence, up to one-fourth of its longest term, or fine, or both.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Magistrate of the first class"
+    },
+    "ipcReference": {
+      "section": "216 IPC",
+      "changeNote": "Re-enacted without change of substance, with its Explanation and Exception."
+    },
+    "illustrations": [
+      "A murder undertrial escapes from a prison van. His cousin, who has seen the news, lets him hide in his godown for a month. The cousin is liable under s.253(a)."
+    ],
+    "termRefs": [
+      "harbour",
+      "lawful-custody",
+      "public-servant"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.253 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-254",
+    "chapterId": "ch-14",
+    "number": "254",
+    "title": "Penalty for harbouring robbers or dacoits",
+    "bareActText": "Whoever, knowing or having reason to believe that any persons are about to commit or have recently committed robbery or dacoity, harbours them or any of them, with the intention of facilitating the commission of such robbery or dacoity, or of screening them or any of them from punishment, shall be punished with rigorous imprisonment for a term which may extend to seven years, and shall also be liable to fine. Explanation.—For the purposes of this section it is immaterial whether the robbery or dacoity is intended to be committed, or has been committed, within or without India. Exception.—The provisions of this section do not extend to the case in which the harbour is by the spouse of the offender.",
+    "plainMeaning": "Harbouring robbers or dacoits is punished severely because it helps organised violent crime. A person who knows or has reason to believe that people are about to commit, or have recently committed, robbery or dacoity, and who harbours them (or any of them) to help them commit it or to screen them from punishment, is punishable with rigorous imprisonment up to seven years and fine. It does not matter whether the robbery or dacoity is in India or abroad. A spouse is exempt.",
+    "ingredients": [
+      "Knowing or having reason to believe that persons are about to commit, or have recently committed, robbery or dacoity",
+      "Harbouring them or any of them",
+      "With the intention of facilitating the robbery or dacoity, or of screening them from punishment",
+      "Place of the robbery or dacoity is immaterial (Expl.); spouse exempt (Exception)"
+    ],
+    "punishment": "Rigorous imprisonment up to 7 years, and fine.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Magistrate of the first class"
+    },
+    "ipcReference": {
+      "section": "216A IPC",
+      "changeNote": "Re-enacted without change of substance or punishment."
+    },
+    "illustrations": [
+      "Y lets a gang stay in his house for two nights, knowing they plan to rob a jewellery shop in the next town, and gives them a vehicle. Y is liable under s.254."
+    ],
+    "termRefs": [
+      "harbour",
+      "reason-to-believe",
+      "rigorous-imprisonment"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.254 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-255",
+    "chapterId": "ch-14",
+    "number": "255",
+    "title": "Public servant disobeying direction of law with intent to save person from punishment or property from forfeiture",
+    "bareActText": "Whoever, being a public servant, knowingly disobeys any direction of the law as to the way in which he is to conduct himself as such public servant, intending thereby to save, or knowing it to be likely that he will thereby save, any person from legal punishment, or subject him to a less punishment than that to which he is liable, or with intent to save, or knowing that he is likely thereby to save, any property from forfeiture or any charge to which it is liable by law, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+    "plainMeaning": "Section 198 punishes a public servant who disobeys the law to injure someone; s.255 punishes one who disobeys the law to protect a wrongdoer. A public servant who knowingly disobeys a direction of law on how he must conduct himself, intending (or knowing it likely) to save a person from legal punishment, to get him a lesser punishment than he deserves, or to save property from forfeiture or a legal charge, is punishable with up to two years, or fine, or both.",
+    "ingredients": [
+      "The accused is a public servant",
+      "He knowingly disobeys a direction of law as to how he must conduct himself",
+      "Intending or knowing it likely to save a person from legal punishment or subject him to a lesser punishment; or to save property from forfeiture or a legal charge"
+    ],
+    "punishment": "Imprisonment of either description up to 2 years, or fine, or both.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "217 IPC",
+      "changeNote": "Re-enacted without change of substance or punishment."
+    },
+    "illustrations": [
+      "A police officer, bound by law to forward the seized weapon and statements to the court within a set time, deliberately holds them back so that the accused, his relative, will be acquitted for want of evidence. He is liable under s.255."
+    ],
+    "termRefs": [
+      "public-servant",
+      "direction-of-law",
+      "forfeiture"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.255 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-256",
+    "chapterId": "ch-14",
+    "number": "256",
+    "title": "Public servant framing incorrect record or writing with intent to save person from punishment or property from forfeiture",
+    "bareActText": "Whoever, being a public servant, and being as such public servant, charged with the preparation of any record or other writing, frames that record or writing in a manner which he knows to be incorrect, with intent to cause, or knowing it to be likely that he will thereby cause, loss or injury to the public or to any person, or with intent thereby to save, or knowing it to be likely that he will thereby save, any person from legal punishment, or with intent to save, or knowing that he is likely thereby to save, any property from forfeiture or other charge to which it is liable by law, shall be punished with imprisonment of either description for a term which may extend to three years, or with fine, or with both.",
+    "plainMeaning": "A public servant whose job is to prepare a record or other writing, and who frames it in a way he knows is incorrect, is punishable with up to three years, or fine, or both, if he intends (or knows it likely) to cause loss or injury to the public or any person, to save someone from legal punishment, or to save property from forfeiture or a legal charge. A police officer writing a false case diary or a doctored seizure memo to help an accused is the classic example. It is cognizable.",
+    "ingredients": [
+      "The accused is a public servant charged, as such, with preparing a record or other writing",
+      "He frames it in a manner he knows to be incorrect",
+      "Intending or knowing it likely to cause loss or injury to the public or any person; or to save a person from legal punishment; or to save property from forfeiture or a legal charge"
+    ],
+    "punishment": "Imprisonment of either description up to 3 years, or fine, or both.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Magistrate of the first class"
+    },
+    "ipcReference": {
+      "section": "218 IPC",
+      "changeNote": "Re-enacted without change of substance or punishment."
+    },
+    "illustrations": [
+      "An excise inspector records in the seizure memo that 2 litres of illicit liquor were seized, when actually 200 litres were recovered, so that the accused faces a lighter charge. He is liable under s.256."
+    ],
+    "termRefs": [
+      "public-servant",
+      "injury",
+      "forfeiture"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.256 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-257",
+    "chapterId": "ch-14",
+    "number": "257",
+    "title": "Public servant in judicial proceeding corruptly making report, etc., contrary to law",
+    "bareActText": "Whoever, being a public servant, corruptly or maliciously makes or pronounces in any stage of a judicial proceeding, any report, order, verdict, or decision which he knows to be contrary to law, shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both.",
+    "plainMeaning": "A public servant — typically a judge, magistrate or other officer acting in a judicial proceeding — who corruptly or maliciously makes or pronounces, at any stage of a judicial proceeding, a report, order, verdict or decision that he knows to be contrary to law, is punishable with up to seven years, or fine, or both. Honest errors of law are not covered; the decision must be known to be contrary to law and made corruptly or maliciously. Judges also have protection under the Judges (Protection) Act, 1985, and prosecution needs sanction under the BNSS.",
+    "ingredients": [
+      "The accused is a public servant",
+      "He makes or pronounces a report, order, verdict or decision at any stage of a judicial proceeding",
+      "He knows it to be contrary to law",
+      "He acts corruptly or maliciously"
+    ],
+    "punishment": "Imprisonment of either description up to 7 years, or fine, or both.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Magistrate of the first class"
+    },
+    "ipcReference": {
+      "section": "219 IPC",
+      "changeNote": "Re-enacted without change of substance or punishment."
+    },
+    "illustrations": [
+      "A court-appointed commissioner, bribed by one party, files a report on the disputed boundary that he knows is contrary to the law and the facts. He is liable under s.257."
+    ],
+    "termRefs": [
+      "public-servant",
+      "judicial-proceeding"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.257 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-258",
+    "chapterId": "ch-14",
+    "number": "258",
+    "title": "Commitment for trial or confinement by person having authority who knows that he is acting contrary to law",
+    "bareActText": "Whoever, being in any office which gives him legal authority to commit persons for trial or to confinement, or to keep persons in confinement, corruptly or maliciously commits any person for trial or to confinement, or keeps any person in confinement, in the exercise of that authority knowing that in so doing he is acting contrary to law, shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both.",
+    "plainMeaning": "A person holding an office with legal authority to commit people for trial or to confinement, or to keep them in confinement — such as a magistrate or a jail superintendent — who corruptly or maliciously commits someone for trial, commits someone to confinement, or keeps someone confined, knowing that he is acting contrary to law, is punishable with up to seven years, or fine, or both. It protects personal liberty against deliberate abuse of detention powers.",
+    "ingredients": [
+      "The accused holds an office giving him legal authority to commit persons for trial or to confinement, or to keep persons in confinement",
+      "He commits a person for trial or to confinement, or keeps a person in confinement, in exercise of that authority",
+      "He knows he is acting contrary to law",
+      "He acts corruptly or maliciously"
+    ],
+    "punishment": "Imprisonment of either description up to 7 years, or fine, or both.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Magistrate of the first class"
+    },
+    "ipcReference": {
+      "section": "220 IPC",
+      "changeNote": "Re-enacted without change of substance or punishment."
+    },
+    "illustrations": [
+      "A jail superintendent, paid by a prisoner's rival, keeps the prisoner locked up for two months after a court has ordered his release, knowing the detention is unlawful. He is liable under s.258."
+    ],
+    "termRefs": [
+      "lawful-custody"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.258 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-259",
+    "chapterId": "ch-14",
+    "number": "259",
+    "title": "Intentional omission to apprehend on part of public servant bound to apprehend",
+    "bareActText": "Whoever, being a public servant, legally bound as such public servant to apprehend or to keep in confinement any person charged with or liable to be apprehended for an offence, intentionally omits to apprehend such person, or intentionally suffers such person to escape, or intentionally aids such person in escaping or attempting to escape from such confinement, shall be punished,— (a) with imprisonment of either description for a term which may extend to seven years, with or without fine, if the person in confinement, or who ought to have been apprehended, was charged with, or liable to be apprehended for, an offence punishable with death; or (b) with imprisonment of either description for a term which may extend to three years, with or without fine, if the person in confinement, or who ought to have been apprehended, was charged with, or liable to be apprehended for, an offence punishable with imprisonment for life or imprisonment for a term which may extend to ten years; or (c) with imprisonment of either description for a term which may extend to two years, with or without fine, if the person in confinement, or who ought to have been apprehended, was charged with, or liable to be apprehended for, an offence punishable with imprisonment for a term less than ten years.",
+    "plainMeaning": "A public servant legally bound to arrest or keep in confinement a person who is charged with, or liable to be arrested for, an offence (that is, an undertrial or suspect) commits this offence if he intentionally fails to arrest him, intentionally lets him escape, or intentionally helps him escape or try to escape. The punishment follows the gravity of the offence the person was charged with: up to seven years if punishable with death; up to three years if punishable with life or up to ten years; and up to two years if punishable with less than ten years — in each case with or without fine. Section 260 covers convicts; s.261 covers negligent escape.",
+    "ingredients": [
+      "The accused is a public servant legally bound to apprehend, or keep in confinement, a person charged with or liable to be apprehended for an offence",
+      "He intentionally omits to apprehend the person, or intentionally suffers him to escape, or intentionally aids him in escaping or attempting to escape",
+      "Punishment depends on the gravity of the offence the person was charged with"
+    ],
+    "punishment": "(a) Offence punishable with death: imprisonment of either description up to 7 years, with or without fine. (b) Offence punishable with life or up to 10 years: up to 3 years, with or without fine. (c) Offence punishable with less than 10 years: up to 2 years, with or without fine.",
+    "classification": {
+      "cognizable": "(a) According as the offence in relation to which the omission is made is cognizable or non-cognizable; (b), (c) Cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Magistrate of the first class"
+    },
+    "ipcReference": {
+      "section": "221 IPC",
+      "changeNote": "Re-enacted without change of substance or punishment."
+    },
+    "illustrations": [
+      "A constable escorting an undertrial charged with robbery to court removes his handcuffs and looks away at a tea stall so that he can run off, in return for money. The constable intentionally aids the escape and is liable under s.259(b)."
+    ],
+    "termRefs": [
+      "public-servant",
+      "lawful-custody"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.259 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-260",
+    "chapterId": "ch-14",
+    "number": "260",
+    "title": "Intentional omission to apprehend on part of public servant bound to apprehend person under sentence or lawfully committed",
+    "bareActText": "Whoever, being a public servant, legally bound as such public servant to apprehend or to keep in confinement any person under sentence of a Court for any offence or lawfully committed to custody, intentionally omits to apprehend such person, or intentionally suffers such person to escape or intentionally aids such person in escaping or attempting to escape from such confinement, shall be punished,— (a) with imprisonment for life or with imprisonment of either description for a term which may extend to fourteen years, with or without fine, if the person in confinement, or who ought to have been apprehended, is under sentence of death; or (b) with imprisonment of either description for a term which may extend to seven years, with or without fine, if the person in confinement or who ought to have been apprehended, is subject, by a sentence of a Court, or by virtue of a commutation of such sentence, to imprisonment for life or imprisonment for a term of ten years, or upwards; or (c) with imprisonment of either description for a term which may extend to three years, or with fine, or with both, if the person in confinement or who ought to have been apprehended, is subject by a sentence of a Court to imprisonment for a term not extending to ten years or if the person was lawfully committed to custody.",
+    "plainMeaning": "The same wrong as s.259, but where the person is already under a court's sentence, or lawfully committed to custody — so the punishment is heavier. A public servant legally bound to arrest or keep confined such a person, who intentionally fails to arrest him, lets him escape, or helps him escape, is punishable: with life imprisonment or up to fourteen years if the person is under sentence of death; up to seven years if he is serving life or ten years or more (including by commutation); and up to three years, or fine, or both, if he is serving less than ten years or was lawfully committed to custody.",
+    "ingredients": [
+      "The accused is a public servant legally bound to apprehend, or keep in confinement, a person under sentence of a Court or lawfully committed to custody",
+      "He intentionally omits to apprehend the person, or intentionally suffers him to escape, or intentionally aids his escape or attempted escape",
+      "Punishment depends on the sentence the person is under"
+    ],
+    "punishment": "(a) Person under sentence of death: imprisonment for life, or imprisonment of either description up to 14 years, with or without fine. (b) Person sentenced to life or 10 years or more: up to 7 years, with or without fine. (c) Person sentenced to less than 10 years, or lawfully committed to custody: up to 3 years, or fine, or both.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "(a), (b) Non-bailable; (c) Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "(a) Court of Session; (b), (c) Magistrate of the first class"
+    },
+    "ipcReference": {
+      "section": "222 IPC",
+      "changeNote": "Re-enacted without change of substance or punishment."
+    },
+    "illustrations": [
+      "A jail warder, bribed by the family of a prisoner on death row, leaves the cell unlocked at night so that the prisoner can escape. The warder is liable under s.260(a)."
+    ],
+    "termRefs": [
+      "public-servant",
+      "lawful-custody"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.260 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-261",
+    "chapterId": "ch-14",
+    "number": "261",
+    "title": "Escape from confinement or custody negligently suffered by public servant",
+    "bareActText": "Whoever, being a public servant legally bound as such public servant to keep in confinement any person charged with or convicted of any offence or lawfully committed to custody, negligently suffers such person to escape from confinement, shall be punished with simple imprisonment for a term which may extend to two years, or with fine, or with both.",
+    "plainMeaning": "Sections 259 and 260 require intention; s.261 covers carelessness. A public servant legally bound to keep in confinement a person charged with or convicted of an offence, or lawfully committed to custody, who negligently lets him escape, is punishable with simple imprisonment up to two years, or fine, or both.",
+    "ingredients": [
+      "The accused is a public servant legally bound to keep in confinement a person charged with or convicted of an offence, or lawfully committed to custody",
+      "The person escapes from confinement",
+      "The accused negligently suffered the escape"
+    ],
+    "punishment": "Simple imprisonment up to 2 years, or fine, or both.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "223 IPC",
+      "changeNote": "Re-enacted without change of substance or punishment."
+    },
+    "illustrations": [
+      "A constable guarding an arrested accused in hospital falls asleep on duty with the ward door open, and the accused walks out. The constable negligently suffered the escape and is liable under s.261."
+    ],
+    "termRefs": [
+      "public-servant",
+      "lawful-custody",
+      "simple-imprisonment"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.261 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-262",
+    "chapterId": "ch-14",
+    "number": "262",
+    "title": "Resistance or obstruction by a person to his lawful apprehension",
+    "bareActText": "Whoever intentionally offers any resistance or illegal obstruction to the lawful apprehension of himself for any offence with which he is charged or of which he has been convicted, or escapes or attempts to escape from any custody in which he is lawfully detained for any such offence, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both. Explanation.—The punishment in this section is in addition to the punishment for which the person to be apprehended or detained in custody was liable for the offence with which he was charged, or of which he was convicted.",
+    "plainMeaning": "A person who intentionally resists or illegally obstructs his own lawful arrest for an offence he is charged with or convicted of, or who escapes or tries to escape from lawful custody for such an offence, is punishable with up to two years, or fine, or both. Under the Explanation, this punishment is in addition to any punishment for the original offence.",
+    "ingredients": [
+      "Lawful apprehension of the accused for an offence he is charged with or convicted of; or his lawful custody for such an offence",
+      "He intentionally resists or illegally obstructs the apprehension; or escapes or attempts to escape from the custody"
+    ],
+    "punishment": "Imprisonment of either description up to 2 years, or fine, or both — in addition to the punishment for the original offence.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "224 IPC",
+      "changeNote": "Re-enacted without change of substance or punishment, with its Explanation."
+    },
+    "illustrations": [
+      "When police arrive with a warrant to arrest Z for cheating, Z locks himself in and then climbs out of a back window to flee. Z is liable under s.262, in addition to any sentence for cheating."
+    ],
+    "termRefs": [
+      "lawful-custody"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.262 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-263",
+    "chapterId": "ch-14",
+    "number": "263",
+    "title": "Resistance or obstruction to lawful apprehension of another person",
+    "bareActText": "Whoever, intentionally offers any resistance or illegal obstruction to the lawful apprehension of any other person for an offence, or rescues or attempts to rescue any other person from any custody in which that person is lawfully detained for an offence,— (a) shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both; or (b) if the person to be apprehended, or the person rescued or attempted to be rescued, is charged with or liable to be apprehended for an offence punishable with imprisonment for life or imprisonment for a term which may extend to ten years, shall be punished with imprisonment of either description for a term which may extend to three years, and shall also be liable to fine; or (c) if the person to be apprehended or rescued, or attempted to be rescued, is charged with or liable to be apprehended for an offence punishable with death, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine; or (d) if the person to be apprehended or rescued, or attempted to be rescued, is liable under the sentence of a Court or by virtue of a commutation of such a sentence, to imprisonment for life, or imprisonment for a term of ten years or upwards, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine; or (e) if the person to be apprehended or rescued, or attempted to be rescued, is under sentence of death, shall be punished with imprisonment for life or imprisonment of either description for a term not exceeding ten years, and shall also be liable to fine.",
+    "plainMeaning": "A person who intentionally resists or illegally obstructs the lawful arrest of someone else for an offence, or rescues or tries to rescue someone from lawful custody for an offence, commits this offence. The punishment rises with the gravity of the other person's situation: (a) up to two years, or fine, or both, as the basic offence; (b) up to three years and fine if the person is charged with an offence punishable with life or up to ten years; (c) up to seven years and fine if charged with an offence punishable with death; (d) up to seven years and fine if he is serving a sentence of life or ten years or more; and (e) life imprisonment or up to ten years and fine if he is under sentence of death.",
+    "ingredients": [
+      "Lawful apprehension of another person for an offence, or that person's lawful custody for an offence",
+      "The accused intentionally resists or illegally obstructs the apprehension; or rescues or attempts to rescue the person from custody",
+      "Punishment depends on what the other person is charged with or sentenced to"
+    ],
+    "punishment": "(a) Imprisonment of either description up to 2 years, or fine, or both. (b) Charged with an offence punishable with life or up to 10 years: up to 3 years, and fine. (c) Charged with an offence punishable with death: up to 7 years, and fine. (d) Under sentence of life or 10 years or more: up to 7 years, and fine. (e) Under sentence of death: imprisonment for life, or imprisonment of either description up to 10 years, and fine.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "(a) Bailable; (b)-(e) Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "(a) Any Magistrate; (b)-(d) Magistrate of the first class; (e) Court of Session"
+    },
+    "ipcReference": {
+      "section": "225 IPC",
+      "changeNote": "Re-enacted without change of substance or punishment."
+    },
+    "illustrations": [
+      "When police arrest a local strongman charged with attempt to murder, his supporters surround the police jeep and pull him out and away. Each supporter who took part rescued a person charged with an offence punishable with up to ten years, and is liable under s.263(b)."
+    ],
+    "termRefs": [
+      "lawful-custody"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.263 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-264",
+    "chapterId": "ch-14",
+    "number": "264",
+    "title": "Omission to apprehend, or sufferance of escape, on part of public servant, in cases not otherwise provided for",
+    "bareActText": "Whoever, being a public servant legally bound as such public servant to apprehend, or to keep in confinement, any person in any case not provided for in section 259, section 260 or section 261, or in any other law for the time being in force, omits to apprehend that person or suffers him to escape from confinement, shall be punished— (a) if he does so intentionally, with imprisonment of either description for a term which may extend to three years, or with fine, or with both; and (b) if he does so negligently, with simple imprisonment for a term which may extend to two years, or with fine, or with both.",
+    "plainMeaning": "A residuary provision filling gaps left by ss.259-261. A public servant legally bound to arrest or keep confined any person, in a case not covered by those sections or by any other law, who fails to arrest him or lets him escape, is punishable: up to three years, or fine, or both, if he does so intentionally; and simple imprisonment up to two years, or fine, or both, if negligently. It would apply, for instance, to a person detained under a civil process or for reasons other than an offence.",
+    "ingredients": [
+      "The accused is a public servant legally bound to apprehend, or keep in confinement, a person",
+      "The case is not provided for in ss.259, 260 or 261 or any other law",
+      "He omits to apprehend the person, or suffers him to escape",
+      "(a) Intentionally or (b) negligently"
+    ],
+    "punishment": "(a) Intentional: imprisonment of either description up to 3 years, or fine, or both. (b) Negligent: simple imprisonment up to 2 years, or fine, or both.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "(a) Magistrate of the first class; (b) Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "225A IPC",
+      "changeNote": "Re-enacted without change of substance or punishment."
+    },
+    "illustrations": [
+      "A court bailiff is bound to arrest a judgment-debtor under a civil warrant of arrest for non-payment of a decree. He lets the debtor slip away in return for a bribe. As this is not arrest for an offence, ss.259-261 do not apply, and the bailiff is liable under s.264(a)."
+    ],
+    "termRefs": [
+      "public-servant",
+      "lawful-custody"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.264 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-265",
+    "chapterId": "ch-14",
+    "number": "265",
+    "title": "Resistance or obstruction to lawful apprehension or escape or rescue in cases not otherwise provided for",
+    "bareActText": "Whoever, in any case not provided for in section 262 or section 263 or in any other law for the time being in force, intentionally offers any resistance or illegal obstruction to the lawful apprehension of himself or of any other person, or escapes or attempts to escape from any custody in which he is lawfully detained, or rescues or attempts to rescue any other person from any custody in which that person is lawfully detained, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both.",
+    "plainMeaning": "The residuary counterpart of ss.262-263. In any case not covered by those sections or another law — typically where the arrest or custody is not for an offence (for example, civil arrest) — a person who intentionally resists or illegally obstructs the lawful arrest of himself or another, escapes or tries to escape from lawful custody, or rescues or tries to rescue another from lawful custody, is punishable with up to six months, or fine, or both.",
+    "ingredients": [
+      "A case not provided for in ss.262 or 263 or any other law",
+      "Intentionally resisting or illegally obstructing the lawful apprehension of oneself or another; or escaping or attempting to escape from lawful custody; or rescuing or attempting to rescue another from lawful custody"
+    ],
+    "punishment": "Imprisonment of either description up to 6 months, or fine, or both.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "225B IPC",
+      "changeNote": "Re-enacted without change of substance or punishment."
+    },
+    "illustrations": [
+      "In the example under s.264, if the judgment-debtor had instead pushed the bailiff away and run off, he would be liable under s.265, since the arrest was not for an offence."
+    ],
+    "termRefs": [
+      "lawful-custody"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.265 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-266",
+    "chapterId": "ch-14",
+    "number": "266",
+    "title": "Violation of condition of remission of punishment",
+    "bareActText": "Whoever, having accepted any conditional remission of punishment, knowingly violates any condition on which such remission was granted, shall be punished with the punishment to which he was originally sentenced, if he has already suffered no part of that punishment, and if he has suffered any part of that punishment, then with so much of that punishment as he has not already suffered.",
+    "plainMeaning": "The Government can remit (reduce or cancel) a sentence on conditions — for example, early release on condition of good behaviour or reporting to the police. A person who has accepted such a conditional remission and knowingly breaks any of its conditions is punished with his original sentence if he had served none of it, or with the unexpired remainder if he had served part. It is cognizable and non-bailable, and triable by the court that could try the original offence.",
+    "ingredients": [
+      "The accused accepted a conditional remission of punishment",
+      "He knowingly violates a condition on which the remission was granted"
+    ],
+    "punishment": "The original sentence, if no part has been served; otherwise the part not yet served.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "The Court by which the original offence was triable"
+    },
+    "ipcReference": {
+      "section": "227 IPC",
+      "changeNote": "Re-enacted without change of substance. The IPC's s.226 (unlawful return from transportation) had already been repealed and has no BNS equivalent."
+    },
+    "illustrations": [
+      "A convict serving seven years is released after four years on remission, on condition that he does not leave the district without police permission. He knowingly moves to another State. He is liable to serve the remaining three years under s.266."
+    ],
+    "termRefs": [
+      "remission"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.266 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-267",
+    "chapterId": "ch-14",
+    "number": "267",
+    "title": "Intentional insult or interruption to public servant sitting in judicial proceeding",
+    "bareActText": "Whoever, intentionally offers any insult, or causes any interruption to any public servant, while such public servant is sitting in any stage of a judicial proceeding, shall be punished with simple imprisonment for a term which may extend to six months, or with fine which may extend to five thousand rupees, or with both.",
+    "plainMeaning": "A person who intentionally insults, or causes any interruption to, a public servant while he is sitting in any stage of a judicial proceeding — most often a judge or magistrate in court — is punishable with simple imprisonment up to six months, or fine up to ₹5,000, or both. The court can deal with it summarily under BNSS Chapter XXVIII when committed in its view or presence. It sits alongside the separate power of courts to punish contempt under the Contempt of Courts Act, 1971.",
+    "ingredients": [
+      "The victim is a public servant sitting in any stage of a judicial proceeding",
+      "The accused offers an insult to him, or causes an interruption",
+      "He does so intentionally",
+      "While the public servant is so sitting"
+    ],
+    "punishment": "Simple imprisonment up to 6 months, or fine up to ₹5,000, or both.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "The Court in which the offence is committed, subject to Chapter XXVIII of the BNSS; or, if not committed in a Court, any Magistrate"
+    },
+    "ipcReference": {
+      "section": "228 IPC",
+      "changeNote": "Re-enacts s.228 IPC. The IPC's s.228A (disclosure of identity of a rape victim) is not in this Chapter; the BNS deals with it in s.72."
+    },
+    "illustrations": [
+      "Angry at an adjournment, a litigant stands up in court and shouts abuse at the magistrate, stopping the proceedings. He is liable under s.267."
+    ],
+    "termRefs": [
+      "public-servant",
+      "judicial-proceeding",
+      "simple-imprisonment"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.267 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-268",
+    "chapterId": "ch-14",
+    "number": "268",
+    "title": "Personation of assessor",
+    "bareActText": "Whoever, by personation or otherwise, shall intentionally cause, or knowingly suffer himself to be returned, empanelled or sworn as an assessor in any case in which he knows that he is not entitled by law to be so returned, empanelled or sworn, or knowing himself to have been so returned, empanelled or sworn contrary to law, shall voluntarily serve as such assessor, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+    "plainMeaning": "Assessors were lay persons who sat with a judge to help decide a case. A person who, by personation or otherwise, intentionally causes himself (or knowingly allows himself) to be returned, empanelled or sworn as an assessor when he knows he is not legally entitled to be, or who voluntarily serves as an assessor knowing that he was so appointed contrary to law, is punishable with up to two years, or fine, or both. The BNS covers assessors only; the IPC's corresponding provision also referred to jurors.",
+    "ingredients": [
+      "By personation or otherwise, intentionally causing or knowingly suffering oneself to be returned, empanelled or sworn as an assessor, knowing one is not legally entitled; or",
+      "Knowing one was so returned, empanelled or sworn contrary to law, voluntarily serving as such assessor"
+    ],
+    "punishment": "Imprisonment of either description up to 2 years, or fine, or both.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Magistrate of the first class"
+    },
+    "ipcReference": {
+      "section": "229 IPC",
+      "changeNote": "Re-enacts s.229 IPC, which covered 'personation of a juror or assessor'; the BNS refers only to assessors."
+    },
+    "illustrations": [
+      "A man answers to another person's name when the list of assessors is called in a trial, and is sworn in as that person. He is liable under s.268."
+    ],
+    "termRefs": [
+      "assessor"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.268 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  },
+  {
+    "id": "s-269",
+    "chapterId": "ch-14",
+    "number": "269",
+    "title": "Failure by person released on bail bond or bond to appear in Court",
+    "bareActText": "Whoever, having been charged with an offence and released on bail bond or on bond, fails without sufficient cause (the burden of proving which shall lie upon him), to appear in Court in accordance with the terms of the bail or bond, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both. Explanation.—The punishment under this section is— (a) in addition to the punishment to which the offender would be liable on a conviction for the offence with which he has been charged; and (b) without prejudice to the power of the Court to order forfeiture of the bond.",
+    "plainMeaning": "A person charged with an offence and released on a bail bond or bond who fails to appear in court as the bail or bond requires, without sufficient cause, is punishable with up to one year, or fine, or both. The burden of proving sufficient cause is on him. Under the Explanation, this punishment is in addition to any sentence for the original offence, and does not affect the court's power to forfeit the bond. It is cognizable and non-bailable.",
+    "ingredients": [
+      "The accused was charged with an offence",
+      "He was released on bail bond or bond",
+      "He failed to appear in Court in accordance with its terms",
+      "Without sufficient cause — which he must prove"
+    ],
+    "punishment": "Imprisonment of either description up to 1 year, or fine, or both — in addition to the punishment for the original offence, and without prejudice to forfeiture of the bond.",
+    "classification": {
+      "cognizable": "Cognizable",
+      "bailable": "Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "229A IPC",
+      "changeNote": "Re-enacts s.229A IPC; the BNS wording refers to a 'bail bond or bond'."
+    },
+    "illustrations": [
+      "Released on bail in a theft case on condition that he attends every hearing, A skips three hearings to attend a family wedding abroad, without the court's permission. Unless he proves sufficient cause, A is liable under s.269, in addition to any sentence for theft, and the court may also forfeit his bail bond."
+    ],
+    "termRefs": [
+      "bail-bond",
+      "forfeiture"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.269 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette)."
+    },
+    "lastVerified": "2026-09-29"
+  }
+]

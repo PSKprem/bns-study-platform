@@ -1,0 +1,326 @@
+[
+  {
+    "id": "mcq-ch14-1",
+    "chapterId": "ch-14",
+    "question": "Section 227 of the BNS (giving false evidence) corresponds to which IPC section?",
+    "options": ["Section 191", "Section 193", "Section 199", "Section 211"],
+    "correctIndex": 0,
+    "explanation": "s.227 corresponds to s.191 IPC (giving false evidence); s.228 = s.192; s.229 = s.193."
+  },
+  {
+    "id": "mcq-ch14-2",
+    "chapterId": "ch-14",
+    "question": "A witness on oath honestly states he believes a signature is Z's, but it turns out not to be. He has—",
+    "options": [
+      "Given false evidence",
+      "Fabricated false evidence",
+      "Not given false evidence, as his statement is true as to his belief",
+      "Committed an offence under s.236"
+    ],
+    "correctIndex": 2,
+    "explanation": "Illustration (c) to s.227: a statement merely as to belief, true as to that belief, is not false evidence even if the belief is mistaken."
+  },
+  {
+    "id": "mcq-ch14-3",
+    "chapterId": "ch-14",
+    "question": "Putting jewels into Z's box so that Z may be convicted of theft is—",
+    "options": [
+      "Giving false evidence (s.227)",
+      "Fabricating false evidence (s.228)",
+      "Causing disappearance of evidence (s.238)",
+      "Criminal intimidation"
+    ],
+    "correctIndex": 1,
+    "explanation": "Illustration (a) to s.228: causing a circumstance to exist, intending it to appear in evidence and mislead, is fabricating false evidence."
+  },
+  {
+    "id": "mcq-ch14-4",
+    "chapterId": "ch-14",
+    "question": "Intentionally giving false evidence in a judicial proceeding is punishable under s.229(1) with—",
+    "options": [
+      "Up to 3 years and fine up to ₹5,000",
+      "Up to 7 years and fine up to ₹10,000",
+      "Up to 10 years and fine up to ₹50,000",
+      "Imprisonment for life"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.229(1): imprisonment of either description up to seven years, and fine up to ten thousand rupees."
+  },
+  {
+    "id": "mcq-ch14-5",
+    "chapterId": "ch-14",
+    "question": "Under the Explanations to Section 229, which of these is a judicial proceeding (or a stage of one)?",
+    "options": [
+      "A trial before a court-martial",
+      "A private arbitration agreed by contract only",
+      "A press conference by the police",
+      "A departmental meeting"
+    ],
+    "correctIndex": 0,
+    "explanation": "Explanation 1 to s.229: a trial before a Court-martial is a judicial proceeding. Expl. 2 and 3 add investigations directed by law or by a court."
+  },
+  {
+    "id": "mcq-ch14-6",
+    "chapterId": "ch-14",
+    "question": "If an innocent person is convicted and executed because of false evidence given to procure a capital conviction, the false witness may be punished under s.230(2) with—",
+    "options": [
+      "7 years and fine",
+      "10 years",
+      "Death, or imprisonment for life or RI up to 10 years with fine",
+      "Only fine"
+    ],
+    "correctIndex": 2,
+    "explanation": "s.230(2): death, or the punishment in s.230(1) (life, or RI up to 10 years, and fine up to ₹50,000)."
+  },
+  {
+    "id": "mcq-ch14-7",
+    "chapterId": "ch-14",
+    "question": "Under Section 231, a person who gives false evidence to procure a conviction for dacoity is punishable with—",
+    "options": [
+      "Up to 7 years only",
+      "Up to 3 years",
+      "The same punishment as for dacoity",
+      "Fine only"
+    ],
+    "correctIndex": 2,
+    "explanation": "s.231: he shall be punished as a person convicted of that offence would be liable to be punished (Illustration: dacoity)."
+  },
+  {
+    "id": "mcq-ch14-8",
+    "chapterId": "ch-14",
+    "question": "Threatening a witness to give false evidence (s.232(1)) is—",
+    "options": [
+      "Non-cognizable and bailable",
+      "Cognizable and non-bailable",
+      "Cognizable and bailable",
+      "Compoundable"
+    ],
+    "correctIndex": 1,
+    "explanation": "BNSS First Schedule: s.232 is cognizable and non-bailable, triable by the court that tries the offence of giving false evidence."
+  },
+  {
+    "id": "mcq-ch14-9",
+    "chapterId": "ch-14",
+    "question": "Issuing a certificate required by law, knowing it to be false in a material point, is punished under s.234—",
+    "options": [
+      "With fine only",
+      "In the same manner as giving false evidence",
+      "With 6 months",
+      "Only if the certificate is used in court"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.234: 'shall be punished in the same manner as if he gave false evidence'."
+  },
+  {
+    "id": "mcq-ch14-10",
+    "chapterId": "ch-14",
+    "question": "A helps B, who has committed murder, to hide the body to screen B. Under s.238, A is liable to—",
+    "options": [
+      "Up to 3 years and fine",
+      "Up to 7 years and fine",
+      "Imprisonment for life",
+      "The same punishment as murder"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.238(a) and its Illustration: where the offence is punishable with death, up to seven years and fine."
+  },
+  {
+    "id": "mcq-ch14-11",
+    "chapterId": "ch-14",
+    "question": "Where the concealed offence is punishable with less than 10 years, the punishment under s.238(c) is up to—",
+    "options": [
+      "One-half of the longest term",
+      "One-fourth of the longest term, or fine, or both",
+      "One-eighth of the longest term",
+      "The full term for the offence"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.238(c): imprisonment of the description provided for the offence, up to one-fourth part of the longest term, or fine, or both."
+  },
+  {
+    "id": "mcq-ch14-12",
+    "chapterId": "ch-14",
+    "question": "Deleting emails after being lawfully summoned to produce them in court is an offence under—",
+    "options": ["Section 238", "Section 239", "Section 241", "Section 242"],
+    "correctIndex": 2,
+    "explanation": "s.241: secreting or destroying a document or electronic record to prevent its production as evidence — up to 3 years, or fine up to ₹5,000, or both."
+  },
+  {
+    "id": "mcq-ch14-13",
+    "chapterId": "ch-14",
+    "question": "Falsely personating another to stand bail for an accused is punishable under—",
+    "options": ["Section 204", "Section 242", "Section 268", "Section 319"],
+    "correctIndex": 1,
+    "explanation": "s.242: false personation in a suit or criminal prosecution, including becoming bail or security — up to 3 years, or fine, or both."
+  },
+  {
+    "id": "mcq-ch14-14",
+    "chapterId": "ch-14",
+    "question": "Knowingly making a false claim in a Court with intent to injure or annoy is punishable under s.246 with—",
+    "options": [
+      "Up to 6 months",
+      "Up to 2 years and fine",
+      "Up to 5 years",
+      "Up to 7 years"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.246: imprisonment of either description up to two years, and also fine."
+  },
+  {
+    "id": "mcq-ch14-15",
+    "chapterId": "ch-14",
+    "question": "The maximum punishment for a false charge made with intent to injure under s.248(a) is—",
+    "options": [
+      "2 years, or fine, or both",
+      "5 years, or fine up to ₹2 lakh, or both",
+      "7 years and fine",
+      "10 years and fine"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.248(a): up to five years, or fine up to two lakh rupees, or both. Under s.211 IPC it was two years."
+  },
+  {
+    "id": "mcq-ch14-16",
+    "chapterId": "ch-14",
+    "question": "A false criminal proceeding on a charge of an offence punishable with 10 years or more attracts, under s.248(b), up to—",
+    "options": ["5 years", "7 years", "10 years and fine", "Imprisonment for life"],
+    "correctIndex": 2,
+    "explanation": "s.248(b): imprisonment of either description up to ten years, and fine."
+  },
+  {
+    "id": "mcq-ch14-17",
+    "chapterId": "ch-14",
+    "question": "The Exception to Section 249 (harbouring offender) protects—",
+    "options": [
+      "Parents of the offender",
+      "The spouse of the offender",
+      "Any close relative",
+      "Advocates of the offender"
+    ],
+    "correctIndex": 1,
+    "explanation": "Exception to s.249: 'This section shall not extend to any case in which the harbour or concealment is by the spouse of the offender.'"
+  },
+  {
+    "id": "mcq-ch14-18",
+    "chapterId": "ch-14",
+    "question": "Harbouring a person known to be a murderer to screen him (s.249(a)) is punishable with up to—",
+    "options": ["3 years and fine", "5 years and fine", "7 years and fine", "10 years"],
+    "correctIndex": 1,
+    "explanation": "s.249(a): if the offence is punishable with death, up to five years and fine."
+  },
+  {
+    "id": "mcq-ch14-19",
+    "chapterId": "ch-14",
+    "question": "Sections 250 and 251 (gratification to screen an offender) do NOT apply where—",
+    "options": [
+      "The offence is punishable with death",
+      "The offence may lawfully be compounded",
+      "The gratification is less than ₹1,000",
+      "The offender is a public servant"
+    ],
+    "correctIndex": 1,
+    "explanation": "Exception after s.251: 'The provisions of this section and section 250 do not extend to any case in which the offence may lawfully be compounded.'"
+  },
+  {
+    "id": "mcq-ch14-20",
+    "chapterId": "ch-14",
+    "question": "Harbouring robbers or dacoits under s.254 is punishable with—",
+    "options": [
+      "Simple imprisonment up to 2 years",
+      "Rigorous imprisonment up to 7 years and fine",
+      "Imprisonment for life",
+      "Up to 3 years, or fine"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.254: rigorous imprisonment up to seven years, and fine. It does not matter whether the robbery or dacoity is in or outside India."
+  },
+  {
+    "id": "mcq-ch14-21",
+    "chapterId": "ch-14",
+    "question": "A public servant who corruptly pronounces a judicial order he knows to be contrary to law is punishable under s.257 with up to—",
+    "options": ["2 years", "3 years", "7 years, or fine, or both", "10 years"],
+    "correctIndex": 2,
+    "explanation": "s.257: imprisonment of either description up to seven years, or fine, or both."
+  },
+  {
+    "id": "mcq-ch14-22",
+    "chapterId": "ch-14",
+    "question": "A public servant who intentionally lets a prisoner under sentence of death escape is punishable under s.260(a) with—",
+    "options": [
+      "Up to 7 years",
+      "Imprisonment for life or up to 14 years",
+      "Up to 3 years",
+      "Death"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.260(a): imprisonment for life, or imprisonment of either description up to fourteen years, with or without fine."
+  },
+  {
+    "id": "mcq-ch14-23",
+    "chapterId": "ch-14",
+    "question": "A guard who negligently lets an accused escape from custody is liable under—",
+    "options": ["Section 259", "Section 260", "Section 261", "Section 262"],
+    "correctIndex": 2,
+    "explanation": "s.261: public servant negligently suffering escape — simple imprisonment up to two years, or fine, or both."
+  },
+  {
+    "id": "mcq-ch14-24",
+    "chapterId": "ch-14",
+    "question": "Under the Explanation to s.262, the punishment for resisting one's own lawful arrest is—",
+    "options": [
+      "Merged with the punishment for the original offence",
+      "In addition to the punishment for the original offence",
+      "Applicable only if acquitted of the original offence",
+      "Only a fine"
+    ],
+    "correctIndex": 1,
+    "explanation": "Explanation to s.262: the punishment is in addition to the punishment for the offence with which the person was charged or convicted."
+  },
+  {
+    "id": "mcq-ch14-25",
+    "chapterId": "ch-14",
+    "question": "Knowingly violating a condition of a conditional remission of punishment (s.266) makes the person liable to—",
+    "options": [
+      "A fresh sentence of 2 years",
+      "The original sentence, or the unexpired part of it",
+      "Fine only",
+      "Double the original sentence"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.266: the punishment originally sentenced if none served; otherwise so much as has not already been suffered."
+  },
+  {
+    "id": "mcq-ch14-26",
+    "chapterId": "ch-14",
+    "question": "Intentionally insulting a judge sitting in a judicial proceeding (s.267) is punishable with—",
+    "options": [
+      "Simple imprisonment up to 6 months, or fine up to ₹5,000, or both",
+      "Up to 2 years",
+      "Up to 7 years",
+      "Fine up to ₹200"
+    ],
+    "correctIndex": 0,
+    "explanation": "s.267: simple imprisonment up to six months, or fine up to five thousand rupees, or both."
+  },
+  {
+    "id": "mcq-ch14-27",
+    "chapterId": "ch-14",
+    "question": "Failure of a person released on bail to appear in Court without sufficient cause (s.269) is—",
+    "options": [
+      "Non-cognizable and bailable",
+      "Cognizable and non-bailable",
+      "Not an offence, only a ground for forfeiture",
+      "Compoundable"
+    ],
+    "correctIndex": 1,
+    "explanation": "BNSS First Schedule: s.269 is cognizable and non-bailable; punishment up to one year, or fine, or both, in addition to the original offence."
+  },
+  {
+    "id": "mcq-ch14-28",
+    "chapterId": "ch-14",
+    "question": "Under Section 269, the burden of proving 'sufficient cause' for non-appearance lies on—",
+    "options": ["The prosecution", "The court", "The accused", "The surety"],
+    "correctIndex": 2,
+    "explanation": "s.269: 'fails without sufficient cause (the burden of proving which shall lie upon him)'."
+  }
+]

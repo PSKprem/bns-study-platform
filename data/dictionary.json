@@ -24,7 +24,9 @@
       "s-65",
       "s-68",
       "s-75",
-      "s-199"
+      "s-199",
+      "s-230",
+      "s-254"
     ]
   },
   {
@@ -41,7 +43,9 @@
       "s-198",
       "s-202",
       "s-203",
-      "s-206"
+      "s-206",
+      "s-261",
+      "s-267"
     ]
   },
   {
@@ -53,7 +57,8 @@
       "s-7",
       "s-67",
       "s-105",
-      "s-204"
+      "s-204",
+      "s-229"
     ]
   },
   {
@@ -150,7 +155,14 @@
       "s-1",
       "s-2",
       "s-211",
-      "s-212"
+      "s-212",
+      "s-238",
+      "s-239",
+      "s-240",
+      "s-248",
+      "s-249",
+      "s-250",
+      "s-251"
     ]
   },
   {
@@ -171,7 +183,8 @@
     "relatedSections": [
       "s-2",
       "s-83",
-      "s-97"
+      "s-97",
+      "s-246"
     ]
   },
   {
@@ -184,7 +197,12 @@
       "s-83",
       "s-183",
       "s-184",
-      "s-185"
+      "s-185",
+      "s-243",
+      "s-244",
+      "s-245",
+      "s-246",
+      "s-247"
     ]
   },
   {
@@ -210,7 +228,8 @@
       "s-91",
       "s-101",
       "s-126",
-      "s-137"
+      "s-137",
+      "s-227"
     ]
   },
   {
@@ -221,7 +240,9 @@
     "relatedSections": [
       "s-2",
       "s-201",
-      "s-210"
+      "s-210",
+      "s-228",
+      "s-241"
     ]
   },
   {
@@ -268,7 +289,19 @@
       "s-223",
       "s-224",
       "s-225",
-      "s-226"
+      "s-226",
+      "s-228",
+      "s-236",
+      "s-241",
+      "s-253",
+      "s-255",
+      "s-256",
+      "s-257",
+      "s-259",
+      "s-260",
+      "s-261",
+      "s-264",
+      "s-267"
     ]
   },
   {
@@ -279,7 +312,8 @@
     "relatedSections": [
       "s-2",
       "s-35",
-      "s-97"
+      "s-97",
+      "s-252"
     ]
   },
   {
@@ -370,7 +404,10 @@
       "s-16",
       "s-73",
       "s-208",
-      "s-210"
+      "s-210",
+      "s-236",
+      "s-241",
+      "s-246"
     ]
   },
   {
@@ -399,7 +436,10 @@
       "s-217",
       "s-223",
       "s-224",
-      "s-225"
+      "s-225",
+      "s-232",
+      "s-248",
+      "s-256"
     ]
   },
   {
@@ -455,7 +495,12 @@
       "s-180",
       "s-193",
       "s-212",
-      "s-218"
+      "s-218",
+      "s-238",
+      "s-239",
+      "s-240",
+      "s-249",
+      "s-254"
     ]
   },
   {
@@ -552,7 +597,10 @@
       "s-143",
       "s-158",
       "s-164",
-      "s-189"
+      "s-189",
+      "s-249",
+      "s-253",
+      "s-254"
     ]
   },
   {
@@ -628,7 +676,8 @@
     "relatedSections": [
       "s-2",
       "s-213",
-      "s-216"
+      "s-216",
+      "s-227"
     ]
   },
   {
@@ -1396,7 +1445,12 @@
     "relatedSections": [
       "s-154",
       "s-155",
-      "s-186"
+      "s-186",
+      "s-243",
+      "s-244",
+      "s-255",
+      "s-256",
+      "s-269"
     ]
   },
   {
@@ -1499,7 +1553,10 @@
     "meaningEn": "Any reward or benefit, in money or in kind, given or accepted to influence conduct. In election bribery it is given to induce, or reward, the exercise of an electoral right (s.170).",
     "meaningHi": "परितोषण — आचरण को प्रभावित करने के लिए दिया या लिया गया कोई भी पुरस्कार या लाभ, धन में या वस्तु के रूप में। निर्वाचन रिश्वत में यह निर्वाचन अधिकार के प्रयोग के लिए प्रेरित करने या पुरस्कृत करने हेतु दिया जाता है (धारा 170)।",
     "relatedSections": [
-      "s-170"
+      "s-170",
+      "s-250",
+      "s-251",
+      "s-252"
     ]
   },
   {
@@ -1669,7 +1726,8 @@
     "meaningHi": "विधि का निदेश — विधि, नियम या बाध्यकारी आदेश में दिया गया वह निर्देश जो लोक सेवक को बताता है कि उसे अपने कर्तव्य का पालन कैसे करना है, जैसे डिक्री का निष्पादन या अन्वेषण करना। क्षति पहुँचाने के आशय से इसकी जानबूझकर अवज्ञा धारा 198 में अपराध है।",
     "relatedSections": [
       "s-198",
-      "s-199"
+      "s-199",
+      "s-255"
     ]
   },
   {
@@ -1681,7 +1739,9 @@
       "s-201",
       "s-206",
       "s-207",
-      "s-210"
+      "s-210",
+      "s-228",
+      "s-241"
     ]
   },
   {
@@ -1760,6 +1820,124 @@
     "meaningHi": "विधिवत प्रख्यापित आदेश — विधिपूर्वक सशक्त लोक सेवक द्वारा जारी और प्रचारित आदेश, जो लोगों को किसी कार्य से विरत रहने या अपनी संपत्ति के संबंध में कोई व्यवस्था करने का निदेश देता है, जैसे भा.ना.सु.सं. की धारा 163 का निषेधाज्ञा आदेश। इसकी जानबूझकर अवज्ञा धारा 223 में दंडनीय है।",
     "relatedSections": [
       "s-223"
+    ]
+  },
+  {
+    "id": "false-evidence",
+    "term": "False evidence (perjury)",
+    "meaningEn": "A false statement made by a person who is legally bound — by oath, by an express provision of law, or by a legal duty to make a declaration — to state the truth, and who knows or believes it to be false or does not believe it to be true (s.227). Falsely stating one's belief or claimed knowledge also counts. Punished under ss.229-231.",
+    "meaningHi": "मिथ्या साक्ष्य — ऐसे व्यक्ति द्वारा दिया गया मिथ्या कथन जो शपथ, विधि के अभिव्यक्त उपबंध या घोषणा करने के विधिक कर्तव्य से सत्य कहने के लिए आबद्ध है, और जो उसे मिथ्या जानता या मानता है अथवा सत्य नहीं मानता (धारा 227)। अपने विश्वास या ज्ञान के बारे में मिथ्या कथन भी इसमें आता है।",
+    "relatedSections": [
+      "s-227",
+      "s-229",
+      "s-230",
+      "s-231",
+      "s-232",
+      "s-233",
+      "s-234",
+      "s-235",
+      "s-236",
+      "s-237"
+    ]
+  },
+  {
+    "id": "fabricate-false-evidence",
+    "term": "Fabricating false evidence",
+    "meaningEn": "Creating a false circumstance, making a false entry in a book, record or electronic record, or making a document or electronic record containing a false statement, intending that it appear in evidence in a judicial proceeding, a legal proceeding before a public servant, or an arbitration, and mislead the decision-maker on a material point (s.228).",
+    "meaningHi": "मिथ्या साक्ष्य गढ़ना — कोई परिस्थिति उत्पन्न करना, किसी पुस्तक, अभिलेख या इलेक्ट्रॉनिक अभिलेख में मिथ्या प्रविष्टि करना, या मिथ्या कथन वाला दस्तावेज़ बनाना, इस आशय से कि वह न्यायिक कार्यवाही आदि में साक्ष्य के रूप में आए और निर्णय करने वाले को किसी तात्त्विक बिंदु पर भ्रमित करे (धारा 228)।",
+    "relatedSections": [
+      "s-228",
+      "s-229",
+      "s-230",
+      "s-231",
+      "s-233"
+    ]
+  },
+  {
+    "id": "judicial-proceeding",
+    "term": "Judicial proceeding",
+    "meaningEn": "A proceeding in the course of which evidence is or may be legally taken on oath before a court. For false evidence (s.229) it includes a court-martial trial, an investigation directed by law as a preliminary to court proceedings, and an investigation directed by and conducted under the authority of a court.",
+    "meaningHi": "न्यायिक कार्यवाही — वह कार्यवाही जिसमें न्यायालय के समक्ष शपथ पर विधिपूर्वक साक्ष्य लिया जाता है या लिया जा सकता है। धारा 229 के लिए इसमें सेना-न्यायालय का विचारण और विधि या न्यायालय द्वारा निर्दिष्ट अन्वेषण भी शामिल है।",
+    "relatedSections": [
+      "s-228",
+      "s-229",
+      "s-257",
+      "s-267"
+    ]
+  },
+  {
+    "id": "capital-offence",
+    "term": "Capital offence",
+    "meaningEn": "An offence punishable with death under the law in force in India, such as murder (s.103). False evidence intended to procure a conviction for a capital offence is punished under s.230.",
+    "meaningHi": "मृत्युदंडनीय अपराध — भारत में प्रवृत्त विधि के अधीन मृत्युदंड से दंडनीय अपराध, जैसे हत्या (धारा 103)। ऐसे अपराध में दोषसिद्धि कराने के आशय से दिया गया मिथ्या साक्ष्य धारा 230 में दंडनीय है।",
+    "relatedSections": [
+      "s-230"
+    ]
+  },
+  {
+    "id": "screening-offender",
+    "term": "Screening an offender",
+    "meaningEn": "Shielding a person who has committed an offence from legal punishment — for example by destroying evidence, giving false information, hiding him, or accepting a bribe to keep quiet. It is the intention required by ss.238, 249, 250 and 251.",
+    "meaningHi": "अपराधी को बचाना (प्रतिच्छादन) — अपराध करने वाले व्यक्ति को विधिक दंड से बचाना, जैसे साक्ष्य नष्ट करके, मिथ्या सूचना देकर, उसे छिपाकर या चुप रहने के लिए परितोषण लेकर। धाराएँ 238, 249, 250 और 251 में यही आशय आवश्यक है।",
+    "relatedSections": [
+      "s-238",
+      "s-249",
+      "s-250",
+      "s-251"
+    ]
+  },
+  {
+    "id": "false-charge",
+    "term": "False charge",
+    "meaningEn": "Accusing a person of an offence before an authority competent to act on it (such as the police or a Magistrate), or setting a criminal proceeding in motion against him, knowing there is no just or lawful ground for it. Done with intent to injure, it is punished under s.248.",
+    "meaningHi": "मिथ्या आरोप — यह जानते हुए कि कोई न्यायसंगत या विधिपूर्ण आधार नहीं है, किसी व्यक्ति पर पुलिस या मजिस्ट्रेट जैसे सक्षम प्राधिकारी के समक्ष अपराध का आरोप लगाना या उसके विरुद्ध दांडिक कार्यवाही आरंभ करना। क्षति पहुँचाने के आशय से करने पर यह धारा 248 में दंडनीय है।",
+    "relatedSections": [
+      "s-248"
+    ]
+  },
+  {
+    "id": "bail-bond",
+    "term": "Bail bond",
+    "meaningEn": "An undertaking, with or without sureties, given by or for a person released on bail that he will appear before the court or police as required. A person charged with an offence who fails without sufficient cause to appear as the bond requires is punishable under s.269, and the bond may be forfeited.",
+    "meaningHi": "जमानत बंधपत्र — ज़मानत पर छोड़े गए व्यक्ति द्वारा या उसकी ओर से, प्रतिभुओं सहित या रहित, दिया गया वचन कि वह अपेक्षानुसार न्यायालय या पुलिस के समक्ष उपस्थित होगा। पर्याप्त कारण के बिना उपस्थित न होना धारा 269 में दंडनीय है और बंधपत्र ज़ब्त किया जा सकता है।",
+    "relatedSections": [
+      "s-242",
+      "s-269"
+    ]
+  },
+  {
+    "id": "lawful-custody",
+    "term": "Lawful custody",
+    "meaningEn": "Detention of a person by authority of law — for example after lawful arrest, on remand, or under a court's sentence. Escaping from it, rescuing a person from it, or a public servant letting a person escape from it, are offences under ss.259-265.",
+    "meaningHi": "विधिपूर्ण अभिरक्षा — विधि के प्राधिकार से किसी व्यक्ति का निरोध, जैसे विधिपूर्ण गिरफ़्तारी, रिमांड या न्यायालय के दंडादेश के अधीन। उससे निकल भागना, किसी को छुड़ाना, या लोक सेवक द्वारा भाग जाने देना धाराएँ 259-265 में अपराध है।",
+    "relatedSections": [
+      "s-253",
+      "s-258",
+      "s-259",
+      "s-260",
+      "s-261",
+      "s-262",
+      "s-263",
+      "s-264",
+      "s-265"
+    ]
+  },
+  {
+    "id": "remission",
+    "term": "Remission (of punishment)",
+    "meaningEn": "Reduction of the amount of a sentence by the Government without changing its character — for example early release. It may be granted on conditions; knowingly breaking a condition of a conditional remission makes the person liable to serve the original or unexpired sentence (s.266).",
+    "meaningHi": "परिहार (दंड का) — सरकार द्वारा दंडादेश की प्रकृति बदले बिना उसकी मात्रा घटाना, जैसे समय से पहले रिहाई। यह शर्तों पर दिया जा सकता है; सशर्त परिहार की किसी शर्त का जानबूझकर उल्लंघन करने पर मूल या शेष दंड भुगतना होता है (धारा 266)।",
+    "relatedSections": [
+      "s-266"
+    ]
+  },
+  {
+    "id": "assessor",
+    "term": "Assessor",
+    "meaningEn": "A lay person who sits with a judge to assist in deciding a case. Getting oneself returned, empanelled or sworn as an assessor when not legally entitled, or knowingly serving when so appointed contrary to law, is punished by s.268.",
+    "meaningHi": "असेसर (निर्धारक) — वह सामान्य व्यक्ति जो किसी मामले के निर्णय में सहायता के लिए न्यायाधीश के साथ बैठता है। विधिक रूप से हकदार न होते हुए स्वयं को असेसर के रूप में नामित या शपथित कराना धारा 268 में दंडनीय है।",
+    "relatedSections": [
+      "s-268"
     ]
   }
 ]
