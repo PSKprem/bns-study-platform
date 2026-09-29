@@ -1,0 +1,156 @@
+[
+  {
+    "id": "mcq-ch05-1", "chapterId": "ch-05",
+    "question": "Under Section 63, sexual intercourse with a woman is rape regardless of her consent when she is under the age of—",
+    "options": ["Sixteen years", "Fifteen years", "Eighteen years", "Twelve years"],
+    "correctIndex": 2,
+    "explanation": "Clause (vi) of s.63: 'with or without her consent, when she is under eighteen years of age'."
+  },
+  {
+    "id": "mcq-ch05-2", "chapterId": "ch-05",
+    "question": "According to Explanation 2 to Section 63, a woman who does not physically resist penetration—",
+    "options": ["Is deemed to have consented", "Is not, for that reason alone, regarded as consenting", "Must prove she objected in writing", "Consents unless she is under eighteen"],
+    "correctIndex": 1,
+    "explanation": "The proviso to Explanation 2 says lack of physical resistance does not, by that fact alone, amount to consent. Consent must be an unequivocal voluntary agreement."
+  },
+  {
+    "id": "mcq-ch05-3", "chapterId": "ch-05",
+    "question": "The minimum punishment for rape of a woman under sixteen years of age under Section 65(1) is—",
+    "options": ["Seven years", "Ten years", "Twenty years", "Imprisonment for life"],
+    "correctIndex": 2,
+    "explanation": "s.65(1) prescribes rigorous imprisonment of not less than twenty years, which may extend to life for the remainder of natural life, and fine."
+  },
+  {
+    "id": "mcq-ch05-4", "chapterId": "ch-05",
+    "question": "Death is a possible punishment for rape of a woman under which age under Section 65(2)?",
+    "options": ["Twelve years", "Sixteen years", "Eighteen years", "Ten years"],
+    "correctIndex": 0,
+    "explanation": "s.65(2) — rape of a woman under twelve years: at least twenty years' RI extending to life (natural life) and fine, or death."
+  },
+  {
+    "id": "mcq-ch05-5", "chapterId": "ch-05",
+    "question": "Which section of the BNS, with no IPC equivalent, punishes sexual intercourse by a false promise to marry?",
+    "options": ["Section 67", "Section 68", "Section 69", "Section 81"],
+    "correctIndex": 2,
+    "explanation": "s.69 is new: sexual intercourse by deceitful means or a false promise to marry, not amounting to rape — up to ten years and fine."
+  },
+  {
+    "id": "mcq-ch05-6", "chapterId": "ch-05",
+    "question": "The offence under Section 67 (intercourse by a husband with his separated wife without consent) is—",
+    "options": ["Non-cognizable and non-bailable", "Cognizable only on the complaint of the victim, and bailable", "Cognizable and non-bailable", "Compoundable by the wife"],
+    "correctIndex": 1,
+    "explanation": "The BNSS First Schedule lists s.67 as cognizable only on the complaint of the victim, bailable, and triable by a Court of Session."
+  },
+  {
+    "id": "mcq-ch05-7", "chapterId": "ch-05",
+    "question": "Gang rape of a woman under eighteen years under Section 70(2) is punishable with—",
+    "options": ["RI of 10 years to life", "RI of 20 years to life", "Imprisonment for life (remainder of natural life) and fine, or death", "Imprisonment up to 14 years"],
+    "correctIndex": 2,
+    "explanation": "s.70(2): imprisonment for life meaning the remainder of natural life, and fine, or death."
+  },
+  {
+    "id": "mcq-ch05-8", "chapterId": "ch-05",
+    "question": "Disclosure of the identity of a rape victim is permitted under Section 72(2) when done—",
+    "options": ["By a newspaper in the public interest", "With the written authorisation of the victim", "By any relative of the victim", "After the trial is over"],
+    "correctIndex": 1,
+    "explanation": "s.72(2)(b) allows disclosure by, or with the written authorisation of, the victim. The other exceptions are police investigation in good faith and next-of-kin authorisation to a recognised welfare body."
+  },
+  {
+    "id": "mcq-ch05-9", "chapterId": "ch-05",
+    "question": "Which of the following does NOT amount to an offence under Section 73?",
+    "options": ["Publishing a Sessions Court's proceedings in a rape case without permission", "Publishing the judgment of a High Court in such a case", "Printing the evidence given in such a trial without permission", "Publishing a report of the proceedings without the court's leave"],
+    "correctIndex": 1,
+    "explanation": "The Explanation to s.73 says publishing the judgment of a High Court or the Supreme Court is not an offence."
+  },
+  {
+    "id": "mcq-ch05-10", "chapterId": "ch-05",
+    "question": "Making sexually coloured remarks is punishable under Section 75(3) with—",
+    "options": ["RI up to 3 years", "Imprisonment up to 1 year, or fine, or both", "Imprisonment of 1 to 5 years", "Fine only"],
+    "correctIndex": 1,
+    "explanation": "s.75(3) covers clause (iv) — sexually coloured remarks — with imprisonment of either description up to one year, or fine, or both."
+  },
+  {
+    "id": "mcq-ch05-11", "chapterId": "ch-05",
+    "question": "Under Section 77, where a woman consents to a private image being captured but not to its being shared, sharing it—",
+    "options": ["Is not an offence because she consented", "Is voyeurism", "Is only a civil wrong", "Is an offence only if done for money"],
+    "correctIndex": 1,
+    "explanation": "Explanation 2 to s.77: dissemination without consent is an offence even where capture was consented to."
+  },
+  {
+    "id": "mcq-ch05-12", "chapterId": "ch-05",
+    "question": "Monitoring a woman's use of e-mail or the internet is—",
+    "options": ["Voyeurism under s.77", "Stalking under s.78", "Sexual harassment under s.75", "Not an offence under the BNS"],
+    "correctIndex": 1,
+    "explanation": "s.78(1)(ii) — monitoring a woman's use of the internet, e-mail or other electronic communication is stalking."
+  },
+  {
+    "id": "mcq-ch05-13", "chapterId": "ch-05",
+    "question": "Assault or criminal force to a woman with intent to outrage her modesty (s.74) carries—",
+    "options": ["Up to 2 years, or fine, or both", "1 to 5 years and fine", "3 to 7 years and fine", "Up to 3 years simple imprisonment"],
+    "correctIndex": 1,
+    "explanation": "s.74: imprisonment of not less than one year, which may extend to five years, and fine."
+  },
+  {
+    "id": "mcq-ch05-14", "chapterId": "ch-05",
+    "question": "For a 'dowry death' under Section 80, the woman's death must occur within how many years of marriage?",
+    "options": ["Five", "Seven", "Ten", "Three"],
+    "correctIndex": 1,
+    "explanation": "s.80(1) requires death within seven years of marriage, with cruelty or harassment for dowry soon before death."
+  },
+  {
+    "id": "mcq-ch05-15", "chapterId": "ch-05",
+    "question": "The punishment for dowry death under Section 80(2) is—",
+    "options": ["Up to 7 years", "Not less than 7 years, extending to imprisonment for life", "Death or life imprisonment", "Up to 10 years and fine"],
+    "correctIndex": 1,
+    "explanation": "s.80(2): imprisonment for not less than seven years, which may extend to imprisonment for life."
+  },
+  {
+    "id": "mcq-ch05-16", "chapterId": "ch-05",
+    "question": "Bigamy with concealment of the former marriage from the new partner (s.82(2)) is punishable with imprisonment up to—",
+    "options": ["7 years", "10 years", "3 years", "14 years"],
+    "correctIndex": 1,
+    "explanation": "s.82(1) gives up to seven years; s.82(2), with concealment, raises it to up to ten years and fine."
+  },
+  {
+    "id": "mcq-ch05-17", "chapterId": "ch-05",
+    "question": "Under BNSS s.359(1), the offence of enticing away a married woman (BNS s.84) may be compounded by—",
+    "options": ["The husband only", "The woman only", "The husband of the woman and the woman", "It is not compoundable"],
+    "correctIndex": 2,
+    "explanation": "Table 1 of BNSS s.359(1) lists s.84 as compoundable by 'the husband of the woman and the woman'."
+  },
+  {
+    "id": "mcq-ch05-18", "chapterId": "ch-05",
+    "question": "'Cruelty' for the purposes of Section 85 is defined in—",
+    "options": ["Section 2", "Section 80", "Section 86", "Section 87"],
+    "correctIndex": 2,
+    "explanation": "s.86 defines cruelty: wilful conduct likely to drive the woman to suicide or grave injury, or harassment to meet an unlawful demand for property or valuable security."
+  },
+  {
+    "id": "mcq-ch05-19", "chapterId": "ch-05",
+    "question": "Causing miscarriage without the woman's consent (s.89) is punishable with—",
+    "options": ["Up to 3 years", "Up to 7 years", "Imprisonment for life, or up to 10 years, and fine", "Death"],
+    "correctIndex": 2,
+    "explanation": "s.89: imprisonment for life, or imprisonment of either description up to ten years, and fine — whether or not the woman is quick with child."
+  },
+  {
+    "id": "mcq-ch05-20", "chapterId": "ch-05",
+    "question": "Which section, new in the BNS, punishes hiring or employing a child to commit an offence?",
+    "options": ["Section 93", "Section 95", "Section 96", "Section 98"],
+    "correctIndex": 1,
+    "explanation": "s.95: three to ten years and fine; if the offence is committed, also the punishment for that offence. Using a child for sexual exploitation or pornography is covered."
+  },
+  {
+    "id": "mcq-ch05-21", "chapterId": "ch-05",
+    "question": "Section 93 punishes abandonment by a parent of a child under the age of—",
+    "options": ["Seven years", "Ten years", "Twelve years", "Eighteen years"],
+    "correctIndex": 2,
+    "explanation": "s.93 applies to a child under twelve years, exposed or left with the intention of wholly abandoning it."
+  },
+  {
+    "id": "mcq-ch05-22", "chapterId": "ch-05",
+    "question": "Buying a child for the purpose of prostitution (s.99) carries—",
+    "options": ["Up to 10 years and fine", "7 to 14 years and fine", "Up to 7 years", "Imprisonment for life"],
+    "correctIndex": 1,
+    "explanation": "s.99: not less than seven years, which may extend to fourteen years, and fine. Selling (s.98) carries up to ten years."
+  }
+]
