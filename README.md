@@ -8,7 +8,7 @@ The goal: make the knowledge law students need to learn BNS available in one pla
 
 ## Status
 
-🚀 **Live — Chapters I to XVI shipped.** The course map lists all 20 BNS chapters; the rest
+🚀 **Live — Chapters I to XVII shipped.** The course map lists all 20 BNS chapters; the rest
 are added as content (see [adding a chapter](docs/adding-a-chapter.md)).
 
 **Live site:** https://pskprem.github.io/bns-study-platform/

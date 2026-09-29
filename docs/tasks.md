@@ -104,6 +104,7 @@ Goal: prove the whole workflow on one small chapter. Definition of Done = `requi
   - [x] Chapter XIV (Of False Evidence and Offences Against Public Justice, s.227–269) — Gazette-verified; 43 sections, 28 MCQs, 11 exam Q&A, 10 new dictionary terms
   - [x] Chapter XV (Of Offences Affecting the Public Health, Safety, Convenience, Decency and Morals, s.270–297) — Gazette-verified; 28 sections, 25 MCQs, 10 exam Q&A, 6 new dictionary terms
   - [x] Chapter XVI (Of Offences Relating to Religion, s.298–302) — Gazette-verified; 5 sections, 14 MCQs, 6 exam Q&A, 4 new dictionary terms
+  - [x] Chapter XVII (Of Offences Against Property, s.303–334) — Gazette-verified; 32 sections, 32 MCQs, 12 exam Q&A, 13 new dictionary terms; uses the Gazette's own sub-headings
 - [x] Dictionary check: fixed 10 one-way section↔term links; new test enforces two-way links; home page links to the full dictionary with its term count; chapter tab shows its term count
 - [x] Dark mode toggle (light/dark, persisted in localStorage) *(added on request)*
 - [x] Statutory Dictionary: all 38 terms defined in s.2, bilingual
