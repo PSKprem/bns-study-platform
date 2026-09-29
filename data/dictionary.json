@@ -32,7 +32,8 @@
       "s-4",
       "s-7",
       "s-79",
-      "s-136"
+      "s-136",
+      "s-157"
     ]
   },
   {
@@ -220,7 +221,9 @@
       "s-64",
       "s-68",
       "s-121",
-      "s-132"
+      "s-132",
+      "s-156",
+      "s-157"
     ]
   },
   {
@@ -261,7 +264,8 @@
     "meaningHi": "लोप — इसका अर्थ एकल लोप के साथ-साथ लोपों की एक श्रृंखला भी है।",
     "relatedSections": [
       "s-2",
-      "s-46"
+      "s-46",
+      "s-150"
     ]
   },
   {
@@ -398,7 +402,8 @@
       "s-58",
       "s-60",
       "s-61",
-      "s-119"
+      "s-119",
+      "s-150"
     ]
   },
   {
@@ -433,7 +438,8 @@
       "s-88",
       "s-115",
       "s-117",
-      "s-126"
+      "s-126",
+      "s-156"
     ]
   },
   {
@@ -472,7 +478,8 @@
       "s-2",
       "s-111",
       "s-113",
-      "s-143"
+      "s-143",
+      "s-158"
     ]
   },
   {
@@ -695,7 +702,9 @@
       "s-76",
       "s-95",
       "s-107",
-      "s-108"
+      "s-108",
+      "s-147",
+      "s-153"
     ]
   },
   {
@@ -727,7 +736,8 @@
     "meaningEn": "An agreement between two or more persons, with the common object, to do an illegal act, or a legal act by illegal means. An agreement to commit an offence is complete on agreement; any other needs an act in pursuance (s.61).",
     "meaningHi": "आपराधिक षड्यंत्र — दो या अधिक व्यक्तियों के बीच सामान्य उद्देश्य से कोई अवैध कार्य, या कोई वैध कार्य अवैध साधनों से, करने का करार। अपराध करने का करार स्वयं में पूर्ण है; अन्य करार के लिए उसके अनुसरण में कोई कार्य आवश्यक है (धारा 61)।",
     "relatedSections": [
-      "s-61"
+      "s-61",
+      "s-148"
     ]
   },
   {
@@ -739,7 +749,8 @@
       "s-62",
       "s-109",
       "s-110",
-      "s-134"
+      "s-134",
+      "s-147"
     ]
   },
   {
@@ -1081,7 +1092,8 @@
     "meaningHi": "सदोष अवरोध — किसी व्यक्ति को स्वेच्छया इस प्रकार बाधित करना कि वह उस दिशा में न जा सके जिसमें जाने का उसे अधिकार है (धारा 126)।",
     "relatedSections": [
       "s-126",
-      "s-127"
+      "s-127",
+      "s-151"
     ]
   },
   {
@@ -1121,7 +1133,9 @@
       "s-133",
       "s-134",
       "s-135",
-      "s-136"
+      "s-136",
+      "s-148",
+      "s-151"
     ]
   },
   {
@@ -1136,7 +1150,8 @@
       "s-133",
       "s-134",
       "s-135",
-      "s-136"
+      "s-136",
+      "s-151"
     ]
   },
   {
@@ -1219,6 +1234,77 @@
     "meaningHi": "बलात् श्रम — किसी व्यक्ति से उसकी इच्छा के विरुद्ध विधिविरुद्ध रूप से श्रम कराना (धारा 146)।",
     "relatedSections": [
       "s-146"
+    ]
+  },
+  {
+    "id": "waging-war",
+    "term": "Waging war (against the State)",
+    "meaningEn": "An organised use of force by a group to overthrow or challenge the authority of the Government, as in an insurrection. It is judged by purpose rather than by the number of persons or weapons (ss.147-150, 153).",
+    "meaningHi": "युद्ध छेड़ना (राज्य के विरुद्ध) — सरकार के प्राधिकार को उखाड़ने या चुनौती देने के लिए किसी समूह द्वारा बल का संगठित प्रयोग, जैसे विद्रोह। इसका निर्धारण व्यक्तियों या हथियारों की संख्या से नहीं, प्रयोजन से होता है (धारा 147-150, 153)।",
+    "relatedSections": [
+      "s-147",
+      "s-149",
+      "s-150",
+      "s-153"
+    ]
+  },
+  {
+    "id": "overawe",
+    "term": "Overawe",
+    "meaningEn": "To intimidate or coerce by a display of force or superior strength so as to control someone's actions; used of overawing a Government (s.148) or the President or a Governor (s.151).",
+    "meaningHi": "आतंकित करना — बल या श्रेष्ठ शक्ति के प्रदर्शन से डराकर या दबाकर किसी के कार्यों को नियंत्रित करना; सरकार (धारा 148) या राष्ट्रपति या राज्यपाल (धारा 151) को आतंकित करने के संबंध में प्रयुक्त।",
+    "relatedSections": [
+      "s-148",
+      "s-151"
+    ]
+  },
+  {
+    "id": "sovereignty",
+    "term": "Sovereignty, unity and integrity of India",
+    "meaningEn": "India's supreme authority over its territory and its existence as one undivided nation. Exciting secession, armed rebellion or subversive activities that endanger it is punished by s.152.",
+    "meaningHi": "भारत की संप्रभुता, एकता और अखंडता — अपने क्षेत्र पर भारत का सर्वोच्च प्राधिकार और एक अविभाजित राष्ट्र के रूप में उसका अस्तित्व। इसे संकट में डालने वाले पृथक्करण, सशस्त्र विद्रोह या विध्वंसक गतिविधियों को उत्तेजित करना धारा 152 में दंडनीय है।",
+    "relatedSections": [
+      "s-152"
+    ]
+  },
+  {
+    "id": "secession",
+    "term": "Secession",
+    "meaningEn": "The breaking away of a part of the territory from the country. Exciting or attempting to excite it is an offence under s.152.",
+    "meaningHi": "पृथक्करण (अलगाव) — देश से उसके किसी भाग का अलग हो जाना। इसे उत्तेजित करना या उत्तेजित करने का प्रयत्न धारा 152 में अपराध है।",
+    "relatedSections": [
+      "s-152"
+    ]
+  },
+  {
+    "id": "depredation",
+    "term": "Depredation",
+    "meaningEn": "Plundering or destructive raiding. Committing or preparing it on the territory of a foreign State at peace with India is punished by s.154.",
+    "meaningHi": "लूटपाट (लूटमार) — लूटना या विनाशकारी धावा। भारत से शांति रखने वाले विदेशी राज्य के क्षेत्र पर इसे करना या इसकी तैयारी करना धारा 154 में दंडनीय है।",
+    "relatedSections": [
+      "s-154",
+      "s-155"
+    ]
+  },
+  {
+    "id": "forfeiture",
+    "term": "Forfeiture (of property)",
+    "meaningEn": "Loss of property to the State as part of the punishment, such as property used in or acquired by depredation (ss.154, 155).",
+    "meaningHi": "समपहरण (संपत्ति का) — दंड के भाग के रूप में संपत्ति का राज्य को चले जाना, जैसे लूटपाट में प्रयुक्त या उससे अर्जित संपत्ति (धारा 154, 155)।",
+    "relatedSections": [
+      "s-154",
+      "s-155"
+    ]
+  },
+  {
+    "id": "state-prisoner",
+    "term": "State prisoner / prisoner of war",
+    "meaningEn": "A State prisoner is a person held in custody for reasons of State security; a prisoner of war is an enemy combatant captured in war. Letting either escape, or helping them escape, is punished by ss.156-158.",
+    "meaningHi": "राज्य बंदी / युद्ध बंदी — राज्य बंदी वह व्यक्ति है जिसे राज्य की सुरक्षा के कारणों से अभिरक्षा में रखा गया हो; युद्ध बंदी युद्ध में पकड़ा गया शत्रु सैनिक है। इनमें से किसी को भागने देना या भागने में सहायता करना धारा 156-158 में दंडनीय है।",
+    "relatedSections": [
+      "s-156",
+      "s-157",
+      "s-158"
     ]
   }
 ]

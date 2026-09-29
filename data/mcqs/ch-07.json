@@ -1,0 +1,114 @@
+[
+  {
+    "id": "mcq-ch07-1", "chapterId": "ch-07",
+    "question": "The punishment for waging war against the Government of India under Section 147 is—",
+    "options": ["Imprisonment for life only", "Death, or imprisonment for life, and fine", "Up to 10 years and fine", "Death only"],
+    "correctIndex": 1,
+    "explanation": "s.147: death, or imprisonment for life, and fine. Attempting or abetting such war is punished the same way."
+  },
+  {
+    "id": "mcq-ch07-2", "chapterId": "ch-07",
+    "question": "According to the illustration to Section 147, a person who joins an insurrection against the Government of India—",
+    "options": ["Commits no offence unless he fights", "Commits the offence of waging war", "Commits only unlawful assembly", "Commits sedition"],
+    "correctIndex": 1,
+    "explanation": "The illustration: 'A joins an insurrection against the Government of India. A has committed the offence defined in this section.'"
+  },
+  {
+    "id": "mcq-ch07-3", "chapterId": "ch-07",
+    "question": "For a conspiracy under Section 148, an act or illegal omission in pursuance of the conspiracy is—",
+    "options": ["Always required", "Required only if the conspiracy is outside India", "Not necessary", "Required only for overawing a State Government"],
+    "correctIndex": 2,
+    "explanation": "Explanation to s.148: it is not necessary that any act or illegal omission take place in pursuance of the conspiracy."
+  },
+  {
+    "id": "mcq-ch07-4", "chapterId": "ch-07",
+    "question": "Section 148 covers a conspiracy to wage war that is formed—",
+    "options": ["Only within India", "Only outside India", "Within or outside India", "Only within a State capital"],
+    "correctIndex": 2,
+    "explanation": "s.148 opens: 'Whoever within or without and beyond India conspires…'."
+  },
+  {
+    "id": "mcq-ch07-5", "chapterId": "ch-07",
+    "question": "Which section punishes collecting men, arms or ammunition with the intention of waging war against the Government of India?",
+    "options": ["Section 147", "Section 149", "Section 150", "Section 152"],
+    "correctIndex": 1,
+    "explanation": "s.149 punishes this preparation with imprisonment for life or up to ten years, and fine."
+  },
+  {
+    "id": "mcq-ch07-6", "chapterId": "ch-07",
+    "question": "Section 151 protects which authorities against assault or overawing aimed at compelling the exercise of lawful powers?",
+    "options": ["Judges of the Supreme Court", "The President and Governors", "Members of Parliament", "The Prime Minister and Chief Ministers"],
+    "correctIndex": 1,
+    "explanation": "s.151 refers to the President of India or the Governor of any State."
+  },
+  {
+    "id": "mcq-ch07-7", "chapterId": "ch-07",
+    "question": "Which IPC provision is not retained in the BNS and is broadly replaced by Section 152?",
+    "options": ["Section 121A (conspiracy)", "Section 124 (assaulting President)", "Section 124A (sedition)", "Section 125 (war against Asiatic Power)"],
+    "correctIndex": 2,
+    "explanation": "The BNS does not retain sedition (s.124A IPC). Section 152 instead punishes acts endangering the sovereignty, unity and integrity of India."
+  },
+  {
+    "id": "mcq-ch07-8", "chapterId": "ch-07",
+    "question": "The punishment under Section 152 is—",
+    "options": ["Up to 3 years, or fine", "Imprisonment for life, or up to 7 years, and fine", "Death or life", "Up to 10 years and fine"],
+    "correctIndex": 1,
+    "explanation": "s.152: imprisonment for life or imprisonment up to seven years, and fine."
+  },
+  {
+    "id": "mcq-ch07-9", "chapterId": "ch-07",
+    "question": "Which of the following is expressly covered as a means of committing the offence under Section 152?",
+    "options": ["Only spoken words", "Only written words", "Electronic communication and use of financial means", "Only acts of violence"],
+    "correctIndex": 2,
+    "explanation": "s.152 covers words spoken or written, signs, visible representation, electronic communication, use of financial means, 'or otherwise'."
+  },
+  {
+    "id": "mcq-ch07-10", "chapterId": "ch-07",
+    "question": "Under the Explanation to Section 152, comments disapproving of government measures in order to change them by lawful means are—",
+    "options": ["An offence punishable with 7 years", "Not an offence, if they do not excite the listed activities", "Compoundable", "Punishable only with fine"],
+    "correctIndex": 1,
+    "explanation": "The Explanation excludes lawful criticism made without exciting or attempting to excite secession, armed rebellion or the other listed activities."
+  },
+  {
+    "id": "mcq-ch07-11", "chapterId": "ch-07",
+    "question": "Section 153 punishes waging war against—",
+    "options": ["Any foreign State", "Any foreign State at peace with the Government of India", "Only an Asiatic Power", "Only a State in alliance with India"],
+    "correctIndex": 1,
+    "explanation": "s.153 applies to the Government of any foreign State at peace with the Government of India. The IPC used 'Asiatic Power'."
+  },
+  {
+    "id": "mcq-ch07-12", "chapterId": "ch-07",
+    "question": "In addition to imprisonment and fine, an offender under Section 154 (depredation) is liable to—",
+    "options": ["Solitary confinement", "Forfeiture of property used in or acquired by the depredation", "Community service", "Deportation"],
+    "correctIndex": 1,
+    "explanation": "s.154 adds forfeiture of any property used or intended to be used in committing the depredation, or acquired by it."
+  },
+  {
+    "id": "mcq-ch07-13", "chapterId": "ch-07",
+    "question": "A public servant who negligently allows a prisoner of war in his custody to escape is punishable under Section 157 with—",
+    "options": ["Imprisonment for life", "Rigorous imprisonment up to 10 years", "Simple imprisonment up to 3 years and fine", "Fine only"],
+    "correctIndex": 2,
+    "explanation": "s.157: simple imprisonment up to three years, and fine. It is cognizable, bailable and triable by a Magistrate of the first class."
+  },
+  {
+    "id": "mcq-ch07-14", "chapterId": "ch-07",
+    "question": "Which is the only offence in Chapter VII that is bailable?",
+    "options": ["Section 150", "Section 151", "Section 157", "Section 158"],
+    "correctIndex": 2,
+    "explanation": "Under the BNSS First Schedule, every Chapter VII offence is non-bailable except s.157 (negligently allowing a State prisoner or POW to escape)."
+  },
+  {
+    "id": "mcq-ch07-15", "chapterId": "ch-07",
+    "question": "Under the Explanation to Section 158, a prisoner of war on parole escapes from lawful custody when he—",
+    "options": ["Speaks to a journalist", "Goes beyond the limits within which he is allowed to be at large", "Refuses to work", "Writes to his government"],
+    "correctIndex": 1,
+    "explanation": "A State prisoner or POW permitted to be at large on parole within certain limits in India escapes if he goes beyond those limits."
+  },
+  {
+    "id": "mcq-ch07-16", "chapterId": "ch-07",
+    "question": "Section 147 of the BNS corresponds to which section of the IPC?",
+    "options": ["Section 120B", "Section 121", "Section 124A", "Section 131"],
+    "correctIndex": 1,
+    "explanation": "s.147 BNS = s.121 IPC (waging war). s.148 = 121A; s.149 = 122; s.150 = 123."
+  }
+]

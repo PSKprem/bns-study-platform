@@ -1,0 +1,51 @@
+[
+  {
+    "id": "qa-ch07-1",
+    "chapterId": "ch-07",
+    "question": "Explain the offence of waging war against the Government of India under Section 147 of the BNS.",
+    "modelAnswer": "Section 147 punishes whoever wages war against the Government of India, attempts to wage such war, or abets the waging of such war, with death or imprisonment for life, and fine. The illustration says that a person who joins an insurrection against the Government of India commits the offence. 'War' is not limited to war between nations or to a large army; the essence is an organised use of force by a group with the purpose of overthrowing, or challenging the authority of, the Government — for instance, to set up a rival authority or to compel the Government to act. A violent riot for private or local ends, however serious, is not waging war. Because the offence strikes at the State itself, attempt and abetment carry the same punishment as waging war, and the preceding stages are separately punished: conspiracy under s.148, collecting arms or other preparation under s.149, and concealing a design to wage war under s.150. The offence is cognizable, non-bailable, not compoundable and triable by a Court of Session. It corresponds to s.121 IPC.",
+    "difficulty": "medium"
+  },
+  {
+    "id": "qa-ch07-2",
+    "chapterId": "ch-07",
+    "question": "How does conspiracy under Section 148 differ from criminal conspiracy under Section 61?",
+    "modelAnswer": "Section 148 punishes whoever, within or outside India, conspires to commit any offence punishable under s.147, or conspires to overawe the Central Government or any State Government by criminal force or a show of criminal force, with life imprisonment or up to ten years, and fine. Its Explanation says that no act or illegal omission need take place in pursuance of the conspiracy. The differences from s.61 are as follows. (1) Scope: s.148 is limited to conspiracies against the State — to wage war or to overawe a Government — while s.61 covers agreements to do any illegal act, or a legal act by illegal means. (2) Overt act: under s.61 an agreement other than one to commit an offence needs some act in pursuance; under s.148 the bare agreement always suffices. (3) Territory: s.148 expressly reaches conspiracies formed outside India. (4) Punishment: s.148 carries its own punishment of life or ten years, while s.61(2) punishes conspiracy to commit a serious offence as abetment of that offence. Section 148 also goes beyond abetment by conspiracy under s.45(b), which needs an act in pursuance of the conspiracy.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "qa-ch07-3",
+    "chapterId": "ch-07",
+    "question": "Section 152 of the BNS is said to replace sedition. Explain the section and how it differs from Section 124A of the IPC.",
+    "modelAnswer": "Section 152 punishes whoever, purposely or knowingly, by words spoken or written, signs, visible representation, electronic communication, use of financial means or otherwise, excites or attempts to excite secession, armed rebellion or subversive activities, or encourages feelings of separatist activities, or endangers the sovereignty or unity and integrity of India, or indulges in or commits any such act. The punishment is imprisonment for life or up to seven years, and fine. The Explanation says that comments disapproving of government measures or actions, made to have them changed by lawful means and without exciting the listed activities, are not an offence. The BNS does not retain s.124A IPC (sedition), which punished bringing or attempting to bring the Government into hatred or contempt, or exciting disaffection towards it; the Supreme Court had kept s.124A in abeyance in S.G. Vombatkere v. Union of India (2022). The main differences are: (1) the object protected is the sovereignty, unity and integrity of India, not the Government; (2) 'disaffection', 'hatred' and 'contempt' are replaced by concrete harms — secession, armed rebellion, subversive and separatist activities; (3) a mental element — 'purposely or knowingly' — is expressly required; (4) electronic communication and financial means are expressly covered; and (5) the alternative punishment is seven years rather than three years or fine.",
+    "difficulty": "hard"
+  },
+  {
+    "id": "qa-ch07-4",
+    "chapterId": "ch-07",
+    "question": "Why does the law punish preparation under Section 149 when preparation is generally not punishable?",
+    "modelAnswer": "Criminal law usually punishes an act only when it reaches the stage of attempt, because preparation is often ambiguous and the person may still change his mind (as the illustrations to s.109 show: buying and loading a gun is not yet attempt to murder). Section 149 is an exception. It punishes whoever collects men, arms or ammunition, or otherwise prepares to wage war, with the intention of waging or being prepared to wage war against the Government of India, with life imprisonment or up to ten years, and fine. The reason is the scale of the harm: waging war threatens the existence of the State and the lives of many people, and once an armed uprising begins it may be too late to prevent it. The law therefore steps in earlier. The prosecution must still prove the specific intention to wage war against the Government of India; collecting weapons for some other purpose, such as a private feud, falls outside the section. Other examples of punishable preparation in the BNS include s.154 (preparing depredation on a friendly foreign State) and preparation for organised crime or terrorist acts under ss.111(3) and 113(3).",
+    "difficulty": "medium"
+  },
+  {
+    "id": "qa-ch07-5",
+    "chapterId": "ch-07",
+    "question": "Explain the offences relating to State prisoners and prisoners of war under Sections 156 to 158.",
+    "modelAnswer": "These sections protect the custody of persons held for reasons of State security and enemy combatants captured in war. Section 156 punishes a public servant who has custody of a State prisoner or prisoner of war and voluntarily allows him to escape from the place of confinement, with imprisonment for life or up to ten years, and fine. Section 157 covers the same public servant who negligently suffers such a prisoner to escape, with simple imprisonment up to three years and fine; the difference is the mental element — a voluntary act compared with negligence — and s.157 is bailable and triable by a Magistrate of the first class, while s.156 is non-bailable and triable by a Court of Session. Section 158 applies to anyone who knowingly aids or assists such a prisoner in escaping from lawful custody, rescues or attempts to rescue him, harbours or conceals him after escape, or offers or attempts to offer resistance to his recapture, with imprisonment for life or up to ten years, and fine. Its Explanation provides that a prisoner permitted to be at large on parole within certain limits in India escapes from lawful custody if he goes beyond those limits. All three are cognizable and not compoundable. They correspond to ss.128-130 IPC.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "qa-ch07-6",
+    "chapterId": "ch-07",
+    "question": "Explain the offences under Sections 153 to 155 relating to foreign States at peace with India.",
+    "modelAnswer": "These sections protect India's peaceful relations with other countries by preventing hostile acts from Indian territory. Section 153 punishes whoever wages war against the Government of any foreign State at peace with the Government of India, or attempts or abets such war, with imprisonment for life (to which fine may be added), or imprisonment up to seven years (to which fine may be added), or fine. The IPC equivalent, s.125, spoke of 'any Asiatic Power in alliance or at peace'; the BNS now covers any foreign State at peace with India. Section 154 punishes committing depredation (plunder or destructive raids), or making preparations to commit it, on the territories of such a State, with up to seven years and fine, and forfeiture of property used or intended to be used in the depredation, or acquired by it. Section 155 punishes receiving any property knowing it was taken in committing an offence under s.153 or s.154, with up to seven years, fine and forfeiture of the property received. All three are cognizable, non-bailable, not compoundable and triable by a Court of Session.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "qa-ch07-7",
+    "chapterId": "ch-07",
+    "question": "Discuss Section 151 of the BNS. Why is special protection given to the President and Governors?",
+    "modelAnswer": "Section 151 punishes whoever, with the intention of inducing or compelling the President of India or the Governor of any State to exercise, or refrain from exercising, any of his lawful powers, assaults or wrongfully restrains him, or attempts to wrongfully restrain him, or overawes him by criminal force or the show of criminal force, or attempts to do so. The punishment is imprisonment up to seven years and fine; the offence is cognizable, non-bailable, not compoundable and triable by a Court of Session. The ingredients are: (1) the victim is the President or a Governor; (2) assault, wrongful restraint or overawing by criminal force, or an attempt; and (3) the specific intention of influencing the exercise of a lawful power, such as giving assent to a Bill, granting a pardon or summoning the legislature. The special protection exists because these offices sit at the head of the constitutional machinery. Coercing their holders would let force, rather than the Constitution, decide how State power is used. An ordinary assault on the same persons for a private reason would fall under the general provisions on assault and hurt. The section corresponds to s.124 IPC.",
+    "difficulty": "medium"
+  }
+]
