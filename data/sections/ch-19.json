@@ -1,0 +1,265 @@
+[
+  {
+    "id": "s-351",
+    "chapterId": "ch-19",
+    "number": "351",
+    "title": "Criminal intimidation",
+    "bareActText": "(1) Whoever threatens another by any means, with any injury to his person, reputation or property, or to the person or reputation of any one in whom that person is interested, with intent to cause alarm to that person, or to cause that person to do any act which he is not legally bound to do, or to omit to do any act which that person is legally entitled to do, as the means of avoiding the execution of such threat, commits criminal intimidation. Explanation.—A threat to injure the reputation of any deceased person in whom the person threatened is interested, is within this section. Illustration. A, for the purpose of inducing B to resist from prosecuting a civil suit, threatens to burn B’s house. A is guilty of criminal intimidation. (2) Whoever commits the offence of criminal intimidation shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both. (3) Whoever commits the offence of criminal intimidation by threatening to cause death or grievous hurt, or to cause the destruction of any property by fire, or to cause an offence punishable with death or imprisonment for life, or with imprisonment for a term which may extend to seven years, or to impute unchastity to a woman, shall be punished with imprisonment of either description for a term which may extend to seven years, or with fine, or with both. (4) Whoever commits the offence of criminal intimidation by an anonymous communication, or having taken precaution to conceal the name or abode of the person from whom the threat comes, shall be punished with imprisonment of either description for a term which may extend to two years, in addition to the punishment provided for the offence under sub-section (1).",
+    "plainMeaning": "Criminal intimidation is threatening someone, by any means, with injury to his person, reputation or property — or to the person or reputation of someone he cares about — intending to alarm him, or to make him do something he is not legally bound to do, or stop him doing something he is legally entitled to do, as a way of avoiding the threatened harm. A threat to the reputation of a dead relative is covered. The threat need not be carried out. Basic intimidation: up to two years, or fine, or both. If the threat is to cause death or grievous hurt, to destroy property by fire, to commit an offence punishable with death, life or seven years or more, or to impute unchastity to a woman: up to seven years, or fine, or both. If the threat is made anonymously, or the threatener hides his name or address: an additional two years. The words 'by any means' make clear that threats by phone, message or social media are included.",
+    "ingredients": [
+      "Threatening another, by any means, with injury to his person, reputation or property, or to the person or reputation of someone in whom he is interested",
+      "With intent to cause alarm; or to cause him to do an act he is not legally bound to do, or omit an act he is legally entitled to do, to avoid the threat",
+      "Aggravated: threat of death, grievous hurt, arson, a grave offence, or imputing unchastity to a woman (3)",
+      "Additional punishment: anonymous communication or concealing identity (4)"
+    ],
+    "punishment": "(2) Imprisonment of either description up to 2 years, or fine, or both. (3) Threat to cause death, grievous hurt, destruction of property by fire, an offence punishable with death, life or 7 years or more, or to impute unchastity to a woman: up to 7 years, or fine, or both. (4) By anonymous communication or concealing identity: up to 2 years, in addition to the punishment for the offence.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "(2) and (3) compoundable by the person intimidated (BNSS s.359(1)); (4) not listed",
+      "triableBy": "(2) Any Magistrate; (3), (4) Magistrate of the first class"
+    },
+    "ipcReference": {
+      "section": "503, 506, 507 IPC",
+      "changeNote": "Merges the definition (s.503) with the punishments (s.506) and the anonymous-communication offence (s.507). 'By any means' is added to the definition. Punishments are unchanged."
+    },
+    "illustrations": [
+      "After losing a tender, A messages the successful contractor that his son 'won't come home alive' unless he withdraws. A has committed criminal intimidation by threatening death, punishable under s.351(3).",
+      "B sends unsigned letters to his neighbour threatening to set fire to his shop unless he sells it to B. The anonymity adds up to two years under s.351(4) on top of the punishment under s.351(3)."
+    ],
+    "termRefs": [
+      "criminal-intimidation",
+      "injury",
+      "grievous-hurt"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.351 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette); compounding from BNSS s.359. IPC correspondence and change note checked against the text of the Indian Penal Code, 1860 (government-hosted consolidated copy, Maharashtra Police) read with the amending Acts of 2000 (IT Act, First Schedule), 2005 (Acts 2 and 25 of 2005), 2013 (Act 13 of 2013) and 2018 (Act 22 of 2018)."
+    },
+    "lastVerified": "2026-09-30"
+  },
+  {
+    "id": "s-352",
+    "chapterId": "ch-19",
+    "number": "352",
+    "title": "Intentional insult with intent to provoke breach of peace",
+    "bareActText": "Whoever intentionally insults in any manner, and thereby gives provocation to any person, intending or knowing it to be likely that such provocation will cause him to break the public peace, or to commit any other offence, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.",
+    "plainMeaning": "A person who intentionally insults someone in any manner, and thereby provokes him, intending or knowing it likely that the provocation will cause him to break the public peace or commit any other offence, is punishable with up to two years, or fine, or both. Mere rudeness or abuse is not enough; the insult must be intentional and must be meant, or known likely, to provoke a breach of the peace or an offence.",
+    "ingredients": [
+      "Intentionally insulting a person in any manner",
+      "Thereby giving provocation to him",
+      "Intending, or knowing it likely, that the provocation will cause him to break the public peace or commit another offence"
+    ],
+    "punishment": "Imprisonment of either description up to 2 years, or fine, or both.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Compoundable by the person insulted (BNSS s.359(1))",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "504 IPC",
+      "changeNote": "Re-enacted without change of substance or punishment."
+    },
+    "illustrations": [
+      "In the middle of a crowded market, C hurls caste-based abuse at a shopkeeper and taunts him to hit back, expecting a fight to break out. C is liable under s.352."
+    ],
+    "termRefs": [],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.352 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette); compounding from BNSS s.359. IPC correspondence and change note checked against the text of the Indian Penal Code, 1860 (government-hosted consolidated copy, Maharashtra Police) read with the amending Acts of 2000 (IT Act, First Schedule), 2005 (Acts 2 and 25 of 2005), 2013 (Act 13 of 2013) and 2018 (Act 22 of 2018)."
+    },
+    "lastVerified": "2026-09-30"
+  },
+  {
+    "id": "s-353",
+    "chapterId": "ch-19",
+    "number": "353",
+    "title": "Statements conducing to public mischief",
+    "bareActText": "(1) Whoever makes, publishes or circulates any statement, false information, rumour, or report, including through electronic means—(a) with intent to cause, or which is likely to cause, any officer, soldier, sailor or airman in the Army, Navy or Air Force of India to mutiny or otherwise disregard or fail in his duty as such; or (b) with intent to cause, or which is likely to cause, fear or alarm to the public, or to any section of the public whereby any person may be induced to commit an offence against the State or against the public tranquillity; or (c) with intent to incite, or which is likely to incite, any class or community of persons to commit any offence against any other class or community, shall be punished with imprisonment which may extend to three years, or with fine, or with both. (2) Whoever makes, publishes or circulates any statement or report containing false information, rumour or alarming news, including through electronic means, with intent to create or promote, or which is likely to create or promote, on grounds of religion, race, place of birth, residence, language, caste or community or any other ground whatsoever, feelings of enmity, hatred or ill will between different religious, racial, language or regional groups or castes or communities, shall be punished with imprisonment which may extend to three years, or with fine, or with both. (3) Whoever commits an offence specified in sub-section (2) in any place of worship or in any assembly engaged in the performance of religious worship or religious ceremonies, shall be punished with imprisonment which may extend to five years and shall also be liable to fine. Exception.—It does not amount to an offence, within the meaning of this section, when the person making, publishing or circulating any such statement, false information, rumour or report, has reasonable grounds for believing that such statement, false information, rumour or report is true and makes, publishes or circulates it in good faith and without any such intent as aforesaid.",
+    "plainMeaning": "This section punishes making, publishing or circulating statements, false information, rumours or reports — including through electronic means — that threaten public order. Under sub-s. (1), it is an offence if done with intent, or if likely, (a) to cause a member of the armed forces to mutiny or neglect his duty; (b) to cause fear or alarm to the public that may lead someone to commit an offence against the State or public tranquillity; or (c) to incite one class or community to commit an offence against another — up to three years, or fine, or both. Under sub-s. (2), making or circulating a statement or report containing false information, rumours or alarming news meant or likely to promote enmity, hatred or ill-will between religious, racial, language or regional groups, castes or communities is punishable with up to three years; under sub-s. (3), if done in a place of worship or religious assembly, up to five years and fine. The Exception protects a person who has reasonable grounds to believe the statement is true and makes or circulates it in good faith, without such intent. The new references to 'false information' and 'electronic means' bring fake news and social-media rumours clearly within the section.",
+    "ingredients": [
+      "Making, publishing or circulating a statement, false information, rumour or report, including through electronic means",
+      "(1) With intent, or likely, to cause mutiny or neglect of duty by armed forces; or public fear or alarm inducing an offence against the State or public tranquillity; or to incite a class or community against another",
+      "(2) Containing false information, rumour or alarming news, with intent or likely to promote enmity, hatred or ill-will between groups",
+      "(3) Sub-s. (2) offence in a place of worship or religious assembly",
+      "Exception: reasonable grounds for believing it true, and good faith without such intent"
+    ],
+    "punishment": "(1) Imprisonment up to 3 years, or fine, or both. (2) Up to 3 years, or fine, or both. (3) In a place of worship or religious assembly: up to 5 years, and fine.",
+    "classification": {
+      "cognizable": "(1) Non-cognizable; (2), (3) Cognizable",
+      "bailable": "Non-bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "505 IPC",
+      "changeNote": "Re-enacts s.505 IPC and expressly adds 'false information' and 'including through electronic means'. Punishments are unchanged."
+    },
+    "illustrations": [
+      "During communal tension, D forwards a doctored video on WhatsApp groups falsely claiming that members of one community poisoned a temple's water supply, urging revenge. D circulates false information likely to promote enmity between communities and is liable under s.353(2).",
+      "A journalist reports, after checking with police sources, that a clash has broken out in a town; the report later turns out to be exaggerated. If she had reasonable grounds to believe it and published in good faith without the intent in the section, the Exception protects her."
+    ],
+    "termRefs": [
+      "public-tranquillity",
+      "mutiny",
+      "good-faith"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.353 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette); compounding from BNSS s.359. IPC correspondence and change note checked against the text of the Indian Penal Code, 1860 (government-hosted consolidated copy, Maharashtra Police) read with the amending Acts of 2000 (IT Act, First Schedule), 2005 (Acts 2 and 25 of 2005), 2013 (Act 13 of 2013) and 2018 (Act 22 of 2018)."
+    },
+    "lastVerified": "2026-09-30"
+  },
+  {
+    "id": "s-354",
+    "chapterId": "ch-19",
+    "number": "354",
+    "title": "Act caused by inducing person to believe that he will be rendered an object of Divine displeasure",
+    "bareActText": "Whoever voluntarily causes or attempts to cause any person to do anything which that person is not legally bound to do, or to omit to do anything which he is legally entitled to do, by inducing or attempting to induce that person to believe that he or any person in whom he is interested will become or will be rendered by some act of the offender an object of Divine displeasure if he does not do the thing which it is the object of the offender to cause him to do, or if he does the thing which it is the object of the offender to cause him to omit, shall be punished with imprisonment of either description for a term which may extend to one year, or with fine, or with both. Illustrations. (a) A sits dharna at Z’s door with the intention of causing it to be believed that, by so sitting, he renders Z an object of Divine displeasure. A has committed the offence defined in this section. (b) A threatens Z that, unless Z performs a certain act, A will kill one of A’s own children, under such circumstances that the killing would be believed to render Z an object of Divine displeasure. A has committed the offence defined in this section.",
+    "plainMeaning": "A person who voluntarily causes, or tries to cause, someone to do something he is not legally bound to do, or to omit something he is legally entitled to do, by making him believe that he (or someone he cares about) will become an object of Divine displeasure through some act of the offender if he does not comply, is punishable with up to one year, or fine, or both. It targets coercion through religious or supernatural fear. The Gazette's Illustrations: sitting in dharna at a person's door so that he will be believed to incur Divine displeasure, and threatening to kill one's own child in circumstances where the killing would be believed to bring Divine displeasure on the other person.",
+    "ingredients": [
+      "Voluntarily causing or attempting to cause a person to do what he is not legally bound to do, or omit what he is legally entitled to do",
+      "By inducing or attempting to induce him to believe that he, or someone in whom he is interested, will be rendered an object of Divine displeasure by some act of the offender",
+      "If he does not comply"
+    ],
+    "punishment": "Imprisonment of either description up to 1 year, or fine, or both.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Compoundable by the person induced (BNSS s.359(1))",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "508 IPC",
+      "changeNote": "Re-enacted without change of substance or punishment, with its Illustrations."
+    },
+    "illustrations": [
+      "A self-styled holy man tells a widow that unless she transfers her land to his ashram, he will perform a ritual that will bring a curse on her children. He is liable under s.354."
+    ],
+    "termRefs": [
+      "divine-displeasure",
+      "voluntarily"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.354 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette); compounding from BNSS s.359. IPC correspondence and change note checked against the text of the Indian Penal Code, 1860 (government-hosted consolidated copy, Maharashtra Police) read with the amending Acts of 2000 (IT Act, First Schedule), 2005 (Acts 2 and 25 of 2005), 2013 (Act 13 of 2013) and 2018 (Act 22 of 2018)."
+    },
+    "lastVerified": "2026-09-30"
+  },
+  {
+    "id": "s-355",
+    "chapterId": "ch-19",
+    "number": "355",
+    "title": "Misconduct in public by a drunken person",
+    "bareActText": "Whoever, in a state of intoxication, appears in any public place, or in any place which it is a trespass in him to enter, and there conducts himself in such a manner as to cause annoyance to any person, shall be punished with simple imprisonment for a term which may extend to twenty-four hours, or with fine which may extend to one thousand rupees, or with both or with community service.",
+    "plainMeaning": "A person who, while intoxicated, appears in a public place, or in any place where his entry is a trespass, and there behaves so as to cause annoyance to anyone, is punishable with simple imprisonment up to twenty-four hours, or fine up to ₹1,000, or both, or community service. It is a minor offence aimed at public drunken nuisance; the BNS adds community service as a punishment.",
+    "ingredients": [
+      "Being in a state of intoxication",
+      "Appearing in a public place, or in a place where it is a trespass for him to enter",
+      "Conducting himself there so as to cause annoyance to any person"
+    ],
+    "punishment": "Simple imprisonment up to 24 hours, or fine up to ₹1,000, or both, or community service.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Not compoundable (not listed in BNSS s.359)",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "510 IPC",
+      "changeNote": "Re-enacts s.510 IPC; the fine limit is raised to ₹1,000 and community service is added."
+    },
+    "illustrations": [
+      "E, heavily drunk, staggers around a railway platform shouting at and pushing passengers. E is liable under s.355 and may be ordered to perform community service."
+    ],
+    "termRefs": [
+      "intoxication",
+      "community-service",
+      "simple-imprisonment"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.355 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette); compounding from BNSS s.359. IPC correspondence and change note checked against the text of the Indian Penal Code, 1860 (government-hosted consolidated copy, Maharashtra Police) read with the amending Acts of 2000 (IT Act, First Schedule), 2005 (Acts 2 and 25 of 2005), 2013 (Act 13 of 2013) and 2018 (Act 22 of 2018)."
+    },
+    "lastVerified": "2026-09-30"
+  },
+  {
+    "id": "s-356",
+    "chapterId": "ch-19",
+    "number": "356",
+    "title": "Defamation",
+    "bareActText": "(1) Whoever, by words either spoken or intended to be read, or by signs or by visible representations, makes or publishes in any manner, any imputation concerning any person intending to harm, or knowing or having reason to believe that such imputation will harm, the reputation of such person, is said, except in the cases hereinafter excepted, to defame that person. Explanation 1.—It may amount to defamation to impute anything to a deceased person, if the imputation would harm the reputation of that person if living, and is intended to be hurtful to the feelings of his family or other near relatives. Explanation 2.—It may amount to defamation to make an imputation concerning a company or an association or collection of persons as such. Explanation 3.—An imputation in the form of an alternative or expressed ironically, may amount to defamation. Explanation 4.—No imputation is said to harm a person’s reputation, unless that imputation directly or indirectly, in the estimation of others, lowers the moral or intellectual character of that person, or lowers the character of that person in respect of his caste or of his calling, or lowers the credit of that person, or causes it to be believed that the body of that person is in a loathsome state, or in a state generally considered as disgraceful. Illustrations. (a) A says—“Z is an honest man; he never stole B’s watch”; intending to cause it to be believed that Z did steal B’s watch. This is defamation, unless it falls within one of the exceptions. (b) A is asked who stole B’s watch. A points to Z, intending to cause it to be believed that Z stole B’s watch. This is defamation, unless it falls within one of the exceptions. (c) A draws a picture of Z running away with B’s watch, intending it to be believed that Z stole B’s watch. This is defamation, unless it falls within one of the exceptions. Exception 1.—It is not defamation to impute anything which is true concerning any person, if it be for the public good that the imputation should be made or published. Whether or not it is for the public good is a question of fact. Exception 2.—It is not defamation to express in good faith any opinion whatever respecting the conduct of a public servant in the discharge of his public functions, or respecting his character, so far as his character appears in that conduct, and no further. Exception 3.—It is not defamation to express in good faith any opinion whatever respecting the conduct of any person touching any public question, and respecting his character, so far as his character appears in that conduct, and no further. Illustration. It is not defamation in A to express in good faith any opinion whatever respecting Z’s conduct in petitioning Government on a public question, in signing a requisition for a meeting on a public question, in presiding or attending at such meeting, in forming or joining any society which invites the public support, in voting or canvassing for a particular candidate for any situation in the efficient discharge of the duties of which the public is interested. Exception 4.—It is not defamation to publish substantially true report of the proceedings of a Court, or of the result of any such proceedings. Explanation.—A Magistrate or other officer holding an inquiry in open Court preliminary to a trial in a Court, is a Court within the meaning of the above section. Exception 5.—It is not defamation to express in good faith any opinion whatever respecting the merits of any case, civil or criminal, which has been decided by a Court, or respecting the conduct of any person as a party, witness or agent, in any such case, or respecting the character of such person, as far as his character appears in that conduct, and no further. Illustrations. (a) A says—“I think Z’s evidence on that trial is so contradictory that he must be stupid or dishonest”. A is within this exception if he says this in good faith, in as much as the opinion which he expresses respects Z’s character as it appears in Z’s conduct as a witness, and no further. (b) But if A says—“I do not believe what Z asserted at that trial because I know him to be a man without veracity”; A is not within this exception, in as much as the opinion which expresses of Z’s character, is an opinion not founded on Z’s conduct as a witness. Exception 6.—It is not defamation to express in good faith any opinion respecting the merits of any performance which its author has submitted to the judgment of the public, or respecting the character of the author so far as his character appears in such performance, and no further. Explanation.—A performance may be submitted to the judgment of the public expressly or by acts on the part of the author which imply such submission to the judgment of the public. Illustrations. (a) A person who publishes a book, submits that book to the judgment of the public. (b) A person who makes a speech in public, submits that speech to the judgment of the public. (c) An actor or singer who appears on a public stage, submits his acting or singing to the judgment of the public. (d) A says of a book published by Z—“Z’s book is foolish; Z must be a weak man. Z’s book is indecent; Z must be a man of impure mind”. A is within the exception, if he says this in good faith, in as much as the opinion which he expresses of Z respects Z’s character only so far as it appears in Z’s book, and no further. (e) But if A says “I am not surprised that Z’s book is foolish and indecent, for he is a weak man and a libertine”. A is not within this exception, in as much as the opinion which he expresses of Z’s character is an opinion not founded on Z’s book. Exception 7.—It is not defamation in a person having over another any authority, either conferred by law or arising out of a lawful contract made with that other, to pass in good faith any censure on the conduct of that other in matters to which such lawful authority relates. Illustration. A Judge censuring in good faith the conduct of a witness, or of an officer of the Court; a head of a department censuring in good faith those who are under his orders, a parent censuring in good faith a child in the presence of other children; a school master, whose authority is derived from a parent, censuring in good faith a pupil in the presence of other pupils; a master censuring a servant in good faith for remissness in service; a banker censuring in good faith the cashier of his bank for the conduct of such cashier as such cashier are within this exception. Exception 8.—It is not defamation to prefer in good faith an accusation against any person to any of those who have lawful authority over that person with respect to the subject-matter of accusation. Illustration. If A in good faith accuses Z before a Magistrate; if A in good faith complains of the conduct of Z, a servant, to Z’s master; if A in good faith complains of the conduct of Z, a child, to Z’s father, A is within this exception. Exception 9.—It is not defamation to make an imputation on the character of another provided that the imputation be made in good faith for the protection of the interests of the person making it, or of any other person, or for the public good. Illustrations. (a) A, a shopkeeper, says to B, who manages his business—“Sell nothing to Z unless he pays you ready money, for I have no opinion of his honesty”. A is within the exception, if he has made this imputation on Z in good faith for the protection of his own interests. (b) A, a Magistrate, in making a report to his own superior officer, casts an imputation on the character of Z. Here, if the imputation is made in good faith, and for the public good, A is within the exception. Exception 10.—It is not defamation to convey a caution, in good faith, to one person against another, provided that such caution be intended for the good of the person to whom it is conveyed, or of some person in whom that person is interested, or for the public good. (2) Whoever defames another shall be punished with simple imprisonment for a term which may extend to two years, or with fine, or with both, or with community service. (3) Whoever prints or engraves any matter, knowing or having good reason to believe that such matter is defamatory of any person, shall be punished with simple imprisonment for a term which may extend to two years, or with fine, or with both. (4) Whoever sells or offers for sale any printed or engraved substance containing defamatory matter, knowing that it contains such matter, shall be punished with simple imprisonment for a term which may extend to two years, or with fine, or with both.",
+    "plainMeaning": "Defamation is making or publishing, by spoken or written words, signs or visible representations, an imputation about a person intending to harm his reputation, or knowing or having reason to believe it will harm it. Imputations about a deceased person (hurtful to the family), about a company or association, and imputations made as alternatives or ironically, can be defamatory. Under Explanation 4, an imputation harms reputation only if, in others' estimation, it lowers the person's moral or intellectual character, his standing in his caste or calling, or his credit, or suggests his body is in a loathsome or disgraceful state. Ten Exceptions protect: (1) truth for the public good; (2) good-faith opinion on public servants' public conduct; (3) good-faith opinion on anyone's conduct on public questions; (4) substantially true reports of court proceedings; (5) good-faith opinion on decided cases and the conduct of parties and witnesses; (6) good-faith opinion on works submitted to public judgment, such as books and performances; (7) good-faith censure by a person in lawful authority; (8) good-faith accusation to a person with lawful authority; (9) good-faith imputation to protect one's own or another's interests or for the public good; and (10) good-faith caution for another's good. Defamation is punishable with simple imprisonment up to two years, or fine, or both, or community service; printing or engraving, and selling, defamatory matter knowing it to be defamatory are separately punished with up to two years.",
+    "ingredients": [
+      "Making or publishing an imputation concerning a person",
+      "By words spoken or intended to be read, signs or visible representations",
+      "Intending to harm, or knowing or having reason to believe it will harm, his reputation",
+      "Harm to reputation as in Explanation 4",
+      "Not falling within any of Exceptions 1-10"
+    ],
+    "punishment": "(2) Simple imprisonment up to 2 years, or fine, or both, or community service. (3) Printing or engraving defamatory matter: simple imprisonment up to 2 years, or fine, or both. (4) Selling printed or engraved defamatory matter: simple imprisonment up to 2 years, or fine, or both.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Compoundable by the person defamed (BNSS s.359(1)); where instituted on a Public Prosecutor's complaint for defamation of the President, Vice-President, a Governor, Administrator or Minister, only with the permission of the Court (BNSS s.359(2))",
+      "triableBy": "Court of Session where the complaint is made by the Public Prosecutor for defamation of the President, Vice-President, a Governor, a Union territory Administrator or a Minister in respect of public functions; otherwise Magistrate of the first class"
+    },
+    "ipcReference": {
+      "section": "499, 500, 501, 502 IPC",
+      "changeNote": "Merges the definition (s.499), punishment (s.500) and printing and selling of defamatory matter (ss.501-502), with all Explanations, Exceptions and Illustrations. NEW: community service is added as a punishment for defamation."
+    },
+    "illustrations": [
+      "F posts on Facebook that his former business partner 'regularly cheats customers and forges bills', knowing this is untrue. F makes an imputation intending to harm the partner's reputation and is liable under s.356(2).",
+      "A newspaper publishes a substantially accurate report of evidence given in a criminal trial, including allegations against the accused. Exception 4 protects the report even though the allegations harm the accused's reputation."
+    ],
+    "termRefs": [
+      "defamation",
+      "imputation",
+      "good-faith",
+      "public-servant",
+      "public-good",
+      "community-service"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.356 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette); compounding from BNSS s.359. IPC correspondence and change note checked against the text of the Indian Penal Code, 1860 (government-hosted consolidated copy, Maharashtra Police) read with the amending Acts of 2000 (IT Act, First Schedule), 2005 (Acts 2 and 25 of 2005), 2013 (Act 13 of 2013) and 2018 (Act 22 of 2018)."
+    },
+    "lastVerified": "2026-09-30"
+  },
+  {
+    "id": "s-357",
+    "chapterId": "ch-19",
+    "number": "357",
+    "title": "Breach of contract to attend on and supply wants of helpless person",
+    "bareActText": "Whoever, being bound by a lawful contract to attend on or to supply the wants of any person who, by reason of youth, or of unsoundness of mind, or of a disease or bodily weakness, is helpless or incapable of providing for his own safety or of supplying his own wants, voluntarily omits so to do, shall be punished with imprisonment of either description for a term which may extend to three months, or with fine which may extend to five thousand rupees, or with both.",
+    "plainMeaning": "A person bound by a lawful contract to look after, or provide for the needs of, someone who is helpless or unable to provide for his own safety or needs because of youth, unsoundness of mind, disease or bodily weakness, and who voluntarily fails to do so, is punishable with up to three months, or fine up to ₹5,000, or both. A paid caregiver who abandons an elderly or disabled person in his care is the typical example. Ordinary breaches of contract remain civil matters; this section applies only because of the helplessness of the person cared for.",
+    "ingredients": [
+      "A lawful contract to attend on or supply the wants of a person",
+      "The person is helpless, or incapable of providing for his own safety or wants, because of youth, unsoundness of mind, disease or bodily weakness",
+      "The accused voluntarily omits to perform the contract"
+    ],
+    "punishment": "Imprisonment of either description up to 3 months, or fine up to ₹5,000, or both.",
+    "classification": {
+      "cognizable": "Non-cognizable",
+      "bailable": "Bailable",
+      "compoundable": "Compoundable by the person with whom the offender has contracted (BNSS s.359(1))",
+      "triableBy": "Any Magistrate"
+    },
+    "ipcReference": {
+      "section": "491 IPC",
+      "changeNote": "Re-enacts s.491 IPC; the fine limit is raised to ₹5,000. The IPC's other breach-of-contract-of-service offences (ss.490, 492) had already been repealed."
+    },
+    "illustrations": [
+      "G, hired as a live-in nurse for a bedridden elderly man, leaves the house for three days without arranging any replacement, leaving him without food or medicine. G is liable under s.357."
+    ],
+    "termRefs": [
+      "voluntarily"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.357 — bare Act text and punishment verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023); classification from the First Schedule, BNSS 2023 (Gazette); compounding from BNSS s.359. IPC correspondence and change note checked against the text of the Indian Penal Code, 1860 (government-hosted consolidated copy, Maharashtra Police) read with the amending Acts of 2000 (IT Act, First Schedule), 2005 (Acts 2 and 25 of 2005), 2013 (Act 13 of 2013) and 2018 (Act 22 of 2018)."
+    },
+    "lastVerified": "2026-09-30"
+  }
+]

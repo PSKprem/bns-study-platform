@@ -106,6 +106,8 @@ Goal: prove the whole workflow on one small chapter. Definition of Done = `requi
   - [x] Chapter XVI (Of Offences Relating to Religion, s.298–302) — Gazette-verified; 5 sections, 14 MCQs, 6 exam Q&A, 4 new dictionary terms
   - [x] Chapter XVII (Of Offences Against Property, s.303–334) — Gazette-verified; 32 sections, 32 MCQs, 12 exam Q&A, 13 new dictionary terms; uses the Gazette's own sub-headings
   - [x] Chapter XVIII (Of Offences Relating to Documents and to Property Marks, s.335–350) — Gazette-verified; 16 sections, 20 MCQs, 9 exam Q&A, 5 new dictionary terms
+  - [~] Chapter XIX (Of Criminal Intimidation, Insult, Annoyance, Defamation, etc., s.351–357) — Gazette-verified; 7 sections, 21 MCQs, 8 exam Q&A, 6 new dictionary terms *(built locally on branch content/ch-19; not committed, pushed or deployed — to be published later)*
+  - [~] Chapter XX (Repeal and Savings, s.358) — Gazette-verified; 1 section, 6 MCQs, 3 exam Q&A, 1 new dictionary term *(built locally on branch content/ch-19; not committed, pushed or deployed — to be published later)*
 - [x] Dictionary check: fixed 10 one-way section↔term links; new test enforces two-way links; home page links to the full dictionary with its term count; chapter tab shows its term count
 - [x] Dark mode toggle (light/dark, persisted in localStorage) *(added on request)*
 - [x] Statutory Dictionary: all 38 terms defined in s.2, bilingual

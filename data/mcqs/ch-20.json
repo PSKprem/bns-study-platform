@@ -1,0 +1,65 @@
+[
+  {
+    "id": "mcq-ch20-1",
+    "chapterId": "ch-20",
+    "question": "Section 358(1) of the BNS repeals—",
+    "options": [
+      "The Code of Criminal Procedure, 1973",
+      "The Indian Penal Code",
+      "The Indian Evidence Act, 1872",
+      "The General Clauses Act, 1897"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.358(1): 'The Indian Penal Code is hereby repealed.' The CrPC is repealed by the BNSS and the Evidence Act by the BSA."
+  },
+  {
+    "id": "mcq-ch20-2",
+    "chapterId": "ch-20",
+    "question": "The Bharatiya Nyaya Sanhita, 2023 came into force on—",
+    "options": ["25 December 2023", "1 January 2024", "1 July 2024", "15 August 2024"],
+    "correctIndex": 2,
+    "explanation": "The BNS was published in the Gazette on 25 December 2023 and brought into force on 1 July 2024."
+  },
+  {
+    "id": "mcq-ch20-3",
+    "chapterId": "ch-20",
+    "question": "An offence committed in April 2024 but reported in September 2024 is generally charged under—",
+    "options": ["The BNS", "The IPC", "Either, at the police's choice", "Neither"],
+    "correctIndex": 1,
+    "explanation": "s.358(2) saves liability and penalties incurred under the IPC; the law on the date of the offence applies (Article 20(1))."
+  },
+  {
+    "id": "mcq-ch20-4",
+    "chapterId": "ch-20",
+    "question": "Under s.358(3), anything done or action taken under the IPC is deemed to have been done—",
+    "options": [
+      "Illegally",
+      "Under the corresponding provisions of the BNS",
+      "Under the BNSS",
+      "Only if confirmed by a court"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.358(3): deemed to have been done or taken under the corresponding provisions of this Sanhita."
+  },
+  {
+    "id": "mcq-ch20-5",
+    "chapterId": "ch-20",
+    "question": "Section 358(4) preserves the general application of—",
+    "options": [
+      "Section 6 of the General Clauses Act, 1897",
+      "Article 21 of the Constitution",
+      "Section 531 of the BNSS",
+      "Section 2 of the IT Act"
+    ],
+    "correctIndex": 0,
+    "explanation": "s.358(4): the mention of particular matters in sub-section (2) shall not prejudice the general application of s.6 of the General Clauses Act, 1897."
+  },
+  {
+    "id": "mcq-ch20-6",
+    "chapterId": "ch-20",
+    "question": "Which constitutional provision prevents applying a heavier BNS punishment to an offence committed under the IPC?",
+    "options": ["Article 14", "Article 19(1)(a)", "Article 20(1)", "Article 32"],
+    "correctIndex": 2,
+    "explanation": "Article 20(1) bars conviction for an act not an offence when done, and a penalty greater than that under the law in force at the time."
+  }
+]

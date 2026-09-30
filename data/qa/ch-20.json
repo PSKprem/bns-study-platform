@@ -1,0 +1,23 @@
+[
+  {
+    "id": "qa-ch20-1",
+    "chapterId": "ch-20",
+    "question": "Explain Section 358 of the BNS (repeal and savings).",
+    "modelAnswer": "Section 358(1) repeals the Indian Penal Code, 1860. Section 358(2) is a savings clause: notwithstanding the repeal, it does not affect (a) the previous operation of the IPC or anything duly done or suffered under it; (b) any right, privilege, obligation or liability acquired, accrued or incurred under it; (c) any penalty or punishment incurred in respect of offences committed against it; (d) any investigation or remedy in respect of such penalty or punishment; or (e) any proceeding, investigation or remedy in respect of such penalty or punishment — and any such proceeding or remedy may be instituted, continued or enforced, and any such penalty imposed, as if the IPC had not been repealed. Section 358(3) provides that anything done or action taken under the IPC is deemed to have been done or taken under the corresponding provisions of the BNS. Section 358(4) states that the specific matters listed in sub-section (2) do not prejudice the general application of s.6 of the General Clauses Act, 1897, which lays down the effect of repeal of any central enactment. The purpose is to ensure a smooth transition: pending investigations and trials do not lapse, liabilities for past offences survive, and completed acts under the old law remain valid.",
+    "difficulty": "basic"
+  },
+  {
+    "id": "qa-ch20-2",
+    "chapterId": "ch-20",
+    "question": "Problem: A commits cheating on 15 May 2024. The victim files an FIR on 10 August 2024. Under which law will A be charged and tried? Explain.",
+    "modelAnswer": "The BNS came into force on 1 July 2024. A's offence was committed on 15 May 2024, when the IPC was in force. Under s.358(2)(b), (c) and (e), the repeal of the IPC does not affect any liability incurred, or penalty or punishment incurred, in respect of an offence committed against it, and any investigation or proceeding in respect of it may be instituted as if the IPC had not been repealed. So A's substantive liability is governed by the IPC — he will be charged under s.420 IPC (or s.417, as the facts require), not s.318 BNS, even though the FIR was filed after 1 July 2024. This follows the settled principle that the substantive criminal law applicable is the law in force on the date of the offence, and it is required by Article 20(1) of the Constitution, which prohibits convicting a person for an act that was not an offence when committed, and imposing a penalty greater than that which could have been imposed under the law in force at the time. Where the BNS punishment is heavier (for example, simple cheating is up to three years under s.318(2) BNS but one year under s.417 IPC), applying the BNS would violate Article 20(1). The procedure for investigation and trial is governed separately by the transition provisions of the BNSS (s.531).",
+    "difficulty": "hard"
+  },
+  {
+    "id": "qa-ch20-3",
+    "chapterId": "ch-20",
+    "question": "What is the role of Section 6 of the General Clauses Act, 1897 in the repeal of the IPC?",
+    "modelAnswer": "Section 6 of the General Clauses Act, 1897 lays down the general effect of the repeal of any central Act, unless a different intention appears: the repeal does not revive anything not in force when it takes effect, does not affect the previous operation of the repealed law or anything done under it, does not affect rights, privileges, obligations or liabilities acquired or incurred under it, does not affect penalties, forfeitures or punishments incurred for offences against it, and does not affect investigations, legal proceedings or remedies about them, which may be instituted, continued or enforced as if the law had not been repealed. Section 358(2) of the BNS spells out largely the same savings expressly. Section 358(4) then provides that the mention of these particular matters does not prejudice or affect the general application of s.6. The effect is that the specific savings in s.358(2) do not limit the wider protection of s.6: any situation not expressly covered by s.358(2) is still governed by the general rules in s.6. Together, they ensure that the repeal of the IPC operates only prospectively.",
+    "difficulty": "medium"
+  }
+]

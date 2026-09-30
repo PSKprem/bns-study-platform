@@ -9,7 +9,9 @@
       "s-202",
       "s-209",
       "s-226",
-      "s-303"
+      "s-303",
+      "s-355",
+      "s-356"
     ]
   },
   {
@@ -52,7 +54,8 @@
       "s-206",
       "s-261",
       "s-267",
-      "s-293"
+      "s-293",
+      "s-355"
     ]
   },
   {
@@ -263,7 +266,9 @@
       "s-126",
       "s-137",
       "s-227",
-      "s-314"
+      "s-314",
+      "s-353",
+      "s-356"
     ]
   },
   {
@@ -342,7 +347,8 @@
       "s-326",
       "s-337",
       "s-347",
-      "s-350"
+      "s-350",
+      "s-356"
     ]
   },
   {
@@ -508,7 +514,8 @@
       "s-285",
       "s-308",
       "s-336",
-      "s-346"
+      "s-346",
+      "s-351"
     ]
   },
   {
@@ -647,7 +654,9 @@
       "s-221",
       "s-279",
       "s-280",
-      "s-300"
+      "s-300",
+      "s-354",
+      "s-357"
     ]
   },
   {
@@ -1331,7 +1340,8 @@
       "s-291",
       "s-308",
       "s-311",
-      "s-331"
+      "s-331",
+      "s-351"
     ]
   },
   {
@@ -1595,7 +1605,8 @@
     "relatedSections": [
       "s-159",
       "s-160",
-      "s-167"
+      "s-167",
+      "s-353"
     ]
   },
   {
@@ -1841,7 +1852,8 @@
     "meaningEn": "The general peace and calm of society — the state in which people can go about public life without fear of disorder or group violence. Chapter XI protects it; s.196(1)(b) punishes acts against harmony between groups that disturb or are likely to disturb it.",
     "meaningHi": "लोक प्रशांति — समाज की सामान्य शांति और सुव्यवस्था, जिसमें लोग अव्यवस्था या सामूहिक हिंसा के भय के बिना सार्वजनिक जीवन जी सकें। अध्याय 11 इसकी रक्षा करता है।",
     "relatedSections": [
-      "s-196"
+      "s-196",
+      "s-353"
     ]
   },
   {
@@ -2375,6 +2387,69 @@
       "s-347",
       "s-348",
       "s-349"
+    ]
+  },
+  {
+    "id": "criminal-intimidation",
+    "term": "Criminal intimidation",
+    "meaningEn": "Threatening a person, by any means, with injury to his person, reputation or property, or to the person or reputation of someone he is interested in, intending to alarm him or to make him act or refrain against his legal rights (s.351).",
+    "meaningHi": "आपराधिक अभित्रास — किसी व्यक्ति को किसी भी माध्यम से उसके शरीर, ख्याति या संपत्ति, या उसके हितबद्ध व्यक्ति के शरीर या ख्याति को क्षति पहुँचाने की धमकी देना, उसे संत्रस्त करने या उसके विधिक अधिकारों के विरुद्ध कुछ कराने या रुकवाने के आशय से (धारा 351)।",
+    "relatedSections": [
+      "s-351"
+    ]
+  },
+  {
+    "id": "defamation",
+    "term": "Defamation",
+    "meaningEn": "Making or publishing, by words, signs or visible representations, an imputation about a person intending, knowing or having reason to believe that it will harm his reputation, unless it falls within one of the ten Exceptions (s.356).",
+    "meaningHi": "मानहानि — शब्दों, संकेतों या दृश्य रूपणों द्वारा किसी व्यक्ति के बारे में ऐसा लांछन लगाना या प्रकाशित करना जिससे उसकी ख्याति को हानि पहुँचाने का आशय, ज्ञान या विश्वास का कारण हो, जब तक वह दस अपवादों में से किसी में न आए (धारा 356)।",
+    "relatedSections": [
+      "s-356"
+    ]
+  },
+  {
+    "id": "imputation",
+    "term": "Imputation",
+    "meaningEn": "An allegation or suggestion attributing something to a person — directly, by insinuation, as an alternative, or ironically. For defamation, it harms reputation only if it lowers the person's moral or intellectual character, standing in caste or calling, or credit in others' estimation (s.356, Expl. 3-4).",
+    "meaningHi": "लांछन — किसी व्यक्ति पर कोई बात आरोपित करने वाला कथन या संकेत, चाहे सीधे, संकेत द्वारा, विकल्प के रूप में या व्यंग्य में। मानहानि के लिए यह तभी ख्याति को हानि पहुँचाता है जब दूसरों की दृष्टि में व्यक्ति का नैतिक या बौद्धिक चरित्र, जाति या व्यवसाय में स्थिति, या साख गिराए।",
+    "relatedSections": [
+      "s-356"
+    ]
+  },
+  {
+    "id": "public-good",
+    "term": "Public good",
+    "meaningEn": "The benefit or interest of the community at large. Under Exception 1 to s.356, a true imputation is not defamation only if its publication is for the public good — a question of fact; the term also appears in Exceptions 9 and 10 and in s.294.",
+    "meaningHi": "लोक कल्याण — समुदाय का सामान्य हित या लाभ। धारा 356 के अपवाद 1 में सत्य लांछन तभी मानहानि नहीं है जब उसका प्रकाशन लोक कल्याण के लिए हो, जो तथ्य का प्रश्न है।",
+    "relatedSections": [
+      "s-356"
+    ]
+  },
+  {
+    "id": "intoxication",
+    "term": "Intoxication",
+    "meaningEn": "Being under the influence of alcohol or a drug so that one's conduct or judgment is affected. Appearing intoxicated in a public place and causing annoyance is punished by s.355; intoxication administered without one's knowledge is a general exception (s.23).",
+    "meaningHi": "मत्तता (नशा) — शराब या किसी मादक द्रव्य के प्रभाव में होना जिससे आचरण या विवेक प्रभावित हो। मत्त अवस्था में सार्वजनिक स्थान पर उपद्रव करना धारा 355 में दंडनीय है।",
+    "relatedSections": [
+      "s-355"
+    ]
+  },
+  {
+    "id": "divine-displeasure",
+    "term": "Divine displeasure",
+    "meaningEn": "The wrath or disfavour of God or a deity. Coercing a person to act, or refrain, by making him believe that he or someone he cares about will incur Divine displeasure through the offender's act is punished by s.354.",
+    "meaningHi": "दैवी अप्रसाद — ईश्वर या किसी देवता का कोप या अप्रसन्नता। किसी व्यक्ति को यह विश्वास दिलाकर कि वह दैवी अप्रसाद का भागी होगा, उससे कुछ कराना या रुकवाना धारा 354 में दंडनीय है।",
+    "relatedSections": [
+      "s-354"
+    ]
+  },
+  {
+    "id": "repeal-and-savings",
+    "term": "Repeal and savings",
+    "meaningEn": "A repeal ends an old law; a savings clause keeps alive what was done, and the rights, liabilities, penalties and proceedings that arose, under it. Section 358 repeals the IPC but saves all such matters, so offences committed before 1 July 2024 continue to be dealt with under the IPC.",
+    "meaningHi": "निरसन और व्यावृत्ति — निरसन पुराने कानून को समाप्त करता है; व्यावृत्ति खंड उसके अधीन किए गए कार्यों तथा उत्पन्न अधिकारों, दायित्वों, दंडों और कार्यवाहियों को जीवित रखता है। धारा 358 भा.दं.सं. का निरसन करती है पर इन सबकी व्यावृत्ति करती है, जिससे 1 जुलाई 2024 से पहले के अपराधों पर भा.दं.सं. लागू रहती है।",
+    "relatedSections": [
+      "s-358"
     ]
   }
 ]

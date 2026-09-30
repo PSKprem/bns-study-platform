@@ -1,0 +1,40 @@
+{
+  "id": "ch-20",
+  "number": "XX",
+  "title": "Repeal and Savings",
+  "sectionRange": "358",
+  "shortDescription": "The closing chapter: s.358 repeals the Indian Penal Code, 1860, while saving everything done, every liability incurred and every proceeding pending under it, so that offences committed before the BNS came into force continue to be dealt with under the IPC.",
+  "subHeadings": [
+    { "id": "repeal", "label": "Repeal and savings", "sectionIds": ["s-358"] }
+  ],
+  "summary": "Chapter XX contains a single section. Section 358(1) repeals the Indian Penal Code, 1860, which had governed substantive criminal law in India for over 160 years. The BNS itself came into force on 1 July 2024.\n\nA repeal on its own could leave gaps — pending cases might collapse, or offences committed before the change might go unpunished. Section 358(2), the savings clause, prevents this. The repeal does not affect: (a) the previous operation of the IPC or anything duly done or suffered under it; (b) any right, privilege, obligation or liability acquired, accrued or incurred under it; (c) any penalty or punishment incurred for offences against it; (d) any investigation or remedy about such penalty or punishment; or (e) any proceeding, investigation or remedy about them — which may be instituted, continued or enforced, and any penalty imposed, as if the IPC had not been repealed. Section 358(3) deems anything done or any action taken under the IPC to have been done or taken under the corresponding provisions of the BNS, and s.358(4) keeps the general rules on the effect of repeal in s.6 of the General Clauses Act, 1897 fully applicable.\n\nThe practical result is simple: the law in force on the date of the offence governs. An offence committed on or before 30 June 2024 is charged and tried under the IPC, even if the FIR is filed later; one committed on or after 1 July 2024 falls under the BNS. This is consistent with Article 20(1) of the Constitution, which forbids convicting a person for an act that was not an offence when committed, or imposing a heavier penalty than the law then allowed. Procedure follows its own transition rule: the BNSS (which replaced the CrPC on the same date) has a parallel repeal and savings provision in BNSS s.531.",
+  "keyPoints": [
+    {
+      "point": "Section 358 — Repeal and savings",
+      "subPoints": [
+        "(1) The Indian Penal Code, 1860 is repealed",
+        "(2) Savings: past operation, rights and liabilities, penalties incurred, investigations, proceedings and remedies continue as if the IPC were not repealed",
+        "(3) Things done under the IPC are deemed done under the corresponding BNS provisions",
+        "(4) Section 6 of the General Clauses Act, 1897 still applies",
+        "Offences committed before 1 July 2024 → IPC; on or after → BNS",
+        "Consistent with Article 20(1) of the Constitution"
+      ]
+    }
+  ],
+  "fastRevision": [
+    "Chapter XX has one section: s.358, Repeal and savings.",
+    "s.358(1) — the Indian Penal Code (Act 45 of 1860) is repealed.",
+    "The BNS came into force on 1 July 2024.",
+    "s.358(2) — repeal does not affect the previous operation of the IPC or anything done under it.",
+    "s.358(2)(b) — rights, privileges, obligations and liabilities under the IPC survive.",
+    "s.358(2)(c) — penalties and punishments incurred for IPC offences survive.",
+    "s.358(2)(d)-(e) — investigations, proceedings and remedies may be instituted or continued as if the IPC were not repealed.",
+    "s.358(3) — actions under the IPC are deemed taken under the corresponding BNS provisions.",
+    "s.358(4) — s.6 of the General Clauses Act, 1897 continues to apply.",
+    "Rule: the law on the date of the offence governs — pre-1 July 2024 offences are tried under the IPC.",
+    "Article 20(1) — no conviction for an act not an offence when done; no heavier penalty than then allowed.",
+    "BNSS s.531 is the parallel repeal and savings provision for the CrPC."
+  ],
+  "mindMap": "# Ch. XX — Repeal and Savings\n## s.358\n- (1) IPC repealed\n- (2) Savings\n  - Past operation\n  - Rights & liabilities\n  - Penalties incurred\n  - Investigations & proceedings\n- (3) Deemed under BNS\n- (4) General Clauses Act s.6\n## Effect\n- Offence before 1 July 2024 → IPC\n- On / after 1 July 2024 → BNS\n- Article 20(1)",
+  "lastVerified": "2026-09-30"
+}

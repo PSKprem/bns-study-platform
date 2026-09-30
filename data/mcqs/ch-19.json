@@ -1,0 +1,225 @@
+[
+  {
+    "id": "mcq-ch19-1",
+    "chapterId": "ch-19",
+    "question": "Criminal intimidation under Section 351 corresponds to which IPC sections?",
+    "options": ["499-502", "503, 506, 507", "504-505", "508-510"],
+    "correctIndex": 1,
+    "explanation": "s.351 merges the definition (s.503) with punishment (s.506) and anonymous intimidation (s.507)."
+  },
+  {
+    "id": "mcq-ch19-2",
+    "chapterId": "ch-19",
+    "question": "A threat to injure the reputation of a deceased person in whom the person threatened is interested—",
+    "options": [
+      "Is not criminal intimidation",
+      "Is within Section 351",
+      "Is defamation only",
+      "Is an offence only if written"
+    ],
+    "correctIndex": 1,
+    "explanation": "Explanation to s.351(1): a threat to injure the reputation of any deceased person in whom the person threatened is interested is within this section."
+  },
+  {
+    "id": "mcq-ch19-3",
+    "chapterId": "ch-19",
+    "question": "Criminal intimidation by threatening to cause death is punishable under s.351(3) with up to—",
+    "options": ["2 years", "3 years", "7 years, or fine, or both", "10 years"],
+    "correctIndex": 2,
+    "explanation": "s.351(3): threats of death, grievous hurt, arson, grave offences or imputing unchastity — up to seven years, or fine, or both."
+  },
+  {
+    "id": "mcq-ch19-4",
+    "chapterId": "ch-19",
+    "question": "Criminal intimidation by anonymous communication (s.351(4)) attracts—",
+    "options": [
+      "Only a fine",
+      "Up to 2 years in addition to the punishment for the offence",
+      "Death",
+      "No extra punishment"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.351(4): up to two years, in addition to the punishment provided for the offence under sub-section (1)."
+  },
+  {
+    "id": "mcq-ch19-5",
+    "chapterId": "ch-19",
+    "question": "Criminal intimidation under s.351(2) is—",
+    "options": [
+      "Cognizable and non-bailable",
+      "Non-cognizable, bailable and compoundable by the person intimidated",
+      "Cognizable and compoundable with permission",
+      "Non-bailable and non-compoundable"
+    ],
+    "correctIndex": 1,
+    "explanation": "BNSS First Schedule and s.359(1): s.351(2) is non-cognizable, bailable, and compoundable by the person intimidated."
+  },
+  {
+    "id": "mcq-ch19-6",
+    "chapterId": "ch-19",
+    "question": "Intentional insult intended to provoke a breach of the peace is an offence under—",
+    "options": ["Section 351", "Section 352", "Section 353", "Section 355"],
+    "correctIndex": 1,
+    "explanation": "s.352 (formerly s.504 IPC): up to two years, or fine, or both."
+  },
+  {
+    "id": "mcq-ch19-7",
+    "chapterId": "ch-19",
+    "question": "Which words are NEWLY added to Section 353 compared with s.505 IPC?",
+    "options": [
+      "'Mutiny' and 'duty'",
+      "'False information' and 'including through electronic means'",
+      "'Public tranquillity'",
+      "'Place of worship'"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.353 covers 'any statement, false information, rumour, or report, including through electronic means'."
+  },
+  {
+    "id": "mcq-ch19-8",
+    "chapterId": "ch-19",
+    "question": "Circulating false information promoting enmity between groups in a place of worship (s.353(3)) is punishable with—",
+    "options": [
+      "Up to 3 years, or fine",
+      "Up to 5 years and fine",
+      "Up to 7 years",
+      "Life imprisonment"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.353(3): imprisonment up to five years, and fine."
+  },
+  {
+    "id": "mcq-ch19-9",
+    "chapterId": "ch-19",
+    "question": "Under the Exception to Section 353, no offence is committed if the person—",
+    "options": [
+      "Deletes the message later",
+      "Has reasonable grounds to believe it true and acts in good faith without the prohibited intent",
+      "Did not write it himself",
+      "Sent it only to family"
+    ],
+    "correctIndex": 1,
+    "explanation": "Exception to s.353: reasonable grounds for believing it true, and making or circulating it in good faith without such intent."
+  },
+  {
+    "id": "mcq-ch19-10",
+    "chapterId": "ch-19",
+    "question": "Sitting in dharna at Z's door so that Z is believed to incur Divine displeasure is an offence under—",
+    "options": ["Section 351", "Section 352", "Section 354", "Section 299"],
+    "correctIndex": 2,
+    "explanation": "Illustration (a) to s.354 (inducing belief of Divine displeasure)."
+  },
+  {
+    "id": "mcq-ch19-11",
+    "chapterId": "ch-19",
+    "question": "Misconduct in public by a drunken person (s.355) may be punished with—",
+    "options": [
+      "Up to 1 year",
+      "SI up to 24 hours, or fine up to ₹1,000, or both, or community service",
+      "Up to 3 months",
+      "Fine up to ₹10"
+    ],
+    "correctIndex": 1,
+    "explanation": "s.355: simple imprisonment up to twenty-four hours, or fine up to ₹1,000, or both, or community service."
+  },
+  {
+    "id": "mcq-ch19-12",
+    "chapterId": "ch-19",
+    "question": "Under Explanation 2 to Section 356, defamation can be committed against—",
+    "options": [
+      "Only living individuals",
+      "A company or an association or collection of persons as such",
+      "Only public servants",
+      "Only deceased persons"
+    ],
+    "correctIndex": 1,
+    "explanation": "Expl. 2 to s.356(1): an imputation concerning a company or association or collection of persons as such may be defamation."
+  },
+  {
+    "id": "mcq-ch19-13",
+    "chapterId": "ch-19",
+    "question": "A says, 'Z is an honest man; he never stole B's watch', intending people to believe Z stole it. This is—",
+    "options": [
+      "Not defamation, as the words are praise",
+      "Defamation, unless it falls within an Exception",
+      "Criminal intimidation",
+      "Only a civil wrong"
+    ],
+    "correctIndex": 1,
+    "explanation": "Illustration (a) to s.356: an ironical or insinuating imputation can be defamation (Expl. 3)."
+  },
+  {
+    "id": "mcq-ch19-14",
+    "chapterId": "ch-19",
+    "question": "Under Exception 1 to Section 356, imputing a true fact is not defamation if—",
+    "options": [
+      "It is true",
+      "It is true and for the public good",
+      "It is said privately",
+      "It is about a public figure"
+    ],
+    "correctIndex": 1,
+    "explanation": "Exception 1: truth alone is not enough; it must be for the public good, which is a question of fact."
+  },
+  {
+    "id": "mcq-ch19-15",
+    "chapterId": "ch-19",
+    "question": "Publishing a substantially true report of court proceedings is protected by—",
+    "options": ["Exception 1", "Exception 2", "Exception 4", "Exception 8"],
+    "correctIndex": 2,
+    "explanation": "Exception 4 to s.356: substantially true report of the proceedings of a Court, or of their result."
+  },
+  {
+    "id": "mcq-ch19-16",
+    "chapterId": "ch-19",
+    "question": "A critic writes in good faith, 'Z's book is foolish; Z must be a weak man.' This is—",
+    "options": [
+      "Defamation",
+      "Protected by Exception 6 (opinion on a work submitted to public judgment)",
+      "Protected by Exception 1",
+      "Criminal intimidation"
+    ],
+    "correctIndex": 1,
+    "explanation": "Illustration (d) to Exception 6: the opinion respects Z's character only so far as it appears in the book."
+  },
+  {
+    "id": "mcq-ch19-17",
+    "chapterId": "ch-19",
+    "question": "A teacher censuring a pupil in good faith in front of other pupils is protected by—",
+    "options": ["Exception 3", "Exception 5", "Exception 7", "Exception 10"],
+    "correctIndex": 2,
+    "explanation": "Exception 7: good-faith censure by a person having lawful authority over another."
+  },
+  {
+    "id": "mcq-ch19-18",
+    "chapterId": "ch-19",
+    "question": "What punishment is NEWLY added for defamation under s.356(2)?",
+    "options": ["Rigorous imprisonment", "Community service", "Forfeiture", "Death"],
+    "correctIndex": 1,
+    "explanation": "s.356(2): simple imprisonment up to two years, or fine, or both, or with community service."
+  },
+  {
+    "id": "mcq-ch19-19",
+    "chapterId": "ch-19",
+    "question": "Defamation of a Governor in respect of public functions, on a complaint by the Public Prosecutor, is triable by—",
+    "options": ["Any Magistrate", "Magistrate of the first class", "Court of Session", "High Court only"],
+    "correctIndex": 2,
+    "explanation": "BNSS First Schedule: such cases are triable by a Court of Session; other defamation cases by a Magistrate of the first class."
+  },
+  {
+    "id": "mcq-ch19-20",
+    "chapterId": "ch-19",
+    "question": "A paid caregiver who voluntarily abandons a bedridden patient in breach of contract is liable under—",
+    "options": ["Section 355", "Section 356", "Section 357", "Section 316"],
+    "correctIndex": 2,
+    "explanation": "s.357: breach of contract to attend on and supply wants of a helpless person — up to 3 months, or fine up to ₹5,000, or both."
+  },
+  {
+    "id": "mcq-ch19-21",
+    "chapterId": "ch-19",
+    "question": "Which offence in Chapter XIX is cognizable?",
+    "options": ["s.351(2)", "s.352", "s.353(2)", "s.356(2)"],
+    "correctIndex": 2,
+    "explanation": "BNSS First Schedule: only s.353(2) and (3) are cognizable in this chapter."
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "s-358",
+    "chapterId": "ch-20",
+    "number": "358",
+    "title": "Repeal and savings",
+    "bareActText": "(1) The Indian Penal Code is hereby repealed. (2) Notwithstanding the repeal of the Code referred to in sub-section (1), it shall not affect,— (a) the previous operation of the Code so repealed or anything duly done or suffered thereunder; or (b) any right, privilege, obligation or liability acquired, accrued or incurred under the Code so repealed; or (c) any penalty, or punishment incurred in respect of any offences committed against the Code so repealed; or (d) any investigation or remedy in respect of any such penalty, or punishment; or (e) any proceeding, investigation or remedy in respect of any such penalty or punishment as aforesaid, and any such proceeding or remedy may be instituted, continued or enforced, and any such penalty may be imposed as if that Code had not been repealed. (3) Notwithstanding such repeal, anything done or any action taken under the said Code shall be deemed to have been done or taken under the corresponding provisions of this Sanhita. (4) The mention of particular matters in sub-section (2) shall not be held to prejudice or affect the general application of section 6 of the General Clauses Act, 1897 with regard to the effect of the repeal.",
+    "plainMeaning": "Section 358 ends the Indian Penal Code, 1860 and manages the change-over to the BNS. Sub-section (1) repeals the IPC. Sub-section (2) is the 'savings' clause: the repeal does not wipe out the past. Anything done under the IPC before the repeal remains valid; rights, obligations and liabilities that arose under it continue; penalties and punishments already incurred for IPC offences survive; and investigations, proceedings and remedies about them can be started, continued or enforced, and penalties imposed, as if the IPC had not been repealed. In practice, an offence committed before the BNS came into force (1 July 2024) is investigated, tried and punished under the IPC, even if the case begins afterwards. Sub-section (3) says that anything done or action taken under the IPC is deemed to have been done under the corresponding BNS provision. Sub-section (4) makes clear that listing these matters does not limit the general rules on the effect of repeal in s.6 of the General Clauses Act, 1897. This fits Article 20(1) of the Constitution, which bars punishing a person under a law that did not exist, or with a heavier penalty than existed, when the act was done.",
+    "ingredients": [
+      "(1) Repeal of the Indian Penal Code, 1860",
+      "(2) Savings: previous operation and things done under the IPC; rights, privileges, obligations and liabilities; penalties and punishments incurred; investigations, proceedings and remedies — all continue as if the IPC had not been repealed",
+      "(3) Things done or actions taken under the IPC are deemed done under the corresponding BNS provisions",
+      "(4) Section 6 of the General Clauses Act, 1897 continues to apply generally"
+    ],
+    "punishment": "Not applicable — this section repeals the IPC and saves pending matters; it creates no offence.",
+    "classification": null,
+    "ipcReference": {
+      "section": "None (repeal provision)",
+      "changeNote": "This section repeals the Indian Penal Code, 1860 (Act 45 of 1860). The BNS came into force on 1 July 2024."
+    },
+    "illustrations": [
+      "A theft committed in March 2024 is reported in August 2024, after the BNS came into force. The FIR is registered, and the case tried, under s.379 IPC, not s.303 BNS, because s.358(2) saves liability incurred under the repealed Code.",
+      "A person convicted under the IPC in 2023 is serving his sentence. The repeal does not affect the sentence; it continues to be enforced."
+    ],
+    "termRefs": [
+      "repeal-and-savings"
+    ],
+    "verification": {
+      "status": "verified",
+      "source": "BNS 2023, s.358 — bare Act text verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023). The Gazette prints \"General Clauses Act,1897\" without a space; it is shown here as \"Act, 1897\". IPC correspondence and change note checked against the text of the Indian Penal Code, 1860 (government-hosted consolidated copy, Maharashtra Police) read with the amending Acts of 2000 (IT Act, First Schedule), 2005 (Acts 2 and 25 of 2005), 2013 (Act 13 of 2013) and 2018 (Act 22 of 2018). Commencement date (1 July 2024) checked against the Ministry of Home Affairs; Article 20(1) wording checked against the Constitution."
+    },
+    "lastVerified": "2026-09-30"
+  }
+]

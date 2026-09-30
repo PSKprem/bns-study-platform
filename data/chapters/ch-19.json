@@ -1,0 +1,91 @@
+{
+  "id": "ch-19",
+  "number": "XIX",
+  "title": "Of Criminal Intimidation, Insult, Annoyance, Defamation, etc.",
+  "sectionRange": "351-357",
+  "shortDescription": "Offences against a person's peace of mind and reputation: criminal intimidation by threats, insults meant to provoke a breach of peace, false statements and rumours causing public mischief, coercion by fear of Divine displeasure, drunken misconduct in public, defamation with its ten exceptions, and abandoning a helpless person one is contracted to care for.",
+  "subHeadings": [
+    { "id": "intimidation-insult", "label": "Intimidation, insult and annoyance", "sectionIds": ["s-351", "s-352", "s-353", "s-354", "s-355"] },
+    { "id": "defamation", "label": "Of defamation", "sectionIds": ["s-356"] },
+    { "id": "helpless-person", "label": "Of breach of contract to attend on and supply wants of helpless person", "sectionIds": ["s-357"] }
+  ],
+  "summary": "Chapter XIX is the last offence chapter of the BNS. It protects individuals against threats, insults and damage to reputation, and the public against rumours that endanger order. It corresponds to Chapter XXII of the IPC (criminal intimidation, insult and annoyance, ss.503-510), Chapter XXI (defamation, ss.499-502) and the surviving s.491 of Chapter XX (breach of contract to attend on a helpless person). About fourteen IPC sections become seven. The Gazette has two sub-headings, 'Of defamation' before s.356 and 'Of breach of contract to attend on and supply wants of helpless person' before s.357; the platform groups ss.351-355 as intimidation, insult and annoyance.\n\nSection 351 defines criminal intimidation — threatening, by any means, injury to a person, his reputation or property, or to someone he cares about, to alarm him or to make him act or refrain against his legal rights — and punishes it with two years, rising to seven years for threats of death, grievous hurt, arson, a grave offence or imputing unchastity to a woman, with an extra two years if the threat is anonymous. Section 352 punishes intentional insults meant to provoke a breach of the peace or another offence. Section 353 punishes making or circulating statements, false information, rumours or reports — expressly including through electronic means — that are meant or likely to cause mutiny in the armed forces, public fear leading to offences against the State or public tranquillity, incitement of one community against another, or enmity between groups; it is aimed squarely at fake news and rumours, and has an exception for good-faith statements believed on reasonable grounds to be true. Section 354 punishes coercion by making a person fear Divine displeasure, and s.355 punishes drunken misconduct in public, now with community service as an option.\n\nSection 356 is the complete law of criminal defamation: an imputation, by words, signs or visible representations, intended or known likely to harm a person's reputation, as tested by Explanation 4 (lowering moral or intellectual character, standing in caste or calling, or credit). Deceased persons, companies and associations can be defamed, and irony or alternative phrasing is no escape. Ten Exceptions protect truth for the public good, good-faith opinions on public servants, public questions, court decisions and published works, fair reports of court proceedings, good-faith censure by those in authority, accusations to proper authorities, statements protecting one's own or another's interests, and good-faith cautions. Defamation carries simple imprisonment up to two years, or fine, or community service (new); printing or selling defamatory matter is also punished. Section 357 punishes a person under a lawful contract to care for someone helpless through youth, unsoundness of mind, disease or bodily weakness who voluntarily fails to do so.\n\nAll the offences in the chapter are non-cognizable except s.353(2) and (3), which are cognizable, and all are bailable except s.353. Most are compoundable by the person affected: ss.351(2)-(3), 352, 354, 356 and 357.",
+  "keyPoints": [
+    {
+      "point": "Section 351 — Criminal intimidation",
+      "subPoints": [
+        "Threat 'by any means' of injury to person, reputation or property (or of a person he is interested in)",
+        "Intent to alarm, or to compel an act or omission against legal rights",
+        "Threat to a deceased relative's reputation is covered",
+        "2 years; threat of death, grievous hurt, arson, grave offence, unchastity: 7 years",
+        "Anonymous or concealed identity: additional 2 years",
+        "Non-cognizable, bailable; (2) and (3) compoundable by the person intimidated"
+      ]
+    },
+    {
+      "point": "Sections 352-355 — Insult, rumours, annoyance",
+      "subPoints": [
+        "s.352 — intentional insult to provoke breach of peace or an offence: 2 years",
+        "s.353 — statements, false information, rumours, including electronic, causing public mischief: 3 years",
+        "s.353(2) — false information promoting enmity between groups: 3 years; place of worship (3): 5 years + fine",
+        "s.353 Exception — good faith with reasonable grounds to believe it true",
+        "s.354 — coercion by fear of Divine displeasure: 1 year",
+        "s.355 — drunken misconduct in public: 24 hours, ₹1,000 fine, or community service (NEW)"
+      ]
+    },
+    {
+      "point": "Section 356 — Defamation",
+      "subPoints": [
+        "Imputation by words, signs or visible representations, intending or knowing it will harm reputation",
+        "Deceased persons (Expl. 1), companies and associations (Expl. 2), irony (Expl. 3)",
+        "Expl. 4 — harm = lowering moral or intellectual character, caste or calling, credit",
+        "Ten Exceptions: truth for public good; opinions on public servants, public questions, cases, works; court reports; censure; accusations; protection of interests; caution",
+        "SI 2 years, or fine, or community service (NEW); printing or selling defamatory matter: 2 years",
+        "Compoundable by the person defamed"
+      ]
+    },
+    {
+      "point": "Section 357 — Helpless person",
+      "subPoints": [
+        "Lawful contract to attend on or supply wants of a helpless person (youth, unsound mind, disease, weakness)",
+        "Voluntary omission to do so",
+        "3 months, or fine up to ₹5,000, or both"
+      ]
+    }
+  ],
+  "fastRevision": [
+    "Chapter XIX corresponds to IPC Chapters XXI (defamation) and XXII (intimidation, insult), plus s.491 IPC.",
+    "s.351(1) — criminal intimidation: threat by any means of injury to person, reputation or property.",
+    "s.351(1) — intent to cause alarm, or to compel an act or omission against legal rights.",
+    "s.351 Expl. — threat to a deceased relative's reputation is covered.",
+    "s.351(2) — 2 years, or fine, or both.",
+    "s.351(3) — threat of death, grievous hurt, arson, grave offence or imputing unchastity: 7 years.",
+    "s.351(4) — anonymous communication or concealed identity: additional 2 years.",
+    "s.352 — insult intended to provoke breach of peace: 2 years; compoundable.",
+    "s.353 — statements, false information, rumours, incl. electronic means, conducing to public mischief.",
+    "s.353(1) — mutiny, public alarm, or inciting a community: 3 years; non-cognizable, non-bailable.",
+    "s.353(2) — false information promoting enmity between groups: 3 years; cognizable, non-bailable.",
+    "s.353(3) — in a place of worship or religious assembly: 5 years + fine.",
+    "s.353 Exception — reasonable grounds to believe true + good faith + no such intent.",
+    "s.354 — inducing belief in Divine displeasure to coerce: 1 year (dharna Illustration).",
+    "s.355 — drunken misconduct in public: SI 24 hours, or ₹1,000, or both, or community service.",
+    "s.356(1) — defamation: imputation intending or knowing it will harm reputation.",
+    "s.356 Expl. 1 — deceased person; Expl. 2 — company or association; Expl. 3 — alternative or ironical.",
+    "s.356 Expl. 4 — harm = lowering moral or intellectual character, caste or calling, or credit.",
+    "Exception 1 — truth for the public good (a question of fact).",
+    "Exceptions 2-3 — good-faith opinion on public servants' conduct and on public questions.",
+    "Exception 4 — substantially true report of court proceedings.",
+    "Exceptions 5-6 — good-faith opinion on decided cases and on works submitted to the public.",
+    "Exception 7 — good-faith censure by a person in lawful authority.",
+    "Exception 8 — good-faith accusation to a person with lawful authority.",
+    "Exceptions 9-10 — good-faith imputation to protect interests; good-faith caution.",
+    "s.356(2) — SI 2 years, or fine, or both, or community service (NEW).",
+    "s.356(3)-(4) — printing or selling defamatory matter: SI 2 years, or fine, or both.",
+    "Defamation of President, Governor, Minister on PP's complaint: Court of Session; compoundable only with Court's permission.",
+    "s.357 — breach of contract to care for a helpless person: 3 months or ₹5,000.",
+    "Only s.353(2)-(3) are cognizable; only s.353 is non-bailable.",
+    "Compoundable: ss.351(2)-(3), 352, 354, 356(2)-(4), 357."
+  ],
+  "mindMap": "# Ch. XIX — Intimidation, Insult, Defamation\n## Intimidation & insult (ss.351-355)\n- Criminal intimidation (s.351)\n  - 2 yrs; death / GH threat 7 yrs\n  - Anonymous: +2 yrs\n- Insult to provoke breach of peace (s.352)\n- Public mischief statements (s.353)\n  - False information, electronic — NEW wording\n  - 3 yrs; place of worship 5 yrs\n- Divine displeasure (s.354)\n- Drunken misconduct (s.355)\n  - Community service — NEW\n## Defamation (s.356)\n- Imputation harming reputation\n- Expl. 1-4\n- Ten Exceptions\n  - Truth + public good\n  - Good-faith opinion\n  - Court reports\n  - Censure, accusation, caution\n- SI 2 yrs / community service\n## Helpless person (s.357)\n- Contract to care\n- 3 months / ₹5,000",
+  "lastVerified": "2026-09-30"
+}

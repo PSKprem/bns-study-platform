@@ -30,9 +30,9 @@
     ],
     "verification": {
       "status": "verified",
-      "source": "BNS 2023, s.1 — bare Act text verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023)."
+      "source": "BNS 2023, s.1 — bare Act text verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023). IPC correspondence and change note checked against the text of the Indian Penal Code, 1860 (government-hosted consolidated copy, Maharashtra Police) read with the amending Acts of 2000 (IT Act, First Schedule), 2005 (Acts 2 and 25 of 2005), 2013 (Act 13 of 2013) and 2018 (Act 22 of 2018)."
     },
-    "lastVerified": "2026-09-28"
+    "lastVerified": "2026-09-30"
   },
   {
     "id": "s-2",
@@ -50,7 +50,7 @@
     "punishment": "Not applicable — this is a definitions clause, not an offence.",
     "classification": null,
     "ipcReference": {
-      "section": "IPC Chapter I (ss.6-52A)",
+      "section": "IPC Chapter II (ss.6-52A)",
       "changeNote": "Corresponds to the general definitions of the IPC, consolidated and updated (e.g. adding 'gender' inclusively, 'child', and modern cross-references to the IT Act and BNSS)."
     },
     "illustrations": [
@@ -102,9 +102,9 @@
     ],
     "verification": {
       "status": "verified",
-      "source": "BNS 2023, s.2 — bare Act text verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023)."
+      "source": "BNS 2023, s.2 — bare Act text verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023). IPC correspondence and change note checked against the text of the Indian Penal Code, 1860 (government-hosted consolidated copy, Maharashtra Police) read with the amending Acts of 2000 (IT Act, First Schedule), 2005 (Acts 2 and 25 of 2005), 2013 (Act 13 of 2013) and 2018 (Act 22 of 2018)."
     },
-    "lastVerified": "2026-09-28"
+    "lastVerified": "2026-09-30"
   },
   {
     "id": "s-3",
@@ -143,8 +143,8 @@
     ],
     "verification": {
       "status": "verified",
-      "source": "BNS 2023, s.3 — bare Act text verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023)."
+      "source": "BNS 2023, s.3 — bare Act text verified verbatim against the official Gazette of India (Extraordinary, Part II Sec. 1, Act No. 45 of 2023, 25 Dec 2023). IPC correspondence and change note checked against the text of the Indian Penal Code, 1860 (government-hosted consolidated copy, Maharashtra Police) read with the amending Acts of 2000 (IT Act, First Schedule), 2005 (Acts 2 and 25 of 2005), 2013 (Act 13 of 2013) and 2018 (Act 22 of 2018)."
     },
-    "lastVerified": "2026-09-28"
+    "lastVerified": "2026-09-30"
   }
 ]
